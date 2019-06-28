@@ -313,7 +313,7 @@ bot.settings.settings:
   "Change proxy": "Configurar Proxy"
   "HTTP Proxy": ""
   "Save proxy": "Guardar"
-  "Socks5": "***REVISAR***"
+  "Socks5": "Socks5"
   "Socks5 address": "Dirección Socks5"
   "Socks5 username": "Usuario Socks5"
   "Socks5 password": "Contraseña Socks5"
