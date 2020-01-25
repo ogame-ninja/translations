@@ -439,6 +439,9 @@ download:
   "Renew license": "Renew license"
   "Download": "Download"
   "No license to display": "No license to display"
+socks5:
+  "title": "socks5 server download"
+  "meta-description": "Simple socks5 server with authentication"
 landing:
   "title": "Ninja OGame Bot"
   "meta-description": "Join the force and start dominating your enemies by automating all of your daily needs with OGame Ninja."
