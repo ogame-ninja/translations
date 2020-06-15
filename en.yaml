@@ -1553,6 +1553,6 @@ two-factor:
   "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
   "You can remove 2fa from your account with": ""
   "You don't need to be a customer to use the following tools.": ""
-  "meta-description": "" # global (undefined)
+  "meta-description": "Two-Factor Authentication tools and instructions" # global (undefined)
   "or the output of": ""
-  "title": "" # global (undefined)
+  "title": "Two-Factor Authentication" # global (undefined)
