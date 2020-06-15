@@ -56,6 +56,7 @@ admin.license:
   "Expired": "" # global (undefined)
   "License": "" # global (defined)
   "Owner": "" # global (undefined)
+  "UUID": "" # global (undefined)
   "unlimited": "" # global (undefined)
 admin.login-history:
   "Next": "" # global (undefined)
@@ -83,6 +84,8 @@ admin.masterAdmin.new-invoice:
 admin.masterAdmin.payments:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
+admin.masterAdmin.slaves-server:
+  "Are you sure?": "" # global (defined)
 admin.masterAdmin.tags:
   "New tag": ""
   "Next": "" # global (undefined)
@@ -570,7 +573,7 @@ bot.settings.defender:
   "Send message to attackers": ""
   "activate for moon ?": ""
   "minutes": "" # global (undefined)
-  "next check in": ""
+  "next check in": "" # global (undefined)
   "next in": "" # global (undefined)
   "sec": ""
   "to": "" # global (undefined)
@@ -623,11 +626,13 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "" # global (undefined)
+  "Never wait (100% getting ban)": ""
   "No fleets": "" # global (undefined)
   "Origin": "" # global (undefined)
   "Park": "" # global (undefined)
   "Park In That Ally": "" # global (undefined)
   "Pathfinder": "" # global (undefined)
+  "Pathfinders to stay": ""
   "Reaper": "" # global (undefined)
   "Recycle debris": ""
   "Recycler": "" # global (undefined)
@@ -637,9 +642,13 @@ bot.settings.expeditions:
   "Small Cargo": "" # global (undefined)
   "Spy": "" # global (undefined)
   "Statistics": ""
+  "Strategy": ""
   "Systems range": ""
   "Transport": "" # global (undefined)
+  "Wait for all expeditions slots": ""
+  "Wait for majority of expeditions slots": ""
   "expeditions": ""
+  "next check in": "" # global (undefined)
   "unlimited": "" # global (undefined)
 bot.settings.farmer:
   "Abort all sessions": ""
@@ -717,13 +726,13 @@ bot.settings.home:
   "Repatriate now": ""
   "Reschedule evacuation": ""
   "Research speed": ""
-  "Scanner": "" # global (defined)
   "Ships": "" # global (undefined)
   "Times": ""
   "Universe": "" # global (undefined)
   "Universe speed": ""
   "Universe speed fleet": ""
   "What is my IP?": ""
+  "scanner": "" # global (undefined)
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
   "Color legend": ""
@@ -758,7 +767,7 @@ bot.settings.index:
   "Messages": "" # global (undefined)
   "Overview": ""
   "Phalanx": "" # global (undefined)
-  "Scanner": "" # global (defined)
+  "Scanner": ""
   "Settings": "" # global (defined)
   "Sleep mode": ""
   "Start": "" # global (defined)
@@ -782,9 +791,9 @@ bot.settings.logs:
   "Phalanx": "" # global (undefined)
   "Prev": "" # global (undefined)
   "Repatriate": "" # global (undefined)
-  "Scanner": "" # global (defined)
   "Search": "" # global (undefined)
   "VM": ""
+  "scanner": "" # global (undefined)
 bot.settings.messages:
   "All": "" # global (undefined)
   "Coordinate": "" # global (undefined)
@@ -852,13 +861,13 @@ bot.settings.scanner:
   "Save": "" # global (undefined)
   "Scan frequency": "" # global (undefined)
   "Scan using": "" # global (undefined)
-  "Scanner active": ""
-  "Scanner configs": ""
   "Scans the whole universe every set amount of hours.": ""
   "hours": ""
   "milliseconds": ""
   "minimum": ""
   "next in": "" # global (undefined)
+  "scanner active": ""
+  "scanner configs": ""
 bot.settings.settings:
   "--- Default ---": ""
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": ""
@@ -1078,7 +1087,7 @@ download:
   "Renew license": "" # global (undefined)
   "SHA256 Checksum": "" # global (undefined)
   "Size": "" # global (undefined)
-  "UUID": ""
+  "UUID": "" # global (undefined)
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
 features:
@@ -1148,6 +1157,7 @@ index:
   "Features": ""
   "Home": "" # global (defined)
   "Login": ""
+  "Please": ""
   "Pricing": "" # global (defined)
   "Proposals": ""
   "Register": ""
@@ -1155,6 +1165,7 @@ index:
   "Sign out": ""
   "Support": ""
   "Ticket support": ""
+  "Translations": ""
   "Your Ninja software needs to be updated.": ""
   "download the latest version here": ""
   "update your instance here": ""
@@ -1203,6 +1214,7 @@ license-view:
   "Expired": "" # global (undefined)
   "License": "" # global (defined)
   "Owner": "" # global (undefined)
+  "UUID": "" # global (undefined)
 license:
   "Are you sure?": "" # global (defined)
   "Click \"Renew license\" button": ""
@@ -1239,6 +1251,7 @@ new-bot:
   "Gameforge password": "" # global (undefined)
   "New bot": "" # global (undefined)
   "New lobby": "" # global (undefined)
+  "OTP secret": "" # global (undefined)
   "Player ID": ""
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
@@ -1264,6 +1277,7 @@ new-lobby-account:
   "Gameforge password": "" # global (undefined)
   "New bot": "" # global (undefined)
   "New lobby": "" # global (undefined)
+  "OTP secret": "" # global (undefined)
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
@@ -1431,3 +1445,18 @@ ticketSupport.index:
 ticketSupport.new-invoice:
   "Bots": "" # global (defined)
   "Valid until": "" # global (undefined)
+two-factor:
+  "Backup the file in": ""
+  "Download ogame ninja binary for your OS": ""
+  "Generate a one-time password with": ""
+  "If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": ""
+  "In a terminal, execute": ""
+  "List all your 2fa with": ""
+  "Note": "" # global (undefined)
+  "Two-Factor Authentication": ""
+  "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
+  "You can remove 2fa from your account with": ""
+  "You don't need to be a customer to use the following tools.": ""
+  "meta-description": "" # global (undefined)
+  "or the output of": ""
+  "title": "" # global (undefined)

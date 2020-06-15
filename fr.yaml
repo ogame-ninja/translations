@@ -153,6 +153,7 @@ admin.license:
   "Expired": "Expiré" # global (undefined)
   "License": "License" # global (defined)
   "Owner": "Propriétaire" # global (undefined)
+  "UUID": "" # global (undefined)
   "unlimited": "illimitée" # global (undefined)
 admin.login-history:
   "Next": "" # global (undefined)
@@ -180,6 +181,8 @@ admin.masterAdmin.new-invoice:
 admin.masterAdmin.payments:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
+admin.masterAdmin.slaves-server:
+  "Are you sure?": "" # global (defined)
 admin.masterAdmin.tags:
   "New tag": ""
   "Next": "" # global (undefined)
@@ -667,7 +670,7 @@ bot.settings.defender:
   "Send message to attackers": "Envoyer un message aux attaquants"
   "activate for moon ?": "activer pour la lune?"
   "minutes": "minutes" # global (undefined)
-  "next check in": "prochain dans"
+  "next check in": "prochain dans" # global (undefined)
   "next in": "prochain dans" # global (undefined)
   "sec": ""
   "to": "à" # global (undefined)
@@ -720,11 +723,13 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (defined)
   "Mission": "" # global (defined)
   "Name": "" # global (undefined)
+  "Never wait (100% getting ban)": ""
   "No fleets": "" # global (undefined)
   "Origin": "" # global (defined)
   "Park": "" # global (defined)
   "Park In That Ally": "" # global (defined)
   "Pathfinder": "" # global (undefined)
+  "Pathfinders to stay": ""
   "Reaper": "" # global (undefined)
   "Recycle debris": ""
   "Recycler": "" # global (defined)
@@ -734,9 +739,13 @@ bot.settings.expeditions:
   "Small Cargo": "" # global (defined)
   "Spy": "" # global (defined)
   "Statistics": ""
+  "Strategy": ""
   "Systems range": ""
   "Transport": "" # global (defined)
+  "Wait for all expeditions slots": ""
+  "Wait for majority of expeditions slots": ""
   "expeditions": ""
+  "next check in": "" # global (undefined)
   "unlimited": "" # global (undefined)
 bot.settings.farmer:
   "Abort all sessions": ""
@@ -814,13 +823,13 @@ bot.settings.home:
   "Repatriate now": "Rapatrier maintenant"
   "Reschedule evacuation": "Reprogrammer l'évacuation"
   "Research speed": ""
-  "Scanner": "" # global (defined)
   "Ships": "" # global (undefined)
   "Times": ""
   "Universe": "Univers" # global (undefined)
   "Universe speed": "Vitesse de l'univers"
   "Universe speed fleet": "Vitesse de flotte de l'univers"
   "What is my IP?": "Quel est mon ip?"
+  "scanner": "" # global (undefined)
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
   "Color legend": ""
@@ -855,7 +864,7 @@ bot.settings.index:
   "Messages": "" # global (undefined)
   "Overview": ""
   "Phalanx": "" # global (undefined)
-  "Scanner": "" # global (defined)
+  "Scanner": ""
   "Settings": "" # global (defined)
   "Sleep mode": ""
   "Start": "" # global (defined)
@@ -879,9 +888,9 @@ bot.settings.logs:
   "Phalanx": "" # global (undefined)
   "Prev": "Précédent" # global (undefined)
   "Repatriate": "Repatriate" # global (undefined)
-  "Scanner": "Scanner" # global (defined)
   "Search": "Chercher" # global (undefined)
   "VM": ""
+  "scanner": "" # global (undefined)
 bot.settings.messages:
   "All": "" # global (undefined)
   "Coordinate": "" # global (undefined)
@@ -949,13 +958,13 @@ bot.settings.scanner:
   "Save": "Sauvegarder" # global (undefined)
   "Scan frequency": "Fréquence de scan" # global (undefined)
   "Scan using": "" # global (undefined)
-  "Scanner active": "Scanner activé"
-  "Scanner configs": "Scanner configs"
   "Scans the whole universe every set amount of hours.": "Scanne l'univers entier toutes les X heures."
   "hours": "heures"
   "milliseconds": "millisecondes"
   "minimum": "minimum"
   "next in": "prochain dans" # global (undefined)
+  "scanner active": ""
+  "scanner configs": ""
 bot.settings.settings:
   "--- Default ---": ""
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": ""
@@ -1175,7 +1184,7 @@ download:
   "Renew license": "Renouveler la licence" # global (undefined)
   "SHA256 Checksum": "Somme de contrôle SHA256" # global (undefined)
   "Size": "Size" # global (undefined)
-  "UUID": ""
+  "UUID": "" # global (undefined)
   "meta-description": "Téléchargez les versions de Ninja pour Windows, Linux, Mac OSX." # global (undefined)
   "title": "Téléchargements" # global (undefined)
 features:
@@ -1245,6 +1254,7 @@ index:
   "Features": ""
   "Home": "" # global (defined)
   "Login": ""
+  "Please": ""
   "Pricing": "" # global (defined)
   "Proposals": ""
   "Register": ""
@@ -1252,6 +1262,7 @@ index:
   "Sign out": ""
   "Support": ""
   "Ticket support": ""
+  "Translations": ""
   "Your Ninja software needs to be updated.": ""
   "download the latest version here": ""
   "update your instance here": ""
@@ -1300,6 +1311,7 @@ license-view:
   "Expired": "Expiré" # global (undefined)
   "License": "License" # global (defined)
   "Owner": "Propriétaire" # global (undefined)
+  "UUID": "" # global (undefined)
 license:
   "Are you sure?": "" # global (defined)
   "Click \"Renew license\" button": ""
@@ -1336,6 +1348,7 @@ new-bot:
   "Gameforge password": "" # global (undefined)
   "New bot": "Nouveau bot" # global (undefined)
   "New lobby": "" # global (undefined)
+  "OTP secret": "" # global (undefined)
   "Player ID": ""
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
@@ -1361,6 +1374,7 @@ new-lobby-account:
   "Gameforge password": "" # global (undefined)
   "New bot": "" # global (undefined)
   "New lobby": "" # global (undefined)
+  "OTP secret": "" # global (undefined)
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
@@ -1528,3 +1542,18 @@ ticketSupport.index:
 ticketSupport.new-invoice:
   "Bots": "" # global (defined)
   "Valid until": "" # global (undefined)
+two-factor:
+  "Backup the file in": ""
+  "Download ogame ninja binary for your OS": ""
+  "Generate a one-time password with": ""
+  "If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": ""
+  "In a terminal, execute": ""
+  "List all your 2fa with": ""
+  "Note": "" # global (undefined)
+  "Two-Factor Authentication": ""
+  "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
+  "You can remove 2fa from your account with": ""
+  "You don't need to be a customer to use the following tools.": ""
+  "meta-description": "" # global (undefined)
+  "or the output of": ""
+  "title": "" # global (undefined)
