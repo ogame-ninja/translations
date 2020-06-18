@@ -1,8 +1,11 @@
 global:
   "Account": "Konto"
   "Actions": "Aktionen"
+  "Active": "Aktiv"
   "Activities": "Aktivitäten"
   "Admin": "Admin"
+  "All": "Alle"
+  "Alliance": "Allianz"
   "Alliance Depot": "Allianzdepot"
   "Anti-Ballistic Missiles": "Abfangrakete"
   "Are you sure?": "Bist du sicher?"
@@ -17,16 +20,20 @@ global:
   "Bots": "Bots"
   "Brain": "Bauplaner"
   "Browser": "Browser"
+  "Cancel Fleet": "Flotte abbrechen"
   "Cargo capacity": "Ladekapazität"
   "Colonize": "Kolonisieren"
   "Colony Ship": "Kolonieschiff"
+  "Coords": "Koordinaten"
   "Combustion Drive": "Verbrennungstriebwerk"
   "Computer Technology": "Computertechnik"
   "Crawl": "Auslesen"
   "Cruiser": "Kreuzer"
+  "Created at": "Erstellt am"
   "Crystal": "Kristall"
   "Crystal Mine": "Kristallmine"
   "Crystal Storage": "Kristallspeicher"
+  "Current fleets": "Aktuelle Flotten"
   "Deathstar": "Todesstern"
   "Defender": "Verteidiger"
   "Destination": "Ziel"
@@ -36,19 +43,25 @@ global:
   "Deuterium Synthesizer": "Deuterium-Synthetisierer"
   "Deuterium Tank": "Deuteriumtank"
   "Download": "Herunterladen"
+  "Duration": "Dauer"
+  "Email": "Email"
   "Empire": "Imperium"
   "Energy Technology": "Energietechnik"
   "Espionage Probe": "Spionagesonde"
   "Espionage Technology": "Spionagetechnik"
+  "Espionage report": "Spionagebericht"
   "Expedition": "Expedition"
+  "Exp": "Exp"
   "FAQ": "FAQ"
   "Farmer": "Farmer"
   "Features": "Funktionen"
+  "File name": "Datei Name"
   "Flights": "Flüge"
   "Fuel consumption": "Treibstoffverbrauch"
   "Fusion Reactor": "Fusionskraftwerk"
   "Galaxy": "Galaxie"
   "Gauss Cannon": "Gausskanonen"
+  "Get spy reports": "Spionageberichte abrufen"
   "Graviton Technology": "Gravitontechnik"
   "Grouped Attack": "Verbandsangriff"
   "Harvest": "Abbauen"
@@ -64,6 +77,8 @@ global:
   "Interplanetary Missiles": "Interplanetarrakete"
   "Ion Cannon": "Ionengeschütz"
   "Ion Technology": "Ionentechnik"
+  "Inactive": "Inaktiv"
+  "InGame date": "Uhrzeit im Spiel"
   "Jump Gate": "Sprungtor"
   "Large Cargo": "Großer Transporter"
   "Large Shield Dome": "Große Schildkuppel"
@@ -78,36 +93,60 @@ global:
   "Metal": "Metall"
   "Metal Mine": "Metallmine"
   "Metal Storage": "Metallspeicher"
+  "Members": "Mitglieder"
+  "Messages": "Nachrichten"
   "Missile Attack": "Raketenangriff"
   "Missile Silo": "Raketensilo"
   "Mission": "Mission"
+  "minutes": "Minuten"
+  "Moon": "Mond"
+  "Name": "Name"
   "Nanite Factory": "Nanitenfabrik"
+  "Next": "Weiter"
+  "next check in": "Nächste Prüfung in" # global (undefined)
+  "next in": "Nächstes Mal in" # global (undefined)
   "No": "Nein"
+  "No files to display": "Keine Datei zum anzeigen"
+  "No fleets": "Keine Flotten"
+  "No messages to show": "Keine Nachrichten zum anzeigen"
+  "None": "Nichts"
   "Origin": "Ursprung"
   "Overview": "Übersicht"
   "Park": "Stationieren"
   "Park In That Ally": "Bei Allianz halten"
   "Password": "Passwort"
+  "Pathfinder": "Pathfinder"
+  "Planet": "Planet"
   "Plasma Technology": "Plasmatechnik"
   "Plasma Turret": "Plasmawerfer"
+  "Planet name": "Planetenname"
+  "Player name": "Spielername"
   "Points": "Punkte"
+  "Prev": "Zurück"
   "Pricing": "Preismodelle"
+  "Queue": "Warteschlange"
   "Rank": "Position"
   "Rapidfire against": "Rapidfire gegen"
   "Rapidfire from": "Rapidfire von"
+  "Reaper": "Reaper"
+  "Resources": "Rohstoffe"
   "Recycle debris field": "Trümmerfeld abbauen"
   "Recycler": "Recycler"
   "Register": "Registrieren"
+  "Reorder planets": "Planeten neu anordnen"
   "Research Lab": "Forschungslabor"
   "Research Network": "Forschungsnetzwerk"
   "Robotics Factory": "Roboterfarbik"
   "Rocket Launcher": "Raketenwerfer"
+  "Remove all": "Alle Entfernen"
   "Scanner": "Scanner"
   "Scripts": "Skripte"
   "Sensor Phalanx": "Sensor Phalanx"
   "Servers": "Server"
   "Sessions": "Sessions"
   "Settings": "Einstellungen"
+  "Select origin": "Ursprung wählen"
+  "Ships": "Schiffe"
   "Shield power": "Schildstärke"
   "Shielding Technology": "Schildtechnik"
   "Shipyard": "Schiffswerft"
@@ -123,19 +162,25 @@ global:
   "Start": "Starte"
   "Stop": "Anhalten"
   "Structural integrity": "Strukturpunkte"
+  "to": "nach"
   "Table": "Tabelle"
   "Terraformer": "Terraformer"
   "Transport": "Transport"
   "Update": "Aktualisierung"
   "Username": "Benutzername"
   "Users": "Benutzer"
+  "unlimited": "Unbegrenzt"
   "Weapon power": "Angriffswert"
   "Weapons Technology": "Waffentechnik"
   "Yes": "Ja"
   "Your Ninja software needs to be updated.": "Deine Ninja-Software kann aktualisiert werden."
   "download the latest version here": "Hier kannst du die neuste Version herunterladen"
   "max": "max"
+  "Updated": "Aktualisiert am"
   "update your instance here": "Hier kannst du deine Instanz aktualisieren"
+  "Vacation": "Urlaub"
+  "Valid until": "Gültig bis"
+  "--- Currently active planet/moon ---": "--- Zurzeit aktiver Planet/Mond ---"
 admin.index:
   "Bots": "" # global (defined)
   "License": "" # global (defined)
@@ -146,7 +191,7 @@ admin.index:
   "Users": "" # global (defined)
 admin.license:
   "Are you sure?": "" # global (defined)
-  "Bots allowed": "" # global (undefined)
+  "Bots allowed": "Bots erlaubt" # global (undefined)
   "Created": "Erstellt am" # global (undefined)
   "Email": "Email" # global (undefined)
   "Expired": "Abgelaufen" # global (undefined)
@@ -187,14 +232,14 @@ admin.masterAdmin.tags:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
 admin.masterAdmin.user-edit:
-  "Create user": "" # global (undefined)
-  "Email": "" # global (undefined)
-  "Is admin": "" # global (undefined)
+  "Create user": "Benutzer erstellen" # global (undefined)
+  "Email": "Email" # global (undefined)
+  "Is admin": "Ist Admin" # global (undefined)
   "No": "" # global (defined)
   "Password": "" # global (defined)
-  "Retype password": "" # global (undefined)
+  "Retype password": "Passwort wiederholen" # global (undefined)
   "Slack ID": ""
-  "Update user": "" # global (undefined)
+  "Update user": "Benutzter aktualisieren" # global (undefined)
   "Username": "" # global (defined)
   "Yes": "" # global (defined)
 admin.masterAdmin.user:
@@ -206,7 +251,7 @@ admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": "Zugriff auf den selbst gehosteten Server durch"
   "Host eg: smtp.gmail.com": "Host z.B.: smtp.gmail.com"
-  "Logs retention (days)": ""
+  "Logs retention (days)": "Logs behalten (Tage)"
   "Password": "" # global (defined)
   "Port eg: 587": "Port z.B.: 587"
   "Reverse tunnel": "Reverse-Tunnel"
@@ -227,9 +272,9 @@ admin.themes:
   "Themes": "" # global (undefined)
 admin.update:
   "Update": "Update" # global (defined)
-  "Update to latest": ""
+  "Update to latest": "Update auf neuste Version"
 admin.updating:
-  "You will be redirected soon": ""
+  "You will be redirected soon": "Sie werden gleich weitergeleitet"
 admin.user-edit:
   "Create user": "Benutzer erstellen" # global (undefined)
   "Email": "Email" # global (undefined)
@@ -243,7 +288,7 @@ admin.user-edit:
 admin.users:
   "Admin": "Admin" # global (defined)
   "Created at": "Erstellt am" # global (undefined)
-  "Delete user": ""
+  "Delete user": "Benutzer löschen"
   "New user": "Neuer Benutzer"
   "Username": "" # global (defined)
   "Users": "Benutzer" # global (defined)
@@ -259,12 +304,12 @@ antigame:
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
 bot.browser:
-  "Empire page": ""
-  "Fullscreen": ""
-  "Toggle manual mode": ""
+  "Empire page": "Imperiums Seite"
+  "Fullscreen": "Vollbild"
+  "Toggle manual mode": "zum manuellen Modus wechseln"
 bot.conqueror:
   "Get spy reports": "" # global (undefined)
-  "No espionage report to show": ""
+  "No espionage report to show": "Keine Spionageberichte zum anzeigen"
 bot.empire:
   "Actions": "" # global (defined)
   "Alliance Depot": "" # global (defined)
@@ -279,7 +324,7 @@ bot.empire:
   "Colony Ship": "" # global (defined)
   "Combustion Drive": "" # global (defined)
   "Computer Technology": "" # global (defined)
-  "Crawl": ""
+  "Crawl": "Daten aktualisieren"
   "Crawler": "" # global (undefined)
   "Crawler setting": ""
   "Cruiser": "" # global (defined)
@@ -351,18 +396,18 @@ bot.empire:
   "Weapons Technology": "" # global (defined)
 bot.flights:
   "Actions": "" # global (defined)
-  "Activate all": ""
+  "Activate all": "Alle aktivieren"
   "Active": "Aktiv" # global (undefined)
   "All": "Alle" # global (undefined)
   "Are you sure?": "" # global (defined)
-  "Arrival": ""
-  "Arrive in": "" # global (defined)
+  "Arrival": "Ankunft"
+  "Arrive in": "Ankunft in" # global (defined)
   "Attack": "" # global (defined)
   "Battlecruiser": "" # global (defined)
   "Battleship": "" # global (defined)
   "Bomber": "" # global (defined)
   "Cancel Fleet": "Flotte abbrechen" # global (undefined)
-  "Cargo": ""
+  "Cargo": "Laderaum"
   "Colonize": "" # global (defined)
   "Colony Ship": "" # global (defined)
   "Crawler": "" # global (undefined)
@@ -370,8 +415,8 @@ bot.flights:
   "Cruiser": "" # global (defined)
   "Crystal": "" # global (defined)
   "Current fleets": "Aktuelle Flotten" # global (undefined)
-  "DS": ""
-  "Deactivate all": ""
+  "DS": "Todesstern"
+  "Deactivate all": "Alle Deaktivieren"
   "Deathstar": "" # global (defined)
   "Debris": "Trümmerfeld" # global (undefined)
   "Delete cron job": "Cronjob löschen"
@@ -386,7 +431,7 @@ bot.flights:
   "Espionage Probe": "" # global (defined)
   "Exp": "Exp" # global (undefined)
   "Expedition": "" # global (defined)
-  "Flight": "Vol"
+  "Flight": "Flug"
   "From": "von"
   "Fuel": "Verbrauch"
   "Grouped Attack": "" # global (defined)
@@ -405,19 +450,19 @@ bot.flights:
   "No fleets": "Keine Flotten" # global (undefined)
   "No saved flights": "Keine gespeicherten Flüge"
   "None": "Keine" # global (undefined)
-  "Note": "Note" # global (undefined)
+  "Note": "Notiz" # global (undefined)
   "Origin": "" # global (defined)
-  "PF": ""
+  "PF": "PF"
   "Park": "" # global (defined)
   "Park In That Ally": "" # global (defined)
   "Pathfinder": "" # global (undefined)
   "Planet": "Planet" # global (undefined)
   "Reaper": "" # global (undefined)
-  "Recycle Debris Field": ""
-  "Recycle debris field": ""
+  "Recycle Debris Field": "Trümmerfeld abbauen"
+  "Recycle debris field": "Trümmerfeld abbauen"
   "Recycler": "" # global (defined)
   "Resources": "Rohstoffe" # global (undefined)
-  "Return": ""
+  "Return": "Rückkehr"
   "SC": "KT"
   "Save fleet": "Flotte speichern"
   "Saved fleets": "Gespeicherte Flotten"
@@ -432,14 +477,14 @@ bot.flights:
   "To": "nach"
   "Transport": "" # global (defined)
   "from": "von"
-  "max": ""
+  "max": "max"
   "mission": "Mission"
-  "random delay 0-10min added": ""
+  "random delay 0-10min added": "zufallsverzögerung 0-10 min ergänzt"
   "speed": "Geschwindigkeit"
   "to": "nach" # global (undefined)
 bot.galaxy.index:
-  "Map": ""
-  "Table": ""
+  "Map": "Karte"
+  "Table": "Tabelle"
 bot.galaxy.map:
   "Active": "Aktiv" # global (undefined)
   "Coord": "Koordinaten"
@@ -457,7 +502,7 @@ bot.galaxy.player:
   "Members": "Mitglieder" # global (undefined)
   "Metal": "Metall" # global (defined)
   "Moon": "Mond" # global (undefined)
-  "Planet name": "Name des Planeten" # global (undefined)
+  "Planet name": "" # global (undefined)
   "Player name": "Spielername" # global (undefined)
   "Player profile": "Spielerprofil"
   "RN": "Anzahl Recycler" # global (undefined)
@@ -484,7 +529,7 @@ bot.galaxy.table:
   "RN": "Anzahl Recycler" # global (undefined)
   "Rank": "Rang" # global (defined)
   "Scan this page": "Diese Seite scannen"
-  "Scan universe": "Scan starten"
+  "Scan universe": "Scane Universum"
   "Search": "Suche" # global (undefined)
   "Send recyclers": "" # global (undefined)
   "Stop scan universe": "Scan anhalten"
@@ -492,35 +537,35 @@ bot.galaxy.table:
 bot.index:
   "Bot": ""
   "Browser": ""
-  "Conqueror": ""
+  "Conqueror": "Eroberer"
   "Empire": "" # global (defined)
-  "Flights": ""
+  "Flights": "Flüge"
   "Galaxy": "" # global (defined)
   "Home": "" # global (defined)
-  "Scripts": ""
-  "Simulator": ""
+  "Scripts": "Skripte"
+  "Simulator": "Sumulator"
 bot.planet:
   "Add to queue": "Zur Warteschlage hinzufügen"
   "Build": "Bauen"
-  "Building": "Bauen"
-  "Cargo capacity": ""
+  "Building": "Baut"
+  "Cargo capacity": "Transporter Laderaum"
   "Current": "Aktuell"
   "Current planet": "Aktueller Planet"
-  "Fuel consumption": ""
+  "Fuel consumption": "Treibstoffverbrauch"
   "Import resources & build": "Rohstoffe importieren und bauen"
   "Main planet": "Hauptplanet"
   "Price": "Kosten"
   "Queue": "Warteschlange" # global (undefined)
-  "Queue tear down": ""
-  "Rapidfire against": ""
-  "Rapidfire from": ""
+  "Queue tear down": "Abriss in Warteschlange"
+  "Rapidfire against": "Rapidfire gegen"
+  "Rapidfire from": "Rapidfire von"
   "Research": "Forschung"
-  "Shield power": ""
+  "Shield power": "Schildstärke"
   "Shipyard": "" # global (defined)
   "Speed": "" # global (defined)
-  "Structural integrity": ""
+  "Structural integrity": "Strukturpunkte"
   "Sum": "Summe"
-  "Weapon power": ""
+  "Weapon power": "Angriffswert"
   "no item in queue": "Nichts in der Warteschlange"
 bot.reorderPlanets:
   "Empire": "" # global (defined)
@@ -574,7 +619,7 @@ bot.report:
   "Recycler": "" # global (defined)
   "Report": "Bericht"
   "Research Lab": "" # global (defined)
-  "Research Network": ""
+  "Research Network": "Intergalaktisches Forschungsnetzwerk"
   "Robotics Factory": "" # global (defined)
   "Rocket Launcher": "" # global (defined)
   "Sensor Phalanx": "" # global (defined)
@@ -588,14 +633,14 @@ bot.report:
   "Terraformer": "" # global (defined)
   "Weapons Technology": "" # global (defined)
 bot.scripts:
-  "Edit file name": ""
-  "Pause/unpause": ""
-  "Run": ""
+  "Edit file name": "Dateinamen bearbeiten"
+  "Pause/unpause": "Pause/Fortsetzen"
+  "Run": "Start"
   "Run at start": "Ausführung bei Bot-Start"
   "Stop": "" # global (defined)
-  "Upload compiled script (.nja)": ""
-  "Upload scripts (.tar)": ""
-  "Validate Script": ""
+  "Upload compiled script (.nja)": "Kompiliertes Skript hochladen (.nja)"
+  "Upload scripts (.tar)": "Skript hochladen (.tar)"
+  "Validate Script": "Skript überprüfen"
 bot.settings.activities:
   "Created at": "Erstellt am" # global (undefined)
   "Destination": "Ziel" # global (defined)
@@ -606,8 +651,8 @@ bot.settings.activities:
   "Origin": "Ursprung" # global (defined)
   "Prev": "" # global (undefined)
 bot.settings.brain:
-  "AI": ""
-  "AI configs": ""
+  "AI": "KI"
+  "AI configs": "KI Konfiguration"
   "Brain active": "Bauplaner aktiv"
   "Brain configs": "Bauplaner Einstellungen"
   "Build fusion reactor up to": ""
@@ -620,58 +665,58 @@ bot.settings.brain:
   "Exporter?": ""
   "Fusion reactor": ""
   "Importer?": ""
-  "Max crystal mine level to build": ""
-  "Max crystal storage level to build": ""
-  "Max deut synth level to build": ""
-  "Max deuterium tank level to build": ""
-  "Max metal mine level to build": ""
-  "Max metal storage level to build": ""
-  "Max nanite factory level to build": ""
-  "Max robotics factory level to build": ""
-  "Max solar plant level to build": ""
-  "Metal mine": ""
-  "Metal storage": ""
-  "Nanite factory": ""
+  "Max crystal mine level to build": "Max Kristallmine ausbauen bis Stufe"
+  "Max crystal storage level to build": "Max Kristallspeicher ausbauen bis Stufe"
+  "Max deut synth level to build": "Max Deuteriummine ausbauen bis Stufe"
+  "Max deuterium tank level to build": "Max Deuteriumspeicher ausbauen bis Stufe"
+  "Max metal mine level to build": "Max Metallmine ausbauen bis Stufe"
+  "Max metal storage level to build": "Max Metallspeicher ausbauen bis Stufe"
+  "Max nanite factory level to build": "Max Nanitenfabrik ausbauen bis Stufe"
+  "Max robotics factory level to build": "Max Roboterfabrik ausbauen bis Stufe"
+  "Max solar plant level to build": "Max Solaranlage ausbauen bis Stufe"
+  "Metal mine": "Metallmine"
+  "Metal storage": "Metallspeicher"
+  "Nanite factory": "Nanitenfabrik"
   "None": "" # global (undefined)
   "Planet": "" # global (undefined)
   "Queue": "" # global (undefined)
-  "Robotics factory": ""
+  "Robotics factory": "Roboterfabrik"
   "Save": "Speichern" # global (undefined)
-  "Solar plant": ""
+  "Solar plant": "Solaranlage"
 bot.settings.defender:
-  "--- Bot decision ---": ""
-  "Always": ""
-  "Build ABM on missiles attack detected": ""
-  "Checks for activity from homeworld": ""
-  "Checks for activity from latest active planet/moon": ""
-  "Dangerous": ""
+  "--- Bot decision ---": "--- Bot enscheidet ---"
+  "Always": "Immer"
+  "Build ABM on missiles attack detected": "Baue AR bei Raketenangriffen"
+  "Checks for activity from homeworld": "Prüft auf aktivität von der Heimatwelt"
+  "Checks for activity from latest active planet/moon": "Prüft auf aktivität von zuletzt aktivem Planet/Mond"
+  "Dangerous": "Gefährlich"
   "Defender active": "Verteidiger aktiv"
   "Defender configs": "Verteidiger Einstellungen"
-  "Desktop notification when attacked": ""
+  "Desktop notification when attacked": "Desktop Benachrichtigung bei Angriffen"
   "Dump remaining resources in defenses": "Restliche Ressourcen in Verteidigungsanlagen investieren"
   "Evacuate seconds before attack": "Evakuierung XX Sekunden vor Angriff einleiten"
-  "Evacuation configs": ""
+  "Evacuation configs": "Evakuirungs Einstellungen"
   "Evacuation speed on destroy attacks": "Evakuierungsgeschwindigkeit bei Mondzerstörungen"
-  "Never": ""
-  "Notify small fleet attacks (< 1/3 firepower)": ""
+  "Never": "Niemals"
+  "Notify small fleet attacks (< 1/3 firepower)": "Benachrichtigung bei kl. Flotten angriffen (< 1/3 Feuerkraft)"
   "Planet": "" # global (undefined)
-  "Play sound when attacked": ""
-  "Preferred destination": ""
-  "Prevent if come back during sleep time": ""
-  "Probe new attackers": ""
-  "Randomize moon that checks for activity": ""
+  "Play sound when attacked": "Ton bei angriff abspielen"
+  "Preferred destination": "Bevorzugtes Ziel"
+  "Prevent if come back during sleep time": "Verhindern, dass Flotten während der Schlafzeit zurück kommen"
+  "Probe new attackers": "Angreifer ausspionieren"
+  "Randomize moon that checks for activity": "Prüft auf aktivität von zufälligem Mond"
   "Randomize planet/moon that checks for activity": "Zufällige Aktivitäten auf Planeten/Monden auslösen"
-  "Recall seconds after attack": "Sekunden Flotte zurückrufen"
-  "Repatriate configs": ""
+  "Recall seconds after attack": "Flotte nach angriff zurückrufen (Sekunden)"
+  "Repatriate configs": "Zusammenzug Einstellungen"
   "Repatriate interval": "Intervall für Zusammenzug"
   "Repatriate resources": "Ressourcen zusammenziehen"
   "Save": "Speichern" # global (undefined)
-  "Send message to attackers": "Nachrichten an Angreifer senden"
-  "activate for moon ?": "Mondschuss ermöglichen"
+  "Send message to attackers": "Nachricht an Angreifer senden"
+  "activate for moon ?": "für Monde aktivieren?"
   "minutes": "Minuten" # global (undefined)
   "next check in": "Nächste Prüfung in" # global (undefined)
   "next in": "Nächstes Mal in" # global (undefined)
-  "sec": ""
+  "sec": "sek"
   "to": "bis" # global (undefined)
 bot.settings.expeditionMessages:
   "Actions": "" # global (defined)
@@ -679,14 +724,14 @@ bot.settings.expeditionMessages:
   "Coordinate": "" # global (undefined)
   "Espionage report": "" # global (undefined)
   "Expedition": "" # global (defined)
-  "Extract expedition messages": ""
+  "Extract expedition messages": "Expeditions Nachrichten auslesen"
   "InGame date": "" # global (undefined)
   "Message": "" # global (undefined)
   "Messages": "" # global (undefined)
   "Next": "" # global (undefined)
   "No messages to show": "" # global (undefined)
   "Prev": "" # global (undefined)
-  "Re-process existing messages": ""
+  "Re-process existing messages": "Re-prozessiere vorhandene Nachrichten"
 bot.settings.expeditions:
   "Actions": "" # global (defined)
   "Are you sure?": "" # global (defined)
@@ -696,13 +741,13 @@ bot.settings.expeditions:
   "Battleship": "" # global (defined)
   "Bomber": "" # global (defined)
   "Cancel Fleet": "" # global (undefined)
-  "Click here to load current fleets": ""
+  "Click here to load current fleets": "Klicke hier um die aktuellen Flotten zu laden"
   "Colonize": "" # global (defined)
   "Colony Ship": "" # global (defined)
   "Cruiser": "" # global (defined)
   "Current fleets": "" # global (undefined)
   "Deathstar": "" # global (defined)
-  "Delay between fleet (secs)": ""
+  "Delay between fleet (secs)": "Verzögerung zwischen Flotten (sek)"
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
@@ -710,10 +755,10 @@ bot.settings.expeditions:
   "Espionage Probe": "" # global (defined)
   "Exp": "" # global (undefined)
   "Expedition": "" # global (defined)
-  "Expedition speed": ""
-  "Expeditions active": ""
-  "Expeditions configs": ""
-  "Expeditions origin": ""
+  "Expedition speed": "Expeditions Geschwindigkeit"
+  "Expeditions active": "Expeditionen Aktiv"
+  "Expeditions configs": "Expeditions Konfiguration"
+  "Expeditions origin": "Expeditions Herkunft"
   "Grouped Attack": "" # global (defined)
   "Harvest": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
@@ -722,7 +767,7 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (defined)
   "Mission": "" # global (defined)
   "Name": "" # global (undefined)
-  "Never wait (100% getting ban)": ""
+  "Never wait (100% getting ban)": "Niemals warten (100%ige Chance auf Ban"
   "No fleets": "" # global (undefined)
   "Origin": "" # global (defined)
   "Park": "" # global (defined)
@@ -733,31 +778,31 @@ bot.settings.expeditions:
   "Recycle debris": ""
   "Recycler": "" # global (defined)
   "Select origin": "" # global (undefined)
-  "Ships per expedition": ""
-  "Slots allowed": ""
+  "Ships per expedition": "Schiffe pro Expedition"
+  "Slots allowed": "Sitzungen erlaubt"
   "Small Cargo": "" # global (defined)
   "Spy": "" # global (defined)
-  "Statistics": ""
-  "Strategy": ""
-  "Systems range": ""
+  "Statistics": "Statistik"
+  "Strategy": "Strategie"
+  "Systems range": "System Bereich"
   "Transport": "" # global (defined)
-  "Wait for all expeditions slots": ""
-  "Wait for majority of expeditions slots": ""
-  "expeditions": ""
+  "Wait for all expeditions slots": "Warte auf alle Expeditions Slots"
+  "Wait for majority of expeditions slots": "Warte auf die Mehrheit der Expeditions Slots"
+  "expeditions": "Expeditionen"
   "next check in": "" # global (undefined)
   "unlimited": "" # global (undefined)
 bot.settings.farmer:
-  "Abort all sessions": ""
+  "Abort all sessions": "Alle Sitzungen abbrechen"
   "Actions": "" # global (defined)
   "Active": "" # global (undefined)
-  "Additional cargo": ""
+  "Additional cargo": "Zusätzlicher Frachtraum"
   "Are you sure?": "" # global (defined)
-  "Attack from nearest moon": ""
-  "Attack from nearest planet": "Vom nächsten Planeten aus angreifen"
+  "Attack from nearest moon": "Vom nahegelegensten Mond aus Angreifen"
+  "Attack from nearest planet": "Vom nahegelegensten Planeten aus angreifen"
   "Attack speed": "Angriffsgeschwindigkeit"
   "Created at": "Erstellt am" # global (undefined)
   "Crystal": "Kristall" # global (defined)
-  "Delete combat reports": ""
+  "Delete combat reports": "Lösche Kampfberichte"
   "Deuterium": "Deuterium" # global (defined)
   "Espionage probe raids": "Raids mit Spionagesonden"
   "Farm sessions": "Farmsitzungen"
@@ -771,20 +816,20 @@ bot.settings.farmer:
   "Min. resources to attack": "Mindestbeute bei Angriff"
   "Minimum level of storage": "Mindestlevel für Rohstoff-Speicher"
   "Nb probes": "Anzahl Sonden"
-  "New session": ""
+  "New session": "Neue Sitzung"
   "No session": "keine Sitzung"
   "Origin": "Ursprung" # global (defined)
   "Planet": "Planet" # global (undefined)
   "Priority calculation": "Berechnung der Priorität"
   "Range": "Bereich"
-  "Redo": ""
+  "Redo": "erneut ausführen"
   "Save": "Speichern" # global (undefined)
   "Select origin": "Ursprung wählen" # global (undefined)
   "Start new session": "Neue Sitzung starten"
   "State": "Status"
   "Total loot": "Gesamtbeute"
-  "Use pathfinders": ""
-  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
+  "Use pathfinders": "benutzte Pathfinder"
+  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Die Einstellung \"Bilder in Berichten ausblenden\" muss in den Ogame Einstellungen aktiviert sein, damit der Farmer richtig arbeitet."
   "ignored alliances": "ignorierte Allianzen"
   "ignored planets": "ignorierte Planeten"
   "ignored players": "ignorierte Spieler"
@@ -801,7 +846,7 @@ bot.settings.farmerIgnoredPlayers:
 bot.settings.home:
   "Actions": "" # global (defined)
   "Are you sure?": "" # global (defined)
-  "Attack type": ""
+  "Attack type": "Angriffsart"
   "Attacker": "Angreifer" # global (undefined)
   "Brain activities": "Bauplaner-Aktivitäten"
   "Cancel evacuation": "Evakuierung abbrechen"
@@ -815,13 +860,13 @@ bot.settings.home:
   "Email": "Email" # global (undefined)
   "General info": "Allgemeine Informationen"
   "Hunter": "" # global (defined)
-  "No evacuations": ""
+  "No evacuations": "keine Evakuierungen"
   "No plans": "keine Bauvorhaben"
   "Proxy": "Proxy"
   "Repatriate": "" # global (undefined)
   "Repatriate now": "Rohstoffzusammenzug"
   "Reschedule evacuation": "Evakuierung neu planen"
-  "Research speed": ""
+  "Research speed": "Forschungsgeschwindikeit"
   "Ships": "" # global (undefined)
   "Times": ""
   "Universe": "Universum" # global (undefined)
@@ -831,23 +876,23 @@ bot.settings.home:
   "scanner": "" # global (undefined)
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
-  "Color legend": ""
-  "Target": ""
+  "Color legend": "Farb Legende"
+  "Target": "Ziel"
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (undefined)
   "Actions": "" # global (defined)
   "Activities": "Aktivitäten" # global (defined)
-  "Activity": ""
+  "Activity": "Aktivität"
   "Alliance": "Allianz" # global (undefined)
   "Alliance rank": "Allianzrang"
   "Hunter configs": "Jäger Einstellungen"
-  "No activity": ""
+  "No activity": "keine Aktivität"
   "No targets": "Keine Ziele"
   "Player": "Spieler"
   "Player rank": "Spielerrang"
   "Save": "Speichern" # global (undefined)
   "Scan frequency": "Scanfrequenz" # global (undefined)
-  "Scan using": "" # global (undefined)
+  "Scan using": "Scan benutzt" # global (undefined)
   "Vacation": "" # global (undefined)
   "View activities": "Zeige Aktivitäten"
   "minutes": "Minuten" # global (undefined)
@@ -861,11 +906,11 @@ bot.settings.index:
   "Hunter": "" # global (defined)
   "Logs": ""
   "Messages": "" # global (undefined)
-  "Overview": ""
+  "Overview": "Übersicht"
   "Phalanx": "" # global (undefined)
   "Scanner": ""
   "Settings": "" # global (defined)
-  "Sleep mode": ""
+  "Sleep mode": "Schlafmodus"
   "Start": "" # global (defined)
   "Stop": "" # global (defined)
 bot.settings.logs:
@@ -906,34 +951,34 @@ bot.settings.messages:
   "Prev": "" # global (undefined)
   "Resources": "" # global (undefined)
 bot.settings.notifications:
-  "Bot exit sleep mode": ""
-  "Bot goes to sleep mode": ""
+  "Bot exit sleep mode": "Bot verlässt den Schlafmodus"
+  "Bot goes to sleep mode": "Bot geht in den Schlafmodus"
   "Defender": "" # global (defined)
   "Email": "" # global (undefined)
-  "Email for notifications": ""
-  "Evacuation fails": ""
-  "Expedition loss": ""
+  "Email for notifications": "Email für Benachrichtigungen"
+  "Evacuation fails": "Evakuierung Vergeschlagen"
+  "Expedition loss": "Expedition Verloren"
   "Expeditions": "" # global (undefined)
-  "Failed to fleet save": ""
-  "Farm session completed": ""
-  "Farm session started": ""
+  "Failed to fleet save": "Flotte Sichern ist fehlgeschlagen"
+  "Farm session completed": "Farm Sitzung abgeschlossen"
+  "Farm session started": "Farm Sitzung gestartet"
   "Farmer": "" # global (defined)
-  "Forward ingame chat from alliance": ""
-  "Forward ingame chat from players": ""
+  "Forward ingame chat from alliance": "Allianz Chat weiterleiten"
+  "Forward ingame chat from players": "Spieler Chat weiterleiten"
   "General": "" # global (undefined)
   "Global": ""
   "Hunter": "" # global (defined)
-  "Login fails": ""
-  "New attack detected": ""
-  "New missiles attack detected": ""
+  "Login fails": "Login Fehlgeschlagen"
+  "New attack detected": "Neuer Angriff entdeckt"
+  "New missiles attack detected": "Neuer Raketenangriff entdeckt"
   "Notifications": "" # global (undefined)
   "Save": "" # global (undefined)
   "Slack": ""
-  "Slack username for notifications": ""
+  "Slack username for notifications": "Slack Benutzernamen für Benachrichtigungen"
   "Sleep Mode": "" # global (undefined)
   "Target dropped in military points": ""
   "Telegram": ""
-  "Telegram chat id for notifications": ""
+  "Telegram chat id for notifications": "Telegram Chat ID für Benachrichtigungen"
   "test email": ""
   "test notif": ""
   "test slack": ""
@@ -942,14 +987,14 @@ bot.settings.phalanx:
   "Start": "" # global (defined)
 bot.settings.phalanxSession:
   "Created at": "" # global (undefined)
-  "Data": ""
+  "Data": "Daten"
   "Next": "" # global (undefined)
   "No fleets": "" # global (undefined)
-  "No reports to display": ""
+  "No reports to display": "Keine Reports zum Anzeigen"
   "Phalanx": "" # global (undefined)
-  "Phalanx session": ""
+  "Phalanx session": "Phalanx Sitzung"
   "Prev": "" # global (undefined)
-  "Session aborted": ""
+  "Session aborted": "Sitzung abgebrochen"
   "Stop": "" # global (defined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "" # global (undefined)
@@ -962,57 +1007,57 @@ bot.settings.scanner:
   "milliseconds": "Millisekunden"
   "minimum": "Mindestwert"
   "next in": "Nächstes Mal in" # global (undefined)
-  "scanner active": ""
-  "scanner configs": ""
+  "scanner active": "Scanner Aktiv"
+  "scanner configs": "Scanner Einstellungen"
 bot.settings.settings:
-  "--- Default ---": ""
-  "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": ""
+  "--- Default ---": "--- Standard ---"
+  "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "<strong>Warnung:</strong> dies ist die Einstellung, die der Bot benutzt um sich bei Ogame einzuloggen und nicht zum ändern des Lobby Passworts."
   "Are you sure?": "" # global (defined)
-  "Auto enable manual mode when using browser": ""
-  "Bot timezone": ""
+  "Auto enable manual mode when using browser": "Automatisch den Manuellen Modus starten, wenn der Brwoser benutzt wird"
+  "Bot timezone": "Bot Zeitzone"
   "Browser augments": "Browserintegration"
-  "Change ogame credentials": ""
+  "Change ogame credentials": "Ogame Referenzen ändern"
   "Change proxy": "Proxyeinstellungen"
   "Commander UI": "Commander Ansicht"
-  "Coordinates": ""
-  "Default": ""
+  "Coordinates": "Koordinaten"
+  "Default": "Stadard"
   "Delete bot": "Bot löschen"
-  "Delete expedition messages once imported": ""
-  "Delete spy reports once imported": ""
+  "Delete expedition messages once imported": "Expeditionsnachrichten löschen, wenn diese Importiert sind"
+  "Delete spy reports once imported": "Spionagenachrichten löschen, wenn diese Importiert sind"
   "Delete this bot": "Diesen Bot löschen"
-  "Enable Expe-3000": ""
-  "Enable InfoCompte3": ""
-  "Enable NixianRaidTracker": ""
-  "Enable RecursosAmpliados": ""
-  "Enable TopRaider": ""
+  "Enable Expe-3000": "Aktiviere Expe-3000"
+  "Enable InfoCompte3": "Aktiviere InfoCompte3"
+  "Enable NixianRaidTracker": "Aktiviere ixianRaidTracker"
+  "Enable RecursosAmpliados": "Aktiviere RecursosAmpliados"
+  "Enable TopRaider": "Aktiviere TopRaider"
   "Enable browser augments": "Aktiviert die direkte Intergration im Browser"
-  "Espionage probe": ""
+  "Espionage probe": "Spionagesonde"
   "General": "" # global (undefined)
   "General options": "Allgemeine Einstellungen"
-  "Homeworld": ""
-  "Host machine Timezone": ""
-  "Large cargo": ""
-  "Max brain slots": ""
-  "Max expeditions slots": ""
-  "Max farmer slots": ""
-  "Max repatriate slots": ""
-  "Max script slots": ""
+  "Homeworld": "Heimatwelt"
+  "Host machine Timezone": "Host Maschinen Zeitzone"
+  "Large cargo": "Große Transporter"
+  "Max brain slots": "Max Bauplaner Slots"
+  "Max expeditions slots": "Max Expedtitions Slots"
+  "Max farmer slots": "Max Farmer Slots"
+  "Max repatriate slots": "Max Zusammenzug Slots"
+  "Max script slots": "Max Skript Slots"
   "Name": "" # global (undefined)
   "Notifications": "" # global (undefined)
-  "OGT (OGame Timezone)": ""
+  "OGT (OGame Timezone)": "OGT (Ogame Zeitzone)"
   "Pathfinder": "" # global (undefined)
   "Preferred transport ships": ""
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
-  "Remove ads": ""
-  "Remove banner": ""
+  "Remove ads": "Entferne Werbung"
+  "Remove banner": "Entferne Banner"
   "Save": "Speichern" # global (undefined)
   "Save proxy": "Proxy speichern"
   "Share account": "Account teilen"
   "Share with": "Teilen mit"
   "Slots reserved for player": "Für Spieler reservierte Slots"
-  "Small cargo": ""
-  "Sort planets in dropdowns by": ""
+  "Small cargo": "Kleine Transporter"
+  "Sort planets in dropdowns by": "Sortire Planeten in der DropDown-Liste nach"
   "Theme": "" # global (undefined)
   "UTC+00:00": ""
   "UTC+01:00": ""
@@ -1057,26 +1102,26 @@ bot.settings.settings:
 bot.settings.sleepMode:
   "Active": "" # global (undefined)
   "Are you sure?": "" # global (defined)
-  "Awake bot now": ""
-  "Every day": ""
-  "Friday": ""
-  "Monday": ""
-  "Put bot to sleep now": ""
-  "Random delay before going to sleep (minutes)": ""
-  "Saturday": ""
+  "Awake bot now": "Bot jetzt Aufwecken"
+  "Every day": "Jeden Tag"
+  "Friday": "Freitag"
+  "Monday": "Montag"
+  "Put bot to sleep now": "Bot in Schlafmodus bringen"
+  "Random delay before going to sleep (minutes)": "Zufällige Wartezeit vor dem Schlafengehen (minuten)"
+  "Saturday": "Samstag"
   "Save": "" # global (undefined)
   "Sleep Mode": "" # global (undefined)
-  "Sunday": ""
-  "Thursday": ""
-  "Tuesday": ""
-  "Wake up at": ""
-  "Wednesday": ""
-  "automatic fleet save (experimental)": ""
-  "manual trigger": ""
+  "Sunday": "Sonntag"
+  "Thursday": "Donnerstag"
+  "Tuesday": "Freitag"
+  "Wake up at": "Aufwecken um"
+  "Wednesday": "Miwwtoch"
+  "automatic fleet save (experimental)": "Automatisch Flotte sichern (Experimentell)"
+  "manual trigger": "Manuell auslösen"
 bot.simulator:
-  "ACS planner": ""
+  "ACS planner": "AKS Planer"
   "API": "API" # global (undefined)
-  "Anti Ballistic Missiles": ""
+  "Anti Ballistic Missiles": "Abfangrakete"
   "Armour": "Panzerung"
   "Attacker": "Angreifer" # global (undefined)
   "Attacker win": "Angreifer gewinnt"
@@ -1093,8 +1138,8 @@ bot.simulator:
   "Crystal": "" # global (defined)
   "Deathstar": "" # global (defined)
   "Debris": "Trümmerfeld" # global (undefined)
-  "Defence repair factor": ""
-  "Defence to debris": ""
+  "Defence repair factor": "Verteidigungsanlagen Reperatur Faktor"
+  "Defence to debris": "Verteidigung ins Trümmerfeld"
   "Defender": "Verteidiger" # global (defined)
   "Defender win": "Verteidiger gewinnt"
   "Destroyer": "" # global (defined)
@@ -1105,7 +1150,7 @@ bot.simulator:
   "Gauss Cannon": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
   "Heavy Laser": "" # global (defined)
-  "Hyperspace tech": ""
+  "Hyperspace tech": "Hyperraum Technologie"
   "Interplanetary Missiles": "" # global (defined)
   "Ion Cannon": "" # global (defined)
   "Large Cargo": "" # global (defined)
@@ -1115,7 +1160,7 @@ bot.simulator:
   "Losses": "Verluste"
   "Metal": "" # global (defined)
   "Moonchance": "Mondchance"
-  "Open in TrashSim": ""
+  "Open in TrashSim": "In TrahSim öffnen"
   "Pathfinder": "" # global (undefined)
   "Planet": "Planet" # global (undefined)
   "Planet/Moon": "Planet/Mond"
@@ -1129,7 +1174,7 @@ bot.simulator:
   "Rocket Launcher": "" # global (defined)
   "Rounds": "Runde(n)"
   "Select origin": "Ursprung wählen" # global (undefined)
-  "Send attack": ""
+  "Send attack": "Angriff abschicken"
   "Send recyclers": "" # global (undefined)
   "Shield": "Schild"
   "Simulate": "Simulieren"
@@ -1137,25 +1182,25 @@ bot.simulator:
   "Small Cargo": "" # global (defined)
   "Small Shield Dome": "" # global (defined)
   "Solar Satellite": "" # global (defined)
-  "Tactical retreat": ""
+  "Tactical retreat": "Taktischer Rückzug"
   "Weapon": "Waffen"
 bot-card:
   "Email": "" # global (undefined)
-  "Lang": "" # global (undefined)
-  "Points": "" # global (defined)
-  "Rank": "" # global (defined)
+  "Lang": "Sprache" # global (undefined)
+  "Points": "Punkte" # global (defined)
+  "Rank": "Rang" # global (defined)
   "Start": "" # global (defined)
   "Stop": "" # global (defined)
-  "Universe": "" # global (undefined)
+  "Universe": "Universum" # global (undefined)
 changelog:
   "meta-description": "Protokoll der letzten Änderungen" # global (undefined)
   "title": "Protokoll der letzten Änderungen" # global (undefined)
 database:
   "Actions": "" # global (defined)
-  "Delete all keys": ""
-  "Key": ""
-  "Key/value storage": ""
-  "No data to display": ""
+  "Delete all keys": "Alle Schlüssel löschen"
+  "Key": "Schlüssel"
+  "Key/value storage": "Schlüssel/Wert"
+  "No data to display": "Keine Daten zum anzeigen"
   "Search": "" # global (undefined)
   "Stats": ""
   "Value": ""
@@ -1165,7 +1210,7 @@ debug.index:
 download:
   "Actions": "" # global (defined)
   "Active": "" # global (undefined)
-  "AntiGame for Ninja": ""
+  "AntiGame for Ninja": "Antigame für Ninja"
   "Arch": "Archiv" # global (undefined)
   "Changelog": "Changelog"
   "Download": "Herunterladen" # global (defined)
@@ -1234,7 +1279,7 @@ home:
   "Actions": "" # global (defined)
   "Are you sure?": "" # global (defined)
   "Domain": "URL"
-  "Expires": ""
+  "Expires": "Ablaufsdatum"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
   "Join the server now": "" # global (undefined)
   "My servers": "Meine Server"
@@ -1276,9 +1321,9 @@ invoice:
   "New license": "" # global (undefined)
   "Pay with Credit/debit card": "" # global (undefined)
   "Pay with paypal": "" # global (undefined)
-  "Submit payment": ""
+  "Submit payment": "Übermittle Bezahlung"
   "Upgrade license": ""
-  "Valid until": "" # global (undefined)
+  "Valid until": "Gültig bis" # global (undefined)
   "we are using": "" # global (undefined)
 landing:
   "Combat simulator": "Kampfsimulator" # global (undefined)
@@ -1303,7 +1348,7 @@ landing:
   "simulator-desc": "Mit dem Kampfsimulator kannst du schnell und unkompliziert Kämpfe simulieren. Ebenfalls kannst du vorhandene Spionageberichte in den Simulator hereinladen" # global (undefined)
   "title": "Ninja OGame Bot" # global (undefined)
 license-view:
-  "Bots allowed": "" # global (undefined)
+  "Bots allowed": "Bots erlaubt" # global (undefined)
   "Created": "Erstellt" # global (undefined)
   "Download": "Herunterladen" # global (defined)
   "Email": "E-Mail" # global (undefined)
@@ -1542,17 +1587,17 @@ ticketSupport.new-invoice:
   "Bots": "" # global (defined)
   "Valid until": "" # global (undefined)
 two-factor:
-  "Backup the file in": ""
-  "Download ogame ninja binary for your OS": ""
-  "Generate a one-time password with": ""
-  "If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": ""
-  "In a terminal, execute": ""
-  "List all your 2fa with": ""
+  "Backup the file in": "Sicher die Datei in"
+  "Download ogame ninja binary for your OS": "Lade die Ogame Ninja Binary für dein Betriebssystem herunter"
+  "Generate a one-time password with": "Erzeuge ein einmal Passwort mit"
+  "If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": "Wenn du die Zwei Faktoren Authentifizierung mit deinem Gameforge Account benutzten möchtest, ohne die proprietäre Gameforge App benuzten zu müssen..."
+  "In a terminal, execute": "In einem Terminal ausführen"
+  "List all your 2fa with": "Liste all deine 2FA mit"
   "Note": "" # global (undefined)
-  "Two-Factor Authentication": ""
+  "Two-Factor Authentication": "Zwei Faktoren Authentifizierung"
   "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
-  "You can remove 2fa from your account with": ""
-  "You don't need to be a customer to use the following tools.": ""
-  "meta-description": "" # global (undefined)
-  "or the output of": ""
-  "title": "" # global (undefined)
+  "You can remove 2fa from your account with": "Du kannst die 2FA von deinem Accoutn löschen mit"
+  "You don't need to be a customer to use the following tools.": "Sie müssen kein Kunde sein, um die folgenden Tools verwenden zu können."
+  "meta-description": "Zwei Faktoren Authentifizierung" # global (undefined)
+  "or the output of": "oder die Ausgabe von"
+  "title": "Zwei Faktoren Authentifizierung" # global (undefined)
