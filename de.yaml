@@ -306,7 +306,7 @@ antigame:
 bot.browser:
   "Empire page": "Imperiums Seite"
   "Fullscreen": "Vollbild"
-  "Toggle manual mode": "zum manuellen Modus wechseln"
+  "Toggle manual mode": "manuellen Modus An/Aus"
 bot.conqueror:
   "Get spy reports": "" # global (undefined)
   "No espionage report to show": "Keine Spionageberichte zum anzeigen"
@@ -543,7 +543,7 @@ bot.index:
   "Galaxy": "" # global (defined)
   "Home": "" # global (defined)
   "Scripts": "Skripte"
-  "Simulator": "Sumulator"
+  "Simulator": "Simulator"
 bot.planet:
   "Add to queue": "Zur Warteschlage hinzufügen"
   "Build": "Bauen"
@@ -829,7 +829,7 @@ bot.settings.farmer:
   "State": "Status"
   "Total loot": "Gesamtbeute"
   "Use pathfinders": "benutzte Pathfinder"
-  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Die Einstellung \"Bilder in Berichten ausblenden\" muss in den Ogame Einstellungen aktiviert sein, damit der Farmer richtig arbeitet."
+  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Die Einstellung \"Bilder in Berichten ausblenden\" muss in den Ogame Einstellungen deaktiviert sein, damit der Farmer richtig arbeitet."
   "ignored alliances": "ignorierte Allianzen"
   "ignored planets": "ignorierte Planeten"
   "ignored players": "ignorierte Spieler"
@@ -1022,12 +1022,12 @@ bot.settings.settings:
   "Coordinates": "Koordinaten"
   "Default": "Stadard"
   "Delete bot": "Bot löschen"
-  "Delete expedition messages once imported": "Expeditionsnachrichten löschen, wenn diese Importiert sind"
-  "Delete spy reports once imported": "Spionagenachrichten löschen, wenn diese Importiert sind"
+  "Delete expedition messages once imported": "Expeditionsberichte löschen, wenn diese Importiert sind"
+  "Delete spy reports once imported": "Spionageberichte löschen, wenn diese Importiert sind"
   "Delete this bot": "Diesen Bot löschen"
   "Enable Expe-3000": "Aktiviere Expe-3000"
   "Enable InfoCompte3": "Aktiviere InfoCompte3"
-  "Enable NixianRaidTracker": "Aktiviere ixianRaidTracker"
+  "Enable NixianRaidTracker": "Aktiviere NixianRaidTracker"
   "Enable RecursosAmpliados": "Aktiviere RecursosAmpliados"
   "Enable TopRaider": "Aktiviere TopRaider"
   "Enable browser augments": "Aktiviert die direkte Intergration im Browser"
@@ -1046,7 +1046,7 @@ bot.settings.settings:
   "Notifications": "" # global (undefined)
   "OGT (OGame Timezone)": "OGT (Ogame Zeitzone)"
   "Pathfinder": "" # global (undefined)
-  "Preferred transport ships": ""
+  "Preferred transport ships": "Bevorzugte Transportschiffe"
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
   "Remove ads": "Entferne Werbung"
@@ -1057,7 +1057,7 @@ bot.settings.settings:
   "Share with": "Teilen mit"
   "Slots reserved for player": "Für Spieler reservierte Slots"
   "Small cargo": "Kleine Transporter"
-  "Sort planets in dropdowns by": "Sortire Planeten in der DropDown-Liste nach"
+  "Sort planets in dropdowns by": "Sortiere Planeten in DropDown-Listen nach"
   "Theme": "" # global (undefined)
   "UTC+00:00": ""
   "UTC+01:00": ""
@@ -1113,9 +1113,9 @@ bot.settings.sleepMode:
   "Sleep Mode": "" # global (undefined)
   "Sunday": "Sonntag"
   "Thursday": "Donnerstag"
-  "Tuesday": "Freitag"
+  "Tuesday": "Dienstag"
   "Wake up at": "Aufwecken um"
-  "Wednesday": "Miwwtoch"
+  "Wednesday": "Mitwoch"
   "automatic fleet save (experimental)": "Automatisch Flotte sichern (Experimentell)"
   "manual trigger": "Manuell auslösen"
 bot.simulator:
