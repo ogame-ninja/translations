@@ -695,7 +695,7 @@ bot.settings.defender:
   "Desktop notification when attacked": "Desktop Benachrichtigung bei Angriffen"
   "Dump remaining resources in defenses": "Restliche Ressourcen in Verteidigungsanlagen investieren"
   "Evacuate seconds before attack": "Evakuierung XX Sekunden vor Angriff einleiten"
-  "Evacuation configs": "Evakuirungs Einstellungen"
+  "Evacuation configs": "Evakuierungs Einstellungen"
   "Evacuation speed on destroy attacks": "Evakuierungsgeschwindigkeit bei Mondzerstörungen"
   "Never": "Niemals"
   "Notify small fleet attacks (< 1/3 firepower)": "Benachrichtigung bei kl. Flotten angriffen (< 1/3 Feuerkraft)"
@@ -1115,7 +1115,7 @@ bot.settings.sleepMode:
   "Thursday": "Donnerstag"
   "Tuesday": "Dienstag"
   "Wake up at": "Aufwecken um"
-  "Wednesday": "Mitwoch"
+  "Wednesday": "Mittwoch"
   "automatic fleet save (experimental)": "Automatisch Flotte sichern (Experimentell)"
   "manual trigger": "Manuell auslösen"
 bot.simulator:
