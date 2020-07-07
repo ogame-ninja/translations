@@ -69,6 +69,7 @@ admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": ""
   "Host eg: smtp.gmail.com": ""
+  "Images URL": ""
   "Logs retention (days)": ""
   "Password": "" # global (undefined)
   "Port eg: 587": ""
@@ -454,7 +455,7 @@ bot.scripts:
   "Edit file name": ""
   "Pause/unpause": ""
   "Run": ""
-  "Run at start": ""
+  "Run at start": "" # global (undefined)
   "Stop": "" # global (undefined)
   "Upload compiled script (.nja)": ""
   "Upload scripts (.tar)": ""
@@ -527,6 +528,7 @@ bot.settings.defender:
   "Recall seconds after attack": ""
   "Repatriate configs": ""
   "Repatriate interval": ""
+  "Repatriate random order": ""
   "Repatriate resources": ""
   "Save": "" # global (undefined)
   "Send message to attackers": ""
@@ -570,6 +572,7 @@ bot.settings.expeditions:
   "Destroy": "" # global (undefined)
   "Destroyer": "" # global (undefined)
   "Duration": "" # global (undefined)
+  "Early Pathfinders": ""
   "Espionage Probe": "" # global (undefined)
   "Exp": "" # global (undefined)
   "Expedition": "" # global (undefined)
@@ -580,14 +583,21 @@ bot.settings.expeditions:
   "Grouped Attack": "" # global (undefined)
   "Harvest": "" # global (undefined)
   "Heavy Fighter": "" # global (undefined)
+  "Ignore min deut": ""
+  "LC that will not be send with auto-split": ""
   "Large Cargo": "" # global (undefined)
+  "Large Cargo to stay": ""
   "Light Fighter": "" # global (undefined)
+  "Min speed early PF": ""
+  "Minimum speed for the early PF": ""
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "" # global (undefined)
   "Never wait (100% getting ban)": ""
   "No fleets": "" # global (undefined)
   "Origin": "" # global (undefined)
+  "PF that will not be send with auto-split nor for recycle": ""
+  "PF will be send to arrive at the same time as debris field is created (if any)": ""
   "Park": "" # global (undefined)
   "Park In That Ally": "" # global (undefined)
   "Pathfinder": "" # global (undefined)
@@ -595,10 +605,12 @@ bot.settings.expeditions:
   "Reaper": "" # global (undefined)
   "Recycle debris": ""
   "Recycler": "" # global (undefined)
+  "SC that will not be send with auto-split": ""
   "Select origin": "" # global (undefined)
   "Ships per expedition": ""
   "Slots allowed": ""
   "Small Cargo": "" # global (undefined)
+  "Small Cargo to stay": ""
   "Spy": "" # global (undefined)
   "Statistics": ""
   "Strategy": ""
@@ -676,6 +688,7 @@ bot.settings.home:
   "Donut galaxy": ""
   "Donut system": ""
   "Email": "" # global (undefined)
+  "Expeditions": "" # global (undefined)
   "General info": ""
   "Hunter": "" # global (undefined)
   "No evacuations": ""
@@ -843,6 +856,7 @@ bot.settings.settings:
   "Delete expedition messages once imported": ""
   "Delete spy reports once imported": ""
   "Delete this bot": ""
+  "Disable ogame dropdown (fix jump gate on mobile)": ""
   "Enable Expe-3000": ""
   "Enable InfoCompte3": ""
   "Enable NixianRaidTracker": ""
@@ -980,6 +994,7 @@ bot.simulator:
   "Moonchance": ""
   "Open in TrashSim": ""
   "Pathfinder": "" # global (undefined)
+  "Pathfinders": ""
   "Planet": "" # global (undefined)
   "Planet/Moon": ""
   "Plasma Turret": "" # global (undefined)
@@ -1091,7 +1106,9 @@ get-trial-key:
   "Home": "" # global (undefined)
 home-slave:
   "Bots": "" # global (undefined)
+  "Create script on all bots": "" # global (undefined)
   "New bot": "" # global (undefined)
+  "Other actions": ""
   "Reorder bots": "" # global (undefined)
 home:
   "Actions": "" # global (undefined)
@@ -1253,6 +1270,17 @@ new-lobby:
 new-proposal:
   "All suggestions": "" # global (undefined)
   "New suggestion": ""
+new-script:
+  "<b>Warning:</b> This will override existing scripts that have the same name.": ""
+  "All bots that I have access to": ""
+  "Create script on all bots": "" # global (undefined)
+  "Home": "" # global (undefined)
+  "My bots": ""
+  "New script": ""
+  "Place script here": ""
+  "Run at start": "" # global (undefined)
+  "Script file name": ""
+  "Where to create the script": ""
 new-server:
   "3 - 20 letter/number/underscore. eg: ": ""
   "Credit or debit card": "" # global (undefined)
@@ -1285,11 +1313,11 @@ pricing:
   "2 days one-time trial": ""
   "30 days license": ""
   "Buy now": ""
-  "Slack support": ""
   "Get started": ""
   "Pricing": "" # global (undefined)
   "Priority Slack support": ""
   "Self-host": ""
+  "Slack support": ""
   "These are our pricing plans, if you can't quite find what you need, let us know on Slack and we'll work something out!": ""
   "Trial": ""
   "Try for free": ""
