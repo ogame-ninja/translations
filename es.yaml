@@ -1287,7 +1287,7 @@ landing:
   "Empire view": "Vista Imperio" # global (undefined)
   "Farming": "Granjero"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
-  "Join the server now": "Únete a Discord ahora" # global (undefined)
+  "Join the server now": "Únete a Slack ahora" # global (undefined)
   "Learn more": "Descubre más"
   "OGame Ninja": "Ogame Ninja"
   "The most advanced OGame toolkit ever created": "El set de utilidades más avanzado jamás creado para Ogame"
@@ -1363,7 +1363,7 @@ new-license:
   "Self hosting license parameters": "Parámetros de licencia On Premise" # global (undefined)
   "Submit payment for self-host license": "Procesar pago de licencia On Premise" # global (undefined)
   "Total": "Total" # global (undefined)
-  "description1": "Una licencia tiene 1 mes de validez. Tras este tiempo, debes renovarla.<br /> Si deseas suscribirte a más largo plazo, contacta con nosotros (Discord).<br />" # global (undefined)
+  "description1": "Una licencia tiene 1 mes de validez. Tras este tiempo, debes renovarla.<br /> Si deseas suscribirte a más largo plazo, contacta con nosotros (Slack).<br />" # global (undefined)
   "description2": "<strong>DISCLAIMER:</strong> Esta licencia es para tu instalacion local y autogestión, lo que significa que debes ejectuar el Bot en tu ordenador para que funcione.<br /> Si deseas <a href=\"/servers/new\">nuestra opción Cloud</a>, lo que significa que nosotros gestionaremos el Bot en tu propio servidor dedicado en la nube, por favor, haz click <a href=\"/servers/new\">aquí.</a>"
   "we are using": "Trabajamos con" # global (undefined)
 new-lobby-account:
@@ -1422,12 +1422,12 @@ pricing:
   "2 days one-time trial": ""
   "30 days license": "Licencia de 30 días."
   "Buy now": "Comprar ahora"
-  "Discord support": "Soporte en Discord"
+  "Slack support": "Soporte en Slack"
   "Get started": "Inicia aquí"
   "Pricing": "Precios" # global (defined)
-  "Priority Discord support": "Soporte prioritario en Discord"
+  "Priority Slack support": "Soporte prioritario en Slack"
   "Self-host": "Autogestionado"
-  "These are our pricing plans, if you can't quite find what you need, let us know on Discord and we'll work something out!": "Estos son nuestros planes. Si no encuentras lo que buscas, ¡háznoslo saber en Discord y veremos qué podemos hacer!"
+  "These are our pricing plans, if you can't quite find what you need, let us know on Slack and we'll work something out!": "Estos son nuestros planes. Si no encuentras lo que buscas, ¡háznoslo saber en Slack y veremos qué podemos hacer!"
   "Trial": "Prueba"
   "Try for free": "Pruébalo gratis"
   "User needs to run the software": "El usuario debe ejecutar el software."
