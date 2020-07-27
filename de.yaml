@@ -879,7 +879,7 @@ bot.settings.home:
   "Repatriate": "" # global (undefined)
   "Repatriate now": "Rohstoffzusammenzug"
   "Reschedule evacuation": "Evakuierung neu planen"
-  "Research speed": "Forschungsgeschwindikeit"
+  "Research speed": "Forschungsgeschwindigkeit"
   "Ships": "" # global (defined)
   "Times": ""
   "Universe": "Universum" # global (undefined)
