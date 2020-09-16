@@ -1,4 +1,3 @@
-global:
 admin.index:
   "Bots": "Бот" # global (undefined)
   "License": "Лицензия" # global (undefined)
