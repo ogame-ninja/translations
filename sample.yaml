@@ -71,6 +71,7 @@ admin.settings:
   "Host eg: smtp.gmail.com": ""
   "Images URL": ""
   "Logs retention (days)": ""
+  "Open .ogame folder": ""
   "Password": "" # global (undefined)
   "Port eg: 587": ""
   "Reverse tunnel": ""
@@ -475,9 +476,11 @@ bot.settings.brain:
   "Brain active": ""
   "Brain configs": ""
   "Build fusion reactor up to": ""
+  "Build jump gate": ""
   "Build solar satellites": ""
   "Crystal mine": ""
   "Crystal storage": ""
+  "Delay after exporting resources": ""
   "Deuterium synthesizer": ""
   "Deuterium tank": ""
   "Export within same galaxy only": ""
@@ -492,18 +495,27 @@ bot.settings.brain:
   "Max metal storage level to build": ""
   "Max nanite factory level to build": ""
   "Max robotics factory level to build": ""
+  "Max sensor phalanx level to build": ""
   "Max solar plant level to build": ""
   "Metal mine": ""
   "Metal storage": ""
+  "Moon": "" # global (undefined)
   "Nanite factory": ""
   "None": "" # global (undefined)
   "Planet": "" # global (undefined)
+  "Prevent importing if come back during sleep time": ""
   "Queue": "" # global (undefined)
   "Robotics factory": ""
   "Save": "" # global (undefined)
+  "Sensor phalanx": ""
   "Solar plant": ""
+  "to": "" # global (undefined)
+bot.settings.debug:
+  "HTTP client timeout": ""
+  "Save": "" # global (undefined)
 bot.settings.defender:
   "--- Bot decision ---": ""
+  "2-steps (planets then moons)": ""
   "Always": ""
   "Build ABM on missiles attack detected": ""
   "Checks for activity from homeworld": ""
@@ -554,6 +566,7 @@ bot.settings.expeditionMessages:
   "Re-process existing messages": ""
 bot.settings.expeditions:
   "Actions": "" # global (undefined)
+  "Active": "" # global (undefined)
   "Are you sure?": "" # global (undefined)
   "Arrive in": "" # global (undefined)
   "Attack": "" # global (undefined)
@@ -568,11 +581,11 @@ bot.settings.expeditions:
   "Current fleets": "" # global (undefined)
   "Deathstar": "" # global (undefined)
   "Delay between fleet (secs)": ""
+  "Delay between waves (secs)": ""
   "Destination": "" # global (undefined)
   "Destroy": "" # global (undefined)
   "Destroyer": "" # global (undefined)
   "Duration": "" # global (undefined)
-  "Early Pathfinders": ""
   "Espionage Probe": "" # global (undefined)
   "Exp": "" # global (undefined)
   "Expedition": "" # global (undefined)
@@ -588,13 +601,14 @@ bot.settings.expeditions:
   "Large Cargo": "" # global (undefined)
   "Large Cargo to stay": ""
   "Light Fighter": "" # global (undefined)
-  "Min speed early PF": ""
+  "Minimum speed": ""
   "Minimum speed for the early PF": ""
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "" # global (undefined)
   "Never wait (100% getting ban)": ""
   "No fleets": "" # global (undefined)
+  "Number to send": ""
   "Origin": "" # global (undefined)
   "PF that will not be send with auto-split nor for recycle": ""
   "PF will be send to arrive at the same time as debris field is created (if any)": ""
@@ -606,6 +620,7 @@ bot.settings.expeditions:
   "Recycle debris": ""
   "Recycler": "" # global (undefined)
   "SC that will not be send with auto-split": ""
+  "Secs after expedition": ""
   "Select origin": "" # global (undefined)
   "Ships per expedition": ""
   "Slots allowed": ""
@@ -615,6 +630,8 @@ bot.settings.expeditions:
   "Statistics": ""
   "Strategy": ""
   "Systems range": ""
+  "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": ""
+  "Time in seconds that early PF will arrive after the expedition": ""
   "Transport": "" # global (undefined)
   "Wait for all expeditions slots": ""
   "Wait for majority of expeditions slots": ""
@@ -717,7 +734,7 @@ bot.settings.hunter:
   "Alliance": "" # global (undefined)
   "Alliance rank": ""
   "Hunter configs": ""
-  "No activity": ""
+  "No activity": "" # global (undefined)
   "No targets": ""
   "Player": ""
   "Player rank": ""
@@ -863,6 +880,7 @@ bot.settings.settings:
   "Enable RecursosAmpliados": ""
   "Enable TopRaider": ""
   "Enable browser augments": ""
+  "Enter your password": ""
   "Espionage probe": ""
   "General": "" # global (undefined)
   "General options": ""
@@ -883,10 +901,13 @@ bot.settings.settings:
   "Proxy username": "" # global (undefined)
   "Remove ads": ""
   "Remove banner": ""
+  "Round up resources": ""
+  "Round up ships": ""
   "Save": "" # global (undefined)
   "Save proxy": ""
   "Share account": ""
   "Share with": ""
+  "Show credentials": ""
   "Slots reserved for player": ""
   "Small cargo": ""
   "Sort planets in dropdowns by": ""
@@ -970,6 +991,7 @@ bot.simulator:
   "Crystal": "" # global (undefined)
   "Deathstar": "" # global (undefined)
   "Debris": "" # global (undefined)
+  "Defence": ""
   "Defence repair factor": ""
   "Defence to debris": ""
   "Defender": "" # global (undefined)
@@ -1231,6 +1253,7 @@ new-bot:
   "Player ID": ""
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
+  "Redeem code": "" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
 new-license:
   "Buy license": "" # global (undefined)
@@ -1256,6 +1279,7 @@ new-lobby-account:
   "OTP secret": "" # global (undefined)
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
+  "Redeem code": "" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
 new-lobby:
   "Add account to lobby": "" # global (undefined)
@@ -1266,6 +1290,7 @@ new-lobby:
   "New lobby": "" # global (undefined)
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
+  "Redeem code": "" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
 new-proposal:
   "All suggestions": "" # global (undefined)
@@ -1334,6 +1359,18 @@ proposals:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
   "Search": "" # global (undefined)
+redeem-code:
+  "Add account to lobby": "" # global (undefined)
+  "Gameforge email": "" # global (undefined)
+  "Gameforge password": "" # global (undefined)
+  "New bot": "" # global (undefined)
+  "New lobby": "" # global (undefined)
+  "OTP secret": "" # global (undefined)
+  "Proxy password": "" # global (undefined)
+  "Proxy username": "" # global (undefined)
+  "Redeem code": "" # global (undefined)
+  "____-____-____-____-____": ""
+  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
 renew-instance:
   "Credit or debit card": "" # global (undefined)
   "Current license valid until": "" # global (undefined)
@@ -1363,22 +1400,42 @@ renew-license:
 reorder-bots:
   "Home": "" # global (undefined)
   "Reorder bots": "" # global (undefined)
+sessions-two-factor-recovery:
+  "Recovery code": ""
+  "Two-factor recovery": ""
+  "Verify": "" # global (undefined)
+sessions-two-factor:
+  "6-digit code": ""
+  "Enter a two-factor recovery code": ""
+  "Two-factor authentication": ""
+  "Verify": "" # global (undefined)
 settings.account:
+  "0-15min": ""
+  "16-40min": ""
+  "41-60min": ""
   "Change my username": ""
   "Change password": ""
   "Change username": ""
   "Confirm new password": ""
   "Delete account": ""
   "Delete your account": ""
+  "Disable two-factor authentication": ""
+  "Enable two-factor authentication": ""
+  "Hunter colors": ""
   "Lang": "" # global (undefined)
   "New password": "" # global (undefined)
   "New username": "" # global (undefined)
+  "No activity": "" # global (undefined)
   "Old password": ""
   "Root admin cannot delete his account": ""
   "Save": "" # global (undefined)
   "Settings": "" # global (undefined)
+  "Slack account": ""
   "Theme": "" # global (undefined)
+  "Two-Factor Authentication": "" # global (undefined)
+  "Unlink slack account": ""
   "Update password": ""
+  "Vacation": "" # global (undefined)
 settings.api:
   "API": "" # global (undefined)
   "API key": ""
@@ -1432,6 +1489,19 @@ ticketSupport.index:
 ticketSupport.new-invoice:
   "Bots": "" # global (undefined)
   "Valid until": "" # global (undefined)
+two-factor-authentication-verify:
+  "1- Recovery code": ""
+  "2- Scan this barcode with your app.": ""
+  "3- Enter the six-digit code from the application": ""
+  "After scanning the barcode image, the app will display a six-digit code that you can enter below.": ""
+  "Cancel": ""
+  "Enable": ""
+  "Recovery code is used to access your account in the event you cannot receive two-factor authentication codes.": ""
+  "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter": ""
+  "Treat your recovery codes with the same level of attention as you would your password!": ""
+  "We recommend saving them with a password manager such as Lastpass, 1Password, or Keeper.": ""
+  "instead.": ""
+  "this text code": ""
 two-factor:
   "Backup the file in": ""
   "Download ogame ninja binary for your OS": ""
@@ -1440,7 +1510,7 @@ two-factor:
   "In a terminal, execute": ""
   "List all your 2fa with": ""
   "Note": "" # global (undefined)
-  "Two-Factor Authentication": ""
+  "Two-Factor Authentication": "" # global (undefined)
   "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
   "You can remove 2fa from your account with": ""
   "You don't need to be a customer to use the following tools.": ""
