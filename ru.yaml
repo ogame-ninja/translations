@@ -70,7 +70,7 @@ admin.settings:
   "Host eg: smtp.gmail.com": "Хост eg: smtp.gmail.com"
   "Images URL": "URL-адрес изображений"
   "Logs retention (days)": "Хранение журналов (дней)"
-  "Open .ogame folder": ""
+  "Open .ogame folder": "Открыть Ogame папку"
   "Password": "Пароль" # global (undefined)
   "Port eg: 587": "Порт eg: 587"
   "Reverse tunnel": "Обратный туннель"
@@ -475,11 +475,11 @@ bot.settings.brain:
   "Brain active": "ИИ включить"
   "Brain configs": "ИИ Настройки"
   "Build fusion reactor up to": "Построить Термоядерную Электростанцию до"
-  "Build jump gate": ""
+  "Build jump gate": "Построить Звездные врата"
   "Build solar satellites": "Строить солнечные спутники"
   "Crystal mine": "Рудник по добыче кристалла"
   "Crystal storage": "Хранилище кристалла"
-  "Delay after exporting resources": ""
+  "Delay after exporting resources": "Задержка после экспорта ресурсов"
   "Deuterium synthesizer": "Синтезатор дейтерия"
   "Deuterium tank": "Ёмкость для дейтерия"
   "Export within same galaxy only": "Экспорт ресурсов в пределах галактики"
@@ -494,27 +494,27 @@ bot.settings.brain:
   "Max metal storage level to build": "Максимальный уровень Хранилища Металла для строительства"
   "Max nanite factory level to build": "Максимальный уровень Фабрики Нанитов для строительства"
   "Max robotics factory level to build": "Максимальный уровень Фабрики Роботов для строительства"
-  "Max sensor phalanx level to build": ""
+  "Max sensor phalanx level to build": "Максимальный уровень Сенсорной фаланги для постройки"
   "Max solar plant level to build": "Максимальный уровень Солнечной Электростанций для строительства"
   "Metal mine": "Рудник по добыче Металла"
   "Metal storage": "Хранилище Металла"
-  "Moon": "" # global (undefined)
+  "Moon": "Луна" # global (undefined)
   "Nanite factory": "Фабрика Нанитов"
   "None": "Ничего" # global (undefined)
   "Planet": "Планета" # global (undefined)
-  "Prevent importing if come back during sleep time": ""
+  "Prevent importing if come back during sleep time": "Предотвратить импорт, если вернетесь во время сна"
   "Queue": "Очередь" # global (undefined)
   "Robotics factory": "Фабрика роботов"
   "Save": "Сохранить" # global (undefined)
-  "Sensor phalanx": ""
+  "Sensor phalanx": "Сенсорная Фаланга"
   "Solar plant": "Солнечная Электростанция"
-  "to": "" # global (undefined)
+  "to": "в" # global (undefined)
 bot.settings.debug:
-  "HTTP client timeout": ""
-  "Save": "" # global (undefined)
+  "HTTP client timeout": "Время ожидания клиента http"
+  "Save": "Сохранить" # global (undefined)
 bot.settings.defender:
   "--- Bot decision ---": "Бот решает"
-  "2-steps (planets then moons)": ""
+  "2-steps (planets then moons)": "2-ступени (планеты, затем Луны)"
   "Always": "Всегда"
   "Build ABM on missiles attack detected": "Построение Противоракет при обнаруженной атаке ракет"
   "Checks for activity from homeworld": "Проверять активность с Главной планеты"
@@ -565,7 +565,7 @@ bot.settings.expeditionMessages:
   "Re-process existing messages": "Повторная обработка существующих сообщений"
 bot.settings.expeditions:
   "Actions": "Отозвать" # global (undefined)
-  "Active": "" # global (undefined)
+  "Active": "Активен" # global (undefined)
   "Are you sure?": "Вы Уверены?" # global (undefined)
   "Arrive in": "Прибудет в" # global (undefined)
   "Attack": "Атака" # global (undefined)
@@ -580,7 +580,7 @@ bot.settings.expeditions:
   "Current fleets": "Передвижение флотов" # global (undefined)
   "Deathstar": "Звезда Смерти" # global (undefined)
   "Delay between fleet (secs)": "Интервал между флотами (секунды)"
-  "Delay between waves (secs)": ""
+  "Delay between waves (secs)": "Задержка между волнами"
   "Destination": "Место назначения" # global (undefined)
   "Destroy": "Уничтожить" # global (undefined)
   "Destroyer": "Уничтожитель" # global (undefined)
@@ -600,14 +600,14 @@ bot.settings.expeditions:
   "Large Cargo": "Большой Транспорт" # global (undefined)
   "Large Cargo to stay": "Оставить Больших Транспортов"
   "Light Fighter": "Легкий Истребитель" # global (undefined)
-  "Minimum speed": ""
+  "Minimum speed": "Минимальная скорость"
   "Minimum speed for the early PF": "Минимальная скорость для ПП отправляемых заранее"
   "Missile Attack": "Ракетный Удар" # global (undefined)
   "Mission": "Задание" # global (undefined)
   "Name": "Имя" # global (undefined)
   "Never wait (100% getting ban)": "Не ждать (100% получение бана)"
   "No fleets": "Нет флотов" # global (undefined)
-  "Number to send": ""
+  "Number to send": "Номер для отправки"
   "Origin": "Место вылета" # global (undefined)
   "PF that will not be send with auto-split nor for recycle": "ПП Которые не будут отправлены ни с ПП заранее ни с ПП в экспедицию"
   "PF will be send to arrive at the same time as debris field is created (if any)": "ПП прибудут для  в то же время, когда будет создано поле обломков (если таковое будет или не будет)"
@@ -619,7 +619,7 @@ bot.settings.expeditions:
   "Recycle debris": "Собрать Поле обломков"
   "Recycler": "Переработчик" # global (undefined)
   "SC that will not be send with auto-split": "Количество МТ которое не будет учитываться в авто-разделений"
-  "Secs after expedition": ""
+  "Secs after expedition": "Секунды после экспедиции"
   "Select origin": "Выбрать Место отправления" # global (undefined)
   "Ships per expedition": "Корабли для Экспедиции"
   "Slots allowed": "Разрешено слотов"
@@ -629,8 +629,8 @@ bot.settings.expeditions:
   "Statistics": "Статистика"
   "Strategy": "Стратегия"
   "Systems range": "Интервал Систем"
-  "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": ""
-  "Time in seconds that early PF will arrive after the expedition": ""
+  "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "Установите флажок для автоматического разделения доступных кораблей или введите номер для отправки определенного количества кораблей"
+  "Time in seconds that early PF will arrive after the expedition": "Время в секундах, которое ранний ПП прибудет после экспедиции"
   "Transport": "Транспорт" # global (undefined)
   "Wait for all expeditions slots": "Дождаться возвращения всех Экспедиционных слотов"
   "Wait for majority of expeditions slots": "Дождаться большинства Экспедиционных слотов"
@@ -879,7 +879,7 @@ bot.settings.settings:
   "Enable RecursosAmpliados": "Включить RecursosAmpliados"
   "Enable TopRaider": "Включить TopRaider"
   "Enable browser augments": "Включить дополнения браузера"
-  "Enter your password": ""
+  "Enter your password": "Ввести пароль"
   "Espionage probe": "Шпионский Зонд"
   "General": "Обшее" # global (undefined)
   "General options": "Общие Настройки"
@@ -900,13 +900,13 @@ bot.settings.settings:
   "Proxy username": "Имя Прокси" # global (undefined)
   "Remove ads": "Удалить Рекламу"
   "Remove banner": "Удалить Банер"
-  "Round up resources": ""
-  "Round up ships": ""
+  "Round up resources": "Округление ресурсов"
+  "Round up ships": "Округление кораблей"
   "Save": "Сохранить" # global (undefined)
   "Save proxy": "Сохранить Прокси"
   "Share account": "Поделиться Аккаунтом"
   "Share with": "Поделиться"
-  "Show credentials": ""
+  "Show credentials": "Показать Учетные данные"
   "Slots reserved for player": "Резервировать слотов для игрока"
   "Small cargo": "Малый Транспорт"
   "Sort planets in dropdowns by": "Сортировка планет в выпадающих списках по"
@@ -990,7 +990,7 @@ bot.simulator:
   "Crystal": "Кристалл" # global (undefined)
   "Deathstar": "Звезда Смерти" # global (undefined)
   "Debris": "Поле Обломков" # global (undefined)
-  "Defence": ""
+  "Defence": "Защита"
   "Defence repair factor": "Фактор ремонта обороны"
   "Defence to debris": "Оборона в Обломки"
   "Defender": "Защитник" # global (undefined)
@@ -1252,7 +1252,7 @@ new-bot:
   "Player ID": "ID Игрока"
   "Proxy password": "Пароль прокси" # global (undefined)
   "Proxy username": "Имя прокси" # global (undefined)
-  "Redeem code": "" # global (undefined)
+  "Redeem code": "Активировать код" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
 new-license:
   "Buy license": "Купить Лиценцию" # global (undefined)
@@ -1278,7 +1278,7 @@ new-lobby-account:
   "OTP secret": "Секрет OTP" # global (undefined)
   "Proxy password": "Прокси пароль" # global (undefined)
   "Proxy username": "Прокси Имя" # global (undefined)
-  "Redeem code": "" # global (undefined)
+  "Redeem code": "Активировать код" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
 new-lobby:
   "Add account to lobby": "Добавить аккаунт лобби" # global (undefined)
@@ -1289,7 +1289,7 @@ new-lobby:
   "New lobby": "Новый Лобби" # global (undefined)
   "Proxy password": "Прокси пароль" # global (undefined)
   "Proxy username": "Прокси Имя" # global (undefined)
-  "Redeem code": "" # global (undefined)
+  "Redeem code": "Активировать код" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
 new-proposal:
   "All suggestions": "Все предложения" # global (undefined)
@@ -1359,16 +1359,16 @@ proposals:
   "Prev": "Предыдущий" # global (undefined)
   "Search": "Поиск" # global (undefined)
 redeem-code:
-  "Add account to lobby": "" # global (undefined)
-  "Gameforge email": "" # global (undefined)
-  "Gameforge password": "" # global (undefined)
-  "New bot": "" # global (undefined)
-  "New lobby": "" # global (undefined)
-  "OTP secret": "" # global (undefined)
-  "Proxy password": "" # global (undefined)
-  "Proxy username": "" # global (undefined)
-  "Redeem code": "" # global (undefined)
-  "____-____-____-____-____": ""
+  "Add account to lobby": "добавить аккаунт лобби" # global (undefined)
+  "Gameforge email": "Gameforge Емайл" # global (undefined)
+  "Gameforge password": "Gameforge пароль" # global (undefined)
+  "New bot": "Новый бот" # global (undefined)
+  "New lobby": "новое лобби" # global (undefined)
+  "OTP secret": "OTP секрет" # global (undefined)
+  "Proxy password": "Пароль прокси" # global (undefined)
+  "Proxy username": "имя прокси" # global (undefined)
+  "Redeem code": "Активировать код" # global (undefined)
+  "____-____-____-____-____": "____-____-____-____-____"
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
 renew-instance:
   "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
@@ -1400,18 +1400,18 @@ reorder-bots:
   "Home": "Дом" # global (undefined)
   "Reorder bots": "Расставить порядок ботов" # global (undefined)
 sessions-two-factor-recovery:
-  "Recovery code": ""
-  "Two-factor recovery": ""
-  "Verify": "" # global (undefined)
+  "Recovery code": "восстановить код"
+  "Two-factor recovery": "двух-фактурная восстановить"
+  "Verify": "проверка" # global (undefined)
 sessions-two-factor:
-  "6-digit code": ""
-  "Enter a two-factor recovery code": ""
-  "Two-factor authentication": ""
-  "Verify": "" # global (undefined)
+  "6-digit code": "6-значный код"
+  "Enter a two-factor recovery code": "введите двух-факторный код восстановления"
+  "Two-factor authentication": "двух-фактурная аунтификация"
+  "Verify": "Проверка" # global (undefined)
 settings.account:
-  "0-15min": ""
-  "16-40min": ""
-  "41-60min": ""
+  "0-15min": "0-15 минут"
+  "16-40min": "16-40 минут"
+  "41-60min": "41-60 минут"
   "Change my username": "Создать мое имя"
   "Change password": "Создать пароль"
   "Change username": "Создать имя"
@@ -1429,12 +1429,12 @@ settings.account:
   "Root admin cannot delete his account": "Администратор Root не может удалить свою учетную запись"
   "Save": "Сохранить" # global (undefined)
   "Settings": "Настройки" # global (undefined)
-  "Slack account": ""
+  "Slack account": "Slack аккаунт"
   "Theme": "Тема" # global (undefined)
-  "Two-Factor Authentication": "" # global (undefined)
-  "Unlink slack account": ""
+  "Two-Factor Authentication": "двух-факторная аунтификация" # global (undefined)
+  "Unlink slack account": "отсоеденить slack аккаунт"
   "Update password": "Обновить пароль"
-  "Vacation": "" # global (undefined)
+  "Vacation": "ПО" # global (undefined)
 settings.api:
   "API": "API" # global (undefined)
   "API key": "API ключ"
@@ -1489,18 +1489,18 @@ ticketSupport.new-invoice:
   "Bots": "Боты" # global (undefined)
   "Valid until": "Действителен до" # global (undefined)
 two-factor-authentication-verify:
-  "1- Recovery code": ""
-  "2- Scan this barcode with your app.": ""
-  "3- Enter the six-digit code from the application": ""
-  "After scanning the barcode image, the app will display a six-digit code that you can enter below.": ""
-  "Cancel": ""
-  "Enable": ""
-  "Recovery code is used to access your account in the event you cannot receive two-factor authentication codes.": ""
+  "1- Recovery code": "код восстановления"
+  "2- Scan this barcode with your app.": "Сканируйте этот штрих-код с помощью вашего приложения."
+  "3- Enter the six-digit code from the application": "Введите шестизначный код из приложения"
+  "After scanning the barcode image, the app will display a six-digit code that you can enter below.": "После сканирования изображения штрих-кода приложение отобразит шестизначный код, который вы можете ввести ниже"
+  "Cancel": "Отмена"
+  "Enable": "Включить"
+  "Recovery code is used to access your account in the event you cannot receive two-factor authentication codes.": "Код восстановления используется для доступа к вашей учетной записи в том случае, если вы не можете получить коды двухфакторной аутентификации."
   "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter": ""
-  "Treat your recovery codes with the same level of attention as you would your password!": ""
-  "We recommend saving them with a password manager such as Lastpass, 1Password, or Keeper.": ""
-  "instead.": ""
-  "this text code": ""
+  "Treat your recovery codes with the same level of attention as you would your password!": "Относитесь к своим кодам восстановления с таким же вниманием, как и к своему паролю!"
+  "We recommend saving them with a password manager such as Lastpass, 1Password, or Keeper.": "Мы рекомендуем сохранять их с помощью менеджера паролей, такого как Lastpass, 1Password или Keeper."
+  "instead.": "вместо"
+  "this text code": "это текстовый код"
 two-factor:
   "Backup the file in": "Сделайте резервную копию файла в"
   "Download ogame ninja binary for your OS": "Скачать ogame ninja бинарники для вашей ОС"
