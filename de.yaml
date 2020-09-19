@@ -547,7 +547,7 @@ bot.index:
   "Scripts": "Skripte"
   "Simulator": "Simulator"
 bot.planet:
-  "Add to queue": "Zur Warteschlage hinzufügen"
+  "Add to queue": "Zur Warteschlange hinzufügen"
   "Build": "Bauen"
   "Building": "Baut"
   "Cargo capacity": "Transporter Laderaum"
