@@ -1,718 +1,2440 @@
 global:
-  "Home": "Home"
-  "Pricing": "Preço"
-  "Download": "Download"
-  "FAQ": "FAQ"
-  "Features": "Funcionalidades"
-  "Servers": "Servidores"
-  "Account": "Conta"
-  "Admin": "Admin"
-  "Sign out": "Sair"
-  "Login": "Entrar"
-  "Register": "Registar"
-  "Your Ninja software needs to be updated.": "O seu software precisa de ser actualizado."
-  "update your instance here": "actualize a sua instância aqui"
-  "download the latest version here": "download da última versão aqui"
-  "Sessions": "Sessões"
+  Account: "Conta"
+  Actions: "Acções"
+  Activities: "Actividades"
+  Admin: "Admin"
+  Alliance Depot: "Depósito da Aliança"
+  Anti-Ballistic Missiles: "Míssil de Intercepção"
   "Are you sure?": "Tem a certeza?"
-  "Bot": "Bot"
-  "Empire": "Império"
-  "Galaxy": "Galáxia"
-  "Flights": "Vôos"
-  "Simulator": "Simulador"
-  "Scripts": "Scripts"
-  "Browser": "Navegador"
-  "Overview": "Vista Geral"
-  "Brain": "Brain"
-  "Defender": "Defender"
-  "Scanner": "Scanner"
-  "Hunter": "Hunter"
-  "Farmer": "Farmer"
-  "Activities": "Actividades"
-  "Logs": "Logs"
-  "Settings": "Definições"
-  "Stop": "Parar"
-  "Start": "Iniciar"
-  "License": "Licença"
-  "Users": "Utilizadores"
-  "Bots": "Bots"
-  "Update": "Actualizar"
-  "Table": "Tabela"
-  "Map": "Mapa"
-  "Crawl": "Crawl"
-  "max": "max"
-  "Light Fighter": "Caça Ligeiro"
-  "Heavy Fighter": "Caga Pesado"
-  "Cruiser": "Cruzador"
-  "Battleship": "Nave de Batalha"
-  "Battlecruiser": "Interceptor"
-  "Bomber": "Bombardeiro"
-  "Destroyer": "Destruidor"
-  "Deathstar": "Estrela da Morte"
-  "Small Cargo": "Cargueiro Pequeno"
-  "Large Cargo": "Cargueiro Grande"
-  "Colony Ship": "Nave de Colonização"
-  "Recycler": "Reciclador"
-  "Espionage Probe": "Sonda de Espionagem"
-  "Solar Satellite": "Satélite Solar"
-  "Attack": "Atacar"
-  "Transport": "Transportar"
-  "Park": "Transferir"
-  "Spy": "Espiar"
-  "Recycle debris field": "Reciclar Campo de Destroços"
-  "Destroy": "Destruir Lua"
-  "Expedition": "Expedição"
-  "Grouped Attack": "Ataque de Aliança"
-  "Park In That Ally": "Manter Posições"
-  "Colonize": "Colonizar"
-  "Missile Attack": "Ataque de Misséis"
-  "Metal": "Metal"
-  "Crystal": "Cristal"
-  "Deuterium": "Deutério"
-  "Mission": "Missão"
-  "Origin": "Lugar de Partida"
-  "Destination": "Destino"
-  "Arrive in": "Arrive dans"
-  "Actions": "Acções"
-  "Harvest": "Recolher"
-  "Metal Mine": "Mina de Metal"
-  "Crystal Mine": "Mina de Cristal"
-  "Deuterium Synthesizer": "Sintetizador de Deutério"
-  "Solar Plant": "Planta de Energia Solar"
-  "Fusion Reactor": "Planta de Fusão"
-  "Metal Storage": "Armazém de Metal"
-  "Crystal Storage": "Armazém de Cristal"
-  "Deuterium Tank": "Tanque de Deutério"
-  "Alliance Depot": "Depósito da Aliança"
-  "Robotics Factory": "Fábrica de Robots"
-  "Shipyard": "Hangar"
-  "Research Lab": "Laboratório de Pesquisas"
-  "Missile Silo": "Silo de Mísseis"
-  "Nanite Factory": "Fábrica de Nanites"
-  "Terraformer": "Terra-Formador"
-  "Space Dock": "Estaleiro Espacial"
-  "Rocket Launcher": "Lançador de Mísseis"
-  "Light Laser": "Laser Ligeiro"
-  "Heavy Laser": "Laser Pesado"
-  "Gauss Cannon": "Canhão de Gauss"
-  "Ion Cannon": "Canhão de Iões"
-  "Plasma Turret": "Canhão de Plasma"
-  "Small Shield Dome": "Pequeno Escudo Planetário"
-  "Large Shield Dome": "Grande Escudo Planetário"
-  "Anti-Ballistic Missiles": "Míssil de Intercepção"
-  "Interplanetary Missiles": "Míssil Interplanetário"
-  "Espionage Technology": "Tecnologia de Espionagem"
-  "Computer Technology": "Tecnologia de Computadores"
-  "Weapons Technology": "Technologia de Armas"
-  "Shielding Technology": "Tecnologia de Escudo"
-  "Armour Technology": "Tecnologia de Blindagem"
-  "Energy Technology": "Tecnologia de Energia"
-  "Hyperspace Technology": "Tecnologia de Hiperespaço"
-  "Combustion Drive": "Motor de Combustão"
-  "Impulse Drive": "Motor de Impulsão"
-  "Hyperspace Drive": "Motor Propulsor de Hiperespaço"
-  "Laser Technology": "Tecnologia Laser"
-  "Ion Technology": "Tecnologia de Iões"
-  "Plasma Technology": "Tecnologia de Plasma"
-  "Research Network": "Rede Intergaláctica de Pesquisas"
-  "Intergalactic Research Network": "Rede Intergaláctica de Pesquisas"
-  "Astrophysics": "Astrofísica"
-  "Graviton Technology": "Tecnologia de Gravitação"
-  "Lunar Base": "Base Lunar"
-  "Sensor Phalanx": "Sensor Phalanx"
-  "Jump Gate": "Portal de Salto Quântico"
-  "Honour points": "Pontos de Honra"
-  "Rank": "Posição"
-  "Points": "Pontos"
-  "Structural integrity": "Integridade Estrutural"
-  "Shield power": "Poder de escudo"
-  "Weapon power": "Poder de armas"
-  "Rapidfire from": "Rapidfire de"
-  "Rapidfire against": "Rapidfire contra"
-  "Cargo capacity": "Capacidade de Carga"
-  "Speed": "Velocidade"
-  "Fuel consumption": "Consumo"
-  "Username": "Utilizador"
-  "Password": "Palavra Passe"
-  "Yes": "Sim"
-  "No": "Não"
-home:
-  "My servers": "Meus Servidores"
-  "New server": "Novo Servidor"
-  "Domain": "Domínio"
-  "Status": "Estado"
-  "No servers to display": "Nenhum servidor para mostrar"
-  "Bots": "Bots"
-  "New bot": "Novo bot"
-  "Email": "Email"
-  "Universe": "Universo"
-  "Lang": "País"
-  "Rank": "Posição"
-  "Points": "Pontos"
-settings.account:
-  "Change password": "Alterar senha"
-  "Change username": "Alterar utilizador"
-  "Old password": "Antiga senha"
-  "New password": "Nova senha"
-  "Confirm new password": "Confirme a senha"
-  "Update password": "Actualizar senha"
-  "New username": "Novo utilizador"
-  "Change my username": "Alterar o meu utilizador"
-  "Delete account": "Apagar conta"
-  "Root admin cannot delete his account": "O administrador não consegue apagar a sua conta"
-  "Delete your account": "Apagar a sua conta"
-settings.sessions:
-  "IP": "IP"
-  "Expires at": "Expira em"
-  "User agent": "Agente utilizador"
-  "Your current session": "Sessão actual"
-  "Revoke": "Revogar"
-  "on": "em"
-bot.settings.home:
-  "General info": "Informações gerais"
-  "Proxy": "Proxy"
-  "Email": "Email"
-  "Universe": "Universo"
-  "Language": "Linguagem"
-  "Universe speed": "Velocidade do Universo"
-  "Universe speed fleet": "Velocidade de Frotas"
-  "Donut galaxy": "Galáxia Circular"
-  "Donut system": "Sistema Circular"
-  "Repatriate now": "Distribuir agora"
-  "Check attacks": "Verificar Ataques"
-  "What is my IP?": "Qual é o meu ip?"
-  "Brain activities": "Brain activities"
-  "No plans": "Sem planos"
-  "Defender activities": "Defender activities"
-  "Attacker": "Atacante"
-  "Remaining time": "Tempo restante"
-  "Cancel evacuation": "Cancelar evacuação"
-  "Reschedule evacuation": "Reprogramar evacuação"
-  "No evacuations planned": "Sem evacuações programadas"
-bot.settings.brain:
-  "Brain configs": "Brain configs"
-  "Brain active": "Brain activo"
-  "Only build queues": "Apenas construções em fila"
-  "Let AI upgrade your planets": "Deixar AI melhorar os planetas"
-  "Save": "Salvar"
-bot.settings.defender:
-  "Defender configs": "Defender configs"
-  "Email alert when attacked": "Alerta de email em caso de ataque"
-  "test email": "testar email"
-  "Telegram alert when attacked": "Alerta de Telegram em caso de ataque"
-  "test notif": "testar notif"
-  "Repatriate resources": "Distribuir recursos"
-  "next in": "em seguida"
-  "Repatriate interval": "Intervalo de distribuição"
-  "minutes": "minutos"
-  "to": "para"
-  "Defender active": "Defender activo"
-  "next check in": "próxima verificação em"
-  "Check interval": "Intervalo de controlo"
-  "min": "min"
-  "Evacuation speed on destroy attacks": "Velocidade de evacuação em ataques de destruição"
-  "Evacuate seconds before attack": "Segundos de evacuação antes do ataque"
-  "Recall seconds after attack": "Segundos de retorno de frota depois do ataque"
-  "Dump remaining resources in defenses": "Gastar recursos em excesso em defesa"
-  "activate for moon ?": "activar na lua?"
-  "Send message to attackers": "Envie mensagem ao atacante"
-  "Randomize planet/moon that checks for activity": "Criar actividade aleatóriamente em planeta/lua"
-  "Evacuate only if simulator predict": "Evacuar apenas se o simulador prever"
-  "loss": "perda"
-  "highly experimental feature, use at OWN risk.": "funcionalidade experimental, utilize à SUA RESPONSABILIDADE"
-  "Save": "Salvar"
-bot.settings.scanner:
-  "Scanner configs": "Scanner configs"
-  "Scanner active": "Scanner activo"
-  "next in": "em seguida"
-  "Scans the whole universe every set amount of hours.": "Faz scan o universo inteiro a cada intervalo de horas"
-  "minimum": "mínimo"
-  "Scan frequency": "Frequência de scan"
-  "hours": "horas"
-  "Interval between system scan": "Intervalo entre scan de sistemas solares"
-  "milliseconds": "milisegundos"
-  "Save": "Salvar"
-bot.settings.hunter:
-  "Hunter configs": "Hunter configs"
-  "next in": "em seguida"
-  "Scan frequency": "Frequência de scan"
-  "minutes": "minutos"
-  "Save": "Salvar"
-  "Activities": "Actividades"
-  "Player": "Jogador"
-  "Player rank": "Classificação do jogador"
-  "Alliance": "Aliança"
-  "Alliance rank": "Classificação da aliança"
-  "View activities": "Ver actividades"
-  "No targets": "Sem alvos"
-bot.settings.farmer:
-  "Farmer configs": "Farmer configs"
-  "Farmer active": "Farmer activo"
-  "Save": "Salvar"
-  "Settings": "Definições"
-  "Origin": "Origem"
-  "Select origin": "Seleccionar origem"
-  "Range": "alcance"
-  "Nb probes": "Nr Sondas"
-  "Min. resources to attack": "Recursos mínimos para atacar"
-  "Min. defenses to ignore": "Defesas mínimas a ignorar"
-  "Minimum level of storage": "Nível máximo de armazém"
-  "Metal": "Metal"
-  "Crystal": "Cristal"
-  "Deuterium": "Deutério"
-  "Fast attacking": "Ataque rápido"
-  "Attack from nearest planet": "Atacar do planeta mais próximo"
-  "Espionage probe raids": "Atacar com sondas de espionagem"
-  "Attack speed": "Velocidade de ataque"
-  "Priority calculation": "Prioridade de cálculo"
-  "Start new session": "Iniciar nova sessão"
-  "ignored planets": "planetas ignorados"
-  "ignored players": "jogadores ignorados"
-  "ignored alliances": "alianças ignoradas"
-  "Total loot": "Pilhagem total"
-  "statistics": "estatísticas"
-  "Farm sessions": "Sessão de Farm"
-  "State": "Estado"
-  "Planet": "Planeta"
-  "Created at": "Criado em"
-  "No session": "Sem sessão"
+  Armour Technology: "Tecnologia de Blindagem"
+  Arrive in: "Chegar em"
+  Astrophysics: "Astrofísica"
+  Attack: "Atacar"
+  Battlecruiser: "Interceptor"
+  Battleship: "Nave de Batalha"
+  Bomber: "Bombardeiro"
+  Bot: "Bot"
+  Bots: "Bots"
+  Brain: "Cérebro"
+  Browser: "Navegador"
+  Cargo capacity: "Capacidade de Carga"
+  Colonize: "Colonizar"
+  Colony Ship: "Nave de Colonização"
+  Combustion Drive: "Motor de Combustão"
+  Computer Technology: "Tecnologia de Computadores"
+  Crawl: "Crawl"
+  Cruiser: "Cruzador"
+  Crystal: "Cristal"
+  Crystal Mine: "Mina de Cristal"
+  Crystal Storage: "Armazém de Cristal"
+  Deathstar: "Estrela da Morte"
+  Defender: "Defensor"
+  Destination: "Destino"
+  Destroy: "Destruir Lua"
+  Destroyer: "Destruidor"
+  Deuterium: "Deutério"
+  Deuterium Synthesizer: "Sintetizador de Deutério"
+  Deuterium Tank: "Tanque de Deutério"
+  Download: "Download"
+  Empire: "Império"
+  Energy Technology: "Tecnologia de Energia"
+  Espionage Probe: "Sonda de Espionagem"
+  Espionage Technology: "Tecnologia de Espionagem"
+  Expedition: "Expedição"
+  FAQ: "FAQ"
+  Farmer: "Farmer"
+  Features: "Funcionalidades"
+  Flights: "Movimentos"
+  Fuel consumption: "Consumo"
+  Fusion Reactor: "Planta de Fusão"
+  Galaxy: "Galáxia"
+  Gauss Cannon: "Canhão de Gauss"
+  Graviton Technology: "Tecnologia de Gravitação"
+  Grouped Attack: "Ataque de Aliança"
+  Harvest: "Recolher"
+  Heavy Fighter: "Caça Pesado"
+  Heavy Laser: "Laser Pesado"
+  Home: "Home"
+  Honour points: "Pontos de Honra"
+  Hunter: "Caçador"
+  Hyperspace Drive: "Motor Propulsor de Hiperespaço"
+  Hyperspace Technology: "Tecnologia de Hiperespaço"
+  Impulse Drive: "Motor de Impulsão"
+  Intergalactic Research Network: "Rede Intergaláctica de Pesquisas"
+  Interplanetary Missiles: "Míssil Interplanetário"
+  Ion Cannon: "Canhão de Iões"
+  Ion Technology: "Tecnologia de Iões"
+  Jump Gate: "Portal de Salto Quântico"
+  Large Cargo: "Cargueiro Grande"
+  Large Shield Dome: "Grande Escudo Planetário"
+  Laser Technology: "Tecnologia Laser"
+  License: "Licença"
+  Light Fighter: "Caça Ligeiro"
+  Light Laser: "Laser Ligeiro"
+  Login: "Entrar"
+  Logs: "Logs"
+  Lunar Base: "Base Lunar"
+  Map: "Mapa"
+  Metal: "Metal"
+  Metal Mine: "Mina de Metal"
+  Metal Storage: "Armazém de Metal"
+  Missile Attack: "Ataque de Misséis"
+  Missile Silo: "Silo de Mísseis"
+  Mission: "Missão"
+  Nanite Factory: "Fábrica de Nanites"
+  'No': "Não"
+  Origin: "Lugar de Partida"
+  Overview: "Vista Geral"
+  Park: "Transferir"
+  Park In That Ally: "Manter Posições"
+  Password: "Palavra Passe"
+  Plasma Technology: "Tecnologia de Plasma"
+  Plasma Turret: "Canhão de Plasma"
+  Points: "Pontos"
+  Pricing: "Preço"
+  Rank: "Posição"
+  Rapidfire against: "Rapidfire contra"
+  Rapidfire from: "Rapidfire de"
+  Recycle debris field: "Reciclar Campo de Destroços"
+  Recycler: "Reciclador"
+  Register: "Registar"
+  Research Lab: "Laboratório de Pesquisas"
+  Research Network: "Rede Intergaláctica de Pesquisas"
+  Robotics Factory: "Fábrica de Robots"
+  Rocket Launcher: "Lançador de Mísseis"
+  Scanner: "Examinador"
+  Scripts: "Scripts"
+  Sensor Phalanx: "Sensor Phalanx"
+  Servers: "Servidores"
+  Sessions: "Sessões"
+  Settings: "Definições"
+  Shield power: "Poder de escudo"
+  Shielding Technology: "Tecnologia de Escudo"
+  Shipyard: "Hangar"
+  Sign out: "Sair"
+  Simulator: "Simulador"
+  Small Cargo: "Cargueiro Pequeno"
+  Small Shield Dome: "Pequeno Escudo Planetário"
+  Solar Plant: "Planta de Energia Solar"
+  Solar Satellite: "Satélite Solar"
+  Space Dock: "Estaleiro Espacial"
+  Speed: "Velocidade"
+  Spy: "Espiar"
+  Start: "Iniciar"
+  Stop: "Parar"
+  Structural integrity: "Integridade Estrutural"
+  Table: "Tabela"
+  Terraformer: "Terra-Formador"
+  Transport: "Transportar"
+  Update: "Actualizar"
+  Username: "Utilizador"
+  Users: "Utilizadores"
+  Weapon power: "Poder de armas"
+  Weapons Technology: "Technologia de Armas"
+  'Yes': "Sim"
+  Your Ninja software needs to be updated.: "O seu software precisa de ser actualizado."
+  download the latest version here: "download da última versão aqui"
+  max: "max"
+  update your instance here: "actualize a sua instância aqui"
+admin.index:
+  # global (defined)
+  Bots: "Bots"
+  # global (defined)
+  License: "Licença"
+  Login history: "Histórico de logins"
+  # global (defined)
+  Settings: "Definições"
+  # global (undefined)
+  Themes: "Temas"
+  # global (defined)
+  Update: "Actualizar"
+  # global (defined)
+  Users: "Utilizadores"
+admin.license:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  # global (undefined)
+  Bots allowed: "Bots permitidos"
+  # global (undefined)
+  Created: "Criado"
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Expired: "Expirado"
+  # global (defined)
+  License: "Licença"
+  # global (undefined)
+  Owner: "Proprietário"
+  # global (undefined)
+  UUID: "UUID"
+  # global (undefined)
+  unlimited: "ilimitado"
+admin.login-history:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.audits:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.downloads:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.gift-cards:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.invoices:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.license:
+  # global (undefined)
+  Save: "Salvar"
+admin.masterAdmin.licenses:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.new-invoice:
+  # global (defined)
+  Bots: "Bots"
+  # global (undefined)
+  Valid until: "Válido até"
+admin.masterAdmin.payments:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.slaves-server:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+admin.masterAdmin.tags:
+  New tag: "Nova etiqueta"
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.masterAdmin.user-edit:
+  # global (undefined)
+  Create user: "Criar utilizador"
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Is admin: "É administrador"
+  # global (defined)
+  'No': "Não"
+  # global (defined)
+  Password: "Palavra Passe"
+  # global (undefined)
+  Retype password: "Redigite a palavra passe"
+  Slack ID: "Slack ID"
+  # global (undefined)
+  Update user: "Actualizar utilizador"
+  # global (defined)
+  Username: "Utilizador"
+  # global (defined)
+  'Yes': "Sim"
+admin.masterAdmin.user:
+  New note: "Nova nota"
+admin.masterAdmin.users:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+admin.settings:
+  # global (undefined)
+  General: "Geral"
+  Gives you access to your self-host server through: "Dá-lhe acesso ao seu servidor self-host através de"
+  "Host eg: smtp.gmail.com": "Alojamento ex: smtp.gmail.com"
+  Images URL: "URL imagens"
+  Logs retention (days): "Manter histórico (dias)"
+  Open .ogame folder: "Abrir pasta .ogame"
+  # global (defined)
+  Password: "Palavra Passe"
+  "Port eg: 587": "Porta ex: 587"
+  Reverse tunnel: "Túnel reverso"
+  SMTP settings (email): "Configurações de SMTP (e-mail)"
+  # global (undefined)
+  Save: "Salvar"
+  # global (defined)
+  Settings: "Definições"
+  Telegram bot api token: "Telegram bot api token"
+  # global (defined)
+  Username: "Utilizador"
+admin.theme-new:
+  Create theme: "Criar tema"
+  # global (undefined)
+  Name: "Nome"
+  Update theme: "Actualizar tema"
+admin.themes:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Delete theme: "Apagar tema"
+  New theme: "Novo tema"
+  No theme: "Sem tema"
+  # global (undefined)
+  Themes: "Temas"
+admin.update:
+  # global (defined)
+  Update: "Actualizar"
+  Update to latest: "Actualize para o mais recente"
+admin.updating:
+  You will be redirected soon: "Será redireccionado brevemente"
+admin.user-edit:
+  # global (undefined)
+  Create user: "Criar utilizador"
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Is admin: "É administrador"
+  # global (defined)
+  'No': "Não"
+  # global (defined)
+  Password: "Palavra Passe"
+  # global (undefined)
+  Retype password: "Redigite a palavra passe"
+  # global (undefined)
+  Update user: "Actualizar utilizador"
+  # global (defined)
+  Username: "Utilizador"
+  # global (defined)
+  'Yes': "Sim"
+admin.users:
+  # global (defined)
+  Admin: "Admin"
+  # global (undefined)
+  Created at: "Criado em"
+  Delete user: "Apagar utilizador"
+  New user: "Novo utilizador"
+  # global (defined)
+  Username: "Utilizador"
+  # global (defined)
+  Users: "Utilizadores"
+  Verified: "Verificado"
+antigame:
+  # global (undefined)
+  Arch: "Arch"
+  # global (undefined)
+  Downloads: "Downloads"
+  # global (undefined)
+  File name: "Ficheiro"
+  # global (undefined)
+  No files to display: "Nenhum ficheiro exibido"
+  # global (undefined)
+  OS: "OS"
+  # global (undefined)
+  SHA256 Checksum: "SHA256 Checksum"
+  # global (undefined)
+  Size: "Tamanho"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+bot.browser:
+  Empire page: "Página império"
+  Fullscreen: "Tela cheia"
+  Toggle manual mode: "Alternar modo manual"
+bot.conqueror:
+  # global (undefined)
+  Get spy reports: "Obter relatórios de espionagem"
+  No espionage report to show: "Sem relatórios de espionagem"
+bot.empire:
+  # global (defined)
+  Actions: "Acções"
+  # global (defined)
+  Alliance Depot: "Depósito da Aliança"
+  # global (defined)
+  Anti-Ballistic Missiles: "Míssil de Intercepção"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  # global (defined)
+  Armour Technology: "Tecnologia de Blindagem"
+  # global (defined)
+  Astrophysics: "Astrofísica"
+  # global (defined)
+  Battlecruiser: "Interceptor"
+  # global (defined)
+  Battleship: "Nave de Batalha"
+  # global (defined)
+  Bomber: "Bombardeiro"
+  Clear all construction queues: "Limpar todas as filas de construção"
+  # global (defined)
+  Colony Ship: "Nave de Colonização"
+  # global (defined)
+  Combustion Drive: "Motor de Combustão"
+  # global (defined)
+  Computer Technology: "Tecnologia de Computadores"
+  Crawl: "Processar"
+  # global (undefined)
+  Crawler: "Rastejador"
+  Crawler setting: "Rastejador config"
+  # global (defined)
+  Cruiser: "Cruzador"
+  # global (defined)
+  Crystal: "Cristal"
+  # global (defined)
+  Crystal Mine: "Mina de Cristal"
+  # global (defined)
+  Crystal Storage: "Armazém de Cristal"
+  Crystal setting: "Mina de Cristal config"
+  # global (defined)
+  Deathstar: "Estrela da Morte"
+  # global (defined)
+  Destroyer: "Destruidor"
+  Deut synt setting: "Sintetizador Deutério config"
+  # global (defined)
+  Deuterium: "Deutério"
+  # global (defined)
+  Deuterium Synthesizer: "Sintetizador de Deutério"
+  # global (defined)
+  Deuterium Tank: "Tanque de Deutério"
+  Energy: "Energia"
+  # global (defined)
+  Energy Technology: "Tecnologia de Energia"
+  # global (defined)
+  Espionage Probe: "Sonda de Espionagem"
+  # global (defined)
+  Espionage Technology: "Tecnologia de Espionagem"
+  Fields: "Campos"
+  # global (defined)
+  Fusion Reactor: "Planta de Fusão"
+  Fusion reactor setting: "Planta de Fusão config"
+  # global (defined)
+  Gauss Cannon: "Canhão de Gauss"
+  # global (defined)
+  Graviton Technology: "Tecnologia de Gravitação"
+  # global (defined)
+  Heavy Fighter: "Caça Pesado"
+  # global (defined)
+  Heavy Laser: "Laser Pesado"
+  Honour points: "Pontos de Honra"
+  # global (defined)
+  Hyperspace Drive: "Motor Propulsor de Hiperespaço"
+  # global (defined)
+  Hyperspace Technology: "Tecnologia de Hiperespaço"
+  # global (defined)
+  Impulse Drive: "Motor de Impulsão"
+  Intergalactic Research Network: "Rede Intergaláctica de Pesquisas"
+  # global (defined)
+  Interplanetary Missiles: "Míssil Interplanetário"
+  # global (defined)
+  Ion Cannon: "Canhão de Iões"
+  # global (defined)
+  Ion Technology: "Tecnologia de Iões"
+  # global (defined)
+  Jump Gate: "Portal de Salto Quântico"
+  # global (defined)
+  Large Cargo: "Cargueiro Grande"
+  # global (defined)
+  Large Shield Dome: "Grande Escudo Planetário"
+  # global (defined)
+  Laser Technology: "Tecnologia Laser"
+  # global (defined)
+  Light Fighter: "Caça Ligeiro"
+  # global (defined)
+  Light Laser: "Laser Ligeiro"
+  # global (defined)
+  Lunar Base: "Base Lunar"
+  # global (defined)
+  Metal: "Metal"
+  # global (defined)
+  Metal Mine: "Mina de Metal"
+  # global (defined)
+  Metal Storage: "Armazém de Metal"
+  Metal setting: "Mina de Metal config"
+  # global (defined)
+  Missile Silo: "Silo de Mísseis"
+  # global (defined)
+  Nanite Factory: "Fábrica de Nanites"
+  # global (undefined)
+  Pathfinder: "Exploradora"
+  # global (defined)
+  Plasma Technology: "Tecnologia de Plasma"
+  # global (defined)
+  Plasma Turret: "Canhão de Plasma"
+  # global (defined)
+  Points: "Pontos"
+  # global (defined)
+  Rank: "Posição"
+  # global (undefined)
+  Reaper: "Ceifeira"
+  # global (defined)
+  Recycler: "Reciclador"
+  # global (undefined)
+  Reorder planets: "Organizar planetas"
+  # global (defined)
+  Research Lab: "Laboratório de Pesquisas"
+  # global (defined)
+  Robotics Factory: "Fábrica de Robots"
+  # global (defined)
+  Rocket Launcher: "Lançador de Mísseis"
+  # global (defined)
+  Sensor Phalanx: "Sensor Phalanx"
+  # global (defined)
+  Shielding Technology: "Tecnologia de Escudo"
+  # global (defined)
+  Shipyard: "Hangar"
+  # global (defined)
+  Small Cargo: "Cargueiro Pequeno"
+  # global (defined)
+  Small Shield Dome: "Pequeno Escudo Planetário"
+  # global (defined)
+  Solar Plant: "Planta de Energia Solar"
+  # global (defined)
+  Solar Satellite: "Satélite Solar"
+  Solar plant setting: "Planta Solar config"
+  Solar sat setting: "Satélites config"
+  # global (defined)
+  Space Dock: "Estaleiro Espacial"
+  # global (defined)
+  Terraformer: "Terra-Formador"
+  Updated at: "Atualizado em"
+  # global (defined)
+  Weapons Technology: "Technologia de Armas"
+bot.flights:
+  # global (defined)
+  Actions: "Acções"
+  Activate all: "Activar todos"
+  # global (undefined)
+  Active: "Activo"
+  # global (undefined)
+  All: "Tudo"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Arrival: "Chegada"
+  # global (defined)
+  Arrive in: "Chegada em"
+  # global (defined)
+  Attack: "Atacar"
+  # global (defined)
+  Battlecruiser: "Interceptor"
+  # global (defined)
+  Battleship: "Nave de Batalha"
+  # global (defined)
+  Bomber: "Bombardeiro"
+  # global (undefined)
+  Cancel Fleet: "Cancelar frota"
+  Cargo: "Cargueiro"
+  # global (defined)
+  Colonize: "Colonizar"
+  # global (defined)
+  Colony Ship: "Nave de Colonização"
+  # global (undefined)
+  Crawler: "Rastejador"
+  Cron jobs: "Cron jobs"
+  # global (defined)
+  Cruiser: "Cruzador"
+  # global (defined)
+  Crystal: "Cristal"
+  # global (undefined)
+  Current fleets: "Movimentos actuais"
+  DS: "EDM"
+  Deactivate all: "Desactivar todos"
+  # global (defined)
+  Deathstar: "Estrela da Morte"
+  # global (undefined)
+  Debris: "Destroço"
+  Delete cron job: "Apagar cron jogb"
+  Delete flight: "Apagar frota"
+  # global (defined)
+  Destination: "Destino"
+  # global (defined)
+  Destroy: "Destruir Lua"
+  # global (defined)
+  Destroyer: "Destruidor"
+  # global (defined)
+  Deuterium: "Deutério"
+  Dur: "Dur"
+  # global (undefined)
+  Duration: "Duração"
+  Edit cron job: "Editar cron job"
+  # global (defined)
+  Espionage Probe: "Sonda de Espionagem"
+  # global (undefined)
+  Exp: "Exp"
+  # global (defined)
+  Expedition: "Expedição"
+  Flight: "Frota"
+  From: "De"
+  Fuel: "Combustível"
+  # global (defined)
+  Grouped Attack: "Ataque de Aliança"
+  # global (defined)
+  Harvest: "Recolher"
+  # global (defined)
+  Heavy Fighter: "Caça Pesado"
+  ID: "ID"
+  Jump gate: "Portal de Salto Quântico"
+  LC: "CG"
+  # global (defined)
+  Large Cargo: "Cargueiro Grande"
+  # global (defined)
+  Light Fighter: "Caça Ligeiro"
+  # global (defined)
+  Metal: "Metal"
+  # global (defined)
+  Missile Attack: "Ataque de Misséis"
+  # global (defined)
+  Mission: "Missão"
+  # global (undefined)
+  Moon: "Lua"
+  No cron job at the moment: "Nenhum cron job de momento"
+  # global (undefined)
+  No fleets: "Sem movimentos"
+  No saved flights: "Nenhuma frota salva"
+  # global (undefined)
+  None: "Nada"
+  # global (undefined)
+  Note: "Nota"
+  # global (defined)
+  Origin: "Origem"
+  PF: "EXP"
+  # global (defined)
+  Park: "Transferir"
+  # global (defined)
+  Park In That Ally: "Manter Posições"
+  # global (undefined)
+  Pathfinder: "Exploradora"
+  # global (undefined)
+  Planet: "Planeta"
+  # global (undefined)
+  Reaper: "Ceifeira"
+  Recycle Debris Field: "Reciclar Campo de Destroços"
+  Recycle debris field: "Reciclar Campo de Destroços"
+  # global (defined)
+  Recycler: "Reciclador"
+  # global (undefined)
+  Resources: "Recursos"
+  Return: "Retorna"
+  SC: "CP"
+  Save fleet: "Salvar frota"
+  Saved fleets: "Frotas salvas"
+  # global (undefined)
+  Select origin: "Seleccionar origem"
+  Send fleet: "Enviar frota"
+  Send flight: "Enviar movimento"
+  # global (undefined)
+  Ships: "Naves"
+  # global (defined)
+  Small Cargo: "Cargueiro Pequeno"
+  Spec: "Spec"
+  # global (defined)
+  Speed: "Velocidade"
+  # global (defined)
+  Spy: "Espiar"
+  To: "para"
+  # global (defined)
+  Transport: "Transportar"
+  from: "de"
+  max: "max"
+  mission: "Missão"
+  random delay 0-10min added: "atraso aleatório 0-10min adicionado"
+  speed: "Velocidade"
+  # global (undefined)
+  to: "para"
+bot.galaxy.index:
+  Map: "Mapa"
+  Table: "Tabela"
+bot.galaxy.map:
+  # global (undefined)
+  Active: "Activo"
+  Coord: "Coord"
+  # global (undefined)
+  Inactive: "Inactivo"
+  # global (undefined)
+  Vacation: "Férias"
+bot.galaxy.player:
+  # global (defined)
+  Actions: "Acções"
+  Add to hunter list: "Adicionar à lista de caçadores"
+  # global (undefined)
+  Alliance: "Aliança"
+  # global (undefined)
+  Coords: "Coords"
+  # global (defined)
+  Crystal: "Cristal"
+  # global (undefined)
+  Espionage: "Espionagem"
+  # global (undefined)
+  Espionage report: "Relatório de espionagem"
+  # global (defined)
+  Galaxy: "Galáxia"
+  # global (undefined)
+  Members: "Membros"
+  # global (defined)
+  Metal: "Metal"
+  # global (undefined)
+  Moon: "Lua"
+  # global (undefined)
+  Planet name: "Nome de planeta"
+  # global (undefined)
+  Player name: "Nome jogador"
+  Player profile: "Perfil jogador"
+  # global (undefined)
+  RN: "RN"
+  # global (defined)
+  Rank: "Posição"
+  # global (undefined)
+  Updated: "Actualizado"
+bot.galaxy.table:
+  # global (defined)
+  Actions: "Acções"
+  Add alliance to ignore list: "Ignorar aliança"
+  Add player to ignore list: "Ignorar jogador"
+  # global (undefined)
+  Alliance: "Aliança"
+  # global (undefined)
+  Coords: "Coords"
+  # global (defined)
+  Crystal: "Cristal"
+  Debris top 100: "Top 100 Destroços"
+  # global (undefined)
+  Espionage: "Espionagem"
+  # global (undefined)
+  Espionage report: "Relatório de espionagem"
+  # global (undefined)
+  Get spy reports: "Obter relatórios de espionagem"
+  Go: "Ir"
+  # global (undefined)
+  Members: "Membros"
+  # global (defined)
+  Metal: "Metal"
+  # global (undefined)
+  Moon: "Lua"
+  Open in OGame browser: "Abrir no navegador"
+  # global (undefined)
+  Planet name: "Nome de planeta"
+  # global (undefined)
+  Player name: "Nome jogador"
+  # global (undefined)
+  RN: "RN"
+  # global (defined)
+  Rank: "Posição"
+  Scan this page: "Examinar sistema"
+  Scan universe: "Examinar universo"
+  # global (undefined)
+  Search: "Pesquisar"
+  # global (undefined)
+  Send recyclers: "Enviar recicladores"
+  Stop scan universe: "Parar de examinar universo"
+  # global (undefined)
+  Updated: "Actualizado"
+bot.index:
+  Bot: "Bot"
+  Browser: "Navegador"
+  Conqueror: "Conquistador"
+  # global (defined)
+  Empire: "Império"
+  Flights: "Movimentos"
+  # global (defined)
+  Galaxy: "Galáxia"
+  # global (defined)
+  Home: "Home"
+  Scripts: "Scripts"
+  Simulator: "Simulador"
+bot.planet:
+  Add to queue: "Adicionar à fila"
+  Build: "Construir"
+  Building: "Construção"
+  Cargo capacity: "Capacidade de Carga"
+  Current: "Actual"
+  Current planet: "Planeta actual"
+  Fuel consumption: "Consumo"
+  "Import resources & build": "Importar recursos e construir"
+  Main planet: "Planeta Principal"
+  Price: "Preço"
+  # global (undefined)
+  Queue: "Fila"
+  Queue tear down: "Fila para destruir"
+  Rapidfire against: "Rapidfire contra"
+  Rapidfire from: "Rapidfire de"
+  Research: "Pesquisa"
+  Shield power: "Poder de escudo"
+  # global (defined)
+  Shipyard: "Hangar"
+  # global (defined)
+  Speed: "Velocidade"
+  Structural integrity: "Integridade Estrutural"
+  Sum: "Soma"
+  Weapon power: "Poder de armas"
+  no item in queue: "nenhum item na fila"
+bot.reorderPlanets:
+  # global (defined)
+  Empire: "Império"
+  # global (undefined)
+  Reorder planets: "Organizar planetas"
+bot.report:
+  # global (defined)
+  Alliance Depot: "Depósito da Aliança"
+  # global (defined)
+  Anti-Ballistic Missiles: "Míssil de Intercepção"
+  # global (defined)
+  Armour Technology: "Tecnologia de Blindagem"
+  # global (defined)
+  Astrophysics: "Astrofísica"
+  # global (defined)
+  Battlecruiser: "Interceptor"
+  # global (defined)
+  Battleship: "Nave de Batalha"
+  # global (defined)
+  Bomber: "Bombardeiro"
+  # global (defined)
+  Colony Ship: "Nave de Colonização"
+  # global (defined)
+  Combustion Drive: "Motor de Combustão"
+  # global (defined)
+  Computer Technology: "Tecnologia de Computadores"
+  # global (defined)
+  Cruiser: "Cruzador"
+  # global (defined)
+  Crystal Mine: "Mina de Cristal"
+  # global (defined)
+  Crystal Storage: "Armazém de Cristal"
+  # global (defined)
+  Deathstar: "Estrela da Morte"
+  # global (defined)
+  Destroyer: "Destruidor"
+  # global (defined)
+  Deuterium Synthesizer: "Sintetizador de Deutério"
+  # global (defined)
+  Deuterium Tank: "Tanque de Deutério"
+  # global (defined)
+  Energy Technology: "Tecnologia de Energia"
+  # global (defined)
+  Espionage Probe: "Sonda de Espionagem"
+  # global (defined)
+  Espionage Technology: "Tecnologia de Espionagem"
+  # global (defined)
+  Fusion Reactor: "Planta de Fusão"
+  # global (defined)
+  Gauss Cannon: "Canhão de Gauss"
+  # global (defined)
+  Graviton Technology: "Tecnologia de Gravitação"
+  # global (defined)
+  Heavy Fighter: "Caça Pesado"
+  # global (defined)
+  Heavy Laser: "Laser Pesado"
+  # global (defined)
+  Hyperspace Drive: "Motor Propulsor de Hiperespaço"
+  # global (defined)
+  Hyperspace Technology: "Tecnologia de Hiperespaço"
+  # global (defined)
+  Impulse Drive: "Motor de Impulsão"
+  # global (defined)
+  Interplanetary Missiles: "Míssil Interplanetário"
+  # global (defined)
+  Ion Cannon: "Canhão de Iões"
+  # global (defined)
+  Ion Technology: "Tecnologia de Iões"
+  # global (defined)
+  Jump Gate: "Portal de Salto Quântico"
+  # global (defined)
+  Large Cargo: "Cargueiro Grande"
+  # global (defined)
+  Large Shield Dome: "Grande Escudo Planetário"
+  # global (defined)
+  Laser Technology: "Tecnologia Laser"
+  # global (defined)
+  Light Fighter: "Caça Ligeiro"
+  # global (defined)
+  Light Laser: "Laser Ligeiro"
+  Load in simulator: "Carregar no simulador"
+  # global (defined)
+  Lunar Base: "Base Lunar"
+  # global (defined)
+  Metal Mine: "Mina de Metal"
+  # global (defined)
+  Metal Storage: "Armazém de Metal"
+  # global (defined)
+  Missile Silo: "Silo de Mísseis"
+  # global (defined)
+  Nanite Factory: "Fábrica de Nanites"
+  # global (defined)
+  Plasma Technology: "Tecnologia de Plasma"
+  # global (defined)
+  Plasma Turret: "Canhão de Plasma"
+  # global (defined)
+  Recycler: "Reciclador"
+  Report: "Relatório"
+  # global (defined)
+  Research Lab: "Laboratório de Pesquisas"
+  Research Network: "Rede Intergaláctica de Pesquisas"
+  # global (defined)
+  Robotics Factory: "Fábrica de Robots"
+  # global (defined)
+  Rocket Launcher: "Lançador de Mísseis"
+  # global (defined)
+  Sensor Phalanx: "Sensor Phalanx"
+  # global (defined)
+  Shielding Technology: "Tecnologia de Escudo"
+  # global (defined)
+  Shipyard: "Hangar"
+  # global (defined)
+  Small Cargo: "Cargueiro Pequeno"
+  # global (defined)
+  Small Shield Dome: "Pequeno Escudo Planetário"
+  # global (defined)
+  Solar Plant: "Planta de Energia Solar"
+  # global (defined)
+  Solar Satellite: "Satélite Solar"
+  # global (defined)
+  Space Dock: "Estaleiro Espacial"
+  # global (defined)
+  Terraformer: "Terra-Formador"
+  # global (defined)
+  Weapons Technology: "Technologia de Armas"
+bot.scripts:
+  Edit file name: "Renomear"
+  Pause/unpause: "Pausa/Retomar"
+  Run: "Executar"
+  # global (undefined)
+  Run at start: "Exec no arranque"
+  # global (defined)
+  Stop: "Parar"
+  Upload compiled script (.nja): "Upload scripts compilados (nja)"
+  Upload scripts (.tar): "Upload scripts (.tar)"
+  Validate Script: "Validar Script"
 bot.settings.activities:
-  "Fleet log": "Log de Frotas"
-  "Origin": "Origem"
-  "Destination": "Destino"
-  "Created at": "Criado em"
-  "No fleet in the log": "Sem frotas no log"
+  # global (undefined)
+  Created at: "Criado em"
+  # global (defined)
+  Destination: "Destino"
+  Fleet log: "Log de Frotas"
+  # global (defined)
+  Mission: "Missão"
+  # global (undefined)
+  Next: "Seguinte"
+  No fleet in the log: "Sem frotas no log"
+  # global (defined)
+  Origin: "Origem"
+  # global (undefined)
+  Prev: "Anterior"
+bot.settings.brain:
+  AI: "IA"
+  AI configs: "IA definições"
+  Brain active: "Cérebro activo"
+  Brain configs: "Cérebro configs"
+  Build fusion reactor up to: "Construir planta fusão até"
+  Build jump gate: "Construir portal"
+  Build solar satellites: "Construir satélites"
+  Crystal mine: "Mina de Cristal"
+  Crystal storage: "Armazém de Cristal"
+  Delay after exporting resources: "Atraso após exportar recursos"
+  Deuterium synthesizer: "Sintetizador de Deutério"
+  Deuterium tank: "Tanque de Deutério"
+  Export within same galaxy only: "Exportar apenas na mesma galáxia"
+  "Exporter?": "Exportar?"
+  Fusion reactor: "Planta de Fusão"
+  "Importer?": "Importar?"
+  Max crystal mine level to build: "Nível máx mina cristal"
+  Max crystal storage level to build: "Nível máx armazem cristal"
+  Max deut synth level to build: "Nível máx sintetizador deutério"
+  Max deuterium tank level to build: "Nível máx armazem deutério"
+  Max metal mine level to build: "Nível máx mina metal"
+  Max metal storage level to build: "Nível máx armazem metal"
+  Max nanite factory level to build: "Nível máx fábrica nanites"
+  Max robotics factory level to build: "Nível máx fábrica robots"
+  Max sensor phalanx level to build: "Nível máx sensor phalanx"
+  Max solar plant level to build: "Nível máx planta solar"
+  Metal mine: "Mina de Metal"
+  Metal storage: "Armazém de Metal"
+  # global (undefined)
+  Moon: "Lua"
+  Nanite factory: "Fábrica de Nanites"
+  # global (undefined)
+  None: "Nada"
+  # global (undefined)
+  Planet: "Planeta"
+  Prevent importing if come back during sleep time: "Não importar, se movimentos regressarem durante dormir"
+  # global (undefined)
+  Queue: "Fila"
+  Robotics factory: "Fábrica de Robots"
+  # global (undefined)
+  Save: "Salvar"
+  Sensor phalanx: "Sensor Phalanx"
+  Solar plant: "Planta de Energia Solar"
+  # global (undefined)
+  to: "para"
+bot.settings.debug:
+  HTTP client timeout: "HTTP client timeout"
+  # global (undefined)
+  Save: "Salvar"
+bot.settings.defender:
+  "--- Bot decision ---": "--- Decisão do bot ---"
+  2-steps (planets then moons): "2-passos (planetas e depois luas)"
+  Always: "Sempre"
+  Build ABM on missiles attack detected: "Construir MI se ataque de misséis detectado"
+  Checks for activity from homeworld: "Verifica actividade no planeta principal"
+  Checks for activity from latest active planet/moon: "Verifica actividade no último planeta/lua activo"
+  Dangerous: "Perigoso"
+  Defender active: "Defensor activo"
+  Defender configs: "Defensor configs"
+  Desktop notification when attacked: "Notificação no Desktop quando atacado"
+  Dump remaining resources in defenses: "Gastar recursos em excesso em defesa"
+  Evacuate seconds before attack: "Segundos de evacuação antes do ataque"
+  Evacuation configs: "Evacuação config"
+  Evacuation speed on destroy attacks: "Velocidade de evacuação em ataques de destruição"
+  Never: "Nunca"
+  Notify small fleet attacks (< 1/3 firepower): "Notifica ataques de frotas pequenas (< 1/3 poder fogo)"
+  # global (undefined)
+  Planet: "Planeta"
+  Play sound when attacked: "Tocar som quando atacado"
+  Preferred destination: "Destino preferido"
+  Prevent if come back during sleep time: "Previne, se movimentos regressarem durante dormir"
+  Probe new attackers: "Espia novos atacantes"
+  Randomize moon that checks for activity: "Lua aleatória que verifica a atividade"
+  Randomize planet/moon that checks for activity: "Criar actividade aleatóriamente em planeta/lua"
+  Recall seconds after attack: "Segundos de retorno de frota depois do ataque"
+  Repatriate configs: "Distribuir config"
+  Repatriate interval: "Intervalo de distribuição"
+  Repatriate random order: "Distribuir ordem aleatória"
+  Repatriate resources: "Distribuir recursos"
+  # global (undefined)
+  Save: "Salvar"
+  Send message to attackers: "Envie mensagem ao atacante"
+  "activate for moon ?": "activar na lua?"
+  # global (undefined)
+  minutes: "minutos"
+  # global (undefined)
+  next check in: "próxima verificação em"
+  # global (undefined)
+  next in: "em seguida"
+  sec: "seg"
+  # global (undefined)
+  to: "para"
+bot.settings.expeditionMessages:
+  # global (defined)
+  Actions: "Acções"
+  # global (undefined)
+  Category: "Categoria"
+  # global (undefined)
+  Coordinate: "Coordenada"
+  # global (undefined)
+  Espionage report: "Relatório de espionagem"
+  # global (defined)
+  Expedition: "Expedição"
+  Extract expedition messages: "Extrair mensagens de expedição"
+  # global (undefined)
+  InGame date: "Data ingame"
+  # global (undefined)
+  Message: "Mensagem"
+  # global (undefined)
+  Messages: "Mensagens"
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  No messages to show: "Sem mensagens"
+  # global (undefined)
+  Prev: "Anterior"
+  Re-process existing messages: "Reprocessar mensagens existentes"
+bot.settings.expeditions:
+  # global (defined)
+  Actions: "Acções"
+  # global (undefined)
+  Active: "Activo"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  # global (defined)
+  Arrive in: "Arrive dans"
+  # global (defined)
+  Attack: "Atacar"
+  # global (defined)
+  Battlecruiser: "Interceptor"
+  # global (defined)
+  Battleship: "Nave de Batalha"
+  # global (defined)
+  Bomber: "Bombardeiro"
+  # global (undefined)
+  Cancel Fleet: "Cancelar frota"
+  Click here to load current fleets: "Mostrar movimentos"
+  # global (defined)
+  Colonize: "Colonizar"
+  # global (defined)
+  Colony Ship: "Nave de Colonização"
+  # global (defined)
+  Cruiser: "Cruzador"
+  # global (undefined)
+  Current fleets: "Movimentos actuais"
+  # global (defined)
+  Deathstar: "Estrela da Morte"
+  Delay between fleet (secs): "Atraso entre a vagas (segundos)"
+  Delay between waves (secs): "Atraso entre sets (segundos)"
+  # global (defined)
+  Destination: "Destino"
+  # global (defined)
+  Destroy: "Destruir Lua"
+  # global (defined)
+  Destroyer: "Destruidor"
+  # global (undefined)
+  Duration: "Duração"
+  # global (defined)
+  Espionage Probe: "Sonda de Espionagem"
+  # global (undefined)
+  Exp: "Exp"
+  # global (defined)
+  Expedition: "Expedição"
+  Expedition speed: "Velocidade expedição"
+  Expeditions active: "Expedições activas"
+  Expeditions configs: "Expedições configs"
+  Expeditions origin: "Expedições origem"
+  # global (defined)
+  Grouped Attack: "Ataque de Aliança"
+  # global (defined)
+  Harvest: "Recolher"
+  # global (defined)
+  Heavy Fighter: "Caça Pesado"
+  Ignore min deut: "Ignorar min deut"
+  LC that will not be send with auto-split: "CG não serão enviados com divisão automática"
+  # global (defined)
+  Large Cargo: "Cargueiro Grande"
+  Large Cargo to stay: "Carg. Grande para ficar"
+  # global (defined)
+  Light Fighter: "Caça Ligeiro"
+  Minimum speed: "Velocidade mínima"
+  Minimum speed for the early PF: "Vel. mín para exploradora inicial"
+  # global (defined)
+  Missile Attack: "Ataque de Misséis"
+  # global (defined)
+  Mission: "Missão"
+  # global (undefined)
+  Name: "Nome"
+  "Never wait (100% getting ban)": "Nunca esperar (100% ban)"
+  # global (undefined)
+  No fleets: "Sem movimentos"
+  Number to send: "Número a enviar"
+  # global (defined)
+  Origin: "Origem"
+  PF that will not be send with auto-split nor for recycle: "Exp. não será enviado com divisão automática nem para reciclagem"
+  PF will be send to arrive at the same time as debris field is created (if any): "Exp. será enviada para chegar ao mesmo tempo em que o campo de destroços for criado (se houver)"
+  # global (defined)
+  Park: "Transferir"
+  # global (defined)
+  Park In That Ally: "Manter Posições"
+  # global (undefined)
+  Pathfinder: "Exploradora"
+  Pathfinders to stay: "Exploradoras para ficar"
+  # global (undefined)
+  Reaper: "Ceifeira"
+  Recycle debris: "Reciclar destroços"
+  # global (defined)
+  Recycler: "Reciclador"
+  SC that will not be send with auto-split: "CP não serão enviados com divisão automática"
+  Secs after expedition: "Segs depois expedição"
+  # global (undefined)
+  Select origin: "Seleccionar origem"
+  Ships per expedition: "Naves por expedição"
+  Slots allowed: "Slots permitidos"
+  # global (defined)
+  Small Cargo: "Cargueiro Pequeno"
+  Small Cargo to stay: "Carg. Pequeno para ficar"
+  # global (defined)
+  Spy: "Espiar"
+  Statistics: "Estatísticas"
+  Strategy: "Estratégia"
+  Systems range: "Intervalo de sistemas"
+  Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships: "Marque a caixa de seleção para dividir automaticamente as naves disponíveis OU insira um número para enviar uma quantidade específica de naves"
+  Time in seconds that early PF will arrive after the expedition: "Tempo em segundos que a EXP chegará após a expedição"
+  # global (defined)
+  Transport: "Transportar"
+  Wait for all expeditions slots: "Esperar por todas as expedições"
+  Wait for majority of expeditions slots: "Esperar pela maioria das expedições"
+  expeditions: "expedições"
+  # global (undefined)
+  next check in: "próxima verificação em"
+  # global (undefined)
+  unlimited: "ilimitado"
+bot.settings.farmer:
+  Abort all sessions: "Abortar todas as sessões"
+  # global (defined)
+  Actions: "Acções"
+  # global (undefined)
+  Active: "Activo"
+  Additional cargo: "Cargo adicional"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Attack from nearest moon: "Atacar da lua mais próxima"
+  Attack from nearest planet: "Atacar do planeta mais próximo"
+  Attack speed: "Velocidade de ataque"
+  # global (undefined)
+  Created at: "Criado em"
+  # global (defined)
+  Crystal: "Cristal"
+  Delete combat reports: "Apagar relatórios de combate"
+  # global (defined)
+  Deuterium: "Deutério"
+  Espionage probe raids: "Atacar com sondas de espionagem"
+  Farm sessions: "Sessão de Farm"
+  Farmer active: "Farmer activo"
+  Fast attacking: "Ataque rápido"
+  Ignore targets with activity: "Ignorar alvos com actividade"
+  # global (undefined)
+  Inactive: "Inactivo"
+  # global (defined)
+  Metal: "Metal"
+  Min. defenses to ignore: "Defesas mínimas a ignorar"
+  Min. player rank: "Min. classificação jogador"
+  Min. resources to attack: "Recursos mínimos para atacar"
+  Minimum level of storage: "Nível máximo de armazém"
+  Nb probes: "Nr Sondas"
+  New session: "Nova sessão"
+  No session: "Sem sessão"
+  # global (defined)
+  Origin: "Origem"
+  # global (undefined)
+  Planet: "Planeta"
+  Priority calculation: "Prioridade de cálculo"
+  Range: "alcance"
+  Redo: "Refazer"
+  # global (undefined)
+  Save: "Salvar"
+  # global (undefined)
+  Select origin: "Seleccionar origem"
+  Start new session: "Iniciar nova sessão"
+  State: "Estado"
+  Total loot: "Pilhagem total"
+  Use pathfinders: "Utilizar exploradoras"
+  "You need to deactivate \\"Hide pictures in reports\\" in ogame options for the farmer to work properly.": "Você precisa desativar \\ \"Ocultar imagens nos relatórios \\\" nas opções do ogame para que o farmar funcione correctamente."
+  ignored alliances: "alianças ignoradas"
+  ignored planets: "planetas ignorados"
+  ignored players: "jogadores ignorados"
+  statistics: "estatísticas"
+bot.settings.farmerIgnoredAlliances:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  # global (undefined)
+  Remove all: "Remover tudo"
+bot.settings.farmerIgnoredPlanets:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  # global (undefined)
+  Remove all: "Remover tudo"
+bot.settings.farmerIgnoredPlayers:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  # global (undefined)
+  Remove all: "Remover tudo"
+bot.settings.home:
+  # global (defined)
+  Actions: "Acções"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Attack type: "Tipo de ataque"
+  # global (undefined)
+  Attacker: "Atacante"
+  Brain activities: "Actividades do cérebro"
+  Cancel evacuation: "Cancelar evacuação"
+  Check attacks: "Verificar Ataques"
+  Countdowns: "Contagens"
+  # global (defined)
+  Defender: "Defensor"
+  Defender activities: "Actividades defensor"
+  # global (defined)
+  Destination: "Destino"
+  Donut galaxy: "Galáxia Circular"
+  Donut system: "Sistema Circular"
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Expeditions: "Expedições"
+  General info: "Informações gerais"
+  # global (defined)
+  Hunter: "Caçador"
+  No evacuations: "Sem evacuações"
+  No plans: "Sem planos"
+  Proxy: "Proxy"
+  # global (undefined)
+  Repatriate: "Distribuir"
+  Repatriate now: "Distribuir agora"
+  Reschedule evacuation: "Reprogramar evacuação"
+  Research speed: "Velocidade de pesquisa"
+  # global (undefined)
+  Ships: "Naves"
+  Times: "Tempos"
+  # global (undefined)
+  Universe: "Universo"
+  Universe speed: "Velocidade do Universo"
+  Universe speed fleet: "Velocidade de Frotas"
+  "What is my IP?": "Qual é o meu ip?"
+  # global (undefined)
+  scanner: "examinador"
+bot.settings.hunter-target:
+  # global (undefined)
+  Alliance: "Aliança"
+  Color legend: "Legenda de cor"
+  Target: "Alvo"
+bot.settings.hunter:
+  # global (undefined)
+  "--- Currently active planet/moon ---": "--- Planeta/lua actualmente ativo ---"
+  # global (defined)
+  Actions: "Acções"
+  # global (defined)
+  Activities: "Actividades"
+  Activity: "Actividade"
+  # global (undefined)
+  Alliance: "Aliança"
+  Alliance rank: "Classificação da aliança"
+  Hunter configs: "Caçador configs"
+  # global (undefined)
+  No activity: "Sem actividade"
+  No targets: "Sem alvos"
+  Player: "Jogador"
+  Player rank: "Classificação do jogador"
+  # global (undefined)
+  Save: "Salvar"
+  # global (undefined)
+  Scan frequency: "Frequência de scan"
+  # global (undefined)
+  Scan using: "Examine usando"
+  # global (undefined)
+  Vacation: "Férias"
+  View activities: "Ver actividades"
+  # global (undefined)
+  minutes: "minutos"
+  # global (undefined)
+  next in: "em seguida"
+bot.settings.index:
+  # global (defined)
+  Activities: "Actividades"
+  # global (defined)
+  Brain: "Cérebro"
+  # global (defined)
+  Defender: "Defensor"
+  # global (undefined)
+  Expeditions: "Expedições"
+  # global (defined)
+  Farmer: "Farmer"
+  # global (defined)
+  Hunter: "Caçador"
+  Logs: "Logs"
+  # global (undefined)
+  Messages: "Mensagens"
+  Overview: "Vista Geral"
+  # global (undefined)
+  Phalanx: "Phalanx"
+  Scanner: "Examinador"
+  # global (defined)
+  Settings: "Definições"
+  Sleep mode: "Modo dormir"
+  # global (defined)
+  Start: "Iniciar"
+  # global (defined)
+  Stop: "Parar"
 bot.settings.logs:
-  "All": "Tudo"
-  "Audit": "Verificação"
-  "General": "Geral"
-  "Brain": "Brain"
-  "Defender": "Defender"
-  "Repatriate": "Distribuir"
-  "Scanner": "Scanner"
-  "Crawler": "Crawler"
-  "Farmer": "Farmer"
-  "Hunter": "Hunter"
-  "Search": "Pesquisar"
-  "Download logs": "Download logs"
-  "Level": "Nível"
-  "Category": "Categoria"
-  "Created at": "Criado em"
-  "Message": "Mensagem"
-  "No logs to show": "Sem logs para mostrar"
-  "Prev": "Anterior"
-  "Next": "Seguinte"
+  # global (undefined)
+  All: "Tudo"
+  Audit: "Verificação"
+  # global (defined)
+  Brain: "Cérebro"
+  # global (undefined)
+  Category: "Categoria"
+  # global (undefined)
+  Crawler: "Crawler"
+  # global (undefined)
+  Created at: "Criado em"
+  # global (defined)
+  Defender: "Defensor"
+  Download logs: "Download logs"
+  # global (defined)
+  Farmer: "Farmer"
+  # global (undefined)
+  General: "Geral"
+  # global (defined)
+  Hunter: "Caçador"
+  Level: "Nível"
+  # global (undefined)
+  Message: "Mensagem"
+  # global (undefined)
+  Next: "Seguinte"
+  No logs to show: "Sem logs para mostrar"
+  # global (undefined)
+  Phalanx: "Phalanx"
+  # global (undefined)
+  Prev: "Anterior"
+  # global (undefined)
+  Repatriate: "Distribuir"
+  # global (undefined)
+  Search: "Pesquisar"
+  VM: "MDF"
+  # global (undefined)
+  scanner: "examinador"
+bot.settings.messages:
+  # global (undefined)
+  All: "Tudo"
+  # global (undefined)
+  Coordinate: "Coordenada"
+  # global (undefined)
+  Espionage report: "Relatório de espionagem"
+  # global (defined)
+  Expedition: "Expedição"
+  # global (defined)
+  Farmer: "Farmar"
+  Importer: "Importar"
+  # global (undefined)
+  InGame date: "Data no jogo"
+  Loot: "Pilhagem"
+  Manual: "Manual"
+  # global (undefined)
+  Messages: "Mensagens"
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  No messages to show: "Sem mensagens"
+  # global (undefined)
+  Prev: "Anterior"
+  # global (undefined)
+  Resources: "Recursos"
+bot.settings.notifications:
+  Bot exit sleep mode: "Bot sai modo dormir"
+  Bot goes to sleep mode: "Bot entra em modo dormir"
+  # global (defined)
+  Defender: "Defensor"
+  # global (undefined)
+  Email: "Email"
+  Email for notifications: "Notificações para Email"
+  Evacuation fails: "Falhou evacuação"
+  Expedition loss: "Expedição perdida"
+  # global (undefined)
+  Expeditions: "Expedições"
+  Failed to fleet save: "Falha ao salvar frota"
+  Farm session completed: "Sessão de farm completa"
+  Farm session started: "Sessão de farm iniciada"
+  # global (defined)
+  Farmer: "Farmar"
+  Forward ingame chat from alliance: "Encaminhar mensagens de chat da aliança"
+  Forward ingame chat from players: "Encaminhar mensagens de chat dos jogadores"
+  # global (undefined)
+  General: "Geral"
+  Global: "Global"
+  # global (defined)
+  Hunter: "Caçador"
+  Login fails: "Falha no login"
+  New attack detected: "Novo ataque detectado"
+  New missiles attack detected: "Novo ataque de mísseis detectado"
+  # global (undefined)
+  Notifications: "Notificações"
+  # global (undefined)
+  Save: "Salvar"
+  Slack: "Slack"
+  Slack username for notifications: "Nome de utilizador do Slack para notificações"
+  # global (undefined)
+  Sleep Mode: "Modo dormir"
+  Target dropped in military points: "Pontos militares do alvo caíram"
+  Telegram: "Telegram"
+  Telegram chat id for notifications: "ID de chat do Telegram para notificações"
+  test email: "testar email"
+  test notif: "testar notificação"
+  test slack: "testar slack"
+bot.settings.phalanx:
+  # global (undefined)
+  Phalanx: "Phalanx"
+  # global (defined)
+  Start: "Iniciar"
+bot.settings.phalanxSession:
+  # global (undefined)
+  Created at: "Criado em"
+  Data: "Dados"
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  No fleets: "Sem movimentos"
+  No reports to display: "Sem relatórios"
+  # global (undefined)
+  Phalanx: "Phalanx"
+  Phalanx session: "Sessão phalanx"
+  # global (undefined)
+  Prev: "Anterior"
+  Session aborted: "Sessão abortada"
+  # global (defined)
+  Stop: "Parar"
+bot.settings.scanner:
+  # global (undefined)
+  "--- Currently active planet/moon ---": "--- Planeta/lua actualmente ativo ---"
+  Interval between system scan: "Intervalo entre scan de sistemas solares"
+  # global (undefined)
+  Save: "Salvar"
+  # global (undefined)
+  Scan frequency: "Frequência de scan"
+  # global (undefined)
+  Scan using: "Examine usando"
+  Scans the whole universe every set amount of hours.: "Faz scan o universo inteiro a cada intervalo de horas"
+  hours: "horas"
+  milliseconds: "milisegundos"
+  minimum: "mínimo"
+  # global (undefined)
+  next in: "em seguida"
+  scanner active: "examinador activo"
+  scanner configs: "Examinador configs"
 bot.settings.settings:
-  "General options": "Opções gerais"
-  "Slots reserved for player": "Slots reservados para o jogador"
-  "sleep mode from": "modo dormir a partir de"
-  "Save": "Salvar"
-  "Browser augments": "Aumento do navegador"
-  "Commander UI": "Comandante UI"
-  "Enable browser augments": "Activar aumento do navegador"
-  "Change proxy": "Definições de proxy"
-  "HTTP Proxy": "Proxy HTTP"
-  "Save proxy": "Salvar proxy"
-  "Socks5": "Socks5"
-  "Socks5 address": "Socks5 url"
-  "Socks5 username": "Socks5 utilizador"
-  "Socks5 password": "Socks5 palavra passe"
-  "Share account": "Partilhar conta"
-  "Share with": "Partilhar com"
-  "Delete bot": "Apagar bot"
-  "Delete this bot": "Apagar este bot"
-pricing:
-  "title": "Descrição de Preço"
-  "meta-description": "Preçário para self-host e cloud-host. Teste gratuitamente por 48 horas."
-  "Pricing": "Preçário"
-  "These are our pricing plans, if you can't quite find what you need, let us know on Discord and we'll work something out!": "Estes são os nossos planos de preços, se você não conseguir encontrar o que precisa, informe-nos no Discord e resolveremos o problema!"
-  "month": "mês"
-  "Trial": "Teste"
-  "1 bot": "1 bot"
-  "48 hours one-time trial": "48 hora de teste único"
-  "Discord support": "Suporte no Discord"
-  "User needs to run the software": "O Utilizador necessita de executar o Software"
-  "Try for free": "Teste gratuitamente"
-  "Self-host": "Self-host"
-  "can have more at a premium cost": "poderá ter mais a um custo premium"
-  "30 days license": "licença de 30 dias"
-  "Priority Discord support": "Prioridade no Suporte no Discord"
-  "Vote for future features development": "Votar no desenvolvimento de novas funcionalidades"
-  "Get started": "Iniciar"
-  "Cloud-hosted": "Cloud-hosted"
-  "We host the bot for you 24/7": "Nós alojamos o bot 24h por dia"
-  "Buy now": "Comprar já"
-new-trial-license:
-  "Download": "Download"
-  "New trial license": "Nova licença de teste"
-  "Buy license": "Comprar Licença"
-  "Get trial license": "Adquirir licença de teste"
-  "OGame email used to login": "E-mail do OGame usado para fazer login"
-  "OGame universe": "Universo do OGame"
-  "OGame language (server)": "Língua do OGame (Servidor)"
-  "Get free trial license": "Adquirir licença de teste gratuita"
-  "description1": "A licença de teste funcionará apenas para <strong>1 conta de OGame</strong> apenas.<br />
-                   Deve definir para que conta a licença se destina.<br />
-                   A licença <strong>é válida por 48 horas</strong> e não poderá ser renovada.<br />
-                   As 48 horas começam a partir do momento em que submeter este formulário."
-  "description2": "Nós não armazenamos qualquer informação nos nossos servidores,
-                   nós apenas encriptografamos a informação."
-new-license:
-  "Download": "Download"
-  "New license": "Nova Licença"
-  "Buy license": "Comprar Licença"
-  "Get trial license": "Adquirir Licença de Teste"
-  "description1": "A licença é válida por 1 mês, após esse período, será necessário renovar.<br />
-#                   Se pretender uma subscrição por um período maior, entre por favor em contacto.<br />"
-  "description2": "<strong>AVISO LEGAL:</strong> Esta licença é para self-host, o que significa que terá que executar o programa no seu próprio computador para que o bot funcione.<br />
-                   Se desejar <a href=\"/servers/new\">utilizar a nossa opção da Cloud</a>, o que significa que nós iremos executar o bot por si nos nossos servidores privados e dedicados,
-                   por favor clique <a href=\"/servers/new\">aqui.</a>"
-  "Self hosting license parameters": "Parâmetros da Licença Self-Host"
-  "user": "utilizador"
-  "users": "utilizadores"
-  "Total": "Total"
-  "Pay with Credit/debit card": "Pague com cartão Crédito/Débito"
-  "we are using": "nós estamos a utilizar"
-  "Credit or debit card": "Cartão de Crédito ou Débito"
-  "Submit payment for self-host license": "Submeta o pagamento para uma licença self-host"
-  "Pay with paypal": "Pague com Paypal"
-renew-license:
-  "Download": "Download"
-  "Renew license": "Renovar Licença"
-  "disclaimer": "<strong>AVISO LEGAL:</strong> Esta licença é para self-host, o que significa que terá que executar o programa no seu próprio computador para que o bot funcione.<br />
-                 Se desejar <a href=\"/servers/new\">utilizar a nossa opção da Cloud</a>, o que significa que nós iremos executar o bot por si nos nossos servidores privados e dedicados,
-                 por favor clique <a href=\"/servers/new\">aqui.</a>"
-  "Self hosting license parameters": "Parâmetros de licença self-host"
-  "user": "utilizador"
-  "Total": "Total"
-  "Current license valid until": "Licença válida até"
-  "New license valid until": "Nova licença válida até"
-  "Pay with Credit/debit card": "Pague com cartão Crédito/Débito"
-  "we are using": "nós estamos a utilizar"
-  "Credit or debit card": "Cartão de Crédito ou Débito"
-  "Submit payment for self-host license": "Submeta o pagamento para uma licença self-host"
-  "Pay with paypal": "Pague com Paypal"
-new-server:
-  "New server": "Novo servidor"
-  "Settings": "Definições"
-  "Subdomain": "Subdomínio"
-  "ascii characters": "caracteres ASCII"
-  "Region": "Região"
-  "the bots will use IP from that region": "os bots utilizarão um IP dessa região"
-  "Select one": "Seleccione um"
-  "user": "utilizador"
-  "users": "utilizadores"
-  "Total": "Total"
-  "Pay with Credit/debit card": "Pague com cartão Crédito/Débito"
-  "we are using": "nós estamos a utilizar"
-  "Credit or debit card": "Pague com cartão Crédito/Débito"
-  "Submit Payment for cloud hosting": "Submeta o pagamento para uma licença cloud-host"
-  "Pay with paypal": "Pague com Paypal"
-renew-instance:
-  "Renew instance": "Renovar instância"
-  "Settings": "Definições"
-  "user": "utilizador"
-  "Current license valid until": "Licença válida até"
-  "New license valid until": "Nova licença válida até"
-  "Pay with Credit/debit card": "Pague com cartão Crédito/Débito"
-  "we are using": "nós estamos a utilizar"
-  "Credit or debit card": "Cartão de Crédito ou Débito"
-  "Submit payment to renew cloud license": "Submeta o pagamento para renovar a licença cloud-host"
-  "Pay with paypal": "Pague com Paypal"
+  "--- Default ---": "--- Padrão ---"
+  "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "<strong> Aviso: </strong> isso é para alterar as credenciais que o bot usa para entrar no OGame, não para alterar a senha do lobby."
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Auto enable manual mode when using browser: "Habilitar modo manual automaticamente ao usar o navegador"
+  Bot timezone: "Fuso horário do bot"
+  Browser augments: "Aumento do navegador"
+  Change ogame credentials: "Alterar credenciais do ogame"
+  Change proxy: "Definições de proxy"
+  Commander UI: "Comandante UI"
+  Coordinates: "Coordenadas"
+  Default: "Padrão"
+  Delete bot: "Apagar bot"
+  Delete expedition messages once imported: "Excluir mensagens de expedição depois de importadas"
+  Delete spy reports once imported: "Excluir relatórios de espionagem uma vez importados"
+  Delete this bot: "Apagar este bot"
+  Disable ogame dropdown (fix jump gate on mobile): "Desativar o menu suspenso do ogame (corrigir o poral de salto no telemóvel)"
+  Enable Expe-3000: "Activar Expe-3000"
+  Enable InfoCompte3: "Activar InfoCompte3"
+  Enable NixianRaidTracker: "Activar NixianRaidTracker"
+  Enable RecursosAmpliados: "Activar RecursosAmpliados"
+  Enable TopRaider: "Activar TopRaider"
+  Enable browser augments: "Activar aumento do navegador"
+  Enter your password: "Coloque a sua senha"
+  Espionage probe: "Sonda de Espionagem"
+  # global (undefined)
+  General: "Geral"
+  General options: "Opções gerais"
+  Homeworld: "Planeta Principal"
+  Host machine Timezone: "Fuso horário da máquina host"
+  Large cargo: "Cargueiro Grande"
+  Max brain slots: "Max slots do cérebro"
+  Max expeditions slots: "Max slots de expedições"
+  Max farmer slots: "Max slots de farmar"
+  Max repatriate slots: "Max slots de distribuir"
+  Max script slots: "Max slots de scripts"
+  # global (undefined)
+  Name: "Nome"
+  # global (undefined)
+  Notifications: "Notificações"
+  OGT (OGame Timezone): "OGT (OGame Timezone)"
+  # global (undefined)
+  Pathfinder: "Exploradora"
+  Preferred transport ships: "Naves de transporte preferidas"
+  # global (undefined)
+  Proxy password: "Senha proxy"
+  # global (undefined)
+  Proxy username: "Nome de utilizador proxy"
+  Remove ads: "Remover anúncios"
+  Remove banner: "Remover banner"
+  Round up resources: "Arredondar recursos"
+  Round up ships: "Arredondar naves"
+  # global (undefined)
+  Save: "Salvar"
+  Save proxy: "Salvar proxy"
+  Share account: "Partilhar conta"
+  Share with: "Partilhar com"
+  Show credentials: "Mostrar credenciais"
+  Slots reserved for player: "Slots reservados para o jogador"
+  Small cargo: "Cargueiro Pequeno"
+  Sort planets in dropdowns by: "Ordene os planetas por"
+  # global (undefined)
+  Theme: "Tema"
+  "UTC+00:00": "UTC+00:00"
+  "UTC+01:00": "UTC+01:00"
+  "UTC+02:00": "UTC+02:00"
+  "UTC+03:00": "UTC+03:00"
+  "UTC+04:00": "UTC+04:00"
+  "UTC+04:30": "UTC+04:30"
+  "UTC+05:00": "UTC+05:00"
+  "UTC+05:30": "UTC+05:30"
+  "UTC+05:45": "UTC+05:45"
+  "UTC+06:00": "UTC+06:00"
+  "UTC+06:30": "UTC+06:30"
+  "UTC+07:00": "UTC+07:00"
+  "UTC+08:00": "UTC+08:00"
+  "UTC+08:45": "UTC+08:45"
+  "UTC+09:00": "UTC+09:00"
+  "UTC+09:30": "UTC+09:30"
+  "UTC+10:00": "UTC+10:00"
+  "UTC+10:30": "UTC+10:30"
+  "UTC+11:00": "UTC+11:00"
+  "UTC+12:00": "UTC+12:00"
+  "UTC+12:45": "UTC+12:45"
+  "UTC+13:00": "UTC+13:00"
+  "UTC+14:00": "UTC+14:00"
+  "UTC-01:00": "UTC-01:00"
+  "UTC-02:00": "UTC-02:00"
+  "UTC-02:30": "UTC-02:30"
+  "UTC-03:00": "UTC-03:00"
+  "UTC-04:00": "UTC-04:00"
+  "UTC-05:00": "UTC-05:00"
+  "UTC-06:00": "UTC-06:00"
+  "UTC-07:00": "UTC-07:00"
+  "UTC-08:00": "UTC-08:00"
+  "UTC-09:00": "UTC-09:00"
+  "UTC-09:30": "UTC-09:30"
+  "UTC-10:00": "UTC-10:00"
+  "UTC-11:00": "UTC-11:00"
+  "UTC-12:00": "UTC-12:00"
+  User-Agent: "User-Agent"
+  # global (defined)
+  Username: "Utilizador"
+  proxy login requests only: "solicitações de login de proxy apenas"
+bot.settings.sleepMode:
+  # global (undefined)
+  Active: "Activo"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Awake bot now: "Acordar bot agora"
+  Every day: "Todos os dias"
+  Friday: "Sexta-feira"
+  Monday: "Segunda-feira"
+  Put bot to sleep now: "Colocar bot a dormir"
+  Random delay before going to sleep (minutes): "Atraso aleatório antes de dormir (minutos)"
+  Saturday: "Sábado"
+  # global (undefined)
+  Save: "Salvar"
+  # global (undefined)
+  Sleep Mode: "Modo dormir"
+  Sunday: "Domingo"
+  Thursday: "Quinta-feira"
+  Tuesday: "Terça-feira"
+  Wake up at: "Acordar às"
+  Wednesday: "Quarta-feira"
+  automatic fleet save (experimental): "fleet save automático (experimental)"
+  manual trigger: "gatilho manual"
+bot.simulator:
+  ACS planner: "Planeamento ACS"
+  # global (undefined)
+  API: "API"
+  Anti Ballistic Missiles: "Mísseis de Intercepção"
+  Armour: "Armadura"
+  # global (undefined)
+  Attacker: "Atacante"
+  Attacker win: "Atacante vence"
+  # global (defined)
+  Battlecruiser: "Interceptor"
+  # global (defined)
+  Battleship: "Nave de Batalha"
+  # global (defined)
+  Bomber: "Bombardeiro"
+  Captured: "Capturado"
+  "Cargo's needed": "Cargueiros necessários"
+  Clear player data: "Apagar dados"
+  # global (defined)
+  Colony Ship: "Nave de Colonização"
+  Configs: "Configurações"
+  # global (undefined)
+  Crawler: "Crawler"
+  # global (defined)
+  Cruiser: "Cruzador"
+  # global (defined)
+  Crystal: "Cristal"
+  # global (defined)
+  Deathstar: "Estrela da Morte"
+  # global (undefined)
+  Debris: "Destroço"
+  Defence: "Defesa"
+  Defence repair factor: "Factor de reparação de defesa"
+  Defence to debris: "Defesa para destroços"
+  # global (defined)
+  Defender: "Defensor"
+  Defender win: "Defensor ganha"
+  # global (defined)
+  Destroyer: "Destruidor"
+  # global (defined)
+  Deuterium: "Deutério"
+  Draw: "Empate"
+  # global (defined)
+  Espionage Probe: "Sonda de Espionagem"
+  Fleet to debris: "Frota para destroços"
+  # global (defined)
+  Gauss Cannon: "Canhão de Gauss"
+  # global (defined)
+  Heavy Fighter: "Caça Pesado"
+  # global (defined)
+  Heavy Laser: "Laser Pesado"
+  Hyperspace tech: "Tecnologia Hiperespaço"
+  # global (defined)
+  Interplanetary Missiles: "Míssil Interplanetário"
+  # global (defined)
+  Ion Cannon: "Canhão de Iões"
+  # global (defined)
+  Large Cargo: "Cargueiro Grande"
+  # global (defined)
+  Large Shield Dome: "Grande Escudo Planetário"
+  # global (defined)
+  Light Fighter: "Caça Ligeiro"
+  # global (defined)
+  Light Laser: "Laser Ligeiro"
+  Losses: "Perdas"
+  # global (defined)
+  Metal: "Metal"
+  Moonchance: "Probabilidade de lua"
+  Open in TrashSim: "Abrir no TrashSim"
+  # global (undefined)
+  Pathfinder: "Exploradora"
+  Pathfinders: "Exploradoras"
+  # global (undefined)
+  Planet: "Planeta"
+  Planet/Moon: "Planeta/Lua"
+  # global (defined)
+  Plasma Turret: "Canhão de Plasma"
+  Plunder: "Pilhagem"
+  Possible: "Possível"
+  Profit: "Lucro"
+  # global (undefined)
+  Reaper: "Ceifeira"
+  # global (defined)
+  Recycler: "Reciclador"
+  Result: "Resultado"
+  # global (defined)
+  Rocket Launcher: "Lançador de Mísseis"
+  Rounds: "Rondas"
+  # global (undefined)
+  Select origin: "Seleccionar origem"
+  Send attack: "Enviar ataque"
+  # global (undefined)
+  Send recyclers: "Enviar recicladores"
+  Shield: "Escudo"
+  Simulate: "Simular"
+  Simulations: "Simulações"
+  # global (defined)
+  Small Cargo: "Cargueiro Pequeno"
+  # global (defined)
+  Small Shield Dome: "Pequeno Escudo Planetário"
+  # global (defined)
+  Solar Satellite: "Satélite Solar"
+  Tactical retreat: "Retirada táctica"
+  Weapon: "Arma"
+bot-card:
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Lang: "País"
+  # global (defined)
+  Points: "Pontos"
+  # global (defined)
+  Rank: "Posição"
+  # global (defined)
+  Start: "Iniciar"
+  # global (defined)
+  Stop: "Parar"
+  # global (undefined)
+  Universe: "Universo"
+changelog:
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+database:
+  # global (defined)
+  Actions: "Acções"
+  Delete all keys: "Apagar todas as chaves"
+  Key: "Chave"
+  Key/value storage: "Key/value storage"
+  No data to display: "Sem dados para mostrar"
+  # global (undefined)
+  Search: "Pesquisar"
+  Stats: "Estatísticas"
+  Value: "Valor"
+debug.index:
+  Runtime: "Tempo de execução"
+  SQL: "SQL"
 download:
-  "title": "Releases download"
-  "meta-description": "Download releases of Ninja for windows, linux, mac osx."
-  "Downloads": "Downloads"
-  "File name": "Nome do ficheiro"
-  "OS": "OS"
-  "Arch": "Arch"
-  "Size": "Tamanho"
-  "SHA256 Checksum": "SHA256 Checksum"
-  "No files to display": "Nenhum ficheiro para exibir"
-  "Changelog": "Changelog"
-  "Instructions how to install and run": "Instruções de como instalar e executar"
-  "New license": "Nova licença"
-  "My licenses": "As Minhas licenças"
-  "ID": "ID"
-  "Expired at": "Expira a"
-  "Full license": "Licença completa"
-  "Renew license": "Renovar licença"
-  "Download": "Download"
-  "No license to display": "Nenhuma licença para exibir"
-landing:
-  "title": "Ninja OGame Bot"
-  "meta-description": "Junte-se à força e comece a dominar os seus inimigos automatizando todas as suas necessidades diária com OGame Ninja."
-  "defender-desc": "Nós detectamos todos os ataques aos seus planetas/luas e evacuamos as suas naves e recursos antes de o ataque
-                    inimigo se concretizar, assim como retornamos as naves de volta ao planeta/lua depois disso. Opcionalmente, poderá ser notificado por E-Mail ou Telegram quando está a ser atacado."
-  "farming-desc": "Espia e Ataca automaticamente os jogadores inactivos. Compatível também em universos em que as Sondas de Espionagem tenham campacidade de carga!"
-  "empire-desc": "Vista sumária de todos os seus planetas e luas numa única página."
-  "simulator-desc": "Simula rapidamente um ataque utilizando as definições do seu planeta e incorpora um relatório de espionagem no nosso próprio simulador embutido."
-  "queue-desc": "Evolui os seus planetas automaticamente com a nossa AI ou poderá definir uma fila de construções."
-  "map-desc": "Mapa de todo o universo. Procura os planetas de qualquer jogador ou aliança rapidamente."
-  "OGame Ninja": "OGame Ninja"
-  "The most advanced OGame toolkit ever created": "O mais avançado kit de ferramentas do OGame já alguma vez criado"
-  "Learn more": "Saiba mais"
-  "Defender": "Defender"
-  "Farming": "Farming"
-  "Empire view": "Vista Império"
-  "Combat simulator": "Simulador de Combate"
-  "Construction queue": "Fila de Construções"
-  "Universe map": "Mapa do Universo"
-  "View details": "Veja os detalhes"
-  "You're invited to join our Discord server": "Está convidado para se juntar ao nosso servidor de Discord"
-  "Join our Discord server! If you haven't used Discord before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Discord! Se nunca utilizou o Discord: é gratuito, seguro e funciona com o computador/smartphone."
-  "Join the server now": "Junte-se ao servidor agora"
-login:
-  "title": "Login Ninja"
-  "meta-description": "Login na sua conta."
-  "Sign in to continue": "Iniciar sessão para continuar"
-  "Sign in": "Iniciar sessão"
-  "I forgot my password": "Esqueci-me da password"
-signup:
-  "title": "Crie uma conta"
-  "meta-description": "Crie uma conta gratuitamente."
-  "Sign up": "Registar"
-  "Retype password": "Reescreva a password"
-  "Email": "Email"
-  "Note": "Nota"
-  "You will receive an email to validate your account": "Irá receber um email para validar a sua conta"
-forgot-password:
-  "title": "Formulário de recuperação de password"
-  "meta-description": "Preencha o formulário para recuperar o acesso à sua conta."
-  "Password recovery": "Recuperação de password"
-  "Enter your email address to retrieve your password": "Digite o seu email registado para recuperar a password"
-  "Email Address": "Email"
-  "Retrieve Password": "Recupere a password"
+  # global (defined)
+  Actions: "Acções"
+  # global (undefined)
+  Active: "Activo"
+  AntiGame for Ninja: "AntiGame para Ninja"
+  # global (undefined)
+  Arch: "Arch"
+  Changelog: "Changelog"
+  # global (defined)
+  Download: "Download"
+  # global (undefined)
+  Downloads: "Downloads"
+  # global (undefined)
+  Expired: "Expirado"
+  Expired at: "Expirou em"
+  # global (undefined)
+  File name: "Nome do ficheiro"
+  Full license: "Licença completa"
+  Instructions how to install and run: "Instruções de como instalar e executar"
+  My licenses: "Minhas licenças"
+  # global (undefined)
+  New license: "Nova licença"
+  # global (undefined)
+  No files to display: "Nenhum ficheiro exibido"
+  No license to display: "Sem licenças para mostrar"
+  # global (undefined)
+  OS: "OS"
+  # global (undefined)
+  Renew license: "Renovar licença"
+  # global (undefined)
+  SHA256 Checksum: "SHA256 Checksum"
+  # global (undefined)
+  Size: "Tamanho"
+  # global (undefined)
+  UUID: "UUID"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+features:
+  # global (defined)
+  Activities: "Actividades"
+  Augmented browsing experience: "Experiência de navegação aumentada"
+  # global (undefined)
+  Combat simulator: "Simulador de combate"
+  # global (defined)
+  Defender: "Defensor"
+  # global (undefined)
+  Empire view: "Vista império"
+  # global (defined)
+  Farmer: "Farmar"
+  # global (undefined)
+  Universe map: "Mapa universo"
+  activities-desc: "activities-desc"
+  augments-desc: "augments-desc"
+  # global (undefined)
+  defender-desc: "defender-desc"
+  # global (undefined)
+  empire-desc: "empire-desc"
+  farmer-desc: "farmer-desc"
+  # global (undefined)
+  map-desc: "map-desc"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  simulator-desc: "simulator-desc"
+  # global (undefined)
+  title: "título"
+first-use:
+  Admin account: "Conta de administrador"
+  Confirm password: "Confirme a Senha"
+  Create admin account: "Criar conta de administrador"
+  # global (undefined)
+  Email: "Email"
+  # global (defined)
+  Password: "Palavra passe"
+  # global (defined)
+  Username: "Utilizador"
 forgot-password-reset:
-  "Reset password": "Redefinir a password"
-  "Retype password": "Reescreva a password"
-#features:
-#  "title": "Features overview"
-#  "meta-description": "Overview of the Ninja OGame bot features. Defender, farmer, activities, empire view, combat simulator, universe map and more."
-#  "defender-desc": "Will monitor any attacks on your planets and fleetsave your ships and resources before the attacks arrive,
-#    as well as recalling the fleet afterwards. Optionally, you can get notified through e-mail or Telegram
-#    when you are getting attacked."
-#  "farmer-desc": "Automatically spy & attack inactive players. Also compatible with universes where the spy probe has
-#    cargo capacity!"
-#  "activities-desc": "Visualize your fleet activities and ensure it looks like a human is playing."
-#  "empire-desc": "Summary view of all of your planets and moons on a single page."
-#  "simulator-desc": "Quickly simulate a combat using your planet settings and an espionage report with our in-built simulator."
-#  "map-desc": "Overview of the whole universe. Find the planets of any player or alliance quickly."
-#  "augments-desc": "OGame Ninja injects new features into the html.<br />
-#    For example, you get a link to fill the form with maximum possible units when building something.<br />
-#    You get a list of all the users's planets when browsing the galaxy page.<br />
-#    The highscore list is augmented with player's status. (active/inactive, vacation...)"
-#  "Defender": ""
-#  "Farmer": ""
-#  "Activities": ""
-#  "Empire view": ""
-#  "Combat simulator": ""
-#  "Universe map": ""
-#  "Augmented browsing experience": ""
-#first-use:
-#  "title": "Admin account"
-#  "Admin account": ""
-#  "Confirm password": ""
-#  "Email": ""
-#  "Create admin account": ""
-#license:
-#  "License expired": ""
-#  "Renew license": ""
-#  "Upload license file": ""
-#  "Click \"Renew license\" button": ""
-#  "Upload": ""
-#license-view:
-#  "License": ""
-#  "Created": ""
-#  "Expired": ""
-#  "Owner": ""
-#  "Email": ""
-#  "Users allowed": ""
-#  "Bots per user": ""
-#  "Download": ""
-#changelog:
-#  "title": "Releases changelog"
-#  "meta-description": "Changelog between each releases."
-#must-contact:
-#  "Please contact admins": ""
-#  "Please contact ogame.ninja admins": ""
-#must-update:
-#  "Please update": ""
-#  "Software is too old": ""
-#  "You must update your software.": ""
-#new-bot:
-#  "New bot": ""
-#  "Email": ""
-#  "Universe (as displayed on your lobby account, e.g. Quantum)": ""
-#  "HTTP proxy (leave empty if you do not know what this is)": ""
-#  "Create": ""
-#notifications:
-#  "Notifications": ""
-#  "Message": ""
-#  "Created at": ""
-#  "No notifications": ""
-#admin.license:
-#  "License": ""
-#  "Created": ""
-#  "Expired": ""
-#  "Owner": ""
-#  "Email": ""
-#  "Users allowed": ""
-#  "Bots per user": ""
-#  "unlimited": ""
-#admin.users:
-#  "New user": ""
-#  "Users": ""
-#  "Created at": ""
-#  "Admin": ""
-#  "Verified": ""
-#  "Delete bot": ""
-#admin.user-edit:
-#  "Update user": ""
-#  "Create user": ""
-#  "Retype password": ""
-#  "Email": ""
-#  "Is admin": ""
-#admin.settings:
-#  "Settings": ""
-#  "Telegram bot api token": ""
-#  "SMTP settings (email)": ""
-#  "Host eg: smtp.gmail.com""Host eg: smtp.gmail.com"
-#  "Port eg: 587""Port eg: 587"
-#  "Save": ""
-#  "Reverse tunnel": ""
-#  "Gives you access to your self-host server through": ""
-#admin.update:
-#  "Update": ""
-#bot.galaxy.table:
-#  "Open in OGame browser": ""
-#  "Go": ""
-#  "Get spy reports": ""
-#  "Scan this page": ""
-#  "Stop scan universe": ""
-#  "Scan universe": ""
-#  "Debris top 100": ""
-#  "Search": ""
-#  "Coords": ""
-#  "Planet name": ""
-#  "Moon": ""
-#  "Metal": ""
-#  "Crystal": ""
-#  "RN": ""
-#  "Player name": ""
-#  "Alliance": ""
-#  "Updated": ""
-#  "Espionage report": ""
-#  "Members": ""
-#  "Rank": ""
-#bot.galaxy.map:
-#  "Inactive": ""
-#  "Vacation": ""
-#  "Active": ""
-#  "Coord": ""
-#bot.galaxy.player:
-#  "Galaxy": ""
-#  "Player profile": ""
-#  "Add to hunter list": ""
-#  "Coords": ""
-#  "Planet name": ""
-#  "Moon": ""
-#  "Metal": ""
-#  "Crystal": ""
-#  "RN": ""
-#  "Player name": ""
-#  "Alliance": ""
-#  "Updated": ""
-#  "Espionage report": ""
-#  "Members": ""
-#  "Rank": ""
-#bot.flights:
-#  "All": ""
-#  "None": ""
-#  "from": ""
-#  "Select origin": ""
-#  "to": ""
-#  "speed": ""
-#  "Planet": ""
-#  "Moon": ""
-#  "Debris": ""
-#  "mission": ""
-#  "LC": ""
-#  "SC": ""
-#  "Fuel": ""
-#  "Dur": ""
-#  "Save fleet": ""
-#  "Send fleet": ""
-#  "Jump gate": ""
-#  "Saved fleets": ""
-#  "ID": ""
-#  "From": ""
-#  "To": ""
-#  "Speed": ""
-#  "Mission": ""
-#  "Resources": ""
-#  "Ships": ""
-#  "Duration": ""
-#  "Send flight": ""
-#  "Delete flight": ""
-#  "No saved flights": ""
-#  "Cron jobs": ""
-#  "Active": ""
-#  "Spec": ""
-#  "Flight": ""
-#  "Note": ""
-#  "Edit cron job": ""
-#  "Delete cron job": ""
-#  "No cron job at the moment": ""
-#  "Current fleets": ""
-#  "Exp": ""
-#  "No fleets": ""
-#  "Cancel Fleet": ""
-#bot.report:
-#  "Load in simulator": ""
-#  "Report": ""
-#bot.planet:
-#  "Price": ""
-#  "Build": ""
-#  "Import resources & build": ""
-#  "Add to queue": ""
-#  "Main planet": ""
-#  "Current planet": ""
-#  "Sum": ""
-#  "Current": ""
-#  "Queue": ""
-#  "Building": ""
-#  "Research": ""
-#  "no item in queue": ""
-#bot.simulator:
-#  "Select origin": ""
-#  "API": ""
-#  "Weapon": ""
-#  "Shield": ""
-#  "Armour": ""
-#  "Clear player data": ""
-#  "Configs": ""
-#  "Simulations": ""
-#  "Fleet to debris": ""
-#  "Plunder": ""
-#  "Simulate": ""
-#  "Attacker": ""
-#  "Defender": ""
-#  "Planet/Moon": ""
-#  "Result": ""
-#  "Attacker win": ""
-#  "Defender win": ""
-#  "Draw": ""
-#  "Rounds": ""
-#  "Planet": ""
-#  "Debris": ""
-#  "Moonchance": ""
-#  "Losses": ""
-#  "Profit": ""
-#  "Captured": ""
-#  "Possible": ""
-#  "Cargo's needed": ""
-#bot.scripts:
-#  "Run Script": ""
-#  "Stop Script": ""
-#  "Run at start": ""
+  # global (defined)
+  Password: "Palavra passe"
+  Reset password: "Redefinir palavra passe"
+  # global (undefined)
+  Retype password: "Redigite palavra passe"
+  # global (defined)
+  Username: "Utilizador"
+forgot-password:
+  Email Address: "Endereço de email"
+  Enter your email address to retrieve your password: "Digite seu endereço de email para recuperar sua senha"
+  Password recovery: "Recuperação de senha"
+  Retrieve Password: "Recuperar Senha"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+get-trial-key:
+  Get free trial key: "Obtenha a chave de teste grátis"
+  Get trial key: "Obtenha a chave de teste"
+  # global (defined)
+  Home: "Home"
+home-slave:
+  # global (defined)
+  Bots: "Bots"
+  # global (undefined)
+  Create script on all bots: "Criar script em todos os bots"
+  # global (undefined)
+  New bot: "Novo bot"
+  Other actions: "Outras acções"
+  # global (undefined)
+  Reorder bots: "Reordenar bots"
+home:
+  # global (defined)
+  Actions: "Acções"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Domain: "Domínio"
+  Expires: "Expira"
+  # global (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Slack! Se você nunca usou o Slack antes: é grátis, seguro e funciona tanto no desktop como no telefone."
+  # global (undefined)
+  Join the server now: "Junte-se ao servidor agora"
+  My servers: "Meus Servidores"
+  # global (undefined)
+  New password: "Nova senha"
+  # global (undefined)
+  New server: "Novo Servidor"
+  # global (undefined)
+  New username: "Novo utilizador"
+  No servers to display: "Nenhum servidor para mostrar"
+  # global (undefined)
+  Region: "Região"
+  Version: "Versão"
+  # global (undefined)
+  "You're invited to join our Slack server": "Você está convidado a se juntar ao nosso servidor Slack"
+index:
+  # global (defined)
+  Account: "Conta"
+  # global (defined)
+  Admin: "Admin"
+  # global (defined)
+  Download: "Download"
+  FAQ: "FAQ"
+  Features: "Funcionalidades"
+  # global (defined)
+  Home: "Home"
+  Login: "Entrar"
+  Please: "Por favor"
+  # global (defined)
+  Pricing: "Preçário"
+  Proposals: "Propostas"
+  Register: "Registar"
+  Servers: "Servidores"
+  Sign out: "Sair"
+  Support: "Suporte"
+  Ticket support: "Suporte por ticket"
+  Translations: "Traduções"
+  Your Ninja software needs to be updated.: "O seu software precisa de ser actualizado."
+  download the latest version here: "download da última versão aqui"
+  update your instance here: "actualize a sua instância aqui"
+initialization:
+  "Bot is being initialized, please wait until you get automatically redirected...": "O bot está sendo inicializado, aguarde até ser redirecionado automaticamente ..."
+instance-actions:
+  # global (undefined)
+  New password: "Nova senha"
+  # global (undefined)
+  New username: "Novo utilizador"
+invoice:
+  # global (defined)
+  Bots: "Bots"
+  # global (undefined)
+  Credit or debit card: "Cartão de crédito ou débito"
+  # global (undefined)
+  New license: "Nova licença"
+  # global (undefined)
+  Pay with Credit/debit card: "Pague com cartão de crédito/débito"
+  # global (undefined)
+  Pay with paypal: "Pague com paypal"
+  Submit payment: "Submeter pagamento"
+  Upgrade license: "Upgrade à sua licença"
+  # global (undefined)
+  Valid until: "Válido até"
+  # global (undefined)
+  we are using: "nós utilizamos"
+landing:
+  # global (undefined)
+  Combat simulator: "Simulador de combate"
+  Construction queue: "Fila de construção"
+  # global (defined)
+  Defender: "Defensor"
+  # global (undefined)
+  Empire view: "Vista império"
+  Farming: "Farming"
+  # global (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Slack! Se você nunca usou o Slack antes: é grátis, seguro e funciona tanto no desktop quanto no telefone."
+  # global (undefined)
+  Join the server now: "Junte-se ao servidor agora"
+  Learn more: "Saber mais"
+  OGame Ninja: "OGame Ninja"
+  The most advanced OGame toolkit ever created: "O kit de ferramentas OGame mais avançado já criado"
+  # global (undefined)
+  Universe map: "Mapa do universo"
+  View details: "Ver detalhes"
+  # global (undefined)
+  "You're invited to join our Slack server": "Foi convidado a se juntar ao nosso servidor Slack"
+  # global (undefined)
+  defender-desc: "defender-desc"
+  # global (undefined)
+  empire-desc: "empire-desc"
+  farming-desc: "farming-desc"
+  # global (undefined)
+  map-desc: "map-desc"
+  # global (undefined)
+  meta-description: "meta-description"
+  queue-desc: "queue-desc"
+  # global (undefined)
+  simulator-desc: "simulator-desc"
+  # global (undefined)
+  title: "título"
+license-view:
+  # global (undefined)
+  Bots allowed: "Bots permitidos"
+  # global (undefined)
+  Created: "Criado"
+  # global (defined)
+  Download: "Download"
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Expired: "Expirado"
+  # global (defined)
+  License: "Licença"
+  # global (undefined)
+  Owner: "Proprietário"
+  # global (undefined)
+  UUID: "UUID"
+license:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  "Click \\"Renew license\\" button": "Clique no botão \\ \"Renovar licença \\\""
+  Current license requires a newer version of the software. Please update.: "A licença actual requer uma versão mais recente do software. Por favor actualize."
+  License expired: "Licença expirada"
+  # global (undefined)
+  Renew license: "Renovar licença"
+  Stop all bots: "Parar todos os bots"
+  Upload: "Upload"
+  Upload license file: "Carregar ficheiro de licença"
+login:
+  # global (undefined)
+  I forgot my password: "Esqueci da palavra passe"
+  # global (defined)
+  Password: "Palavra Passe"
+  # global (undefined)
+  Sign in: "Entrar"
+  Sign in to continue: "Faça login para continuar"
+  # global (defined)
+  Username: "Utilizador"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+login2:
+  # global (undefined)
+  I forgot my password: "Esqueci da palavra passe"
+  # global (defined)
+  Password: "Palavra Passe"
+  # global (undefined)
+  Sign in: "Entrar"
+  # global (defined)
+  Username: "Utilizador"
+must-contact:
+  Please contact admins: "Por favor contacte os administradores"
+  Please contact ogame.ninja admins: "Por favor contacte os administradores ogame.ninja"
+must-update:
+  Please update: "Por favor actualize"
+  Software is too old: "Software demasiado velho"
+  You must update your software.: "Deve actualizar o software."
+new-bot:
+  # global (undefined)
+  Add account to lobby: "Adicionar conta ao lobby"
+  # global (undefined)
+  Create: "Criar"
+  # global (undefined)
+  Gameforge email: "Email da Gameforge"
+  # global (undefined)
+  Gameforge password: "Senha Gameforge"
+  # global (undefined)
+  New bot: "Novo bot"
+  # global (undefined)
+  New lobby: "Novo lobby"
+  # global (undefined)
+  OTP secret: "Segredo OTP"
+  Player ID: "ID Jogador"
+  # global (undefined)
+  Proxy password: "Senha proxy"
+  # global (undefined)
+  Proxy username: "Nome de utilizador proxy"
+  # global (undefined)
+  Redeem code: "Resgatar código"
+  # global (undefined)
+  http/socks5 proxy (leave empty if you do not know what this is): "http/socks5 proxy (deixe em branco se não souber o que é)"
+new-license:
+  # global (undefined)
+  Buy license: "Comprar licença"
+  # global (undefined)
+  Credit or debit card: "Cartão de crédito/débito"
+  # global (defined)
+  Download: "Download"
+  # global (undefined)
+  Get trial license: "Obter licença de teste"
+  # global (undefined)
+  New license: "Nova licença"
+  # global (undefined)
+  Pay with Credit/debit card: "Pague com cartão de crédito / débito"
+  # global (undefined)
+  Pay with paypal: "Pague com paypal"
+  # global (undefined)
+  Self hosting license parameters: "Parâmetros de licença de auto-hospedagem"
+  # global (undefined)
+  Submit payment for self-host license: "Enviar pagamento para licença de auto-hospedagem"
+  # global (undefined)
+  Total: "Total"
+  # global (undefined)
+  description1: "description1"
+  description2: "description2"
+  # global (undefined)
+  we are using: "Nós estamos usando"
+new-lobby-account:
+  # global (undefined)
+  Add account to lobby: "Adicionar conta ao lobby"
+  # global (undefined)
+  Create: "Criar"
+  # global (undefined)
+  Gameforge email: "Email da Gameforge"
+  # global (undefined)
+  Gameforge password: "Senha Gameforge"
+  # global (undefined)
+  New bot: "Novo bot"
+  # global (undefined)
+  New lobby: "Novo lobby"
+  # global (undefined)
+  OTP secret: "Segredo OTP"
+  # global (undefined)
+  Proxy password: "Senha proxy"
+  # global (undefined)
+  Proxy username: "Nome de utilizador proxy"
+  # global (undefined)
+  Redeem code: "Resgatar código"
+  # global (undefined)
+  http/socks5 proxy (leave empty if you do not know what this is): "http/socks5 proxy (deixe em branco se não souber o que é)"
+new-lobby:
+  # global (undefined)
+  Add account to lobby: "Adicionar conta ao lobby"
+  # global (undefined)
+  Create: "Criar"
+  # global (undefined)
+  Gameforge email: "Email da Gameforge"
+  # global (undefined)
+  Gameforge password: "Senha Gameforge"
+  # global (undefined)
+  New bot: "Novo bot"
+  # global (undefined)
+  New lobby: "Novo lobby"
+  # global (undefined)
+  Proxy password: "Senha proxy"
+  # global (undefined)
+  Proxy username: "Nome de utilizador proxy"
+  # global (undefined)
+  Redeem code: "Resgatar código"
+  # global (undefined)
+  http/socks5 proxy (leave empty if you do not know what this is): "http/socks5 proxy (deixe em branco se não souber o que é)"
+new-proposal:
+  # global (undefined)
+  All suggestions: "Todas as sugestões"
+  New suggestion: "Nova sugestão"
+new-script:
+  "<b>Warning:</b> This will override existing scripts that have the same name.": "<b> Aviso: </b> isso substituirá os scripts existentes que têm o mesmo nome."
+  All bots that I have access to: "Todos os bots aos quais tenho acesso"
+  # global (undefined)
+  Create script on all bots: "Criar script em todos os bots"
+  # global (defined)
+  Home: "Home"
+  My bots: "Meus bots"
+  New script: "Novo script"
+  Place script here: "Coloque o script aqui"
+  # global (undefined)
+  Run at start: "Exec no arranque"
+  Script file name: "Nome do ficheiro de script"
+  Where to create the script: "Onde criar o script"
+new-server:
+  "3 - 20 letter/number/underscore. eg: ": "3 - 20 letras / número / sublinhado. por exemplo: "
+  # global (undefined)
+  Credit or debit card: "Cartão de crédito ou débito"
+  # global (defined)
+  Home: "Home"
+  # global (undefined)
+  New server: "Novo servidor"
+  # global (undefined)
+  Pay with Credit/debit card: "Pague com cartão de crédito / débito"
+  # global (undefined)
+  Pay with paypal: "Pague com paypal"
+  # global (undefined)
+  Region: "Região"
+  Select one: "Seleccione um"
+  # global (defined)
+  Settings: "Definições"
+  Subdomain: "Subdomínio"
+  Submit Payment for cloud hosting: "Enviar pagamento para hospedagem na nuvem"
+  # global (undefined)
+  Total: "Total"
+  You will access your app using this URL: "Acederá à aplicação usando este URL"
+  the bots will use IP from that region: "os bots usarão o IP daquela região"
+  # global (undefined)
+  we are using: "Nós estamos usando"
+new-trial-license:
+  # global (undefined)
+  Buy license: "Comprar licença"
+  # global (defined)
+  Download: "Download"
+  # global (undefined)
+  Get trial license: "Obter licença de teste"
+  New trial license: "Nova licença de teste"
+  # global (undefined)
+  description1: "description1"
+notifications:
+  # global (undefined)
+  Created at: "Criado em"
+  # global (undefined)
+  Message: "Mensagem"
+  No notifications: "Sem notificações"
+  # global (undefined)
+  Notifications: "Notificações"
+pricing:
+  1 bot: "1 bot"
+  2 days one-time trial: "2 dias de teste único"
+  30 days license: "Licença de 30 dias"
+  Buy now: "Compre Agora"
+  Get started: "Comece agora"
+  # global (defined)
+  Pricing: "Preçário"
+  Priority Slack support: "Suporte prioritário para Slack"
+  Self-host: "Auto-hospedagem"
+  Slack support: "Suporte para Slack"
+  "These are our pricing plans, if you can't quite find what you need, let us know on Slack and we'll work something out!": "Estes são os nossos planos de pagamento, se não encontrar o que necessita, informe-nos no Slack e nós trabalharemos em algo!"
+  Trial: "Teste"
+  Try for free: "Experimentar gratuitamente"
+  User needs to run the software: "O utilizador precisa executar o software"
+  Vote for future features development: "Vote no desenvolvimento de recursos futuros"
+  We host the bot for you 24/7: "Nós hospedamos o bot para si 24/7"
+  # global (undefined)
+  meta-description: "meta-description"
+  month: "mês"
+  # global (undefined)
+  title: "título"
+  upgradable: "actualizável"
+proposal:
+  # global (undefined)
+  All suggestions: "Todas as sugestões"
+proposals:
+  # global (undefined)
+  Next: "Seguinte"
+  # global (undefined)
+  Prev: "Anterior"
+  # global (undefined)
+  Search: "Pesquisar"
+redeem-code:
+  # global (undefined)
+  Add account to lobby: "Adicionar conta ao lobby"
+  # global (undefined)
+  Gameforge email: "Email da Gameforge"
+  # global (undefined)
+  Gameforge password: "Senha Gameforge"
+  # global (undefined)
+  New bot: "Novo bot"
+  # global (undefined)
+  New lobby: "Novo lobby"
+  # global (undefined)
+  OTP secret: "Segredo OTP"
+  # global (undefined)
+  Proxy password: "Senha proxy"
+  # global (undefined)
+  Proxy username: "Nome de utilizador proxy"
+  # global (undefined)
+  Redeem code: "Resgatar código"
+  ____-____-____-____-____: "____-____-____-____-____"
+  # global (undefined)
+  http/socks5 proxy (leave empty if you do not know what this is): "http/socks5 proxy (deixe em branco se não souber o que é)"
+renew-instance:
+  # global (undefined)
+  Credit or debit card: "Cartão de crédito/débito"
+  # global (undefined)
+  Current license valid until: "Licença actual válida até"
+  # global (defined)
+  Home: "Home"
+  # global (undefined)
+  New license valid until: "Nova licença válida até"
+  # global (undefined)
+  Pay with Credit/debit card: "Pague com cartão de crédito/débito"
+  # global (undefined)
+  Pay with paypal: "Pague com paypal"
+  Renew instance: "Renovar instância"
+  # global (defined)
+  Settings: "Definições"
+  Submit payment to renew cloud license: "Submeta o pagamento para renovar a licença na nuvem"
+  # global (undefined)
+  bot: "bot"
+  # global (undefined)
+  we are using: "nós utilizamos"
+renew-license:
+  # global (undefined)
+  Credit or debit card: "Cartão de crédito/débito"
+  # global (undefined)
+  Current license valid until: "Licença actual válida até"
+  # global (defined)
+  Download: "Download"
+  # global (undefined)
+  New license valid until: "Nova licença válida até"
+  # global (undefined)
+  Pay with Credit/debit card: "Pague com cartão de crédito/débito"
+  # global (undefined)
+  Pay with paypal: "Pague com paypal"
+  # global (undefined)
+  Renew license: "Renovar licença"
+  # global (undefined)
+  Self hosting license parameters: "Parâmetros de licença de auto-hospedagem"
+  # global (undefined)
+  Submit payment for self-host license: "Submeter pagamento para licença de auto-hospedagem"
+  # global (undefined)
+  Total: "Total"
+  # global (undefined)
+  bot: "bot"
+  disclaimer: "aviso legal"
+  # global (undefined)
+  we are using: "nós utilizamos"
+reorder-bots:
+  # global (defined)
+  Home: "Home"
+  # global (undefined)
+  Reorder bots: "Reordenar bots"
+sessions-two-factor-recovery:
+  Recovery code: "Código recuperação"
+  Two-factor recovery: "Recuperação de dois fatores"
+  # global (undefined)
+  Verify: "Verificar"
+sessions-two-factor:
+  6-digit code: "Código de 6 dígitos"
+  Enter a two-factor recovery code: "Insira um código de recuperação de dois fatores"
+  Two-factor authentication: "Autenticação de dois fatores"
+  # global (undefined)
+  Verify: "Verificar"
+settings.account:
+  0-15min: "0-15min"
+  16-40min: "16-40min"
+  41-60min: "41-60min"
+  Change my username: "Alterar o meu utilizador"
+  Change password: "Alterar senha"
+  Change username: "Alterar utilizador"
+  Confirm new password: "Confirme a senha"
+  Delete account: "Apagar conta"
+  Delete your account: "Apagar a sua conta"
+  Disable two-factor authentication: "Desative a autenticação de dois fatores"
+  Enable two-factor authentication: "Ativar autenticação de dois fatores"
+  Hunter colors: "Cores de caçador"
+  # global (undefined)
+  Lang: "País"
+  # global (undefined)
+  New password: "Nova senha"
+  # global (undefined)
+  New username: "Novo utilizador"
+  # global (undefined)
+  No activity: "Sem actividade"
+  Old password: "Antiga senha"
+  Root admin cannot delete his account: "O administrador não consegue apagar a sua conta"
+  # global (undefined)
+  Save: "Salvar"
+  # global (defined)
+  Settings: "Definições"
+  Slack account: "Conta do Slack"
+  # global (undefined)
+  Theme: "Tema"
+  # global (undefined)
+  Two-Factor Authentication: "Autenticação de dois fatores"
+  Unlink slack account: "Desvincular conta do Slack"
+  Update password: "Actualizar senha"
+  # global (undefined)
+  Vacation: "Férias"
+settings.api:
+  # global (undefined)
+  API: "API"
+  API key: "API key"
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+settings.gift-cards:
+  # global (undefined)
+  Gift cards: "Cartões de presente"
+  No gift card to show: "Nenhum vale-presente para mostrar"
+settings.index:
+  # global (undefined)
+  API: "API"
+  # global (defined)
+  Account: "Conta"
+  # global (undefined)
+  Gift cards: "Cartões de presente"
+  Sessions: "Sessões"
+settings.sessions:
+  # global (defined)
+  "Are you sure?": "Tem a certeza?"
+  Expires at: "Expira em"
+  IP: "IP"
+  Revoke: "Revogar"
+  User agent: "Agente utilizador"
+  Your current session: "Sessão actual"
+  'on': "em"
+signup:
+  # global (undefined)
+  Email: "Email"
+  # global (undefined)
+  Note: "Nota"
+  # global (defined)
+  Password: "Palavra Passe"
+  # global (undefined)
+  Retype password: "Redigite a palavra passe"
+  Sign up: "Inscrever-se"
+  # global (defined)
+  Username: "Utilizador"
+  You will receive an email to validate your account: "Receberá um email para validar sua conta"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+socks5:
+  # global (undefined)
+  Arch: "Arch"
+  # global (undefined)
+  Downloads: "Downloads"
+  # global (undefined)
+  File name: "Ficheiro"
+  # global (undefined)
+  No files to display: "Nenhum ficheiro exibido"
+  # global (undefined)
+  OS: "OS"
+  # global (undefined)
+  SHA256 Checksum: "SHA256 Checksum"
+  # global (undefined)
+  Size: "Tamanho"
+  Socks5 server: "Servidor Socks5"
+  # global (undefined)
+  meta-description: "meta-description"
+  # global (undefined)
+  title: "título"
+support-new-ticket:
+  # global (undefined)
+  New ticket: "Novo ticket"
+  # global (undefined)
+  Tickets: "Tickets"
+support-ticket:
+  # global (undefined)
+  Tickets: "Tickets"
+support:
+  # global (undefined)
+  New ticket: "Novo ticket"
+ticketSupport.index:
+  # global (defined)
+  Home: "Home"
+ticketSupport.new-invoice:
+  # global (defined)
+  Bots: "Bots"
+  # global (undefined)
+  Valid until: "Válido até"
+two-factor-authentication-verify:
+  1- Recovery code: "1- Código de recuperação"
+  2- Scan this barcode with your app.: "2- Digitalize este código de barras com a sua aplicação"
+  3- Enter the six-digit code from the application: "3- Digite o código de seis dígitos da aplicação"
+  "After scanning the barcode image, the app will display a six-digit code that you can enter below.": "Depois de digitalizar a imagem do código de barras, o aplicativo exibirá um código de seis dígitos que poderá inserir em baixo."
+  Cancel: "Cancelar"
+  Enable: "Activar"
+  Recovery code is used to access your account in the event you cannot receive two-factor authentication codes.: "O código de recuperação é utilizado para aceder à sua conta caso você não possa receber códigos de autenticação de dois fatores."
+  "Scan the image above with the two-factor authentication app on your phone. If you can’t use a barcode, enter": "Digitalize a imagem acima com o aplicativo de autenticação de dois factores em seu telefone. Se não puder utilizar um código de barras, digite"
+  "Treat your recovery codes with the same level of attention as you would your password!": "Trate seus códigos de recuperação com o mesmo nível de atenção que dispensaria a sua senha!"
+  "We recommend saving them with a password manager such as Lastpass, 1Password, or Keeper.": "Recomendamos salvá-los com um gerenciador de senhas como Lastpass, 1Password ou Keeper."
+  instead.: "em vez de."
+  this text code: "este código de texto"
+two-factor:
+  Backup the file in: "Faça backup do ficheiro em"
+  Download ogame ninja binary for your OS: "Faça o download do binário ogame ninja para o seu SO"
+  Generate a one-time password with: "Gerar uma senha de uso único com"
+  If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...: "Se desejar usar a autenticação de dois fatores na conta da gameforge sem ter que usar a aplicação feita pela gameforge ..."
+  "In a terminal, execute": "Em um terminal, execute"
+  List all your 2fa with: "Liste todos os seus 2fa com"
+  # global (undefined)
+  Note: "Nota"
+  # global (undefined)
+  Two-Factor Authentication: "Autenticação de dois fatores"
+  "You can now use <a href=\\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\\" rel=\\"noopener noreferrer\\" target=\\"_blank\\">Google Authenticator</a> instead of gameforge app.": "Poderá usar agora <a href=\\\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\">Google Authenticator</a> invés da aplicação da gameforge."
+  You can remove 2fa from your account with: "Você pode remover 2fa de sua conta com"
+  "You don't need to be a customer to use the following tools.": "Não precisa ser um cliente para usar as seguintes ferramentas."
+  # global (undefined)
+  meta-description: "meta-description"
+  or the output of: "ou a saída de"
+  # global (undefined)
+  title: "título"
