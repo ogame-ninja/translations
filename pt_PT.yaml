@@ -1405,7 +1405,7 @@ new-license:
   "Total": "Total" # global (undefined)
   "description1": "" # global (undefined)
   "description2": ""
-  "we are using": ""nós utilizamos # global (undefined)
+  "we are using": "nós utilizamos" # global (undefined)
 new-lobby-account:
   "Add account to lobby": "Adicionar conta ao lobby" # global (undefined)
   "Create": "Criar" # global (undefined)
