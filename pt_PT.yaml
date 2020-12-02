@@ -358,12 +358,14 @@ bot.flights:
   "All": "Todos" # global (undefined)
   "Are you sure?": "" # global (defined)
   "Arrival": "Chegada"
+  "Arrive at": ""
   "Arrive in": "" # global (defined)
   "Attack": "" # global (defined)
   "Battlecruiser": "" # global (defined)
   "Battleship": "" # global (defined)
   "Bomber": "" # global (defined)
   "Cancel Fleet": "Regressar Frota" # global (undefined)
+  "Cancel scheduled flight": ""
   "Cargo": "Capacidade"
   "Colonize": "" # global (defined)
   "Colony Ship": "" # global (defined)
@@ -378,23 +380,21 @@ bot.flights:
   "Debris": "Destroços" # global (undefined)
   "Delete cron job": "Apagar cron job"
   "Delete flight": "Apagar frota"
+  "Depart at": ""
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
   "Deuterium": "" # global (defined)
   "Dur": "Dur"
-  "Duration": "Duração" # global (undefined)
   "Edit cron job": "Editar cron job"
   "Espionage Probe": "" # global (defined)
   "Exp": "" # global (undefined)
   "Expedition": "" # global (defined)
   "Flight": "Frota"
-  "From": "De"
   "Fuel": "Consumo"
   "Grouped Attack": "" # global (defined)
   "Harvest": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
-  "ID": "ID"
   "Jump gate": "Portal"
   "LC": "CG"
   "Large Cargo": "" # global (defined)
@@ -406,6 +406,7 @@ bot.flights:
   "No cron job at the moment": "Sem cron jobs"
   "No fleets": "" # global (undefined)
   "No saved flights": "Sem frotas salvas"
+  "No scheduled flights": ""
   "None": "Nada" # global (undefined)
   "Note": "Nota" # global (undefined)
   "Origin": "" # global (defined)
@@ -415,30 +416,35 @@ bot.flights:
   "Pathfinder": "Exploradora" # global (undefined)
   "Planet": "Planeta" # global (undefined)
   "Reaper": "Ceifeira" # global (undefined)
-  "Recycle Debris Field": "Reciclar Campos Destroços"
   "Recycle debris field": "Reciclar campos destroço"
   "Recycler": "" # global (defined)
-  "Resources": "Recursos" # global (undefined)
+  "Resources to": ""
   "Return": "Regresso"
   "SC": "CP"
   "Save fleet": "Guardar frota"
   "Saved fleets": "Frotas Salvas"
+  "Schedule": ""
+  "Schedule fleet": ""
+  "Scheduled flights": ""
   "Select origin": "Seleccionar origem" # global (undefined)
+  "Send all resources": "" # global (undefined)
   "Send fleet": "Enviar frota"
   "Send flight": "Enviar movimento"
-  "Ships": "Naves" # global (undefined)
   "Small Cargo": "" # global (defined)
   "Spec": ""
-  "Speed": "" # global (defined)
   "Spy": "" # global (defined)
-  "To": "Para"
   "Transport": "" # global (defined)
   "from": "de"
+  "keep": ""
   "max": "máx"
   "mission": "missão"
   "random delay 0-10min added": "atraso aleatório entre 0-10min adicionado"
+  "send": ""
   "speed": "velocidade"
   "to": "para" # global (undefined)
+bot.flightsEdit:
+  "Send all resources": "" # global (undefined)
+  "Send all ships": ""
 bot.galaxy.index:
   "Map": "Mapa"
   "Table": "Galáxia"
@@ -519,7 +525,7 @@ bot.planet:
   "Research": "Pesquisa"
   "Shield power": "Poder de escudo"
   "Shipyard": "" # global (defined)
-  "Speed": "" # global (defined)
+  "Speed": ""
   "Structural integrity": "Integridade estrutural"
   "Sum": "Soma"
   "Weapon power": "Poder de armas"
@@ -630,21 +636,27 @@ bot.settings.brain:
   "Max deuterium tank level to build": "Nível máx armazém deutério"
   "Max metal mine level to build": "Nível máx mina metal"
   "Max metal storage level to build": "Nível máx armazém metal"
+  "Max missile silo level to build": ""
   "Max nanite factory level to build": "Nível máx fábrica nanites"
+  "Max research lab level to build": ""
   "Max robotics factory level to build": "Nível máx fábrica robots"
   "Max sensor phalanx level to build": "Nível máx sensor phalanx"
+  "Max shipyard level to build": ""
   "Max solar plant level to build": "Nível máx planta solar"
   "Metal mine": "Mina metal"
   "Metal storage": "Armazém metal"
+  "Missile silo": ""
   "Moon": "Lua" # global (undefined)
   "Nanite factory": "Fábrica nanites"
   "None": "Nada" # global (undefined)
   "Planet": "Planeta" # global (undefined)
   "Prevent importing if come back during sleep time": "Não importar, se movimentos regressarem durante o sleep"
   "Queue": "Fila" # global (undefined)
+  "Research lab": ""
   "Robotics factory": "Fábrica robots"
   "Save": "Guardar" # global (undefined)
   "Sensor phalanx": "Sensor phalanx"
+  "Shipyard": "" # global (defined)
   "Solar plant": "Planta solar"
   "to": "para" # global (undefined)
 bot.settings.debug:
@@ -660,13 +672,15 @@ bot.settings.defender:
   "Dangerous": "Perigoso"
   "Defender active": "Defender activo"
   "Defender configs": "Defender definições"
+  "Defender will ignore attacks from players in this list": ""
   "Desktop notification when attacked": "Notificação no Desktop quando atacado"
   "Dump remaining resources in defenses": "Gastar recursos em excesso em defesa"
   "Evacuate seconds before attack": "Segundos de evacuação antes do ataque"
   "Evacuation configs": "Evacuação definições"
   "Evacuation speed on destroy attacks": "Velocidade de evacuação em ataques de destruição"
   "Never": "Nunca"
-  "Notify small fleet attacks (< 1/3 firepower)": Notifica ataques de frotas pequenas (< 1/3 poder fogo)"
+  "No players whitelisted": ""
+  "Notify small fleet attacks (< 1/3 firepower)": "Notifica ataques de frotas pequenas (< 1/3 poder fogo)\""
   "Planet": "" # global (undefined)
   "Play sound when attacked": "Toca som quando atacado"
   "Preferred destination": "Destino preferido"
@@ -722,7 +736,7 @@ bot.settings.expeditions:
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
-  "Duration": "" # global (undefined)
+  "Duration": ""
   "Espionage Probe": "" # global (defined)
   "Exp": "Exp" # global (undefined)
   "Expedition": "" # global (defined)
@@ -738,6 +752,8 @@ bot.settings.expeditions:
   "Large Cargo": "" # global (defined)
   "Large Cargo to stay": "Carg. Grande para ficar"
   "Light Fighter": "" # global (defined)
+  "Minimum Pathfinders": ""
+  "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": "Velocidade mínima"
   "Minimum speed for the early PF": "Vel. mín para antecipar exploradora"
   "Missile Attack": "" # global (defined)
@@ -813,7 +829,7 @@ bot.settings.farmer:
   "State": "Estado"
   "Total loot": "Pilhagem total"
   "Use pathfinders": "Usar exploradoras"
-  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Desactive \"Hide pictures in reports\" nas opções do OGame para o farmer funcionar."
+  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": "alianças ignoradas"
   "ignored planets": "planetas ignorados"
   "ignored players": "jogadores ignorados"
@@ -852,7 +868,7 @@ bot.settings.home:
   "Repatriate now": "Distribuir agora"
   "Reschedule evacuation": "Reprogramar evacuação"
   "Research speed": "Velocidade pesquisa"
-  "Ships": "Naves" # global (undefined)
+  "Ships": "Naves"
   "Times": "Tempos"
   "Universe": "Universo" # global (undefined)
   "Universe speed": "Velocidade do Universo"
@@ -862,7 +878,10 @@ bot.settings.home:
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
   "Color legend": ""
+  "Notify when inactive for": ""
+  "Save": "" # global (undefined)
   "Target": ""
+  "minutes": "" # global (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- Planeta/Lua activa ---" # global (undefined)
   "Actions": "" # global (defined)
@@ -934,7 +953,7 @@ bot.settings.messages:
   "Next": "Seguinte" # global (undefined)
   "No messages to show": "Sem mensagens para mostrar" # global (undefined)
   "Prev": "Anterior" # global (undefined)
-  "Resources": "Recursos" # global (undefined)
+  "Resources": "Recursos"
 bot.settings.notifications:
   "Bot exit sleep mode": "Bot sai do modo sleep"
   "Bot goes to sleep mode": "Bot entra em modo sleep"
@@ -961,6 +980,7 @@ bot.settings.notifications:
   "Slack": "Slack"
   "Slack username for notifications": "Utilizador Slack p/ notificações"
   "Sleep Mode": "" # global (undefined)
+  "Target become inactive": ""
   "Target dropped in military points": "Alvo perdeu pontos militares"
   "Telegram": "Telegram"
   "Telegram chat id for notifications": "Telegram chat id para notificações"
@@ -1090,13 +1110,20 @@ bot.settings.settings:
   "Username": "Utilizador" # global (defined)
   "proxy login requests only": ""
 bot.settings.sleepMode:
+  "--- Select a destination ---": ""
   "Active": "Activo" # global (undefined)
   "Are you sure?": "" # global (defined)
   "Awake bot now": "Acordar bot agora"
+  "Destination": "" # global (defined)
   "Every day": "Todos os dias"
   "Friday": "Sexta"
+  "Manual fleet save": ""
   "Monday": "Segunda"
+  "Own debris field": ""
+  "Planet": "" # global (undefined)
   "Put bot to sleep now": "Colocar bot em sleep"
+  "Random colonize mission": ""
+  "Random debris field": ""
   "Random delay before going to sleep (minutes)": ""
   "Saturday": "Sábado"
   "Save": "Guardar" # global (undefined)
@@ -1212,6 +1239,7 @@ download:
   "File name": "Ficheiro" # global (undefined)
   "Full license": "Licença completa"
   "Instructions how to install and run": "Intruções como intalar e executar"
+  "Is cloud": ""
   "My licenses": "Minhas licenças"
   "New license": "Nova licença" # global (undefined)
   "No files to display": "Sem ficheiros para mostrar" # global (undefined)
@@ -1274,7 +1302,7 @@ home:
   "Are you sure?": "" # global (defined)
   "Domain": "Domínio"
   "Expires": "Expira"
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Slack! Se você nunca usou o Slack antes: é grátis, seguro e funciona tanto no desktop como no telefone." # global (undefined)" # global (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Slack! Se você nunca usou o Slack antes: é grátis, seguro e funciona tanto no desktop como no telefone." # global (undefined)
   "Join the server now": "Junte-se ao servidor agora" # global (undefined)
   "My servers": "Meus Servidores"
   "New password": "Nova palavra passe" # global (undefined)
@@ -1352,7 +1380,7 @@ license-view:
   "UUID": "UUID" # global (undefined)
 license:
   "Are you sure?": "" # global (defined)
-  "Click \"Renew license\" button": "Clicar no botão \"Renovar licença\""
+  "Click \"Renew license\" button": ""
   "Current license requires a newer version of the software. Please update.": "A licença actual requer uma versão mais recente do software. Por favor actualize."
   "License expired": "Licença expirada"
   "Renew license": "Renovar licença" # global (undefined)
@@ -1557,6 +1585,7 @@ settings.account:
   "Delete account": "Apagar conta"
   "Delete your account": "Apagar a sua conta"
   "Disable two-factor authentication": "Desactive a autenticação de dois factores"
+  "Email": "" # global (undefined)
   "Enable two-factor authentication": "Activar a autenticação de dois factores"
   "Hunter colors": "Hunter cores"
   "Lang": "País" # global (undefined)
@@ -1648,7 +1677,7 @@ two-factor:
   "List all your 2fa with": "Liste todas as suas A2F com"
   "Note": "Nota" # global (undefined)
   "Two-Factor Authentication": "Autenticação de dois fatores" # global (undefined)
-  "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": "Poderá utilizar agora o <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> ao invés da app da gameforge."
+  "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
   "You can remove 2fa from your account with": "Pode remover A2F da sua conta com"
   "You don't need to be a customer to use the following tools.": "Não precisa ser um cliente para usar as seguintes ferramentas."
   "meta-description": "" # global (undefined)

@@ -1,3 +1,4 @@
+global:
 admin.index:
   "Bots": "Бот" # global (undefined)
   "License": "Лицензия" # global (undefined)
@@ -220,12 +221,14 @@ bot.flights:
   "All": "Все" # global (undefined)
   "Are you sure?": "Вы Уверены?" # global (undefined)
   "Arrival": "Прибытие"
+  "Arrive at": ""
   "Arrive in": "Прибытие в" # global (undefined)
   "Attack": "Атака" # global (undefined)
   "Battlecruiser": "Линейный крейсер" # global (undefined)
   "Battleship": "Линкор" # global (undefined)
   "Bomber": "Бомбандировщик" # global (undefined)
   "Cancel Fleet": "Отозвать" # global (undefined)
+  "Cancel scheduled flight": ""
   "Cargo": "Вместимость"
   "Colonize": "Колонизировать" # global (undefined)
   "Colony Ship": "Колонизатор" # global (undefined)
@@ -240,23 +243,21 @@ bot.flights:
   "Debris": "Поле Обломков" # global (undefined)
   "Delete cron job": "Удалить Задание работы"
   "Delete flight": "Удалить Сохраненное задание флота"
+  "Depart at": ""
   "Destination": "Расстояние" # global (undefined)
   "Destroy": "Уничтожить" # global (undefined)
   "Destroyer": "Уничтожитель" # global (undefined)
   "Deuterium": "Дейтерий" # global (undefined)
   "Dur": "Время полета"
-  "Duration": "Продолжительность" # global (undefined)
   "Edit cron job": "Редактировать Задание работы"
   "Espionage Probe": "Шпионский Зонд" # global (undefined)
   "Exp": "Экспа" # global (undefined)
   "Expedition": "Экспедиция" # global (undefined)
   "Flight": "Задание флота"
-  "From": "Куда"
   "Fuel": "Топливо"
   "Grouped Attack": "Групповая Атака" # global (undefined)
   "Harvest": "Собрать" # global (undefined)
   "Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
-  "ID": "№"
   "Jump gate": "Звездные врата"
   "LC": "БТ"
   "Large Cargo": "Большой Транспорт" # global (undefined)
@@ -268,6 +269,7 @@ bot.flights:
   "No cron job at the moment": "На данный момент никакого задания работы  нет"
   "No fleets": "Нет передвижения флотов" # global (undefined)
   "No saved flights": "Нет сохранены заданий флотов"
+  "No scheduled flights": ""
   "None": "Сбросить все корабли" # global (undefined)
   "Note": "Примечание" # global (undefined)
   "Origin": "Откуда" # global (undefined)
@@ -277,30 +279,35 @@ bot.flights:
   "Pathfinder": "Первопроходец" # global (undefined)
   "Planet": "Планета" # global (undefined)
   "Reaper": "Жнец" # global (undefined)
-  "Recycle Debris Field": "Собрать поле обломков"
   "Recycle debris field": "Собрать поле обломков"
   "Recycler": "Переработчик" # global (undefined)
-  "Resources": "Ресурсы" # global (undefined)
+  "Resources to": ""
   "Return": "Возвращение"
   "SC": "МТ"
   "Save fleet": "Сохранить задание флота"
   "Saved fleets": "Сохраненные Задания Флотов"
+  "Schedule": ""
+  "Schedule fleet": ""
+  "Scheduled flights": ""
   "Select origin": "Выбирите Источник" # global (undefined)
+  "Send all resources": "" # global (undefined)
   "Send fleet": "Отправить Флот"
   "Send flight": "Отправить Флот"
-  "Ships": "Корабли" # global (undefined)
   "Small Cargo": "Малый Транспорт" # global (undefined)
   "Spec": "Спецификация"
-  "Speed": "Скорость" # global (undefined)
   "Spy": "Шпионаж" # global (undefined)
-  "To": "Куда"
   "Transport": "Транспорт" # global (undefined)
   "from": "Откуда"
+  "keep": ""
   "max": "Максимум"
   "mission": "Задание"
   "random delay 0-10min added": "добавлена случайная задержка 0-10мин"
+  "send": ""
   "speed": "Скорость"
   "to": "Куда" # global (undefined)
+bot.flightsEdit:
+  "Send all resources": "" # global (undefined)
+  "Send all ships": ""
 bot.galaxy.index:
   "Map": "Карта Галактики"
   "Table": "Галактика Обзор"
@@ -381,7 +388,7 @@ bot.planet:
   "Research": "Исследования"
   "Shield power": "Мощность Щита"
   "Shipyard": "Верфь" # global (undefined)
-  "Speed": "Скорость" # global (undefined)
+  "Speed": "Скорость"
   "Structural integrity": "Структура"
   "Sum": "Сумма"
   "Weapon power": "Оценка Атаки"
@@ -492,21 +499,27 @@ bot.settings.brain:
   "Max deuterium tank level to build": "Максимальный уровень Ёмкости  Дейтерия для строительства"
   "Max metal mine level to build": "Максимальный уровень Шахты по добыче Металла для строительства"
   "Max metal storage level to build": "Максимальный уровень Хранилища Металла для строительства"
+  "Max missile silo level to build": ""
   "Max nanite factory level to build": "Максимальный уровень Фабрики Нанитов для строительства"
+  "Max research lab level to build": ""
   "Max robotics factory level to build": "Максимальный уровень Фабрики Роботов для строительства"
   "Max sensor phalanx level to build": "Максимальный уровень Сенсорной фаланги для постройки"
+  "Max shipyard level to build": ""
   "Max solar plant level to build": "Максимальный уровень Солнечной Электростанций для строительства"
   "Metal mine": "Рудник по добыче Металла"
   "Metal storage": "Хранилище Металла"
+  "Missile silo": ""
   "Moon": "Луна" # global (undefined)
   "Nanite factory": "Фабрика Нанитов"
   "None": "Ничего" # global (undefined)
   "Planet": "Планета" # global (undefined)
   "Prevent importing if come back during sleep time": "Предотвратить импорт, если вернетесь во время сна"
   "Queue": "Очередь" # global (undefined)
+  "Research lab": ""
   "Robotics factory": "Фабрика роботов"
   "Save": "Сохранить" # global (undefined)
   "Sensor phalanx": "Сенсорная Фаланга"
+  "Shipyard": "" # global (undefined)
   "Solar plant": "Солнечная Электростанция"
   "to": "в" # global (undefined)
 bot.settings.debug:
@@ -522,12 +535,14 @@ bot.settings.defender:
   "Dangerous": "При Опасности"
   "Defender active": "Защитник Активен"
   "Defender configs": "Настройки Защитника"
+  "Defender will ignore attacks from players in this list": ""
   "Desktop notification when attacked": "Уведомление когда напали на Компьютере"
   "Dump remaining resources in defenses": "Сбросить оставшиеся ресурсы в оборону"
   "Evacuate seconds before attack": "Эвакуация до атаки в скундах"
   "Evacuation configs": "Настройки Эвакуции"
   "Evacuation speed on destroy attacks": "Скорость Эвакуации при заданий уничтожить"
   "Never": "Никогда"
+  "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": "Уведомлять об атаках малого флота (< 1/3 огневой мощи)"
   "Planet": "Планета" # global (undefined)
   "Play sound when attacked": "Проиграть звук при атаке"
@@ -584,7 +599,7 @@ bot.settings.expeditions:
   "Destination": "Место назначения" # global (undefined)
   "Destroy": "Уничтожить" # global (undefined)
   "Destroyer": "Уничтожитель" # global (undefined)
-  "Duration": "Продолжительность" # global (undefined)
+  "Duration": "Продолжительность"
   "Espionage Probe": "Шпионский зонд" # global (undefined)
   "Exp": "Экспа" # global (undefined)
   "Expedition": "Экспедиция" # global (undefined)
@@ -600,6 +615,8 @@ bot.settings.expeditions:
   "Large Cargo": "Большой Транспорт" # global (undefined)
   "Large Cargo to stay": "Оставить Больших Транспортов"
   "Light Fighter": "Легкий Истребитель" # global (undefined)
+  "Minimum Pathfinders": ""
+  "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": "Минимальная скорость"
   "Minimum speed for the early PF": "Минимальная скорость для ПП отправляемых заранее"
   "Missile Attack": "Ракетный Удар" # global (undefined)
@@ -675,7 +692,7 @@ bot.settings.farmer:
   "State": "Статус"
   "Total loot": "Общий Лут"
   "Use pathfinders": "Все первопроходцы"
-  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Вам нужно отключить функцию \"скрыть картинки в отчетах\" в настройках ogame, чтобы фермер работал правильно."
+  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": "Игнорируемые Альянсы"
   "ignored planets": "Игнорируемые Планеты"
   "ignored players": "Игнорируемые Игроки"
@@ -714,7 +731,7 @@ bot.settings.home:
   "Repatriate now": "Собрать ресурсы сейчас"
   "Reschedule evacuation": "Перенести Сбор Ресурсов"
   "Research speed": "Скорость Исследования"
-  "Ships": "Корабли" # global (undefined)
+  "Ships": "Корабли"
   "Times": "Темы"
   "Universe": "Уня" # global (undefined)
   "Universe speed": "Скорость Уни"
@@ -724,7 +741,10 @@ bot.settings.home:
 bot.settings.hunter-target:
   "Alliance": "Альянс" # global (undefined)
   "Color legend": "Цвета Легенды"
+  "Notify when inactive for": ""
+  "Save": "" # global (undefined)
   "Target": "Цель"
+  "minutes": "" # global (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (undefined)
   "Actions": "Действия" # global (undefined)
@@ -796,7 +816,7 @@ bot.settings.messages:
   "Next": "Следующии" # global (undefined)
   "No messages to show": "Нет сообщений для показа" # global (undefined)
   "Prev": "Предыдущии" # global (undefined)
-  "Resources": "Ресурсы" # global (undefined)
+  "Resources": "Ресурсы"
 bot.settings.notifications:
   "Bot exit sleep mode": "Бот Вышел режим сна"
   "Bot goes to sleep mode": "Бот переходит в спящий режим"
@@ -823,6 +843,7 @@ bot.settings.notifications:
   "Slack": "Сласк"
   "Slack username for notifications": "Имя пользователя Сладк для уведомлении"
   "Sleep Mode": "Режим Сна" # global (undefined)
+  "Target become inactive": ""
   "Target dropped in military points": "Цель сброшена в военных точках"
   "Telegram": "Телеграм"
   "Telegram chat id for notifications": "Телеграм чат ИД"
@@ -952,13 +973,20 @@ bot.settings.settings:
   "Username": "Имя" # global (undefined)
   "proxy login requests only": "только запросы на вход через прокси-сервер"
 bot.settings.sleepMode:
+  "--- Select a destination ---": ""
   "Active": "Активен" # global (undefined)
   "Are you sure?": "Вы Уверены?" # global (undefined)
   "Awake bot now": "Проснись бот сейчас же"
+  "Destination": "" # global (undefined)
   "Every day": "Каждый день"
   "Friday": "Пятница"
+  "Manual fleet save": ""
   "Monday": "Понедельник"
+  "Own debris field": ""
+  "Planet": "" # global (undefined)
   "Put bot to sleep now": "Отправить Бота спать"
+  "Random colonize mission": ""
+  "Random debris field": ""
   "Random delay before going to sleep (minutes)": "Случайная задержка перед сном (минуты)"
   "Saturday": "Суббота"
   "Save": "Сохранить" # global (undefined)
@@ -1074,6 +1102,7 @@ download:
   "File name": "Имя Фаила" # global (undefined)
   "Full license": "Полная Лицензия"
   "Instructions how to install and run": "Инструкции по установке и запуску"
+  "Is cloud": ""
   "My licenses": "Моя Лицензия"
   "New license": "Новая Лицензия" # global (undefined)
   "No files to display": "Нет фаилов для отображения" # global (undefined)
@@ -1419,6 +1448,7 @@ settings.account:
   "Delete account": "удалить аккаунт"
   "Delete your account": "Удалить свой аккаунт"
   "Disable two-factor authentication": ""
+  "Email": "" # global (undefined)
   "Enable two-factor authentication": ""
   "Hunter colors": ""
   "Lang": "Язык" # global (undefined)
@@ -1510,7 +1540,7 @@ two-factor:
   "List all your 2fa with": "Перечислите все ваши 2fa с помощью"
   "Note": "запись" # global (undefined)
   "Two-Factor Authentication": "Двух-фактурная аунтификация" # global (undefined)
-  "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": "Теперь вы можете использовать <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" таргет=\"раздел настроек\">аутентификации Google</a> вместо приложение а Gameforge."
+  "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
   "You can remove 2fa from your account with": "Вы можете удалить 2fa из своей учетной записи с помощью"
   "You don't need to be a customer to use the following tools.": "Вам не нужно быть клиентом, чтобы использовать следующие инструменты"
   "meta-description": "метаописание" # global (undefined)

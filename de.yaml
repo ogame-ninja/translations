@@ -403,12 +403,14 @@ bot.flights:
   "All": "Alle" # global (defined)
   "Are you sure?": "" # global (defined)
   "Arrival": "Ankunft"
+  "Arrive at": ""
   "Arrive in": "Ankunft in" # global (defined)
   "Attack": "" # global (defined)
   "Battlecruiser": "" # global (defined)
   "Battleship": "" # global (defined)
   "Bomber": "" # global (defined)
   "Cancel Fleet": "Flotte abbrechen" # global (defined)
+  "Cancel scheduled flight": ""
   "Cargo": "Laderaum"
   "Colonize": "" # global (defined)
   "Colony Ship": "" # global (defined)
@@ -423,23 +425,21 @@ bot.flights:
   "Debris": "Trümmerfeld" # global (undefined)
   "Delete cron job": "Cronjob löschen"
   "Delete flight": "Flug löschen"
+  "Depart at": ""
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
   "Deuterium": "" # global (defined)
   "Dur": "Dauer"
-  "Duration": "Dauer" # global (defined)
   "Edit cron job": "Cronjob bearbeiten"
   "Espionage Probe": "" # global (defined)
   "Exp": "Exp" # global (defined)
   "Expedition": "" # global (defined)
   "Flight": "Flug"
-  "From": "von"
   "Fuel": "Verbrauch"
   "Grouped Attack": "" # global (defined)
   "Harvest": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
-  "ID": "ID"
   "Jump gate": "Sprungtor nutzen"
   "LC": "GT"
   "Large Cargo": "" # global (defined)
@@ -451,6 +451,7 @@ bot.flights:
   "No cron job at the moment": "Derzeit kein Cronjob eingerichtet"
   "No fleets": "Keine Flotten" # global (defined)
   "No saved flights": "Keine gespeicherten Flüge"
+  "No scheduled flights": ""
   "None": "Keine" # global (defined)
   "Note": "Notiz" # global (undefined)
   "Origin": "" # global (defined)
@@ -460,30 +461,35 @@ bot.flights:
   "Pathfinder": "" # global (defined)
   "Planet": "Planet" # global (defined)
   "Reaper": "" # global (defined)
-  "Recycle Debris Field": "Trümmerfeld abbauen"
   "Recycle debris field": "Trümmerfeld abbauen"
   "Recycler": "" # global (defined)
-  "Resources": "Rohstoffe" # global (defined)
+  "Resources to": ""
   "Return": "Rückkehr"
   "SC": "KT"
   "Save fleet": "Flotte speichern"
   "Saved fleets": "Gespeicherte Flotten"
+  "Schedule": ""
+  "Schedule fleet": ""
+  "Scheduled flights": ""
   "Select origin": "Ursprung wählen" # global (defined)
+  "Send all resources": "" # global (undefined)
   "Send fleet": "Flotte senden"
   "Send flight": "Flug losschicken"
-  "Ships": "Schiffe" # global (defined)
   "Small Cargo": "" # global (defined)
   "Spec": "Spec"
-  "Speed": "Geschwindigkeit" # global (defined)
   "Spy": "" # global (defined)
-  "To": "nach"
   "Transport": "" # global (defined)
   "from": "von"
+  "keep": ""
   "max": "max"
   "mission": "Mission"
   "random delay 0-10min added": "zufallsverzögerung 0-10 min ergänzt"
+  "send": ""
   "speed": "Geschwindigkeit"
   "to": "nach" # global (defined)
+bot.flightsEdit:
+  "Send all resources": "" # global (undefined)
+  "Send all ships": ""
 bot.galaxy.index:
   "Map": "Karte"
   "Table": "Tabelle"
@@ -564,7 +570,7 @@ bot.planet:
   "Research": "Forschung"
   "Shield power": "Schildstärke"
   "Shipyard": "" # global (defined)
-  "Speed": "" # global (defined)
+  "Speed": ""
   "Structural integrity": "Strukturpunkte"
   "Sum": "Summe"
   "Weapon power": "Angriffswert"
@@ -675,21 +681,27 @@ bot.settings.brain:
   "Max deuterium tank level to build": "Max Deuteriumspeicher ausbauen bis Stufe"
   "Max metal mine level to build": "Max Metallmine ausbauen bis Stufe"
   "Max metal storage level to build": "Max Metallspeicher ausbauen bis Stufe"
+  "Max missile silo level to build": ""
   "Max nanite factory level to build": "Max Nanitenfabrik ausbauen bis Stufe"
+  "Max research lab level to build": ""
   "Max robotics factory level to build": "Max Roboterfabrik ausbauen bis Stufe"
   "Max sensor phalanx level to build": ""
+  "Max shipyard level to build": ""
   "Max solar plant level to build": "Max Solaranlage ausbauen bis Stufe"
   "Metal mine": "Metallmine"
   "Metal storage": "Metallspeicher"
+  "Missile silo": ""
   "Moon": "" # global (defined)
   "Nanite factory": "Nanitenfabrik"
   "None": "" # global (defined)
   "Planet": "" # global (defined)
   "Prevent importing if come back during sleep time": ""
   "Queue": "" # global (defined)
+  "Research lab": ""
   "Robotics factory": "Roboterfabrik"
   "Save": "Speichern" # global (undefined)
   "Sensor phalanx": ""
+  "Shipyard": "" # global (defined)
   "Solar plant": "Solaranlage"
   "to": "" # global (defined)
 bot.settings.debug:
@@ -705,12 +717,14 @@ bot.settings.defender:
   "Dangerous": "Gefährlich"
   "Defender active": "Verteidiger aktiv"
   "Defender configs": "Verteidiger Einstellungen"
+  "Defender will ignore attacks from players in this list": ""
   "Desktop notification when attacked": "Desktop Benachrichtigung bei Angriffen"
   "Dump remaining resources in defenses": "Restliche Ressourcen in Verteidigungsanlagen investieren"
   "Evacuate seconds before attack": "Evakuierung XX Sekunden vor Angriff einleiten"
   "Evacuation configs": "Evakuierungs Einstellungen"
   "Evacuation speed on destroy attacks": "Evakuierungsgeschwindigkeit bei Mondzerstörungen"
   "Never": "Niemals"
+  "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": "Benachrichtigung bei kl. Flotten angriffen (< 1/3 Feuerkraft)"
   "Planet": "" # global (defined)
   "Play sound when attacked": "Ton bei angriff abspielen"
@@ -767,7 +781,7 @@ bot.settings.expeditions:
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
-  "Duration": "" # global (defined)
+  "Duration": ""
   "Espionage Probe": "" # global (defined)
   "Exp": "" # global (defined)
   "Expedition": "" # global (defined)
@@ -783,6 +797,8 @@ bot.settings.expeditions:
   "Large Cargo": "" # global (defined)
   "Large Cargo to stay": ""
   "Light Fighter": "" # global (defined)
+  "Minimum Pathfinders": ""
+  "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": ""
   "Minimum speed for the early PF": ""
   "Missile Attack": "" # global (defined)
@@ -897,7 +913,7 @@ bot.settings.home:
   "Repatriate now": "Rohstoffzusammenzug"
   "Reschedule evacuation": "Evakuierung neu planen"
   "Research speed": "Forschungsgeschwindigkeit"
-  "Ships": "" # global (defined)
+  "Ships": ""
   "Times": ""
   "Universe": "Universum" # global (undefined)
   "Universe speed": "Geschwindigkeit Universum"
@@ -907,7 +923,10 @@ bot.settings.home:
 bot.settings.hunter-target:
   "Alliance": "" # global (defined)
   "Color legend": "Farb Legende"
+  "Notify when inactive for": ""
+  "Save": "" # global (undefined)
   "Target": "Ziel"
+  "minutes": "" # global (defined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (defined)
   "Actions": "" # global (defined)
@@ -979,7 +998,7 @@ bot.settings.messages:
   "Next": "" # global (defined)
   "No messages to show": "" # global (defined)
   "Prev": "" # global (defined)
-  "Resources": "" # global (defined)
+  "Resources": ""
 bot.settings.notifications:
   "Bot exit sleep mode": "Bot verlässt den Schlafmodus"
   "Bot goes to sleep mode": "Bot geht in den Schlafmodus"
@@ -1006,6 +1025,7 @@ bot.settings.notifications:
   "Slack": ""
   "Slack username for notifications": "Slack Benutzernamen für Benachrichtigungen"
   "Sleep Mode": "" # global (undefined)
+  "Target become inactive": ""
   "Target dropped in military points": ""
   "Telegram": ""
   "Telegram chat id for notifications": "Telegram Chat ID für Benachrichtigungen"
@@ -1135,13 +1155,20 @@ bot.settings.settings:
   "Username": "" # global (defined)
   "proxy login requests only": ""
 bot.settings.sleepMode:
+  "--- Select a destination ---": ""
   "Active": "" # global (defined)
   "Are you sure?": "" # global (defined)
   "Awake bot now": "Bot jetzt Aufwecken"
+  "Destination": "" # global (defined)
   "Every day": "Jeden Tag"
   "Friday": "Freitag"
+  "Manual fleet save": ""
   "Monday": "Montag"
+  "Own debris field": ""
+  "Planet": "" # global (defined)
   "Put bot to sleep now": "Bot in Schlafmodus bringen"
+  "Random colonize mission": ""
+  "Random debris field": ""
   "Random delay before going to sleep (minutes)": "Zufällige Wartezeit vor dem Schlafengehen (minuten)"
   "Saturday": "Samstag"
   "Save": "" # global (undefined)
@@ -1257,6 +1284,7 @@ download:
   "File name": "Dateiname" # global (defined)
   "Full license": "Voll-Lizenz"
   "Instructions how to install and run": "Installationsanleitung"
+  "Is cloud": ""
   "My licenses": "Meine Lizenzen"
   "New license": "Neue Lizenz" # global (undefined)
   "No files to display": "Keine Dateien zum Anzeigen verfügbar" # global (defined)
@@ -1602,6 +1630,7 @@ settings.account:
   "Delete account": "Account löschen"
   "Delete your account": "Konto löschen"
   "Disable two-factor authentication": ""
+  "Email": "" # global (defined)
   "Enable two-factor authentication": ""
   "Hunter colors": ""
   "Lang": "" # global (undefined)

@@ -359,12 +359,14 @@ bot.flights:
   "All": "Toute" # global (undefined)
   "Are you sure?": "" # global (defined)
   "Arrival": ""
+  "Arrive at": ""
   "Arrive in": "" # global (defined)
   "Attack": "" # global (defined)
   "Battlecruiser": "" # global (defined)
   "Battleship": "" # global (defined)
   "Bomber": "" # global (defined)
   "Cancel Fleet": "Annuler la flotte" # global (undefined)
+  "Cancel scheduled flight": ""
   "Cargo": ""
   "Colonize": "" # global (defined)
   "Colony Ship": "" # global (defined)
@@ -379,23 +381,21 @@ bot.flights:
   "Debris": "Débris" # global (undefined)
   "Delete cron job": "Supprimer la cron job"
   "Delete flight": "Supprimer le vol"
+  "Depart at": ""
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
   "Deuterium": "" # global (defined)
   "Dur": "Dur"
-  "Duration": "Durée" # global (undefined)
   "Edit cron job": "Modifier la cron job"
   "Espionage Probe": "" # global (defined)
   "Exp": "Exp" # global (undefined)
   "Expedition": "" # global (defined)
   "Flight": "Vol"
-  "From": "De"
   "Fuel": "Carburant"
   "Grouped Attack": "" # global (defined)
   "Harvest": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
-  "ID": "ID"
   "Jump gate": "Porte de saut"
   "LC": "GT"
   "Large Cargo": "" # global (defined)
@@ -407,6 +407,7 @@ bot.flights:
   "No cron job at the moment": "Pas de job cron pour le moment"
   "No fleets": "Pas de flotte" # global (undefined)
   "No saved flights": "Aucun vol enregistré"
+  "No scheduled flights": ""
   "None": "Aucun" # global (undefined)
   "Note": "Note" # global (undefined)
   "Origin": "" # global (defined)
@@ -416,30 +417,35 @@ bot.flights:
   "Pathfinder": "" # global (undefined)
   "Planet": "Planète" # global (undefined)
   "Reaper": "" # global (undefined)
-  "Recycle Debris Field": ""
   "Recycle debris field": ""
   "Recycler": "" # global (defined)
-  "Resources": "Ressources" # global (undefined)
+  "Resources to": ""
   "Return": ""
   "SC": "PT"
   "Save fleet": "Enregistrer la flotte"
   "Saved fleets": "Flottes enregistrées"
+  "Schedule": ""
+  "Schedule fleet": ""
+  "Scheduled flights": ""
   "Select origin": "Sélectionnez l'origine" # global (undefined)
+  "Send all resources": "" # global (undefined)
   "Send fleet": "Envoyer la flotte"
   "Send flight": "Envoyer un vol"
-  "Ships": "Vaisseaux" # global (undefined)
   "Small Cargo": "" # global (defined)
   "Spec": "Spec"
-  "Speed": "Vitesse" # global (defined)
   "Spy": "" # global (defined)
-  "To": "À"
   "Transport": "" # global (defined)
   "from": "de"
+  "keep": ""
   "max": ""
   "mission": "mission"
   "random delay 0-10min added": ""
+  "send": ""
   "speed": "vitesse"
   "to": "à" # global (undefined)
+bot.flightsEdit:
+  "Send all resources": "" # global (undefined)
+  "Send all ships": ""
 bot.galaxy.index:
   "Map": ""
   "Table": ""
@@ -520,7 +526,7 @@ bot.planet:
   "Research": "Recherche"
   "Shield power": ""
   "Shipyard": "" # global (defined)
-  "Speed": "" # global (defined)
+  "Speed": ""
   "Structural integrity": ""
   "Sum": "Somme"
   "Weapon power": ""
@@ -631,21 +637,27 @@ bot.settings.brain:
   "Max deuterium tank level to build": ""
   "Max metal mine level to build": ""
   "Max metal storage level to build": ""
+  "Max missile silo level to build": ""
   "Max nanite factory level to build": ""
+  "Max research lab level to build": ""
   "Max robotics factory level to build": ""
   "Max sensor phalanx level to build": ""
+  "Max shipyard level to build": ""
   "Max solar plant level to build": ""
   "Metal mine": ""
   "Metal storage": ""
+  "Missile silo": ""
   "Moon": "" # global (undefined)
   "Nanite factory": ""
   "None": "" # global (undefined)
   "Planet": "" # global (undefined)
   "Prevent importing if come back during sleep time": ""
   "Queue": "" # global (undefined)
+  "Research lab": ""
   "Robotics factory": ""
   "Save": "Sauvegarder" # global (undefined)
   "Sensor phalanx": ""
+  "Shipyard": "" # global (defined)
   "Solar plant": ""
   "to": "" # global (undefined)
 bot.settings.debug:
@@ -661,12 +673,14 @@ bot.settings.defender:
   "Dangerous": ""
   "Defender active": "Defender active"
   "Defender configs": "Defender configs"
+  "Defender will ignore attacks from players in this list": ""
   "Desktop notification when attacked": ""
   "Dump remaining resources in defenses": "Vider les ressources restantes dans les défenses"
   "Evacuate seconds before attack": "Évacuer secondes avant l'attaque"
   "Evacuation configs": ""
   "Evacuation speed on destroy attacks": "Vitesse d'évacuation lors d'attaques de destruction"
   "Never": ""
+  "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": ""
   "Planet": "" # global (undefined)
   "Play sound when attacked": ""
@@ -723,7 +737,7 @@ bot.settings.expeditions:
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
   "Destroyer": "" # global (defined)
-  "Duration": "" # global (undefined)
+  "Duration": ""
   "Espionage Probe": "" # global (defined)
   "Exp": "" # global (undefined)
   "Expedition": "" # global (defined)
@@ -739,6 +753,8 @@ bot.settings.expeditions:
   "Large Cargo": "" # global (defined)
   "Large Cargo to stay": ""
   "Light Fighter": "" # global (defined)
+  "Minimum Pathfinders": ""
+  "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": ""
   "Minimum speed for the early PF": ""
   "Missile Attack": "" # global (defined)
@@ -853,7 +869,7 @@ bot.settings.home:
   "Repatriate now": "Rapatrier maintenant"
   "Reschedule evacuation": "Reprogrammer l'évacuation"
   "Research speed": ""
-  "Ships": "" # global (undefined)
+  "Ships": ""
   "Times": ""
   "Universe": "Univers" # global (undefined)
   "Universe speed": "Vitesse de l'univers"
@@ -863,7 +879,10 @@ bot.settings.home:
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
   "Color legend": ""
+  "Notify when inactive for": ""
+  "Save": "" # global (undefined)
   "Target": ""
+  "minutes": "" # global (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (undefined)
   "Actions": "" # global (defined)
@@ -935,7 +954,7 @@ bot.settings.messages:
   "Next": "" # global (undefined)
   "No messages to show": "" # global (undefined)
   "Prev": "" # global (undefined)
-  "Resources": "" # global (undefined)
+  "Resources": ""
 bot.settings.notifications:
   "Bot exit sleep mode": ""
   "Bot goes to sleep mode": ""
@@ -962,6 +981,7 @@ bot.settings.notifications:
   "Slack": ""
   "Slack username for notifications": ""
   "Sleep Mode": "" # global (undefined)
+  "Target become inactive": ""
   "Target dropped in military points": ""
   "Telegram": ""
   "Telegram chat id for notifications": ""
@@ -1091,13 +1111,20 @@ bot.settings.settings:
   "Username": "" # global (defined)
   "proxy login requests only": ""
 bot.settings.sleepMode:
+  "--- Select a destination ---": ""
   "Active": "" # global (undefined)
   "Are you sure?": "" # global (defined)
   "Awake bot now": ""
+  "Destination": "" # global (defined)
   "Every day": ""
   "Friday": ""
+  "Manual fleet save": ""
   "Monday": ""
+  "Own debris field": ""
+  "Planet": "" # global (undefined)
   "Put bot to sleep now": ""
+  "Random colonize mission": ""
+  "Random debris field": ""
   "Random delay before going to sleep (minutes)": ""
   "Saturday": ""
   "Save": "" # global (undefined)
@@ -1213,6 +1240,7 @@ download:
   "File name": "Nom de fichier" # global (undefined)
   "Full license": "Licence complète"
   "Instructions how to install and run": "Instructions pour installer et exécuter"
+  "Is cloud": ""
   "My licenses": "Mes licences"
   "New license": "Nouvelle licence" # global (undefined)
   "No files to display": "Aucun fichier à afficher" # global (undefined)
@@ -1558,6 +1586,7 @@ settings.account:
   "Delete account": "Supprimer le compte"
   "Delete your account": "Supprimer votre compte"
   "Disable two-factor authentication": ""
+  "Email": "" # global (undefined)
   "Enable two-factor authentication": ""
   "Hunter colors": ""
   "Lang": "" # global (undefined)
