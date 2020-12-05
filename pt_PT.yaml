@@ -514,7 +514,7 @@ bot.planet:
   "Cargo capacity": "Capacidade carga"
   "Current": "Actual"
   "Current planet": "Planeta actual"
-  "Fuel consumption": "Consumo de deutério"
+  "Fuel consumption": "Consumo de deutério" # global (defined)
   "Import resources & build": "Importar e construir"
   "Main planet": "Planeta Principal"
   "Price": "Preço"
@@ -1024,7 +1024,7 @@ bot.settings.settings:
   "Change ogame credentials": "Alterar credenciais ogame"
   "Change proxy": "Proxy definições"
   "Commander UI": "Comandante UI"
-  "Coordinates": "Coordenadas"
+  "Coordinates": "Coordenadas" # global (undefined)
   "Default": "Padrão"
   "Delete bot": "Apagar bot"
   "Delete expedition messages once imported": "Apagar mensagens de expedição depois de importadas"
@@ -1149,7 +1149,9 @@ bot.simulator:
   "Cargo's needed": "Cargueiros necessários"
   "Clear player data": "Apagar dados"
   "Colony Ship": "" # global (defined)
+  "Combustion": ""
   "Configs": "Definições"
+  "Coordinates": "" # global (undefined)
   "Crawler": "Rastejador" # global (undefined)
   "Cruiser": "" # global (defined)
   "Crystal": "" # global (defined)
@@ -1162,13 +1164,19 @@ bot.simulator:
   "Defender win": "Defensor vence"
   "Destroyer": "" # global (defined)
   "Deuterium": "" # global (defined)
+  "Deuterium save factor": ""
   "Draw": "Empate"
   "Espionage Probe": "" # global (defined)
+  "Fleet speed": ""
   "Fleet to debris": "Frota para destroços"
+  "Flight time": ""
+  "Fuel consumption": "" # global (defined)
   "Gauss Cannon": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
   "Heavy Laser": "" # global (defined)
+  "Hyperspace": ""
   "Hyperspace tech": "Tecnologia de Hiperespaço"
+  "Impulse": ""
   "Interplanetary Missiles": "" # global (defined)
   "Ion Cannon": "" # global (defined)
   "Large Cargo": "" # global (defined)

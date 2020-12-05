@@ -377,7 +377,7 @@ bot.planet:
   "Cargo capacity": "Грузоподъёмность"
   "Current": "Текущее "
   "Current planet": "Текущая Планета"
-  "Fuel consumption": "Расход топлива"
+  "Fuel consumption": "Расход топлива" # global (undefined)
   "Import resources & build": "Импорт ресурсов и постройка"
   "Main planet": "Главная Планета"
   "Price": "Количество ресурсов"
@@ -887,7 +887,7 @@ bot.settings.settings:
   "Change ogame credentials": "Изменение учетных данных ogame"
   "Change proxy": "Изменение Прокси"
   "Commander UI": "Интерфейс командира"
-  "Coordinates": "Координаты"
+  "Coordinates": "Координаты" # global (undefined)
   "Default": "По умолчанию"
   "Delete bot": "Удалить Бота"
   "Delete expedition messages once imported": "Удалить отчеты экспедиции после внесения"
@@ -1012,7 +1012,9 @@ bot.simulator:
   "Cargo's needed": "Нужна Грузоподъемность"
   "Clear player data": "Очистить данные игрока"
   "Colony Ship": "Колонизатор" # global (undefined)
+  "Combustion": ""
   "Configs": "Конфигурации"
+  "Coordinates": "" # global (undefined)
   "Crawler": "Гусенички" # global (undefined)
   "Cruiser": "Крейсер" # global (undefined)
   "Crystal": "Кристалл" # global (undefined)
@@ -1025,13 +1027,19 @@ bot.simulator:
   "Defender win": "Обороняющийся Победил"
   "Destroyer": "Уничтожитель" # global (undefined)
   "Deuterium": "Дейтерий" # global (undefined)
+  "Deuterium save factor": ""
   "Draw": "Ничья"
   "Espionage Probe": "Шпионский Зонд" # global (undefined)
+  "Fleet speed": ""
   "Fleet to debris": "Флот в Обломки"
+  "Flight time": ""
+  "Fuel consumption": "" # global (undefined)
   "Gauss Cannon": "Орудие Гаусса" # global (undefined)
   "Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
   "Heavy Laser": "Тяжелый Лазер" # global (undefined)
+  "Hyperspace": ""
   "Hyperspace tech": "Гиперпространственная технология"
+  "Impulse": ""
   "Interplanetary Missiles": "Межпланетные Ракеты" # global (undefined)
   "Ion Cannon": "Ионная Пушка" # global (undefined)
   "Large Cargo": "Большой Транспорт" # global (undefined)

@@ -514,7 +514,7 @@ bot.planet:
   "Cargo capacity": ""
   "Current": "Huidige"
   "Current planet": "Huidige planeet"
-  "Fuel consumption": ""
+  "Fuel consumption": "" # global (defined)
   "Import resources & build": "Importeer grondstoffen & bouw"
   "Main planet": "Hoofdplaneet"
   "Price": "Prijs"
@@ -1024,7 +1024,7 @@ bot.settings.settings:
   "Change ogame credentials": ""
   "Change proxy": "Verander proxy"
   "Commander UI": "Commander UI"
-  "Coordinates": ""
+  "Coordinates": "" # global (undefined)
   "Default": ""
   "Delete bot": "Verwijder bot"
   "Delete expedition messages once imported": ""
@@ -1149,7 +1149,9 @@ bot.simulator:
   "Cargo's needed": "Vrachtschepen nodig"
   "Clear player data": "Wis spelersgegevens"
   "Colony Ship": "" # global (defined)
+  "Combustion": ""
   "Configs": "Configs"
+  "Coordinates": "" # global (undefined)
   "Crawler": "" # global (undefined)
   "Cruiser": "" # global (defined)
   "Crystal": "" # global (defined)
@@ -1162,13 +1164,19 @@ bot.simulator:
   "Defender win": "Verdediger wint"
   "Destroyer": "" # global (defined)
   "Deuterium": "" # global (defined)
+  "Deuterium save factor": ""
   "Draw": "Gelijkspel"
   "Espionage Probe": "" # global (defined)
+  "Fleet speed": ""
   "Fleet to debris": "Vloot naar puin"
+  "Flight time": ""
+  "Fuel consumption": "" # global (defined)
   "Gauss Cannon": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
   "Heavy Laser": "" # global (defined)
+  "Hyperspace": ""
   "Hyperspace tech": ""
+  "Impulse": ""
   "Interplanetary Missiles": "" # global (defined)
   "Ion Cannon": "" # global (defined)
   "Large Cargo": "" # global (defined)

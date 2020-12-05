@@ -377,7 +377,7 @@ bot.planet:
   "Cargo capacity": ""
   "Current": ""
   "Current planet": ""
-  "Fuel consumption": ""
+  "Fuel consumption": "" # global (undefined)
   "Import resources & build": ""
   "Main planet": ""
   "Price": ""
@@ -887,7 +887,7 @@ bot.settings.settings:
   "Change ogame credentials": ""
   "Change proxy": ""
   "Commander UI": ""
-  "Coordinates": ""
+  "Coordinates": "" # global (undefined)
   "Default": ""
   "Delete bot": ""
   "Delete expedition messages once imported": ""
@@ -1012,7 +1012,9 @@ bot.simulator:
   "Cargo's needed": ""
   "Clear player data": ""
   "Colony Ship": "" # global (undefined)
+  "Combustion": ""
   "Configs": ""
+  "Coordinates": "" # global (undefined)
   "Crawler": "" # global (undefined)
   "Cruiser": "" # global (undefined)
   "Crystal": "" # global (undefined)
@@ -1025,13 +1027,19 @@ bot.simulator:
   "Defender win": ""
   "Destroyer": "" # global (undefined)
   "Deuterium": "" # global (undefined)
+  "Deuterium save factor": ""
   "Draw": ""
   "Espionage Probe": "" # global (undefined)
+  "Fleet speed": ""
   "Fleet to debris": ""
+  "Flight time": ""
+  "Fuel consumption": "" # global (undefined)
   "Gauss Cannon": "" # global (undefined)
   "Heavy Fighter": "" # global (undefined)
   "Heavy Laser": "" # global (undefined)
+  "Hyperspace": ""
   "Hyperspace tech": ""
+  "Impulse": ""
   "Interplanetary Missiles": "" # global (undefined)
   "Ion Cannon": "" # global (undefined)
   "Large Cargo": "" # global (undefined)
