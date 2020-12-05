@@ -1,6 +1,7 @@
 global:
+  "Bots": "Бот"
 admin.index:
-  "Bots": "Бот" # global (undefined)
+  "Bots": "" # global (defined)
   "License": "Лицензия" # global (undefined)
   "Login history": "Логин История"
   "Settings": "Настройки" # global (undefined)
@@ -38,7 +39,7 @@ admin.masterAdmin.licenses:
   "Next": "Следующий" # global (undefined)
   "Prev": "Предыдущий" # global (undefined)
 admin.masterAdmin.new-invoice:
-  "Bots": "Боты" # global (undefined)
+  "Bots": "Боты" # global (defined)
   "Valid until": "Действует до тех пор пока" # global (undefined)
 admin.masterAdmin.payments:
   "Next": "Следующий" # global (undefined)
@@ -1163,7 +1164,7 @@ get-trial-key:
   "Get trial key": "Получите пробный ключ"
   "Home": "Дом" # global (undefined)
 home-slave:
-  "Bots": "Боты" # global (undefined)
+  "Bots": "Боты" # global (defined)
   "Create script on all bots": "Создать скрипт на всех ботах" # global (undefined)
   "New bot": "Новый Бот" # global (undefined)
   "Other actions": "Прочие Действия"
@@ -1209,7 +1210,7 @@ instance-actions:
   "New password": "Новый пароль" # global (undefined)
   "New username": "Новое Имя" # global (undefined)
 invoice:
-  "Bots": "Боты" # global (undefined)
+  "Bots": "Боты" # global (defined)
   "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
   "New license": "Новая Лицензия" # global (undefined)
   "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
@@ -1524,7 +1525,7 @@ support:
 ticketSupport.index:
   "Home": "Дом" # global (undefined)
 ticketSupport.new-invoice:
-  "Bots": "Боты" # global (undefined)
+  "Bots": "Боты" # global (defined)
   "Valid until": "Действителен до" # global (undefined)
 two-factor-authentication-verify:
   "1- Recovery code": "код восстановления"
