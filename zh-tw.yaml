@@ -932,7 +932,7 @@ bot.settings.index:
   "Stop": "停止" # global (undefined)
 bot.settings.logs:
   "All": "全部" # global (undefined)
-  "Audit": "拍賣"
+  "Audit": "檢查"
   "Brain": "大腦(建設)" # global (undefined)
   "Category": "分類" # global (undefined)
   "Crawler": "爬虫(抓取资料)" # global (undefined)
