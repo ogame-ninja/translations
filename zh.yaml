@@ -31,7 +31,7 @@ global:
   "Deathstar": "死星"
   "Defender": "防禦者"
   "Destination": "目的地"
-  "Destroy": "摧毀"
+  "Destroy": "毀月"
   "Destroyer": "毀滅者"
   "Deuterium": "重氫"
   "Deuterium Synthesizer": "重氫合成器"
@@ -91,6 +91,8 @@ global:
   "Origin": "出發地"
   "Overview": "總覽"
   "Park": "派遣"
+  "Pathfinder": "探路者"
+  "Pathfinders": "探路者"
   "Password": "密碼"
   "Plasma Technology": "電漿技術"
   "Plasma Turret": "電漿砲塔"
@@ -209,17 +211,17 @@ admin.masterAdmin.users:
 admin.settings:
   "General": "一般" # global (undefined)
   "Gives you access to your self-host server through": "通過以下給予自行託管主機權限"
-  "Host eg: smtp.gmail.com": ""
-  "Images URL": ""
-  "Logs retention (days)": ""
-  "Open .ogame folder": ""
+  "Host eg: smtp.gmail.com": "主機 (例：smtp.gmail.com)"
+  "Images URL": "圖片網址"
+  "Logs retention (days)": "保存紀錄(天數)"
+  "Open .ogame folder": "打開 .ogame 資料夾"
   "Password": "" # global (undefined)
-  "Port eg: 587": ""
-  "Reverse tunnel": ""
-  "SMTP settings (email)": ""
+  "Port eg: 587": "埠(端口) (例：587)"
+  "Reverse tunnel": "反向隧道協議(reverse tunnel)"
+  "SMTP settings (email)": "SMTP設定(電子郵件)"
   "Save": "保存" # global (undefined)
   "Settings": "設定" # global (undefined)
-  "Telegram bot api token": ""
+  "Telegram bot api token": "Telegram機器人API token"
   "Username": "用戶名" # global (undefined)
 admin.theme-new:
   "Create theme": "新增主題"
@@ -386,7 +388,7 @@ bot.flights:
   "Delete flight": "刪除飛行任務"
   "Depart at": "啟航於"
   "Destination": "目的地" # global (undefined)
-  "Destroy": "" # global (undefined)
+  "Destroy": "毀月" # global (undefined)
   "Destroyer": "" # global (undefined)
   "Deuterium": "" # global (undefined)
   "Dur": "持續時間"
@@ -610,13 +612,13 @@ bot.scripts:
   "Validate Script": "驗證腳本"
 bot.settings.activities:
   "Created at": "創建於" # global (undefined)
-  "Destination": "" # global (undefined)
+  "Destination": "目的地" # global (undefined)
   "Fleet log": "艦隊紀錄"
   "Mission": "任務" # global (undefined)
-  "Next": "" # global (undefined)
+  "Next": "下頁" # global (undefined)
   "No fleet in the log": "紀錄中無艦隊資料"
-  "Origin": "" # global (undefined)
-  "Prev": "" # global (undefined)
+  "Origin": "出發地" # global (undefined)
+  "Prev": "上頁" # global (undefined)
 bot.settings.brain:
   "AI": ""
   "AI configs": "人工智能設定"
@@ -669,11 +671,14 @@ bot.settings.debug:
 bot.settings.defender:
   "--- Bot decision ---": "--- 機器人決定 ---"
   "2-steps (planets then moons)": "兩階段 (先到行星再到月球)"
+  "Active": "啟用"
   "Always": "常開"
   "Build ABM on missiles attack detected": "受導彈攻擊時造反彈道導彈"
-  "Checks for activity from homeworld": ""
-  "Checks for activity from latest active planet/moon": ""
+  "Checks for activity from homeworld": "從母星檢查活動"
+  "Check interval": "檢查間隔"
+  "Checks for activity from latest active planet/moon": "從最近活動的行星/月球檢查"
   "Dangerous": "危險時"
+  "Destination": "目的地"
   "Defender active": "啟用防禦者"
   "Defender configs": "防禦者設定"
   "Defender will ignore attacks from players in this list": "忽略此名單中攻擊者"
@@ -682,6 +687,7 @@ bot.settings.defender:
   "Evacuate seconds before attack": "攻擊前幾秒撤離"
   "Evacuation configs": "撤離設定"
   "Evacuation speed on destroy attacks": "受攻擊時撤離速度"
+  "Min deut": "最少保留重氫量"
   "Never": "常關"
   "No players whitelisted": "白名單內沒有玩家"
   "Notify small fleet attacks (< 1/3 firepower)": "小規模攻擊時通知我 (小於三分之一火力)"
@@ -690,6 +696,7 @@ bot.settings.defender:
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡覺時間返回則不要派出"
   "Probe new attackers": "探險新的攻擊者"
+  "Origin": "出發地"
   "Randomize moon that checks for activity": "隨機選擇月球以檢查活動"
   "Randomize planet/moon that checks for activity": "隨機選擇行星/月球以檢查活動"
   "Recall seconds after attack": "受攻擊後幾秒召回"
@@ -699,7 +706,8 @@ bot.settings.defender:
   "Repatriate resources": "集中資源"
   "Save": "保存" # global (undefined)
   "Send message to attackers": "傳送訊息給攻擊者"
-  "activate for moon ?": "月球上也啟動"
+  "Set all destinations to": "將所有目的地都設定為"
+  "activate for moon ?": "月球上也啟動?"
   "minutes": "分" # global (undefined)
   "next check in": "下次檢查於" # global (undefined)
   "next in": "下次於" # global (undefined)
@@ -771,7 +779,7 @@ bot.settings.expeditions:
   "PF will be send to arrive at the same time as debris field is created (if any)": "於廢墟生成時間同時到達的探路者數量"
   "Park": "" # global (undefined)
   "Park In That Ally": "" # global (undefined)
-  "Pathfinder": "" # global (undefined)
+  "Pathfinder": "探路者" # global (undefined)
   "Pathfinders to stay": "保留於星/月上的探路者"
   "Reaper": "惡魔飛船" # global (undefined)
   "Recycle debris": "回收廢墟"
@@ -809,7 +817,7 @@ bot.settings.farmer:
   "Delete combat reports": "刪除戰鬥報告"
   "Deuterium": "" # global (undefined)
   "Espionage probe raids": "間諜衛星攻擊"
-  "Farm sessions": "耕作工作階段"
+  "Farm sessions": "耕作(刮I)工作階段"
   "Farmer active": "啟用耕作者(刮I)"
   "Fast attacking": "快速攻擊"
   "Ignore targets with activity": "忽略目標活動"
@@ -864,6 +872,7 @@ bot.settings.home:
   "Email": "電子信箱" # global (undefined)
   "Expeditions": "探險" # global (undefined)
   "General info": "一般資訊"
+  "Hotkeys": "熱鍵"
   "Hunter": "" # global (undefined)
   "No evacuations": "無徹離艦隊"
   "No plans": "無計劃"
@@ -968,13 +977,14 @@ bot.settings.notifications:
   "Expedition loss": "探險損失"
   "Expeditions": "探險" # global (undefined)
   "Failed to fleet save": "無法FS(保護艦隊)"
-  "Farm session completed": "耕作工作完成"
-  "Farm session started": "耕作工作開始"
+  "Farm session completed": "耕作(刮I)工作完成"
+  "Farm session started": "耕作(刮I)工作開始"
   "Farmer": "耕作者(刮I)" # global (undefined)
   "Forward ingame chat from alliance": "轉發遊戲內聯盟訊息"
   "Forward ingame chat from players": "轉發遊戲內玩家訊息"
   "General": "一般" # global (undefined)
   "Global": "總體"
+  "Hotkeys": "熱鍵"
   "Hunter": "獵人" # global (undefined)
   "Login fails": "登入失敗"
   "New attack detected": "偵測到新的攻擊者"
@@ -1047,6 +1057,7 @@ bot.settings.settings:
   "General options": "一般選項"
   "Homeworld": "母星"
   "Host machine Timezone": "主機所在時區"
+  "Hotkeys": "熱鍵"
   "Large cargo": "大型運輸艦"
   "Max brain slots": "最多允許大腦(建設)使用的航線"
   "Max expeditions slots": "最多允許探險使用的航線"
@@ -1062,8 +1073,8 @@ bot.settings.settings:
   "Proxy username": "代理伺服器帳號/使用者" # global (undefined)
   "Remove ads": "移除廣告"
   "Remove banner": "移除橫幅"
-  "Round up resources": "集合資源"
-  "Round up ships": "集合艦船"
+  "Round up resources": "資源湊整數"
+  "Round up ships": "艦船湊整數"
   "Save": "保存" # global (undefined)
   "Save proxy": "保存代理伺服器"
   "Share account": "共享帳號"
@@ -1142,7 +1153,7 @@ bot.settings.sleepMode:
 bot.simulator:
   "ACS planner": "策劃ACS"
   "API": "" # global (undefined)
-  "Anti Ballistic Missiles": ""
+  "Anti Ballistic Missiles": "反彈道導彈"
   "Armour": "裝甲"
   "Attacker": "攻擊者" # global (undefined)
   "Attacker win": "攻擊者獲勝"
@@ -1307,7 +1318,7 @@ home-slave:
   "Bots": "機器人們" # global (undefined)
   "Create script on all bots": "於所有機器人上生成腳本" # global (undefined)
   "New bot": "新機器人" # global (undefined)
-  "Other actions": "其他工作階段"
+  "Other actions": "其他動作"
   "Reorder bots": "重新排序機器人" # global (undefined)
 home:
   "Actions": "動作" # global (undefined)
@@ -1364,7 +1375,7 @@ landing:
   "Construction queue": "建造排程"
   "Defender": "" # global (undefined)
   "Empire view": "帝國總覽" # global (undefined)
-  "Farming": "耕作"
+  "Farming": "耕作(刮I)"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我們的Slack服務器! 如果您從未使用過Slack：它免費、安全、且在電腦、行動裝置皆可使用" # global (undefined)
   "Join the server now": "現在加入服務器" # global (undefined)
   "Learn more": "了解更多"
@@ -1394,7 +1405,7 @@ license:
   "Are you sure?": "" # global (undefined)
   "Click \"Renew license\" button": "點擊\"更新憑證\"按鈕"
   "Current license requires a newer version of the software. Please update.": "當前憑證需要更新版本的軟體。請更新"
-  "License expired": "憑證失效於"
+  "License expired": "憑證已失效"
   "Renew license": "更新憑證" # global (undefined)
   "Stop all bots": "停止所有機器人"
   "Upload": "上傳"
