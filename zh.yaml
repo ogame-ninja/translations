@@ -926,7 +926,7 @@ bot.settings.logs:
   "Audit": "拍賣"
   "Brain": "大腦(建設)" # global (undefined)
   "Category": "分類" # global (undefined)
-  "Crawler": "履帶車" # global (undefined)
+  "Crawler": "爬虫(抓取资料)" # global (undefined)
   "Created at": "創建於" # global (undefined)
   "Defender": "防禦者" # global (undefined)
   "Download logs": "下載紀錄"
