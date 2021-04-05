@@ -1,0 +1,2998 @@
+Skip to content
+
+Sign up 
+
+	•	Why GitHub?  Features →
+	◦	Code review
+	◦	Project management
+	◦	Integrations
+	◦	Actions
+	◦	Packages
+	◦	Security
+	◦	Team management
+	◦	Hosting
+	◦	Mobile
+	◦	Customer stories →
+	◦	Security →
+	•	  
+	•	Team 
+	•	Enterprise 
+	•	Explore 
+	◦	Explore GitHub →
+	•	Learn & contribute
+	◦	Topics
+	◦	Collections
+	◦	Trending
+	◦	Learning Lab
+	◦	Open source guides
+	•	Connect with others
+	◦	Events
+	◦	Community forum
+	◦	GitHub Education
+	◦	GitHub Stars program
+	•	  
+	•	Marketplace 
+	•	Pricing  Plans →
+	◦	Compare plans
+	◦	Contact Sales
+	◦	Nonprofit →
+	◦	Education →
+	•	  
+
+	•	  In this repository All GitHub ↵  Jump to ↵  
+	•	No suggested jump to results 
+	•	  In this repository All GitHub ↵  Jump to ↵  
+	•	  In this repository All GitHub ↵  Jump to ↵  
+Sign in Sign up 
+
+
+ogame-ninja / translations 
+	•	Watch 1 
+	•	Star 1 
+	•	Fork 10 
+	•	Code 
+	•	Issues 
+	•	Pull requests 1 
+	•	Actions 
+	•	Projects 
+	•	Security 
+	•	Insights 
+More 
+	•	
+Permalink
+master 
+
+translations/sample.yaml 
+Go to file
+
+	•	Go to file T 
+	•	Go to line L 
+	•	
+	•	Copy path 
+
+Notriv i18n 
+Latest commit d454e9c Jul 7, 2020 History 
+1 contributor 
+Users who have contributed to this file 
+1449 lines (1449 sloc) 46.8 KB 
+Raw Blame 
+
+
+global:
+
+admin.index:
+
+"Bots": "Бот" # global (undefined)
+
+"License": "Лицензия" # global (undefined)
+
+"Login history": "Логин История"
+
+"Settings": "Настройки" # global (undefined)
+
+"Themes": "Темы" # global (undefined)
+
+"Update": "Обновить" # global (undefined)
+
+"Users": "Пользователь" # global (undefined)
+
+admin.license:
+
+"Are you sure?": "Вы  Уверены?" # global (undefined)
+
+"Bots allowed": "Бот включен" # global (undefined)
+
+"Created": "Создать" # global (undefined)
+
+"Email": "Емайл" # global (undefined)
+
+"Expired": "Истекает" # global (undefined)
+
+"License": "Лицензия" # global (undefined)
+
+"Owner": "Владелец" # global (undefined)
+
+"UUID": "Индификатор" # global (undefined)
+
+"unlimited": "Без Ограничений" # global (undefined)
+
+admin.login-history:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.audits:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.downloads:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.gift-cards:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.invoices:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.license:
+
+"Save": "Сохранить" # global (undefined)
+
+admin.masterAdmin.licenses:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.new-invoice:
+
+"Bots": "Боты" # global (undefined)
+
+"Valid until": "Действует до тех пор пока" # global (undefined)
+
+admin.masterAdmin.payments:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.slaves-server:
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+admin.masterAdmin.tags:
+
+"New tag": "Новый #Тэг"
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+admin.masterAdmin.user-edit:
+
+"Create user": "Новый Пользователь" # global (undefined)
+
+"Email": "Емал" # global (undefined)
+
+"Is admin": "Это Админ" # global (undefined)
+
+"No": "Нет" # global (undefined)
+
+"Password": "Пароль" # global (undefined)
+
+"Retype password": "Сбросить Пароль" # global (undefined)
+
+"Slack ID": "Slask Индификатор"
+
+"Update user": "Обновить Пользователя" # global (undefined)
+
+"Username": "Имя Пользователя" # global (undefined)
+
+"Yes": "Да" # global (undefined)
+
+admin.masterAdmin.user:
+
+"New note": "Новая Запись"
+
+admin.masterAdmin.users:
+
+"Next": "Следующая" # global (undefined)
+
+"Prev": "Предыдущая" # global (undefined)
+
+admin.settings:
+
+"General": "Общие" # global (undefined)
+
+"Gives you access to your self-host server through": "Дает вам доступ к вашему самостоятельному хост-серверу через"
+
+"Host eg: smtp.gmail.com": "Хост eg: smtp.gmail.com"
+
+"Images URL": "URL-адрес изображений"
+
+"Logs retention (days)": "Хранение журналов (дней)"
+
+"Password": "Пароль" # global (undefined)
+
+"Port eg: 587": "Порт eg: 587"
+
+"Reverse tunnel": "Обратный туннель"
+
+"SMTP settings (email)": "Настройки SMTP (электронная почта)"
+
+"Save": "Сохранить" # global (undefined)
+
+"Settings": "Настройки" # global (undefined)
+
+"Telegram bot api token": "Telegram bot api токен"
+
+"Username": "Пользователь" # global (undefined)
+
+admin.theme-new:
+
+"Create theme": "Создать Тему"
+
+"Name": "Новая" # global (undefined)
+
+"Update theme": "Обновить Тему"
+
+admin.themes:
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Delete theme": "Удалить Тему"
+
+"New theme": "Новая Тема"
+
+"No theme": "Нет Темы"
+
+"Themes": "Темы" # global (undefined)
+
+admin.update:
+
+"Update": "Обновить" # global (undefined)
+
+"Update to latest": "Обновить до последней"
+
+admin.updating:
+
+"You will be redirected soon": "Вы будете перенаправлены в ближайшее время"
+
+admin.user-edit:
+
+"Create user": "Создать Пользователя" # global (undefined)
+
+"Email": "Емайл" # global (undefined)
+
+"Is admin": "Это Админ" # global (undefined)
+
+"No": "Нет" # global (undefined)
+
+"Password": "Пароль" # global (undefined)
+
+"Retype password": "Сбросить Пароль" # global (undefined)
+
+"Update user": "Обновить Пользователя" # global (undefined)
+
+"Username": "Имя пользователя" # global (undefined)
+
+"Yes": "Да" # global (undefined)
+
+admin.users:
+
+"Admin": "Админ" # global (undefined)
+
+"Created at": "Создать " # global (undefined)
+
+"Delete user": "Удалить Пользователя"
+
+"New user": "Новый Пользователь"
+
+"Username": "Имя пользователя" # global (undefined)
+
+"Users": "Пользователи" # global (undefined)
+
+"Verified": "Проверенный"
+
+antigame:
+
+"Arch": "Арка" # global (undefined)
+
+"Downloads": "Загрузки" # global (undefined)
+
+"File name": "Имя файла" # global (undefined)
+
+"No files to display": "Нет файлов для отображения" # global (undefined)
+
+"OS": "ОС" # global (undefined)
+
+"SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
+
+"Size": "Размер" # global (undefined)
+
+"meta-description": "метаописание" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+bot.browser:
+
+"Empire page": "Империя"
+
+"Fullscreen": "Во весь экран"
+
+"Toggle manual mode": "Ручной режим"
+
+bot.conqueror:
+
+"Get spy reports": "Получить шпионские отчеты" # global (undefined)
+
+"No espionage report to show": "Небольшой отчет о разведке показать"
+
+bot.empire:
+
+"Actions": "Действия" # global (undefined)
+
+"Alliance Depot": "Склад Альянса" # global (undefined)
+
+"Anti-Ballistic Missiles": "Противо-ракеты" # global (undefined)
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Armour Technology": "Броня Космический Кораблей" # global (undefined)
+
+"Astrophysics": "Астрофизика" # global (undefined)
+
+"Battlecruiser": "Линейный Крейсер" # global (undefined)
+
+"Battleship": "Линкор" # global (undefined)
+
+"Bomber": "Бомбандировщик" # global (undefined)
+
+"Clear all construction queues": "Очистите все очереди строительства"
+
+"Colony Ship": "Колонизатор" # global (undefined)
+
+"Combustion Drive": "Реактивный Двигатель" # global (undefined)
+
+"Computer Technology": "Компьютерная Технология" # global (undefined)
+
+"Crawl": "Обновить"
+
+"Crawler": "Гусеничник" # global (undefined)
+
+"Crawler setting": "Настройки Гусеничника"
+
+"Cruiser": "Крейсер" # global (undefined)
+
+"Crystal": "Кристалл" # global (undefined)
+
+"Crystal Mine": "Рудник по добыче кристалла" # global (undefined)
+
+"Crystal Storage": "Хранилище кристалла" # global (undefined)
+
+"Crystal setting": "Настройки кристалла"
+
+"Deathstar": "Звезда Смерти" # global (undefined)
+
+"Destroyer": "Уничтожитель" # global (undefined)
+
+"Deut synt setting": "Настройки Синтезатор дейтерия"
+
+"Deuterium": "Дейтерий" # global (undefined)
+
+"Deuterium Synthesizer": "Синтезатор Дейтерия" # global (undefined)
+
+"Deuterium Tank": "Ёмкость для Дейтерия" # global (undefined)
+
+"Energy": "Энергия"
+
+"Energy Technology": "Энэргетическая технология" # global (undefined)
+
+"Espionage Probe": "Шпионский Зонд" # global (undefined)
+
+"Espionage Technology": "Шпионаж" # global (undefined)
+
+"Fields": "Поля"
+
+"Fusion Reactor": "Термоядерный Электростанция" # global (undefined)
+
+"Fusion reactor setting": "Термоядерная Электростанция Настройки"
+
+"Gauss Cannon": "Пушка Гаусса" # global (undefined)
+
+"Graviton Technology": "Гравитационная технология" # global (undefined)
+
+"Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
+
+"Heavy Laser": "Тяжелый Лазер" # global (undefined)
+
+"Honour points": "Очки чести"
+
+"Hyperspace Drive": "Гиперпрастранственный Двигатель" # global (undefined)
+
+"Hyperspace Technology": "Гиперпространственная технология" # global (undefined)
+
+"Impulse Drive": "Импульсный двигатель" # global (undefined)
+
+"Intergalactic Research Network": "Межгалактическая исследовательская сеть"
+
+"Interplanetary Missiles": "Межпланетные ракеты" # global (undefined)
+
+"Ion Cannon": "Ионное Орудие" # global (undefined)
+
+"Ion Technology": "Ионная технология" # global (undefined)
+
+"Jump Gate": "Звездные врата" # global (undefined)
+
+"Large Cargo": "Большой транспорт" # global (undefined)
+
+"Large Shield Dome": "Большой шитовой купол" # global (undefined)
+
+"Laser Technology": "Лазерная технология" # global (undefined)
+
+"Light Fighter": "Легкий Истребитель" # global (undefined)
+
+"Light Laser": "Легкий лазер" # global (undefined)
+
+"Lunar Base": "Лунная База" # global (undefined)
+
+"Metal": "Металл" # global (undefined)
+
+"Metal Mine": "Хранилище Металла" # global (undefined)
+
+"Metal Storage": "Рудник по добыче металла" # global (undefined)
+
+"Metal setting": "Настройки Металла"
+
+"Missile Silo": "Ракетная Шахта" # global (undefined)
+
+"Nanite Factory": "Фабрика Нанитов" # global (undefined)
+
+"Pathfinder": "Первопроходец" # global (undefined)
+
+"Plasma Technology": "Плазменная Технология" # global (undefined)
+
+"Plasma Turret": "Плазменное Орудие" # global (undefined)
+
+"Points": "Очки" # global (undefined)
+
+"Rank": "Ранк" # global (undefined)
+
+"Reaper": "Жнец" # global (undefined)
+
+"Recycler": "Переработчик" # global (undefined)
+
+"Reorder planets": "Порядок Планет" # global (undefined)
+
+"Research Lab": "Исследовательская лаборатория" # global (undefined)
+
+"Robotics Factory": "Фабрика роботов" # global (undefined)
+
+"Rocket Launcher": "Ракетная Установка" # global (undefined)
+
+"Sensor Phalanx": "Сенсорная Фаланга" # global (undefined)
+
+"Shielding Technology": "Щитовая Технология" # global (undefined)
+
+"Shipyard": "Верфь" # global (undefined)
+
+"Small Cargo": "Малый Транспорт" # global (undefined)
+
+"Small Shield Dome": "малый щитовой купол" # global (undefined)
+
+"Solar Plant": "Солнечная Электростанция" # global (undefined)
+
+"Solar Satellite": "Солнечный Спутник" # global (undefined)
+
+"Solar plant setting": "Настройки Солнечной Электростанций"
+
+"Solar sat setting": "Настройки Солнечных Спутников"
+
+"Space Dock": "Космический док" # global (undefined)
+
+"Terraformer": "Тераформер" # global (undefined)
+
+"Updated at": "Обновить по адресу"
+
+"Weapons Technology": "" # global (undefined)
+
+bot.flights:
+
+"Actions": "Действия" # global (undefined)
+
+"Activate all": "Активировать все"
+
+"Active": "Активный" # global (undefined)
+
+"All": "Все" # global (undefined)
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Arrival": "Прибытие"
+
+"Arrive in": "Прибытие в" # global (undefined)
+
+"Attack": "Атака" # global (undefined)
+
+"Battlecruiser": "Линейный крейсер" # global (undefined)
+
+"Battleship": "Линкор" # global (undefined)
+
+"Bomber": "Бомбандировщик" # global (undefined)
+
+"Cancel Fleet": "Отозвать" # global (undefined)
+
+"Cargo": "Вместимость"
+
+"Colonize": "Колонизировать" # global (undefined)
+
+"Colony Ship": "Колонизатор" # global (undefined)
+
+"Crawler": "Гусеничка" # global (undefined)
+
+"Cron jobs": "Задание работы"
+
+"Cruiser": "Крейсер" # global (undefined)
+
+"Crystal": "Кристалл" # global (undefined)
+
+"Current fleets": "Текущие флоты" # global (undefined)
+
+"DS": "ЗС"
+
+"Deactivate all": "Деактивировать все"
+
+"Deathstar": "Звезда Смерти" # global (undefined)
+
+"Debris": "Поле Обломков" # global (undefined)
+
+"Delete cron job": "Удалить Задание работы"
+
+"Delete flight": "Удалить Сохраненное задание флота"
+
+"Destination": "Расстояние" # global (undefined)
+
+"Destroy": "Уничтожить" # global (undefined)
+
+"Destroyer": "Уничтожитель" # global (undefined)
+
+"Deuterium": "Дейтерий" # global (undefined)
+
+"Dur": "Время полета"
+
+"Duration": "Продолжительность" # global (undefined)
+
+"Edit cron job": "Редактировать Задание работы"
+
+"Espionage Probe": "Шпионский Зонд" # global (undefined)
+
+"Exp": "Экспа" # global (undefined)
+
+"Expedition": "Экспедиция" # global (undefined)
+
+"Flight": "Задание флота"
+
+"From": "Куда"
+
+"Fuel": "Топливо"
+
+"Grouped Attack": "Групповая Атака" # global (undefined)
+
+"Harvest": "Собрать" # global (undefined)
+
+"Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
+
+"ID": "№"
+
+"Jump gate": "Звездные врата"
+
+"LC": "БТ"
+
+"Large Cargo": "Большой Транспорт" # global (undefined)
+
+"Light Fighter": "Легкий Истребитель" # global (undefined)
+
+"Metal": "Металл" # global (undefined)
+
+"Missile Attack": "Ракетная Атака" # global (undefined)
+
+"Mission": "Миссия" # global (undefined)
+
+"Moon": "Луна" # global (undefined)
+
+"No cron job at the moment": "На данный момент никакого задания работы  нет"
+
+"No fleets": "Нет передвижения флотов" # global (undefined)
+
+"No saved flights": "Нет сохранены заданий флотов"
+
+"None": "Сбросить все корабли" # global (undefined)
+
+"Note": "Примечание" # global (undefined)
+
+"Origin": "Откуда" # global (undefined)
+
+"PF": "ПП"
+
+"Park": "Оставить" # global (undefined)
+
+"Park In That Ally": "Держаться " # global (undefined)
+
+"Pathfinder": "Первопроходец" # global (undefined)
+
+"Planet": "Планета" # global (undefined)
+
+"Reaper": "Жнец" # global (undefined)
+
+"Recycle Debris Field": "Собрать поле обломков"
+
+"Recycle debris field": "Собрать поле обломков"
+
+"Recycler": "Переработчик" # global (undefined)
+
+"Resources": "Ресурсы" # global (undefined)
+
+"Return": "Возвращение"
+
+"SC": "МТ"
+
+"Save fleet": "Сохранить задание флота"
+
+"Saved fleets": "Сохраненные Задания Флотов"
+
+"Select origin": "Выбирите Источник" # global (undefined)
+
+"Send fleet": "Отправить Флот"
+
+"Send flight": "Отправить Флот"
+
+"Ships": "Корабли" # global (undefined)
+
+"Small Cargo": "Малый Транспорт" # global (undefined)
+
+"Spec": "Спецификация"
+
+"Speed": "Скорость" # global (undefined)
+
+"Spy": "Шпионаж" # global (undefined)
+
+"To": "Куда"
+
+"Transport": "Транспорт" # global (undefined)
+
+"from": "Откуда"
+
+"max": "Максимум"
+
+"mission": "Задание"
+
+"random delay 0-10min added": "добавлена случайная задержка 0-10мин"
+
+"speed": "Скорость"
+
+"to": "Куда" # global (undefined)
+
+bot.galaxy.index:
+
+"Map": "Карта Галактики"
+
+"Table": "Галактика Обзор"
+
+bot.galaxy.map:
+
+"Active": "Активный" # global (undefined)
+
+"Coord": "Координаты"
+
+"Inactive": "Не активный" # global (undefined)
+
+"Vacation": "Отпуск" # global (undefined)
+
+bot.galaxy.player:
+
+"Actions": "Действия" # global (undefined)
+
+"Add to hunter list": "Добавить в Лист Охотника"
+
+"Alliance": "Альянс" # global (undefined)
+
+"Coords": "Координаты" # global (undefined)
+
+"Crystal": "Кристалл" # global (undefined)
+
+"Espionage": "Шпионаж" # global (undefined)
+
+"Espionage report": "Шпионский доклад" # global (undefined)
+
+"Galaxy": "Галактика" # global (undefined)
+
+"Members": "Число Игроков" # global (undefined)
+
+"Metal": "Металл" # global (undefined)
+
+"Moon": "Луна" # global (undefined)
+
+"Planet name": "Имя Планеты" # global (undefined)
+
+"Player name": "Имя Игрока" # global (undefined)
+
+"Player profile": "Профиль Игрока"
+
+"RN": "Кол." # global (undefined)
+
+"Rank": "Ранк" # global (undefined)
+
+"Updated": "Последнее время обновления" # global (undefined)
+
+bot.galaxy.table:
+
+"Actions": "Действия" # global (undefined)
+
+"Add alliance to ignore list": "Добавить Альянс в Игнорируемый Лист"
+
+"Add player to ignore list": "Добавить Игрока в Игнорируемый Лист"
+
+"Alliance": "Альянс" # global (undefined)
+
+"Coords": "Координаты" # global (undefined)
+
+"Crystal": "Кристалл" # global (undefined)
+
+"Debris top 100": "Топ 100 Поле обломков"
+
+"Espionage": "Шпионаж" # global (undefined)
+
+"Espionage report": "Шпионский доклад" # global (undefined)
+
+"Get spy reports": "Вчитать шпионские доклады" # global (undefined)
+
+"Go": "Вперед"
+
+"Members": "Число Игроков" # global (undefined)
+
+"Metal": "Металл" # global (undefined)
+
+"Moon": "Луна" # global (undefined)
+
+"Open in OGame browser": "Открыть Ogame в Браузере"
+
+"Planet name": "Имя Планеты" # global (undefined)
+
+"Player name": "Имя Игрока" # global (undefined)
+
+"RN": "Кол." # global (undefined)
+
+"Rank": "Ранк" # global (undefined)
+
+"Scan this page": "Сканировать эту систему"
+
+"Scan universe": "Сканировать Всю галактику"
+
+"Search": "Поиск" # global (undefined)
+
+"Send recyclers": "Отправить переработчиков" # global (undefined)
+
+"Stop scan universe": "Остановить сканирование всей галактики"
+
+"Updated": "Последняя дата сканирования" # global (undefined)
+
+bot.index:
+
+"Bot": "Бот"
+
+"Browser": "Браузер"
+
+"Conqueror": "Завоеватель"
+
+"Empire": "Империя" # global (undefined)
+
+"Flights": "Передвижение флотов"
+
+"Galaxy": "Галактика" # global (undefined)
+
+"Home": "Дом" # global (undefined)
+
+"Scripts": "Скрипты"
+
+"Simulator": "Симулятор боя"
+
+bot.planet:
+
+"Add to queue": "Добавить в Очередь"
+
+"Build": "Строить"
+
+"Building": "Улучшить"
+
+"Cargo capacity": "Грузоподъёмность"
+
+"Current": "Текущее "
+
+"Current planet": "Текущая Планета"
+
+"Fuel consumption": "Расход топлива"
+
+"Import resources & build": "Импорт ресурсов и постройка"
+
+"Main planet": "Главная Планета"
+
+"Price": "Количество ресурсов"
+
+"Queue": "Очередь строительства" # global (undefined)
+
+"Queue tear down": "Очередь сноса"
+
+"Rapidfire against": "Скорострел по"
+
+"Rapidfire from": "Скорострел от"
+
+"Research": "Исследования"
+
+"Shield power": "Мощность Щита"
+
+"Shipyard": "Верфь" # global (undefined)
+
+"Speed": "Скорость" # global (undefined)
+
+"Structural integrity": "Структура"
+
+"Sum": "Сумма"
+
+"Weapon power": "Оценка Атаки"
+
+"no item in queue": "Нет заданий в очереди"
+
+bot.reorderPlanets:
+
+"Empire": "Империя" # global (undefined)
+
+"Reorder planets": "Расставить Порядок Планет" # global (undefined)
+
+bot.report:
+
+"Alliance Depot": "Склад Альянса" # global (undefined)
+
+"Anti-Ballistic Missiles": "Ракета-перехватчик" # global (undefined)
+
+"Armour Technology": "Броня космических кораблей" # global (undefined)
+
+"Astrophysics": "Астрофизика" # global (undefined)
+
+"Battlecruiser": "Линейный Крейсер" # global (undefined)
+
+"Battleship": "Линкор" # global (undefined)
+
+"Bomber": "Бомбандировщик" # global (undefined)
+
+"Colony Ship": "Колонизатор" # global (undefined)
+
+"Combustion Drive": "Реактивный Двигатель" # global (undefined)
+
+"Computer Technology": "Компьютерная технология" # global (undefined)
+
+"Cruiser": "Крейсер" # global (undefined)
+
+"Crystal Mine": "Рудник по добыче Кристалла" # global (undefined)
+
+"Crystal Storage": "Хранилище Кристалла" # global (undefined)
+
+"Deathstar": "Звезда Смерти" # global (undefined)
+
+"Destroyer": "Уничтожитель" # global (undefined)
+
+"Deuterium Synthesizer": "Синтезатор Дейтерия" # global (undefined)
+
+"Deuterium Tank": "Хранилище Дейтерия" # global (undefined)
+
+"Energy Technology": "Энергетическая Технология" # global (undefined)
+
+"Espionage Probe": "Шпионский Зонд" # global (undefined)
+
+"Espionage Technology": "Шпионаж" # global (undefined)
+
+"Fusion Reactor": "Термоядерная Электростанция" # global (undefined)
+
+"Gauss Cannon": "Пушка Гаусса" # global (undefined)
+
+"Graviton Technology": "Гравитационная Технология" # global (undefined)
+
+"Heavy Fighter": "Тяжелый Итсребитель" # global (undefined)
+
+"Heavy Laser": "Тяжелый Лазер" # global (undefined)
+
+"Hyperspace Drive": "Гиперпространственный Двигатель" # global (undefined)
+
+"Hyperspace Technology": "Гиперпространственная технология" # global (undefined)
+
+"Impulse Drive": "Импульсный Двигатель" # global (undefined)
+
+"Interplanetary Missiles": "Межпланетные Ракеты" # global (undefined)
+
+"Ion Cannon": "Ионное орудие" # global (undefined)
+
+"Ion Technology": "Ионная технология" # global (undefined)
+
+"Jump Gate": "Звездные Врата" # global (undefined)
+
+"Large Cargo": "Большой Транспорт" # global (undefined)
+
+"Large Shield Dome": "Большой щитовой купол" # global (undefined)
+
+"Laser Technology": "Лазерная Технология" # global (undefined)
+
+"Light Fighter": "Легкий Истребитель" # global (undefined)
+
+"Light Laser": "Легкий Лазер" # global (undefined)
+
+"Load in simulator": "Загрузить в Симулятор боя"
+
+"Lunar Base": "Лунная База" # global (undefined)
+
+"Metal Mine": "Рудник по добыче Металла" # global (undefined)
+
+"Metal Storage": "Хранилище Металла" # global (undefined)
+
+"Missile Silo": "Ракетная Шахта" # global (undefined)
+
+"Nanite Factory": "Фабрика Нанитов" # global (undefined)
+
+"Plasma Technology": "Плазменная Технология" # global (undefined)
+
+"Plasma Turret": "Плазменное Орудие" # global (undefined)
+
+"Recycler": "Переработчик" # global (undefined)
+
+"Report": "Отчет"
+
+"Research Lab": "Исследовательская Лаборатория" # global (undefined)
+
+"Research Network": "Исследовательская сеть"
+
+"Robotics Factory": "Фабрика Роботов" # global (undefined)
+
+"Rocket Launcher": "Ракетная Установка" # global (undefined)
+
+"Sensor Phalanx": "Сенсорная Фаланга" # global (undefined)
+
+"Shielding Technology": "Щитовая Технология" # global (undefined)
+
+"Shipyard": "Верфь" # global (undefined)
+
+"Small Cargo": "Малый Транспорт" # global (undefined)
+
+"Small Shield Dome": "Малый Щитовой Купол" # global (undefined)
+
+"Solar Plant": "Солнечная Электростанция" # global (undefined)
+
+"Solar Satellite": "Солнечный Спутник" # global (undefined)
+
+"Space Dock": "Космический Док" # global (undefined)
+
+"Terraformer": "Тераформер" # global (undefined)
+
+"Weapons Technology": "Оружейная Технология" # global (undefined)
+
+bot.scripts:
+
+"Edit file name": "Изменить Название файла"
+
+"Pause/unpause": "Пауза / Включить"
+
+"Run": "Запустить"
+
+"Run at start": "Запуск при старте Бота" # global (undefined)
+
+"Stop": "Стоп" # global (undefined)
+
+"Upload compiled script (.nja)": "Загрузить выполнить скрипт  формата .nja"
+
+"Upload scripts (.tar)": "Загрузить скрипт формата .tar"
+
+"Validate Script": "Потвердить скрипт"
+
+bot.settings.activities:
+
+"Created at": "Создать в" # global (undefined)
+
+"Destination": "Расстояние" # global (undefined)
+
+"Fleet log": "Лог флота"
+
+"Mission": "Задание" # global (undefined)
+
+"Next": "Следующий" # global (undefined)
+
+"No fleet in the log": "В журнале нт флота"
+
+"Origin": "Происхождение" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+bot.settings.brain:
+
+"AI": "ИИ"
+
+"AI configs": "ИИ Настройки"
+
+"Brain active": "ИИ включить"
+
+"Brain configs": "ИИ Настройки"
+
+"Build fusion reactor up to": "Построить Термоядерную Электростанцию до"
+
+"Build solar satellites": "Строить солнечные спутники"
+
+"Crystal mine": "Рудник по добыче кристалла"
+
+"Crystal storage": "Хранилище кристалла"
+
+"Deuterium synthesizer": "Синтезатор дейтерия"
+
+"Deuterium tank": "Ёмкость для дейтерия"
+
+"Export within same galaxy only": "Экспорт ресурсов в пределах галактики"
+
+"Exporter?": "Раздает"
+
+"Fusion reactor": "Термоядерная Электростанция"
+
+"Importer?": "Принимает"
+
+"Max crystal mine level to build": "Максимальный уровень Кристаллической Шахты для строительства"
+
+"Max crystal storage level to build": "Максимальный уровень Кристаллического Хранилища для строительства"
+
+"Max deut synth level to build": "Максимальный уровень Синтезатора Дейтерия для строительства"
+
+"Max deuterium tank level to build": "Максимальный уровень Ёмкости  Дейтерия для строительства"
+
+"Max metal mine level to build": "Максимальный уровень Шахты по добыче Металла для строительства"
+
+"Max metal storage level to build": "Максимальный уровень Хранилища Металла для строительства"
+
+"Max nanite factory level to build": "Максимальный уровень Фабрики Нанитов для строительства"
+
+"Max robotics factory level to build": "Максимальный уровень Фабрики Роботов для строительства"
+
+"Max solar plant level to build": "Максимальный уровень Солнечной Электростанций для строительства"
+
+"Metal mine": "Рудник по добыче Металла"
+
+"Metal storage": "Хранилище Металла"
+
+"Nanite factory": "Фабрика Нанитов"
+
+"None": "Ничего" # global (undefined)
+
+"Planet": "Планета" # global (undefined)
+
+"Queue": "Очередь" # global (undefined)
+
+"Robotics factory": "Фабрика роботов"
+
+"Save": "Сохранить" # global (undefined)
+
+"Solar plant": "Солнечная Электростанция"
+
+bot.settings.defender:
+
+"--- Bot decision ---": "Бот решает"
+
+"Always": "Всегда"
+
+"Build ABM on missiles attack detected": "Построение Противоракет при обнаруженной атаке ракет"
+
+"Checks for activity from homeworld": "Проверять активность с Главной планеты"
+
+"Checks for activity from latest active planet/moon": "Проверять активность с последней активной Планеты/Луны"
+
+"Dangerous": "При Опасности"
+
+"Defender active": "Защитник Активен"
+
+"Defender configs": "Настройки Защитника"
+
+"Desktop notification when attacked": "Уведомление когда напали на Компьютере"
+
+"Dump remaining resources in defenses": "Сбросить оставшиеся ресурсы в оборону"
+
+"Evacuate seconds before attack": "Эвакуация до атаки в скундах"
+
+"Evacuation configs": "Настройки Эвакуции"
+
+"Evacuation speed on destroy attacks": "Скорость Эвакуации при заданий уничтожить"
+
+"Never": "Никогда"
+
+"Notify small fleet attacks (< 1/3 firepower)": "Уведомлять об атаках малого флота (< 1/3 огневой мощи)"
+
+"Planet": "Планета" # global (undefined)
+
+"Play sound when attacked": "Проиграть звук при атаке"
+
+"Preferred destination": "Предпочтительный пункт Эвакуаций"
+
+"Prevent if come back during sleep time": "Не Собирать ресурсы если флот возвращается во время сна"
+
+"Probe new attackers": "Зонд на Новых Атакующих"
+
+"Randomize moon that checks for activity": "Проверять Активность с Разных Лун"
+
+"Randomize planet/moon that checks for activity": "Проверять Активность с разных Планет/Лун"
+
+"Recall seconds after attack": "Отозвать флот после Атаки в секундах"
+
+"Repatriate configs": "Настройки Сбора ресурсов"
+
+"Repatriate interval": "Интервал Сбора ресурсов"
+
+"Repatriate random order": "Сбор ресурсов в случайном порядке"
+
+"Repatriate resources": "Сбор ресурсов"
+
+"Save": "Сохранить" # global (undefined)
+
+"Send message to attackers": "Отправить сообщение при Атаке"
+
+"activate for moon ?": "Использовать для Луны?"
+
+"minutes": "Минуты" # global (undefined)
+
+"next check in": "Следующая проверка в" # global (undefined)
+
+"next in": "Следующая в" # global (undefined)
+
+"sec": "сек"
+
+"to": "в" # global (undefined)
+
+bot.settings.expeditionMessages:
+
+"Actions": "Отозвать" # global (undefined)
+
+"Category": "Категория" # global (undefined)
+
+"Coordinate": "Координаты" # global (undefined)
+
+"Espionage report": "Шпионский доклад" # global (undefined)
+
+"Expedition": "Экспедиция" # global (undefined)
+
+"Extract expedition messages": "Обрабатываю экспедиционные доклады"
+
+"InGame date": "Дата игры" # global (undefined)
+
+"Message": "Сообщение" # global (undefined)
+
+"Messages": "Сообщения" # global (undefined)
+
+"Next": "Следующий" # global (undefined)
+
+"No messages to show": "Нет сообщении для показа" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+"Re-process existing messages": "Повторная обработка существующих сообщений"
+
+bot.settings.expeditions:
+
+"Actions": "Отозвать" # global (undefined)
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Arrive in": "Прибудет в" # global (undefined)
+
+"Attack": "Атака" # global (undefined)
+
+"Battlecruiser": "Линейный Кресйсер" # global (undefined)
+
+"Battleship": "Линкор" # global (undefined)
+
+"Bomber": "Бомбандировщик" # global (undefined)
+
+"Cancel Fleet": "Отозвать Флот" # global (undefined)
+
+"Click here to load current fleets": "Нажмите чтоб загрузить передвижение флотов"
+
+"Colonize": "Колонизировать" # global (undefined)
+
+"Colony Ship": "Колонизатор" # global (undefined)
+
+"Cruiser": "Крейсер" # global (undefined)
+
+"Current fleets": "Передвижение флотов" # global (undefined)
+
+"Deathstar": "Звезда Смерти" # global (undefined)
+
+"Delay between fleet (secs)": "Интервал между флотами (секунды)"
+
+"Destination": "Место назначения" # global (undefined)
+
+"Destroy": "Уничтожить" # global (undefined)
+
+"Destroyer": "Уничтожитель" # global (undefined)
+
+"Duration": "Продолжительность" # global (undefined)
+
+"Early Pathfinders": "Первопроходцы Отправить заранее"
+
+"Espionage Probe": "Шпионский зонд" # global (undefined)
+
+"Exp": "Экспа" # global (undefined)
+
+"Expedition": "Экспедиция" # global (undefined)
+
+"Expedition speed": "Скорость Экспедиций"
+
+"Expeditions active": "Проверка Экспедиции"
+
+"Expeditions configs": "Настройка Экспедиции"
+
+"Expeditions origin": "Экспедиция отправляется из"
+
+"Grouped Attack": "Групповая Атака" # global (undefined)
+
+"Harvest": "Собрать" # global (undefined)
+
+"Heavy Fighter": "Тяжелый истребитель" # global (undefined)
+
+"Ignore min deut": "Игнорировать минимальный порог дейтерия"
+
+"LC that will not be send with auto-split": "Количество БТ которое не будет учитываться в авто-разделений"
+
+"Large Cargo": "Большой Транспорт" # global (undefined)
+
+"Large Cargo to stay": "Оставить Больших Транспортов"
+
+"Light Fighter": "Легкий Истребитель" # global (undefined)
+
+"Min speed early PF": "Минимальная скорость ПП заранее"
+
+"Minimum speed for the early PF": "Минимальная скорость для ПП отправляемых заранее"
+
+"Missile Attack": "Ракетный Удар" # global (undefined)
+
+"Mission": "Задание" # global (undefined)
+
+"Name": "Имя" # global (undefined)
+
+"Never wait (100% getting ban)": "Не ждать (100% получение бана)"
+
+"No fleets": "Нет флотов" # global (undefined)
+
+"Origin": "Место вылета" # global (undefined)
+
+"PF that will not be send with auto-split nor for recycle": "ПП Которые не будут отправлены ни с ПП заранее ни с ПП в экспедицию"
+
+"PF will be send to arrive at the same time as debris field is created (if any)": "ПП прибудут для  в то же время, когда будет создано поле обломков (если таковое будет или не будет)"
+
+"Park": "Оставить" # global (undefined)
+
+"Park In That Ally": "Держаться на орбите союзника" # global (undefined)
+
+"Pathfinder": "Первопроходец" # global (undefined)
+
+"Pathfinders to stay": "Оставить Первопроходцев"
+
+"Reaper": "Жнец" # global (undefined)
+
+"Recycle debris": "Собрать Поле обломков"
+
+"Recycler": "Переработчик" # global (undefined)
+
+"SC that will not be send with auto-split": "Количество МТ которое не будет учитываться в авто-разделений"
+
+"Select origin": "Выбрать Место отправления" # global (undefined)
+
+"Ships per expedition": "Корабли для Экспедиции"
+
+"Slots allowed": "Разрешено слотов"
+
+"Small Cargo": "Малый Транспорт" # global (undefined)
+
+"Small Cargo to stay": "Оставить Малых Транспортов"
+
+"Spy": "Шпионаж" # global (undefined)
+
+"Statistics": "Статистика"
+
+"Strategy": "Стратегия"
+
+"Systems range": "Интервал Систем"
+
+"Transport": "Транспорт" # global (undefined)
+
+"Wait for all expeditions slots": "Дождаться возвращения всех Экспедиционных слотов"
+
+"Wait for majority of expeditions slots": "Дождаться большинства Экспедиционных слотов"
+
+"expeditions": "Экспедиции"
+
+"next check in": "Следующая проверка в" # global (undefined)
+
+"unlimited": "Не ограничено" # global (undefined)
+
+bot.settings.farmer:
+
+"Abort all sessions": "Отменить все сессии"
+
+"Actions": "Отозвать" # global (undefined)
+
+"Active": "Активные" # global (undefined)
+
+"Additional cargo": "Дополнительный груз"
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Attack from nearest moon": "Атака с ближаищей Луны"
+
+"Attack from nearest planet": "Атака с ближаищей Планеты"
+
+"Attack speed": "Скорость Атаки"
+
+"Created at": "Создано в" # global (undefined)
+
+"Crystal": "Кристалл" # global (undefined)
+
+"Delete combat reports": "Удалить боевые доклады"
+
+"Deuterium": "Дейтерий" # global (undefined)
+
+"Espionage probe raids": "Шпионский Зонд Летит"
+
+"Farm sessions": "Сессия Сбора"
+
+"Farmer active": "Сбор активен"
+
+"Fast attacking": "Быстрая Атака"
+
+"Ignore targets with activity": "Игнорировать Актив цели"
+
+"Inactive": "Не активна" # global (undefined)
+
+"Metal": "Металл" # global (undefined)
+
+"Min. defenses to ignore": "Игнорировать порог минимального дейтерия"
+
+"Min. player rank": "Минимальный рани Игрока"
+
+"Min. resources to attack": "Минимальные ресурсы для Атаки"
+
+"Minimum level of storage": "Минимальный уровень хранилищ ресурсов"
+
+"Nb probes": "Количество Зондов"
+
+"New session": "Новый Сбор"
+
+"No session": "Нет Сбора"
+
+"Origin": "Место вылета" # global (undefined)
+
+"Planet": "Планета" # global (undefined)
+
+"Priority calculation": "Расчет приоритета"
+
+"Range": "Интервал"
+
+"Redo": "Повторить"
+
+"Save": "Сохранить" # global (undefined)
+
+"Select origin": "Выбрать Место вылета" # global (undefined)
+
+"Start new session": "Старт Нового Сбора"
+
+"State": "Статус"
+
+"Total loot": "Общий Лут"
+
+"Use pathfinders": "Все первопроходцы"
+
+"You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Вам нужно отключить функцию "скрыть картинки в отчетах" в настройках ogame, чтобы фермер работал правильно."
+
+"ignored alliances": "Игнорируемые Альянсы"
+
+"ignored planets": "Игнорируемые Планеты"
+
+"ignored players": "Игнорируемые Игроки"
+
+"statistics": "Статистика"
+
+bot.settings.farmerIgnoredAlliances:
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Remove all": "Очистить Все" # global (undefined)
+
+bot.settings.farmerIgnoredPlanets:
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Remove all": "Очистить Все" # global (undefined)
+
+bot.settings.farmerIgnoredPlayers:
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Remove all": "Очистить Все" # global (undefined)
+
+bot.settings.home:
+
+"Actions": "Действия" # global (undefined)
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Attack type": "Тип Атаки"
+
+"Attacker": "Атакующий" # global (undefined)
+
+"Brain activities": "ИИ Активация"
+
+"Cancel evacuation": "Отмена Эвакуации"
+
+"Check attacks": "Проверка Атаки"
+
+"Countdowns": "Обратный отсчет"
+
+"Defender": "Защитник" # global (undefined)
+
+"Defender activities": "Активация Защитника"
+
+"Destination": "Место назначения" # global (undefined)
+
+"Donut galaxy": "Заколдованная Галактика"
+
+"Donut system": "Закольцованные системы"
+
+"Email": "Емайл" # global (undefined)
+
+"Expeditions": "Экспедиция" # global (undefined)
+
+"General info": "Общая Информация"
+
+"Hunter": "Охотник" # global (undefined)
+
+"No evacuations": "Нет Эвакуации"
+
+"No plans": "Нет плана"
+
+"Proxy": "Прокси"
+
+"Repatriate": "Сбор Ресурсов" # global (undefined)
+
+"Repatriate now": "Собрать ресурсы сейчас"
+
+"Reschedule evacuation": "Перенести Сбор Ресурсов"
+
+"Research speed": "Скорость Исследования"
+
+"Ships": "Корабли" # global (undefined)
+
+"Times": "Темы"
+
+"Universe": "Уня" # global (undefined)
+
+"Universe speed": "Скорость Уни"
+
+"Universe speed fleet": "Скорость флота Уни"
+
+"What is my IP?": "Каков мой IP-адрес?"
+
+"scanner": "Сканер" # global (undefined)
+
+bot.settings.hunter-target:
+
+"Alliance": "Альянс" # global (undefined)
+
+"Color legend": "Цвета Легенды"
+
+"Target": "Цель"
+
+bot.settings.hunter:
+
+"--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (undefined)
+
+"Actions": "Действия" # global (undefined)
+
+"Activities": "Деятельность" # global (undefined)
+
+"Activity": "Активность"
+
+"Alliance": "Альянс" # global (undefined)
+
+"Alliance rank": "Альянс Ранк"
+
+"Hunter configs": "Настройки Охотника"
+
+"No activity": "оффлайн"
+
+"No targets": "Нет Целей"
+
+"Player": "Игрок"
+
+"Player rank": "Ранк Игрока"
+
+"Save": "Сохранить" # global (undefined)
+
+"Scan frequency": "Частота сканирования" # global (undefined)
+
+"Scan using": "Сканирование с помощью" # global (undefined)
+
+"Vacation": "Отпуск" # global (undefined)
+
+"View activities": "График Деятельности"
+
+"minutes": "Минуты" # global (undefined)
+
+"next in": "Следующий через" # global (undefined)
+
+bot.settings.index:
+
+"Activities": "Мероприятия" # global (undefined)
+
+"Brain": "ИИ" # global (undefined)
+
+"Defender": "Защитник" # global (undefined)
+
+"Expeditions": "Экспедиции" # global (undefined)
+
+"Farmer": "Сборщик ресурсов" # global (undefined)
+
+"Hunter": "Охотник" # global (undefined)
+
+"Logs": "Логи"
+
+"Messages": "Сообщения" # global (undefined)
+
+"Overview": "Обзор"
+
+"Phalanx": "Сенсорная Фаланга" # global (undefined)
+
+"Scanner": "Сканер"
+
+"Settings": "Настройки" # global (undefined)
+
+"Sleep mode": "Режим Сна"
+
+"Start": "Старт" # global (undefined)
+
+"Stop": "Стоп" # global (undefined)
+
+bot.settings.logs:
+
+"All": "Все" # global (undefined)
+
+"Audit": "Аудит"
+
+"Brain": "ИИ" # global (undefined)
+
+"Category": "Категория" # global (undefined)
+
+"Crawler": "Гусеничка" # global (undefined)
+
+"Created at": "Создать в" # global (undefined)
+
+"Defender": "Защитник" # global (undefined)
+
+"Download logs": "Скачать Логи"
+
+"Farmer": "Сборщик Ресурсов" # global (undefined)
+
+"General": "Общая" # global (undefined)
+
+"Hunter": "Охотник" # global (undefined)
+
+"Level": "Уровень"
+
+"Message": "Сообщение" # global (undefined)
+
+"Next": "Следующии" # global (undefined)
+
+"No logs to show": "Нет логов для показа"
+
+"Phalanx": "Сенсорная Фаланга" # global (undefined)
+
+"Prev": "Предыдущии" # global (undefined)
+
+"Repatriate": "Собрать ресурсы" # global (undefined)
+
+"Search": "Поиск" # global (undefined)
+
+"VM": "ВМ"
+
+"scanner": "Сканер" # global (undefined)
+
+bot.settings.messages:
+
+"All": "Все" # global (undefined)
+
+"Coordinate": "Координаты" # global (undefined)
+
+"Espionage report": "Шпионский доклад" # global (undefined)
+
+"Expedition": "Экспедиция" # global (undefined)
+
+"Farmer": "Сборщик Ресурсов" # global (undefined)
+
+"Importer": "Импортер"
+
+"InGame date": "Дата в Игре" # global (undefined)
+
+"Loot": "Лут"
+
+"Manual": "Инструкция"
+
+"Messages": "Сообщения" # global (undefined)
+
+"Next": "Следующии" # global (undefined)
+
+"No messages to show": "Нет сообщений для показа" # global (undefined)
+
+"Prev": "Предыдущии" # global (undefined)
+
+"Resources": "Ресурсы" # global (undefined)
+
+bot.settings.notifications:
+
+"Bot exit sleep mode": "Бот Вышел режим сна"
+
+"Bot goes to sleep mode": "Бот переходит в спящий режим"
+
+"Defender": "Защитник" # global (undefined)
+
+"Email": "Емайл" # global (undefined)
+
+"Email for notifications": "Емайл для уведомлений"
+
+"Evacuation fails": "Эвакуация не удалась"
+
+"Expedition loss": "Экспедиция в Дырке!"
+
+"Expeditions": "Экспедиции" # global (undefined)
+
+"Failed to fleet save": "Сейв флота не удался"
+
+"Farm session completed": "Сбор ресурсов сессия закончена"
+
+"Farm session started": "Сбор ресурсов сессия запущена"
+
+"Farmer": "Сбор ресурсов" # global (undefined)
+
+"Forward ingame chat from alliance": "Пересылать чат альянса"
+
+"Forward ingame chat from players": "Пересылать сообщения игроков"
+
+"General": "Общая" # global (undefined)
+
+"Global": "Глобальный"
+
+"Hunter": "Охотник" # global (undefined)
+
+"Login fails": "Авторизация не удалась"
+
+"New attack detected": "Обнаружена новая Атака"
+
+"New missiles attack detected": "Обнаружена новый Ракетный Удар"
+
+"Notifications": "Уведомления" # global (undefined)
+
+"Save": "Сохранить" # global (undefined)
+
+"Slack": "Сласк"
+
+"Slack username for notifications": "Имя пользователя Сладк для уведомлении"
+
+"Sleep Mode": "Режим Сна" # global (undefined)
+
+"Target dropped in military points": "Цель сброшена в военных точках"
+
+"Telegram": "Телеграм"
+
+"Telegram chat id for notifications": "Телеграм чат ИД"
+
+"test email": "Тест Емайл"
+
+"test notif": "Тест уведомление"
+
+"test slack": "Тест Сласк"
+
+bot.settings.phalanx:
+
+"Phalanx": "Сенсорная Фаланга" # global (undefined)
+
+"Start": "Старт" # global (undefined)
+
+bot.settings.phalanxSession:
+
+"Created at": "Создать в" # global (undefined)
+
+"Data": "Дата"
+
+"Next": "Следйющии" # global (undefined)
+
+"No fleets": "Нет флотов" # global (undefined)
+
+"No reports to display": "Нет докладов для отображения"
+
+"Phalanx": "Сенсорная Фаланга" # global (undefined)
+
+"Phalanx session": "Сессия Сенсорной Фаланги"
+
+"Prev": "Предыдущии" # global (undefined)
+
+"Session aborted": "Отменить Сессию"
+
+"Stop": "Стоп" # global (undefined)
+
+bot.settings.scanner:
+
+"--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (undefined)
+
+"Interval between system scan": "Интервал между сканированием системы"
+
+"Save": "Сохранить" # global (undefined)
+
+"Scan frequency": "Сканировать рав в" # global (undefined)
+
+"Scan using": "Сканировать с помощью" # global (undefined)
+
+"Scans the whole universe every set amount of hours.": "Сканирует всю Вселенную каждые установленные часы"
+
+"hours": "Часы"
+
+"milliseconds": "Милисекунды"
+
+"minimum": "Минимум"
+
+"next in": "Следующии в" # global (undefined)
+
+"scanner active": "Сканер активен"
+
+"scanner configs": "Настройки сканера"
+
+bot.settings.settings:
+
+"--- Default ---": "По умолчанию"
+
+"<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "< strong>предупреждение:< / strong> это делается для изменения учетных данных, которые бот использует для входа в OGame, а не для изменения пароля лобби."
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Auto enable manual mode when using browser": "Автоматическое включение ручного режима при использовании браузера"
+
+"Bot timezone": "Бот Часовой пояс"
+
+"Browser augments": "Дополнения Браузера"
+
+"Change ogame credentials": "Изменение учетных данных ogame"
+
+"Change proxy": Изменение Прокси""
+
+"Commander UI": "Интерфейс командира"
+
+"Coordinates": "Координаты"
+
+"Default": "По умолчанию"
+
+"Delete bot": "Удалить Бота"
+
+"Delete expedition messages once imported": "Удалить отчеты экспедиции после внесения"
+
+"Delete spy reports once imported": "Удалить шпионские доклады после внесения"
+
+"Delete this bot": "Удаление этого Бота"
+
+"Disable ogame dropdown (fix jump gate on mobile)": "Отключить выпадающий список ogame (fix jump gate на мобильном телефоне)"
+
+"Enable Expe-3000": "Включить Экспортов-3000"
+
+"Enable InfoCompte3": "Включить Инфо"
+
+"Enable NixianRaidTracker": "Включить NixianRaidTracker"
+
+"Enable RecursosAmpliados": "Включить RecursosAmpliados"
+
+"Enable TopRaider": "Включить TopRaider"
+
+"Enable browser augments": "Включить дополнения браузера"
+
+"Espionage probe": "Шпионский Зонд"
+
+"General": "Обшее" # global (undefined)
+
+"General options": "Общие Настройки"
+
+"Homeworld": "Главная планета"
+
+"Host machine Timezone": "Часов пояс Хост машины"
+
+"Large cargo": "Большой Транспорт"
+
+"Max brain slots": "Максимальное количество слотов для ИИ"
+
+"Max expeditions slots": "Максимальное количество слотов для Экспедиции"
+
+"Max farmer slots": "Максимальное количество слотов для Сборщика Ресурсов"
+
+"Max repatriate slots": "Максимальное количество слотов для Сбора ресурсов"
+
+"Max script slots": "Максимальное количество слотов для Скриптов"
+
+"Name": "Имя" # global (undefined)
+
+"Notifications": "Уведомления" # global (undefined)
+
+"OGT (OGame Timezone)":  "(Время Сервера)"
+
+"Pathfinder": "Перевопроходец" # global (undefined)
+
+"Preferred transport ships": "Предпочитаемые транспортные суда"
+
+"Proxy password": "Пароль Прокси" # global (undefined)
+
+"Proxy username": "Имя Прокси" # global (undefined)
+
+"Remove ads": "Удалить Рекламу"
+
+"Remove banner": "Удалить Банер"
+
+"Save": "Сохранить" # global (undefined)
+
+"Save proxy": "Сохранить Прокси"
+
+"Share account": "Поделиться Аккаунтом"
+
+"Share with": "Поделиться"
+
+"Slots reserved for player": "Резервировать слотов для игрока"
+
+"Small cargo": "Малый Транспорт"
+
+"Sort planets in dropdowns by": "Сортировка планет в выпадающих списках по"
+
+"Theme": "Тема" # global (undefined)
+
+"UTC+00:00": "UTC+00:00"
+
+"UTC+01:00": "UTC+01:00"
+
+"UTC+02:00": "UTC+02:00"
+
+"UTC+03:00": "UTC+03:00"
+
+"UTC+04:00": "UTC+04:00"
+
+"UTC+04:30": "UTC+04:30"
+
+"UTC+05:00": "UTC+05:00"
+
+"UTC+05:30": "UTC+05:30"
+
+"UTC+05:45": "UTC+05:45"
+
+"UTC+06:00": "UTC+06:00"
+
+"UTC+06:30": "UTC+06:30"
+
+"UTC+07:00": "UTC+07:00"
+
+"UTC+08:00": "UTC+08:00"
+
+"UTC+08:45": "UTC+08:45"
+
+"UTC+09:00": "UTC+09:00"
+
+"UTC+09:30": "UTC+09:30"
+
+"UTC+10:00": "UTC+10:00"
+
+"UTC+10:30": "UTC+10:30"
+
+"UTC+11:00": "UTC+11:00"
+
+"UTC+12:00": "UTC+12:00"
+
+"UTC+12:45": "UTC+12:45"
+
+"UTC+13:00": "UTC+13:00"
+
+"UTC+14:00": "UTC+14:00"
+
+"UTC-01:00": "UTC-01:00"
+
+"UTC-02:00": "UTC-02:00"
+
+"UTC-02:30": "UTC-02:30"
+
+"UTC-03:00": "UTC-03:00"
+
+"UTC-04:00": "UTC-04:00"
+
+"UTC-05:00": "UTC-05:00"
+
+"UTC-06:00": "UTC-06:00"
+
+"UTC-07:00": "UTC-07:00"
+
+"UTC-08:00": "UTC-08:00"
+
+"UTC-09:00": "UTC-09:00"
+
+"UTC-09:30": "UTC-09:30"
+
+"UTC-10:00": "UTC-10:00"
+
+"UTC-11:00": "UTC-11:00"
+
+"UTC-12:00": "UTC-12:00"
+
+"User-Agent": "Агент пользователя"
+
+"Username": "Имя" # global (undefined)
+
+"proxy login requests only": "только запросы на вход через прокси-сервер"
+
+bot.settings.sleepMode:
+
+"Active": "Активен" # global (undefined)
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Awake bot now": "Проснись бот сейчас же"
+
+"Every day": "Каждый день"
+
+"Friday": "Пятница"
+
+"Monday": "Понедельник"
+
+"Put bot to sleep now": "Отправить Бота спать"
+
+"Random delay before going to sleep (minutes)": "Случайная задержка перед сном (минуты)"
+
+"Saturday": "Суббота"
+
+"Save": "Сохранить" # global (undefined)
+
+"Sleep Mode": "Режим Сна" # global (undefined)
+
+"Sunday": "Воскресенье"
+
+"Thursday": "Четверг"
+
+"Tuesday": "Вторник"
+
+"Wake up at": "Проснуться в"
+
+"Wednesday": "Среда"
+
+"automatic fleet save (experimental)": "Автоматический Сей Флота (Экспериментальная)"
+
+"manual trigger": "Ручной запуск"
+
+bot.simulator:
+
+"ACS planner": "Планировщик ACS"
+
+"API": "API" # global (undefined)
+
+"Anti Ballistic Missiles": "Ракеты-Перехватчики"
+
+"Armour": "Броня"
+
+"Attacker": "Атакующий" # global (undefined)
+
+"Attacker win": "Атакующий Победил"
+
+"Battlecruiser": "Линейный Крейсер" # global (undefined)
+
+"Battleship": "Линкор" # global (undefined)
+
+"Bomber": "Бомбандировщик" # global (undefined)
+
+"Captured": "Захваченный"
+
+"Cargo's needed": "Нужна Грузоподъемность"
+
+"Clear player data": "Очистить данные игрока"
+
+"Colony Ship": "Колонизатор" # global (undefined)
+
+"Configs": "Конфигурации"
+
+"Crawler": "Гусенички" # global (undefined)
+
+"Cruiser": "Крейсер" # global (undefined)
+
+"Crystal": "Кристалл" # global (undefined)
+
+"Deathstar": "Звезда Смерти" # global (undefined)
+
+"Debris": "Поле Обломков" # global (undefined)
+
+"Defence repair factor": "Фактор ремонта обороны"
+
+"Defence to debris": "Оборона в Обломки"
+
+"Defender": "Защитник" # global (undefined)
+
+"Defender win": "Обороняющийся Победил"
+
+"Destroyer": "Уничтожитель" # global (undefined)
+
+"Deuterium": "Дейтерий" # global (undefined)
+
+"Draw": "Ничья"
+
+"Espionage Probe": "Шпионский Зонд" # global (undefined)
+
+"Fleet to debris": "Флот в Обломки"
+
+"Gauss Cannon": "Орудие Гаусса" # global (undefined)
+
+"Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
+
+"Heavy Laser": "Тяжелый Лазер" # global (undefined)
+
+"Hyperspace tech": "Гиперпространственная технология"
+
+"Interplanetary Missiles": "Межпланетные Ракеты" # global (undefined)
+
+"Ion Cannon": "Ионная Пушка" # global (undefined)
+
+"Large Cargo": "Большой Транспорт" # global (undefined)
+
+"Large Shield Dome": "Большой Шитовой Купол" # global (undefined)
+
+"Light Fighter": "Легкий Истребитель" # global (undefined)
+
+"Light Laser": "Легкий Лазер" # global (undefined)
+
+"Losses": "Потери"
+
+"Metal": "Металл" # global (undefined)
+
+"Moonchance": "Шанс Образования Луны"
+
+"Open in TrashSim": "Открыть в  TrashSim"
+
+"Pathfinder": "Первопроходец" # global (undefined)
+
+"Pathfinders": "Первопроходцы"
+
+"Planet": "Планета" # global (undefined)
+
+"Planet/Moon": "Планета/Луна"
+
+"Plasma Turret": "Плазменное Орудие" # global (undefined)
+
+"Plunder": "Грабить"
+
+"Possible": "Возможный"
+
+"Profit": "Профит"
+
+"Reaper": "Жнец" # global (undefined)
+
+"Recycler": "Переработчик" # global (undefined)
+
+"Result": "Результат"
+
+"Rocket Launcher": "Ракетная Установка" # global (undefined)
+
+"Rounds": "Раунды"
+
+"Select origin": "Выбрать место отправления" # global (undefined)
+
+"Send attack": "Отправить в Атаку"
+
+"Send recyclers": "Отправить переработчиков" # global (undefined)
+
+"Shield": "Шит"
+
+"Simulate": "Симулировать"
+
+"Simulations": "Симуляции"
+
+"Small Cargo": "Малый Транспорт" # global (undefined)
+
+"Small Shield Dome": "Малый Шитовой Купол" # global (undefined)
+
+"Solar Satellite": "Солнечный Спутник" # global (undefined)
+
+"Tactical retreat": "Тактическое Отступление"
+
+"Weapon": "Оружие"
+
+bot-card:
+
+"Email": "Емайл" # global (undefined)
+
+"Lang": "Язык" # global (undefined)
+
+"Points": "Очки" # global (undefined)
+
+"Rank": "Ранк" # global (undefined)
+
+"Start": "Старт" # global (undefined)
+
+"Stop": "Стоп" # global (undefined)
+
+"Universe": "Вселенная" # global (undefined)
+
+changelog:
+
+"meta-description": "Метаописание" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+database:
+
+"Actions": "Действия" # global (undefined)
+
+"Delete all keys": "Удалить все ключи"
+
+"Key": "Ключ"
+
+"Key/value storage": "Ключ/Хранение ценностей"
+
+"No data to display": "Нет информации для отображения"
+
+"Search": "Поиск" # global (undefined)
+
+"Stats": "Статистика"
+
+"Value": "Ценность"
+
+debug.index:
+
+"Runtime": "Время выполнения"
+
+"SQL": "SQL"
+
+download:
+
+"Actions": "Действия" # global (undefined)
+
+"Active": "Активен" # global (undefined)
+
+"AntiGame for Ninja": "AntiGame для Ninja"
+
+"Arch": "Арка" # global (undefined)
+
+"Changelog": "Список Изменений"
+
+"Download": "Загрузка" # global (undefined)
+
+"Downloads": "Загрузки" # global (undefined)
+
+"Expired": "Истекший" # global (undefined)
+
+"Expired at": "Заканчивается через"
+
+"File name": "Имя Фаила" # global (undefined)
+
+"Full license": "Полная Лицензия"
+
+"Instructions how to install and run": "Инструкции по установке и запуску"
+
+"My licenses": "Моя Лицензия"
+
+"New license": "Новая Лицензия" # global (undefined)
+
+"No files to display": "Нет фаилов для отображения" # global (undefined)
+
+"No license to display": "Нет лицензии для отображения"
+
+"OS": "ОС" # global (undefined)
+
+"Renew license": "Продлить Лицензию" # global (undefined)
+
+"SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
+
+"Size": "Размер" # global (undefined)
+
+"UUID": "идентификатор UUID" # global (undefined)
+
+"meta-description": "Метаописание" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+features:
+
+"Activities": "Действия" # global (undefined)
+
+"Augmented browsing experience": "Расширенные возможности просмотра"
+
+"Combat simulator": "Боевой Симулятор" # global (undefined)
+
+"Defender": "Защитник" # global (undefined)
+
+"Empire view": "Вид Империи" # global (undefined)
+
+"Farmer": "Сборщик Ресурсов" # global (undefined)
+
+"Universe map": "Карта Галактики" # global (undefined)
+
+"activities-desc": "Деятельность по убыванию"
+
+"augments-desc": "Увеличение по убыванию"
+
+"defender-desc": "Защитник по убыванию" # global (undefined)
+
+"empire-desc": "Империя по убыванию" # global (undefined)
+
+"farmer-desc": "Сборщик ресурсов по убыванию"
+
+"map-desc": "Карта по убыванию" # global (undefined)
+
+"meta-description": "Метаописание" # global (undefined)
+
+"simulator-desc": "Симулятор по убыванию" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+first-use:
+
+"Admin account": "Аккаунт Администратора"
+
+"Confirm password": "Подтвердите пароль"
+
+"Create admin account": "Создать Аккаунт Администратора"
+
+"Email": "Емайл" # global (undefined)
+
+"Password": "Пароль" # global (undefined)
+
+"Username": "Имя Пользователя" # global (undefined)
+
+forgot-password-reset:
+
+"Password": "Пароль" # global (undefined)
+
+"Reset password": "Сбросить пароль"
+
+"Retype password": "Повторите ввод пароля" # global (undefined)
+
+"Username": "Пользователь" # global (undefined)
+
+forgot-password:
+
+"Email Address": "Емайл адресс"
+
+"Enter your email address to retrieve your password": "Введите свой адрес электронной почты, чтобы получить пароль"
+
+"Password recovery": "Восстановление пароля"
+
+"Retrieve Password": "Восстановить Пароль"
+
+"meta-description": "Метаописание" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+get-trial-key:
+
+"Get free trial key": "Получите бесплатный пробный ключ"
+
+"Get trial key": "Получите пробный ключ"
+
+"Home": "Дом" # global (undefined)
+
+home-slave:
+
+"Bots": "Боты" # global (undefined)
+
+"Create script on all bots": "Создать скрипт на всех ботах" # global (undefined)
+
+"New bot": "Новый Бот" # global (undefined)
+
+"Other actions": "Прочие Действия"
+
+"Reorder bots": "Расставить очередность ботов" # global (undefined)
+
+home:
+
+"Actions": "Действия" # global (undefined)
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Domain": "Домен"
+
+"Expires": "Истекает"
+
+"Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (undefined)
+
+"Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (undefined)
+
+"My servers": "Мой Сервер"
+
+"New password": "Новый Пароль" # global (undefined)
+
+"New server": "Новый Сервер" # global (undefined)
+
+"New username": "Новое Имя" # global (undefined)
+
+"No servers to display": "Нет серверов для отображения"
+
+"Region": "Регион" # global (undefined)
+
+"Version": "Версия"
+
+"You're invited to join our Slack server": "Мы приглашаем Вас присоединиться к нашему серверу Slack" # global (undefined)
+
+index:
+
+"Account": "Аккаунт" # global (undefined)
+
+"Admin": "Админ" # global (undefined)
+
+"Download": "Загрузки" # global (undefined)
+
+"FAQ": "Инструкция"
+
+"Features": "Особенности"
+
+"Home": "Дом" # global (undefined)
+
+"Login": "Логин"
+
+"Please": "Пожалуйста"
+
+"Pricing": "Цена" # global (undefined)
+
+"Proposals": "Предложения"
+
+"Register": "Зарегистрироваться"
+
+"Servers": "Сервера"
+
+"Sign out": "Выход"
+
+"Support": "Поддержка"
+
+"Ticket support": "Обращение в поддержку"
+
+"Translations": "Переводы"
+
+"Your Ninja software needs to be updated.": "Ваше программное обеспечение Ninja нуждается в обновлении."
+
+"download the latest version here": "скачать последнюю версию можно здесь"
+
+"update your instance here": "обновите свой экземпляр здесь"
+
+initialization:
+
+"Bot is being initialized, please wait until you get automatically redirected...": "Бот инициализируется, пожалуйста, подождите, пока вы не получите автоматическое перенаправление..."
+
+instance-actions:
+
+"New password": "Новый пароль" # global (undefined)
+
+"New username": "Новое Имя" # global (undefined)
+
+invoice:
+
+"Bots": "Боты" # global (undefined)
+
+"Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
+
+"New license": "Новая Лицензия" # global (undefined)
+
+"Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
+
+"Pay with paypal": "Оплата через paypal" # global (undefined)
+
+"Submit payment": "Отправить платеж"
+
+"Upgrade license": "Обновить Лицензию"
+
+"Valid until": "Действителен до" # global (undefined)
+
+"we are using": "мы используем" # global (undefined)
+
+landing:
+
+"Combat simulator": "Боевой Симулятор" # global (undefined)
+
+"Construction queue": "Очередь на строительство"
+
+"Defender": "Защитник" # global (undefined)
+
+"Empire view": "Обзор Империи" # global (undefined)
+
+"Farming": "Сборщик ресурсов"
+
+"Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (undefined)
+
+"Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (undefined)
+
+"Learn more": "Узнать подробнее"
+
+"OGame Ninja": "Огейм Ninja"
+
+"The most advanced OGame toolkit ever created": "Самый продвинутый инструментарий OGame, когда-либо созданный"
+
+"Universe map": "Карта Галактики" # global (undefined)
+
+"View details": "Посмотреть подробнее"
+
+"You're invited to join our Slack server": "Мы приглашаем Вас присоединиться к нашему серверу Slack" # global (undefined)
+
+"defender-desc": "Защита по убыванию" # global (undefined)
+
+"empire-desc": "Империя по убыванию" # global (undefined)
+
+"farming-desc": "Сбор ресурсов по убыванию"
+
+"map-desc": "карта по убыванию" # global (undefined)
+
+"meta-description": "метаописание" # global (undefined)
+
+"queue-desc": "очередь по убыванию"
+
+"simulator-desc": "симуляция по убыванию" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+license-view:
+
+"Bots allowed": "Боты разрешены" # global (undefined)
+
+"Created": "Создать" # global (undefined)
+
+"Download": "Загрузки" # global (undefined)
+
+"Email": "Емайл" # global (undefined)
+
+"Expired": "Истекает" # global (undefined)
+
+"License": "Лицензия" # global (undefined)
+
+"Owner": "Владелец" # global (undefined)
+
+"UUID": "идентификатор UUID" # global (undefined)
+
+license:
+
+"Are you sure?": "" # global (undefined)
+
+"Click \"Renew license\" button": ""
+
+"Current license requires a newer version of the software. Please update.": ""
+
+"License expired": ""
+
+"Renew license": "Вы Уверены?" # global (undefined)
+
+"Stop all bots": "Стоп все Боты"
+
+"Upload": "Загрузить"
+
+"Upload license file": "Загрузить фаил Лицензии"
+
+login:
+
+"I forgot my password": "Я Забыл мой пароль" # global (undefined)
+
+"Password": "Пароль" # global (undefined)
+
+"Sign in": "Воити в систему" # global (undefined)
+
+"Sign in to continue": "Войдите в систему, чтобы продолжить"
+
+"Username": "Имя" # global (undefined)
+
+"meta-description": "Метаописание" # global (undefined)
+
+"title": "Заглавие" # global (undefined)
+
+login2:
+
+"I forgot my password": "я забыл свой пароль" # global (undefined)
+
+"Password": "пароль" # global (undefined)
+
+"Sign in": "воити в систему" # global (undefined)
+
+"Username": "Имя" # global (undefined)
+
+must-contact:
+
+"Please contact admins": "Пожалуйста, свяжитесь с администраторами"
+
+"Please contact ogame.ninja admins": "Пожалуйста, свяжитесь с администраторами ogame.ninja"
+
+must-update:
+
+"Please update": "Пожалйста обовитесь"
+
+"Software is too old": "Программное обеспечение слишком старое"
+
+"You must update your software.": "Вы должны обновить свое программное обеспечение."
+
+new-bot:
+
+"Add account to lobby": "Добавить аккаунт в лобби" # global (undefined)
+
+"Create": "Создать" # global (undefined)
+
+"Gameforge email": "Gameforge Емайл" # global (undefined)
+
+"Gameforge password": "Gameforge пароль" # global (undefined)
+
+"New bot": "Новый Бот" # global (undefined)
+
+"New lobby": "Новое Лобби" # global (undefined)
+
+"OTP secret": "Секрет ОТП" # global (undefined)
+
+"Player ID": "ID Игрока"
+
+"Proxy password": "Пароль прокси" # global (undefined)
+
+"Proxy username": "Имя прокси" # global (undefined)
+
+"http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
+
+new-license:
+
+"Buy license": "Купить Лиценцию" # global (undefined)
+
+"Credit or debit card": "Добавить Кредитную ,дебетовую карту" # global (undefined)
+
+"Download": "Загруки" # global (undefined)
+
+"Get trial license": "Получить пробную лицензию" # global (undefined)
+
+"New license": "Новая Лицензия" # global (undefined)
+
+"Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
+
+"Pay with paypal": "Оплатить через paypal" # global (undefined)
+
+"Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (undefined)
+
+"Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (undefined)
+
+"Total": "Весь" # global (undefined)
+
+"description1": "Описание 1" # global (undefined)
+
+"description2": "Описание 2"
+
+"we are using": "Мы используем" # global (undefined)
+
+new-lobby-account:
+
+"Add account to lobby": "Добавить аккаунт в лобби" # global (undefined)
+
+"Create": "Создать" # global (undefined)
+
+"Gameforge email": "Gameforge Емайл" # global (undefined)
+
+"Gameforge password": "Gameforge пароль" # global (undefined)
+
+"New bot": "Новый бот" # global (undefined)
+
+"New lobby": "Новы лобби" # global (undefined)
+
+"OTP secret": "Секрет OTP" # global (undefined)
+
+"Proxy password": "Прокси пароль" # global (undefined)
+
+"Proxy username": "Прокси Имя" # global (undefined)
+
+"http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
+
+new-lobby:
+
+"Add account to lobby": "Добавить аккаунт лобби" # global (undefined)
+
+"Create": "Создать" # global (undefined)
+
+"Gameforge email": "Gameforge Емайл" # global (undefined)
+
+"Gameforge password": "Gameforge пароль" # global (undefined)
+
+"New bot": "Новый бот" # global (undefined)
+
+"New lobby": "Новый Лобби" # global (undefined)
+
+"Proxy password": "Прокси пароль" # global (undefined)
+
+"Proxy username": "Прокси Имя" # global (undefined)
+
+"http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
+
+new-proposal:
+
+"All suggestions": "Все предложения" # global (undefined)
+
+"New suggestion": "Новое предложение"
+
+new-script:
+
+"<b>Warning:</b> This will override existing scripts that have the same name.": "< b>предупреждение:< / b> это переопределит существующие сценарии с тем же именем."
+
+"All bots that I have access to": "Все боты, к которым у меня есть доступ"
+
+"Create script on all bots": "Создать скрипт для всех ботов" # global (undefined)
+
+"Home": "Дом" # global (undefined)
+
+"My bots": "Мой Боты"
+
+"New script": "Новый Скрипт"
+
+"Place script here": "Разместите скрипт здесь"
+
+"Run at start": "Запустить при старте" # global (undefined)
+
+"Script file name": "Имя фала скрипта"
+
+"Where to create the script": "Где создать скрипт"
+
+new-server:
+
+"3 - 20 letter/number/underscore. eg: ": "3-20 букв/цифр / подчеркивание. напр.:"
+
+"Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
+
+"Home": "Дом" # global (undefined)
+
+"New server": "Новый Сервер" # global (undefined)
+
+"Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
+
+"Pay with paypal": "Оплатить через paypal" # global (undefined)
+
+"Region": "Регион" # global (undefined)
+
+"Select one": "Выбрать один"
+
+"Settings": "Настройки" # global (undefined)
+
+"Subdomain": "Дочерний Домен"
+
+"Submit Payment for cloud hosting": "Отправить платеж за облачный хостинг"
+
+"Total": "Весь" # global (undefined)
+
+"You will access your app using this URL": "Вы получите доступ к своему приложению, используя этот URL-адрес"
+
+"the bots will use IP from that region": "боты будут использовать IP из этого региона"
+
+"we are using": "мы используем" # global (undefined)
+
+new-trial-license:
+
+"Buy license": "Купить лицензию" # global (undefined)
+
+"Download": "загрузить" # global (undefined)
+
+"Get trial license": "получить пробную лицензию" # global (undefined)
+
+"New trial license": "Новая пробная лицензия"
+
+"description1": "Описание 1" # global (undefined)
+
+notifications:
+
+"Created at": "Создать в" # global (undefined)
+
+"Message": "Сообщение" # global (undefined)
+
+"No notifications": "Нет уведомлений"
+
+"Notifications": "Уведомления" # global (undefined)
+
+pricing:
+
+"1 bot": "1 бот"
+
+"2 days one-time trial": "2-дневная одноразовая пробная версия"
+
+"30 days license": "30 дней лицензия"
+
+"Buy now": "купить новую"
+
+"Get started": "получить стартовую"
+
+"Pricing": "цена" # global (undefined)
+
+"Priority Slack support": "Приоритетная Slack поддержка"
+
+"Self-host": "Сам - Хост"
+
+"Slack support": "Slack поддержка"
+
+"These are our pricing plans, if you can't quite find what you need, let us know on Slack and we'll work something out!": "Это наши ценовые планы, если вы не можете найти то, что вам нужно, дайте нам знать на Slack, и мы что-нибудь придумаем!"
+
+"Trial": "Пробная"
+
+"Try for free": "Попробуйте бесплатно"
+
+"User needs to run the software": "Пользователь должен запустить программное обеспечение"
+
+"Vote for future features development": "Голосуйте за развитие будущих функций"
+
+"We host the bot for you 24/7": "Мы размещаем бота для вас 24/7"
+
+"meta-description": "метаописание" # global (undefined)
+
+"month": "месяц"
+
+"title": "Заглавие" # global (undefined)
+
+"upgradable": "Модернизируемый"
+
+proposal:
+
+"All suggestions": "Все предложения" # global (undefined)
+
+proposals:
+
+"Next": "Следующий" # global (undefined)
+
+"Prev": "Предыдущий" # global (undefined)
+
+"Search": "Поиск" # global (undefined)
+
+renew-instance:
+
+"Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
+
+"Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (undefined)
+
+"Home": "Дом" # global (undefined)
+
+"New license valid until": "Новая лицензия действительна до тех пор, пока" # global (undefined)
+
+"Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
+
+"Pay with paypal": "Оплатить через paypal" # global (undefined)
+
+"Renew instance": "Обновить экземпляр"
+
+"Settings": "Настройки" # global (undefined)
+
+"Submit payment to renew cloud license": "Отправить платеж для продления облачной лицензии"
+
+"bot": "Бот" # global (undefined)
+
+"we are using": "мы используем" # global (undefined)
+
+renew-license:
+
+"Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
+
+"Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (undefined)
+
+"Download": "Загрузка" # global (undefined)
+
+"New license valid until": "Новая лицензия действительна до тех пор, пока" # global (undefined)
+
+"Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
+
+"Pay with paypal": "Оплатить через paypal" # global (undefined)
+
+"Renew license": "Продлить Лицензию" # global (undefined)
+
+"Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (undefined)
+
+"Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (undefined)
+
+"Total": "Весь" # global (undefined)
+
+"bot": "Бот" # global (undefined)
+
+"disclaimer": "оговорка"
+
+"we are using": "мы используем" # global (undefined)
+
+reorder-bots:
+
+"Home": "Дом" # global (undefined)
+
+"Reorder bots": "Расставить порядок ботов" # global (undefined)
+
+settings.account:
+
+"Change my username": "Создать мое имя"
+
+"Change password": "Создать пароль"
+
+"Change username": "Создать имя"
+
+"Confirm new password": "Подтвердите новый пароль"
+
+"Delete account": "удалить аккаунт"
+
+"Delete your account": "Удалить свой аккаунт"
+
+"Lang": "Язык" # global (undefined)
+
+"New password": "Новый пароль" # global (undefined)
+
+"New username": "Новое имя" # global (undefined)
+
+"Old password": "старый пароль"
+
+"Root admin cannot delete his account": "Администратор Root не может удалить свою учетную запись"
+
+"Save": "Сохранить" # global (undefined)
+
+"Settings": "Настройки" # global (undefined)
+
+"Theme": "Тема" # global (undefined)
+
+"Update password": "Обновить пароль"
+
+settings.api:
+
+"API": "API" # global (undefined)
+
+"API key": "API ключ"
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+settings.gift-cards:
+
+"Gift cards": "Подарочная карта" # global (undefined)
+
+"No gift card to show": "Нет подарочной карты, чтобы показать"
+
+settings.index:
+
+"API": "API" # global (undefined)
+
+"Account": "Аккаунт" # global (undefined)
+
+"Gift cards": "Подарочная карта" # global (undefined)
+
+"Sessions": "Сессия"
+
+settings.sessions:
+
+"Are you sure?": "Вы Уверены?" # global (undefined)
+
+"Expires at": "Истекает в"
+
+"IP": "IP"
+
+"Revoke": "Отменять"
+
+"User agent": "Пользовательский агент"
+
+"Your current session": "Ваша текущая сессия"
+
+"on": "ВКЛ"
+
+signup:
+
+"Email": "Емайл" # global (undefined)
+
+"Note": "Запись" # global (undefined)
+
+"Password": "Пароль" # global (undefined)
+
+"Retype password": "Сбросить пароль" # global (undefined)
+
+"Sign up": "воити в ситему"
+
+"Username": "Имя" # global (undefined)
+
+"You will receive an email to validate your account": "Вы получите электронное письмо для подтверждения своей учетной записи"
+
+"meta-description": "метаописание" # global (undefined)
+
+"title": "заглавие" # global (undefined)
+
+socks5:
+
+"Arch": "Арка" # global (undefined)
+
+"Downloads": "Загрузки" # global (undefined)
+
+"File name": "Имя фаила" # global (undefined)
+
+"No files to display": "Нет флотов для отображения" # global (undefined)
+
+"OS": "ОС" # global (undefined)
+
+"SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
+
+"Size": "размер" # global (undefined)
+
+"Socks5 server": "Socks5 сервер"
+
+"meta-description": "метаописание" # global (undefined)
+
+"title": "заглавие" # global (undefined)
+
+support-new-ticket:
+
+"New ticket": "Новое обращение" # global (undefined)
+
+"Tickets": "Обращения" # global (undefined)
+
+support-ticket:
+
+"Tickets": "Обращения" # global (undefined)
+
+support:
+
+"New ticket": "Новое обращение" # global (undefined)
+
+ticketSupport.index:
+
+"Home": "Дом" # global (undefined)
+
+ticketSupport.new-invoice:
+
+"Bots": "Боты" # global (undefined)
+
+"Valid until": "Действителен до" # global (undefined)
+
+two-factor:
+
+"Backup the file in": "Сделайте резервную копию файла в"
+
+"Download ogame ninja binary for your OS": "Скачать ogame ninja бинарники для вашей ОС"
+
+"Generate a one-time password with": "Сгенерируйте одноразовый пароль с помощью"
+
+"If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": "Если вы хотите использовать двухфакторную аутентификацию в своей учетной записи gameforge без необходимости использовать проприетарное приложение, созданное компанией gameforge..."
+
+"In a terminal, execute": "В терминале выполните команду"
+
+"List all your 2fa with": "Перечислите все ваши 2fa с помощью"
+
+"Note": "запись" # global (undefined)
+
+"Two-Factor Authentication": "Двух-фактурная аунтификация"
+
+"You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": "Теперь вы можете использовать <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\в" rel=\"noopener noreferrer\" таргет=\"раздел настроек\">аутентификации Google</a> вместо приложение а Gameforge."
+
+"You can remove 2fa from your account with": "Вы можете удалить 2fa из своей учетной записи с помощью"
+
+"You don't need to be a customer to use the following tools.": "Вам не нужно быть клиентом, чтобы использовать следующие инструменты"
+
+"meta-description": "метаописание" # global (undefined)
+
+"or the output of": "или выход из него"
+
+"title": "Заглавие" # global (undefined)
+
+	•	Copy lines 
+	•	Copy permalink 
+	•	View git blame
+	•	Reference in new issue
+
+Go 
+	•	© 2020 GitHub, Inc.
+	•	Terms
+	•	Privacy
+	•	Security
+	•	Status
+	•	Help
+	•	Contact GitHub
+	•	Pricing
+	•	API
+	•	Training
+	•	Blog
+	•	About
+
+You can’t perform that action at this time. 
