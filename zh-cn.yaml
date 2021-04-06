@@ -696,7 +696,7 @@ bot.settings.defender:
   "Play sound when attacked": "受攻击时播放音效"
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡觉时间返回则不要派出"
-  "Probe new attackers": "探险新的攻击者"
+  "Probe new attackers": "探查新的攻击者"
   "Origin": "出發地"
   "Randomize moon that checks for activity": "随机选择月球以检查活动"
   "Randomize planet/moon that checks for activity": "随机选择行星/月球以检查活动"
@@ -772,7 +772,7 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "名称" # global (undefined)
-  "Never wait (100% getting ban)": "不要等 (百分百被会抓)"
+  "Never wait (100% getting ban)": "不要等 (高概率会被抓)"
   "No fleets": "没有舰队" # global (undefined)
   "Number to send": "派出数量"
   "Origin": "出發地" # global (undefined)

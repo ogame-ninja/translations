@@ -696,7 +696,7 @@ bot.settings.defender:
   "Play sound when attacked": "受攻擊時播放音效"
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡覺時間返回則不要派出"
-  "Probe new attackers": "探險新的攻擊者"
+  "Probe new attackers": "探查新的攻擊者"
   "Origin": "出發地"
   "Randomize moon that checks for activity": "隨機選擇月球以檢查活動"
   "Randomize planet/moon that checks for activity": "隨機選擇行星/月球以檢查活動"
@@ -772,7 +772,7 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "名稱" # global (undefined)
-  "Never wait (100% getting ban)": "不要等 (百分百被會抓)"
+  "Never wait (100% getting ban)": "不要等 (高概率會被抓)"
   "No fleets": "沒有艦隊" # global (undefined)
   "Number to send": "派出數量"
   "Origin": "出發地" # global (undefined)
@@ -936,7 +936,7 @@ bot.settings.logs:
   "Audit": "檢查"
   "Brain": "大腦(建設)" # global (undefined)
   "Category": "分類" # global (undefined)
-  "Crawler": "爬虫(抓取资料)" # global (undefined)
+  "Crawler": "爬蟲(抓取資料)" # global (undefined)
   "Created at": "創建於" # global (undefined)
   "Defender": "防禦者" # global (undefined)
   "Download logs": "下載紀錄"
