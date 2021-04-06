@@ -861,7 +861,7 @@ bot.settings.home:
   "Attack type": "攻擊種類"
   "Attacker": "攻擊者" # global (undefined)
   "Brain activities": "大腦(建設)活動"
-  "Cancel evacuation": "取消徹離艦隊"
+  "Cancel evacuation": "取消撤離艦隊"
   "Check attacks": "檢查攻擊"
   "Countdowns": "倒計時"
   "Defender": "" # global (undefined)
@@ -874,12 +874,12 @@ bot.settings.home:
   "General info": "一般資訊"
   "Hotkeys": "熱鍵"
   "Hunter": "" # global (undefined)
-  "No evacuations": "無徹離艦隊"
+  "No evacuations": "無撤離艦隊"
   "No plans": "無計劃"
   "Proxy": "代理伺服器"
   "Repatriate": "集中資源" # global (undefined)
   "Repatriate now": "現在集中資源"
-  "Reschedule evacuation": "重新安排徹離"
+  "Reschedule evacuation": "重新安排撤離"
   "Research speed": "研究速度"
   "Ships": "船"
   "Times": ""
