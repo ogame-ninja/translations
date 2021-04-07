@@ -105,6 +105,7 @@ global:
   "Recycle debris field": "回收廢墟"
   "Recycler": "回收船"
   "Register": "註冊"
+  "Research": "研究"
   "Research Lab": "研究實驗室"
   "Research Network": "研究網路"
   "Robotics Factory": "機器人工廠"
@@ -528,7 +529,7 @@ bot.planet:
   "Queue tear down": "於排程中加入拆毀"
   "Rapidfire against": ""
   "Rapidfire from": ""
-  "Research": ""
+  "Research": "研究"
   "Shield power": ""
   "Shipyard": "" # global (undefined)
   "Speed": "速度"
@@ -670,7 +671,7 @@ bot.settings.debug:
   "Save": "" # global (undefined)
 bot.settings.defender:
   "--- Bot decision ---": "--- 機器人決定 ---"
-  "2-steps (planets then moons)": "兩階段 (先到行星再到月球)"
+  "2-steps (planets then moons)": "兩階段 (先行星再月球)"
   "Active": "啟用"
   "Always": "常開"
   "Build ABM on missiles attack detected": "受導彈攻擊時造反彈道導彈"
@@ -695,7 +696,7 @@ bot.settings.defender:
   "Play sound when attacked": "受攻擊時播放音效"
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡覺時間返回則不要派出"
-  "Probe new attackers": "探險新的攻擊者"
+  "Probe new attackers": "探查新的攻擊者"
   "Origin": "出發地"
   "Randomize moon that checks for activity": "隨機選擇月球以檢查活動"
   "Randomize planet/moon that checks for activity": "隨機選擇行星/月球以檢查活動"
@@ -771,7 +772,7 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "名稱" # global (undefined)
-  "Never wait (100% getting ban)": "不要等 (百分百被會抓)"
+  "Never wait (100% getting ban)": "不要等 (高概率會被抓)"
   "No fleets": "沒有艦隊" # global (undefined)
   "Number to send": "派出數量"
   "Origin": "出發地" # global (undefined)
@@ -861,7 +862,7 @@ bot.settings.home:
   "Attack type": "攻擊種類"
   "Attacker": "攻擊者" # global (undefined)
   "Brain activities": "大腦(建設)活動"
-  "Cancel evacuation": "取消徹離艦隊"
+  "Cancel evacuation": "取消撤離艦隊"
   "Check attacks": "檢查攻擊"
   "Countdowns": "倒計時"
   "Defender": "" # global (undefined)
@@ -874,12 +875,12 @@ bot.settings.home:
   "General info": "一般資訊"
   "Hotkeys": "熱鍵"
   "Hunter": "" # global (undefined)
-  "No evacuations": "無徹離艦隊"
+  "No evacuations": "無撤離艦隊"
   "No plans": "無計劃"
   "Proxy": "代理伺服器"
   "Repatriate": "集中資源" # global (undefined)
   "Repatriate now": "現在集中資源"
-  "Reschedule evacuation": "重新安排徹離"
+  "Reschedule evacuation": "重新安排撤離"
   "Research speed": "研究速度"
   "Ships": "船"
   "Times": ""
@@ -932,10 +933,10 @@ bot.settings.index:
   "Stop": "停止" # global (undefined)
 bot.settings.logs:
   "All": "全部" # global (undefined)
-  "Audit": "拍賣"
+  "Audit": "檢查"
   "Brain": "大腦(建設)" # global (undefined)
   "Category": "分類" # global (undefined)
-  "Crawler": "爬虫(抓取资料)" # global (undefined)
+  "Crawler": "爬蟲(抓取資料)" # global (undefined)
   "Created at": "創建於" # global (undefined)
   "Defender": "防禦者" # global (undefined)
   "Download logs": "下載紀錄"

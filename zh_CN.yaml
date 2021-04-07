@@ -105,6 +105,7 @@ global:
   "Recycle debris field": "回收废墟"
   "Recycler": "回收船"
   "Register": "註册"
+  "Research": "研究"
   "Research Lab": "研究实验室"
   "Research Network": "研究网路"
   "Robotics Factory": "机器人工厂"
@@ -670,7 +671,7 @@ bot.settings.debug:
   "Save": "" # global (undefined)
 bot.settings.defender:
   "--- Bot decision ---": "--- 机器人决定 ---"
-  "2-steps (planets then moons)": "两阶段 (先到行星再到月球)"
+  "2-steps (planets then moons)": "两阶段 (先行星再月球)"
   "Active": "启用"
   "Always": "常开"
   "Build ABM on missiles attack detected": "受导弹攻击时造反弹道导弹"
@@ -695,7 +696,7 @@ bot.settings.defender:
   "Play sound when attacked": "受攻击时播放音效"
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡觉时间返回则不要派出"
-  "Probe new attackers": "探险新的攻击者"
+  "Probe new attackers": "探查新的攻击者"
   "Origin": "出發地"
   "Randomize moon that checks for activity": "随机选择月球以检查活动"
   "Randomize planet/moon that checks for activity": "随机选择行星/月球以检查活动"
@@ -771,7 +772,7 @@ bot.settings.expeditions:
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Name": "名称" # global (undefined)
-  "Never wait (100% getting ban)": "不要等 (百分百被会抓)"
+  "Never wait (100% getting ban)": "不要等 (高概率会被抓)"
   "No fleets": "没有舰队" # global (undefined)
   "Number to send": "派出数量"
   "Origin": "出發地" # global (undefined)
@@ -861,7 +862,7 @@ bot.settings.home:
   "Attack type": "攻击种类"
   "Attacker": "攻击者" # global (undefined)
   "Brain activities": "大脑(建设)活动"
-  "Cancel evacuation": "取消彻离舰队"
+  "Cancel evacuation": "取消撤离舰队"
   "Check attacks": "检查攻击"
   "Countdowns": "倒计时"
   "Defender": "" # global (undefined)
@@ -874,12 +875,12 @@ bot.settings.home:
   "General info": "一般资讯"
   "Hotkeys": "热键"
   "Hunter": "" # global (undefined)
-  "No evacuations": "无彻离舰队"
+  "No evacuations": "无撤离舰队"
   "No plans": "无计划"
   "Proxy": "代理伺服器"
   "Repatriate": "集中资源" # global (undefined)
   "Repatriate now": "现在集中资源"
-  "Reschedule evacuation": "重新安排彻离"
+  "Reschedule evacuation": "重新安排撤离"
   "Research speed": "研究速度"
   "Ships": "船"
   "Times": ""
@@ -932,7 +933,7 @@ bot.settings.index:
   "Stop": "停止" # global (undefined)
 bot.settings.logs:
   "All": "全部" # global (undefined)
-  "Audit": "拍卖"
+  "Audit": "检查"
   "Brain": "大脑(建设)" # global (undefined)
   "Category": "分类" # global (undefined)
   "Crawler": "爬虫(抓取资料)" # global (undefined)
