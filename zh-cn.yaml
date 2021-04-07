@@ -671,7 +671,7 @@ bot.settings.debug:
   "Save": "" # global (undefined)
 bot.settings.defender:
   "--- Bot decision ---": "--- 机器人决定 ---"
-  "2-steps (planets then moons)": "两阶段 (先到行星再到月球)"
+  "2-steps (planets then moons)": "两阶段 (先行星再月球)"
   "Active": "启用"
   "Always": "常开"
   "Build ABM on missiles attack detected": "受导弹攻击时造反弹道导弹"
