@@ -1,4 +1,6 @@
 global:
+admin.bots:
+  "Are you sure?": "" # global (undefined)
 admin.index:
   "Bots": "" # global (undefined)
   "License": "" # global (undefined)
@@ -16,11 +18,16 @@ admin.license:
   "License": "" # global (undefined)
   "Owner": "" # global (undefined)
   "UUID": "" # global (undefined)
+  "Upload": "" # global (undefined)
+  "Upload file": ""
   "unlimited": "" # global (undefined)
 admin.login-history:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
 admin.masterAdmin.audits:
+  "Next": "" # global (undefined)
+  "Prev": "" # global (undefined)
+admin.masterAdmin.captcha:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
 admin.masterAdmin.downloads:
@@ -35,6 +42,20 @@ admin.masterAdmin.invoices:
 admin.masterAdmin.license:
   "Save": "" # global (undefined)
 admin.masterAdmin.licenses:
+  "Next": "" # global (undefined)
+  "Prev": "" # global (undefined)
+admin.masterAdmin.lum-zone-edit:
+  "Create zone": ""
+  "Nb gIP": ""
+  "Update zone": ""
+  "User ID": ""
+admin.masterAdmin.lum-zone:
+  "Next": "" # global (undefined)
+  "Prev": "" # global (undefined)
+admin.masterAdmin.lum-zones:
+  "Next": "" # global (undefined)
+  "Prev": "" # global (undefined)
+admin.masterAdmin.machines:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
 admin.masterAdmin.new-invoice:
@@ -92,7 +113,7 @@ admin.themes:
   "Themes": "" # global (undefined)
 admin.update:
   "Update": "" # global (undefined)
-  "Update to latest": ""
+  "Update to latest": "" # global (undefined)
 admin.updating:
   "You will be redirected soon": ""
 admin.user-edit:
@@ -127,20 +148,43 @@ bot.browser:
   "Empire page": ""
   "Fullscreen": ""
   "Toggle manual mode": ""
+bot.captcha:
+  "Captcha": "" # global (undefined)
+  "Submit": ""
 bot.conqueror:
   "Get spy reports": "" # global (undefined)
   "No espionage report to show": ""
 bot.empire:
+  "Academy Of Sciences": ""
+  "Acoustic Scanning": ""
   "Actions": "" # global (undefined)
+  "Advanced Recycling Plant": ""
+  "All": "" # global (undefined)
   "Alliance Depot": "" # global (undefined)
   "Anti-Ballistic Missiles": "" # global (undefined)
+  "Antimatter Condenser": ""
+  "Antimatter Convector": ""
   "Are you sure?": "" # global (undefined)
   "Armour Technology": "" # global (undefined)
+  "Artificial Swarm Intelligence": ""
+  "Assembly Line": ""
   "Astrophysics": "" # global (undefined)
+  "Automated Transport Lines": ""
+  "Automatised Assembly Centre": ""
   "Battlecruiser": "" # global (undefined)
+  "Battlecruiser MkII": ""
   "Battleship": "" # global (undefined)
+  "Bio Modifier": ""
+  "Biosphere Farm": ""
+  "BiotechLab": ""
   "Bomber": "" # global (undefined)
+  "Bomber MkII": ""
+  "Cargo Hold Expansion Civilian Ships": ""
+  "Catalyser Technology": ""
+  "Chip Mass Production": ""
+  "Chrysalis Accelerator": ""
   "Clear all construction queues": ""
+  "Cloning Laboratory": ""
   "Colony Ship": "" # global (undefined)
   "Combustion Drive": "" # global (undefined)
   "Computer Technology": "" # global (undefined)
@@ -148,62 +192,169 @@ bot.empire:
   "Crawler": "" # global (undefined)
   "Crawler setting": ""
   "Cruiser": "" # global (undefined)
+  "Cruiser MkII": ""
   "Crystal": "" # global (undefined)
+  "Crystal Farm": ""
   "Crystal Mine": "" # global (undefined)
+  "Crystal Refinery": ""
   "Crystal Storage": "" # global (undefined)
   "Crystal setting": ""
   "Deathstar": "" # global (undefined)
+  "Defenses": ""
+  "Depot AI": ""
+  "Depth Sounding": ""
   "Destroyer": "" # global (undefined)
+  "Destroyer MkII": ""
   "Deut synt setting": ""
   "Deuterium": "" # global (undefined)
+  "Deuterium Synthesiser": ""
   "Deuterium Synthesizer": "" # global (undefined)
   "Deuterium Tank": "" # global (undefined)
+  "Diamond Energy Transmitter": ""
+  "Disruption Chamber": ""
+  "Efficiency Module": ""
+  "Efficient Swarm Intelligence": ""
   "Energy": ""
   "Energy Technology": "" # global (undefined)
+  "Enhanced Production Technologies": ""
+  "Enhanced Sensor Technology": ""
   "Espionage Probe": "" # global (undefined)
   "Espionage Technology": "" # global (undefined)
+  "Experimental Recycling Technology": ""
+  "Experimental Weapons Technology": ""
+  "Facilities": ""
   "Fields": ""
+  "Food Silo": ""
+  "Forum Of Transcendence": ""
+  "Fusion Cell Factory": ""
+  "Fusion Drives": ""
+  "Fusion Powered Production": ""
   "Fusion Reactor": "" # global (undefined)
   "Fusion reactor setting": ""
   "Gauss Cannon": "" # global (undefined)
+  "General Overhaul Battlecruiser": ""
+  "General Overhaul Battleship": ""
+  "General Overhaul Bomber": ""
+  "General Overhaul Cruiser": ""
+  "General Overhaul Destroyer": ""
+  "General Overhaul Light Fighter": ""
+  "Geothermal Power Plants": ""
+  "Gravitation Sensors": ""
   "Graviton Technology": "" # global (undefined)
+  "Halls Of Realisation": ""
+  "Hardened Diamond Drill Heads": ""
+  "Heat Recovery": ""
   "Heavy Fighter": "" # global (undefined)
   "Heavy Laser": "" # global (undefined)
+  "High Energy Pump Systems": ""
+  "High Energy Smelting": ""
+  "High Performance Extractors": ""
+  "High Performance Synthesiser": ""
+  "High Performance Terraformer": ""
+  "High Performance Transformer": ""
+  "High Temperature Superconductors": ""
   "Honour points": ""
+  "Humans buildings": ""
+  "Humans researches": ""
   "Hyperspace Drive": "" # global (undefined)
   "Hyperspace Technology": "" # global (undefined)
+  "Improved Drone AI": ""
+  "Improved Lab Technology": ""
+  "Improved Stellarator": ""
   "Impulse Drive": "" # global (undefined)
+  "Intergalactic Envoys": ""
   "Intergalactic Research Network": ""
+  "Interplanetary Analysis Network": ""
   "Interplanetary Missiles": "" # global (undefined)
   "Ion Cannon": "" # global (undefined)
+  "Ion Crystal Enhancement Heavy Fighter": ""
+  "Ion Crystal Modules": ""
   "Ion Technology": "" # global (undefined)
   "Jump Gate": "" # global (undefined)
+  "Kaelesh Discoverer Enhancement": ""
+  "Kaelesh buildings": ""
+  "Kaelesh researches": ""
   "Large Cargo": "" # global (undefined)
   "Large Shield Dome": "" # global (undefined)
   "Laser Technology": "" # global (undefined)
   "Light Fighter": "" # global (undefined)
+  "Light Fighter MkII": ""
   "Light Laser": "" # global (undefined)
+  "Low Temperature Drives": ""
   "Lunar Base": "" # global (undefined)
+  "Magma Forge": ""
+  "Magma Powered Production": ""
+  "Magma Powered PumpSystems": ""
+  "MechanGeneral Enhancement": ""
+  "Mechas buildings": ""
+  "Mechas researches": ""
+  "Meditation Enclave": ""
+  "Megalith": ""
   "Metal": "" # global (undefined)
   "Metal Mine": "" # global (undefined)
   "Metal Storage": "" # global (undefined)
   "Metal setting": ""
+  "Metropolis": ""
+  "Microchip Assembly Line": ""
+  "Mineral Research Centre": ""
   "Missile Silo": "" # global (undefined)
+  "Moons": ""
   "Nanite Factory": "" # global (undefined)
+  "Nano Repair Bots": ""
+  "Neuro Calibration Centre": ""
+  "Neuro Interface": ""
+  "Neuromodal Compressor": ""
+  "Obsidian Shield Reinforcement": ""
+  "Optimised Silo Construction Method": ""
+  "Orbital Den": ""
+  "Oriktorium": ""
+  "Overclocking Battleship": ""
+  "Overclocking Heavy Fighter": ""
+  "Overclocking Large Cargo": ""
   "Pathfinder": "" # global (undefined)
+  "Planetary Shield": ""
+  "Planets": ""
+  "Plasma Drive": ""
   "Plasma Technology": "" # global (undefined)
+  "Plasma Terraformer": ""
   "Plasma Turret": "" # global (undefined)
   "Points": "" # global (undefined)
+  "Production Assembly Hall": ""
+  "Psionic Modulator": ""
+  "Psionic Network": ""
+  "Psionic Shield Matrix": ""
+  "Psychoharmoniser": ""
+  "Quantum Computer Centre": ""
   "Rank": "" # global (undefined)
   "Reaper": "" # global (undefined)
   "Recycler": "" # global (undefined)
   "Reorder planets": "" # global (undefined)
+  "Research AI": ""
+  "Research Centre": ""
   "Research Lab": "" # global (undefined)
+  "Residential Sector": ""
+  "Resources": "" # global (undefined)
+  "Robot Assistants": ""
   "Robotics Factory": "" # global (undefined)
+  "Robotics Research Centre": ""
   "Rocket Launcher": "" # global (undefined)
+  "Rocktal Collector Enhancement": ""
+  "Rocktal buildings": ""
+  "Rocktal researches": ""
+  "Rune Forge": ""
+  "Rune Shields": ""
+  "Rune Technologium": ""
+  "Sanctuary": ""
+  "Seismic Mining Technology": ""
   "Sensor Phalanx": "" # global (undefined)
+  "Settings": "" # global (undefined)
   "Shielding Technology": "" # global (undefined)
+  "Ship Manufacturing Hall": ""
+  "Ships": "" # global (undefined)
   "Shipyard": "" # global (undefined)
+  "Sixth Sense": ""
+  "Skyscraper": ""
+  "Slingshot Autopilot": ""
   "Small Cargo": "" # global (undefined)
   "Small Shield Dome": "" # global (undefined)
   "Solar Plant": "" # global (undefined)
@@ -211,8 +362,18 @@ bot.empire:
   "Solar plant setting": ""
   "Solar sat setting": ""
   "Space Dock": "" # global (undefined)
+  "Stealth Field Generator": ""
+  "Sulphide Process": ""
+  "Supercomputer": ""
+  "Supplies": ""
+  "Supra Refractor": ""
+  "Telekinetic Drive": ""
+  "Telekinetic Tractor Beam": ""
   "Terraformer": "" # global (undefined)
+  "Update Network": ""
   "Updated at": ""
+  "Volcanic Batteries": ""
+  "Vortex Chamber": ""
   "Weapons Technology": "" # global (undefined)
 bot.flights:
   "Actions": "" # global (undefined)
@@ -258,6 +419,7 @@ bot.flights:
   "Grouped Attack": "" # global (undefined)
   "Harvest": "" # global (undefined)
   "Heavy Fighter": "" # global (undefined)
+  "Homeworld": "" # global (undefined)
   "Jump gate": ""
   "LC": ""
   "Large Cargo": "" # global (undefined)
@@ -278,6 +440,7 @@ bot.flights:
   "Park In That Ally": "" # global (undefined)
   "Pathfinder": "" # global (undefined)
   "Planet": "" # global (undefined)
+  "R": ""
   "Reaper": "" # global (undefined)
   "Recycle debris field": ""
   "Recycler": "" # global (undefined)
@@ -289,6 +452,7 @@ bot.flights:
   "Schedule": ""
   "Schedule fleet": ""
   "Scheduled flights": ""
+  "Search for lifeforms": ""
   "Select origin": "" # global (undefined)
   "Send all resources": "" # global (undefined)
   "Send fleet": ""
@@ -306,6 +470,7 @@ bot.flights:
   "speed": ""
   "to": "" # global (undefined)
 bot.flightsEdit:
+  "Homeworld": "" # global (undefined)
   "Send all resources": "" # global (undefined)
   "Send all ships": ""
 bot.galaxy.index:
@@ -322,6 +487,7 @@ bot.galaxy.player:
   "Alliance": "" # global (undefined)
   "Coords": "" # global (undefined)
   "Crystal": "" # global (undefined)
+  "Deuterium": "" # global (undefined)
   "Espionage": "" # global (undefined)
   "Espionage report": "" # global (undefined)
   "Galaxy": "" # global (undefined)
@@ -342,6 +508,7 @@ bot.galaxy.table:
   "Coords": "" # global (undefined)
   "Crystal": "" # global (undefined)
   "Debris top 100": ""
+  "Deuterium": "" # global (undefined)
   "Espionage": "" # global (undefined)
   "Espionage report": "" # global (undefined)
   "Get spy reports": "" # global (undefined)
@@ -379,6 +546,11 @@ bot.planet:
   "Current planet": ""
   "Fuel consumption": "" # global (undefined)
   "Import resources & build": ""
+  "Is Collector": ""
+  "Is Discoverer": ""
+  "Is General": ""
+  "Lifeform buildings": ""
+  "Lifeform researches": ""
   "Main planet": ""
   "Price": ""
   "Queue": "" # global (undefined)
@@ -388,7 +560,7 @@ bot.planet:
   "Research": ""
   "Shield power": ""
   "Shipyard": "" # global (undefined)
-  "Speed": ""
+  "Speed": "" # global (undefined)
   "Structural integrity": ""
   "Sum": ""
   "Weapon power": ""
@@ -397,6 +569,7 @@ bot.reorderPlanets:
   "Empire": "" # global (undefined)
   "Reorder planets": "" # global (undefined)
 bot.report:
+  "Alliance Class": ""
   "Alliance Depot": "" # global (undefined)
   "Anti-Ballistic Missiles": "" # global (undefined)
   "Armour Technology": "" # global (undefined)
@@ -404,6 +577,7 @@ bot.report:
   "Battlecruiser": "" # global (undefined)
   "Battleship": "" # global (undefined)
   "Bomber": "" # global (undefined)
+  "Character Class": ""
   "Colony Ship": "" # global (undefined)
   "Combustion Drive": "" # global (undefined)
   "Computer Technology": "" # global (undefined)
@@ -464,64 +638,68 @@ bot.scripts:
   "Run": ""
   "Run at start": "" # global (undefined)
   "Stop": "" # global (undefined)
-  "Upload compiled script (.nja)": ""
-  "Upload scripts (.tar)": ""
+  "Upload scripts": ""
   "Validate Script": ""
 bot.settings.activities:
   "Created at": "" # global (undefined)
   "Destination": "" # global (undefined)
   "Fleet log": ""
+  "Logins": ""
   "Mission": "" # global (undefined)
   "Next": "" # global (undefined)
   "No fleet in the log": ""
   "Origin": "" # global (undefined)
   "Prev": "" # global (undefined)
+  "Sent fleets": ""
+bot.settings.auctioneer:
+  "--- Select a planet/moon ---": ""
+  "Auctioneer active": ""
+  "Auctioneer configs": ""
+  "Bid from": ""
+  "Crystal": "" # global (undefined)
+  "Deuterium": "" # global (undefined)
+  "Highest bid value": ""
+  "Homeworld": "" # global (undefined)
+  "Metal": "" # global (undefined)
+  "Save": "" # global (undefined)
 bot.settings.brain:
   "AI": ""
-  "AI configs": ""
+  "Batch update": ""
   "Brain active": ""
   "Brain configs": ""
-  "Build fusion reactor up to": ""
+  "Build fusion reactor": ""
   "Build jump gate": ""
+  "Build lifeform buildings": ""
+  "Build lifeform researches": ""
   "Build solar satellites": ""
-  "Crystal mine": ""
-  "Crystal storage": ""
+  "Buildings": ""
   "Delay after exporting resources": ""
-  "Deuterium synthesizer": ""
-  "Deuterium tank": ""
   "Export within same galaxy only": ""
   "Exporter?": ""
-  "Fusion reactor": ""
+  "Humans": ""
   "Importer?": ""
-  "Max crystal mine level to build": ""
-  "Max crystal storage level to build": ""
-  "Max deut synth level to build": ""
-  "Max deuterium tank level to build": ""
-  "Max metal mine level to build": ""
-  "Max metal storage level to build": ""
-  "Max missile silo level to build": ""
-  "Max nanite factory level to build": ""
-  "Max research lab level to build": ""
-  "Max robotics factory level to build": ""
-  "Max sensor phalanx level to build": ""
-  "Max shipyard level to build": ""
-  "Max solar plant level to build": ""
-  "Metal mine": ""
-  "Metal storage": ""
-  "Missile silo": ""
-  "Moon": "" # global (undefined)
-  "Nanite factory": ""
+  "Individual": ""
+  "Kaelesh": ""
+  "Mechas": ""
   "None": "" # global (undefined)
   "Planet": "" # global (undefined)
   "Prevent importing if come back during sleep time": ""
   "Queue": "" # global (undefined)
-  "Research lab": ""
-  "Robotics factory": ""
+  "Rocktal": ""
   "Save": "" # global (undefined)
-  "Sensor phalanx": ""
-  "Shipyard": "" # global (undefined)
-  "Solar plant": ""
+  "Set all moons": ""
+  "Set all planets": ""
+  "Try to buy 'offer of the day' every 4h": ""
+  "reset form": ""
   "to": "" # global (undefined)
+bot.settings.colonizer:
+  "--- Currently active planet/moon ---": "" # global (undefined)
+  "Colonize using": ""
+  "Colonizer configs": ""
+  "Minimum fields": ""
+  "Minimum temperature": ""
+  "Save": "" # global (undefined)
+  "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
   "Save": "" # global (undefined)
@@ -566,6 +744,7 @@ bot.settings.defender:
   "to": "" # global (undefined)
 bot.settings.expeditionMessages:
   "Actions": "" # global (undefined)
+  "All": "" # global (undefined)
   "Category": "" # global (undefined)
   "Coordinate": "" # global (undefined)
   "Espionage report": "" # global (undefined)
@@ -578,6 +757,18 @@ bot.settings.expeditionMessages:
   "No messages to show": "" # global (undefined)
   "Prev": "" # global (undefined)
   "Re-process existing messages": ""
+  "alien": ""
+  "delay": ""
+  "dm": ""
+  "expedition loss": ""
+  "fleet": ""
+  "item": ""
+  "merchant": ""
+  "nothing": ""
+  "pirate": ""
+  "resource": ""
+  "speedup": ""
+  "unknown": ""
 bot.settings.expeditions:
   "Actions": "" # global (undefined)
   "Active": "" # global (undefined)
@@ -610,6 +801,7 @@ bot.settings.expeditions:
   "Grouped Attack": "" # global (undefined)
   "Harvest": "" # global (undefined)
   "Heavy Fighter": "" # global (undefined)
+  "Homeworld": "" # global (undefined)
   "Ignore min deut": ""
   "LC that will not be send with auto-split": ""
   "Large Cargo": "" # global (undefined)
@@ -706,6 +898,9 @@ bot.settings.farmerIgnoredPlanets:
 bot.settings.farmerIgnoredPlayers:
   "Are you sure?": "" # global (undefined)
   "Remove all": "" # global (undefined)
+bot.settings.farmerSession:
+  "Attack target with preferred cargo ships": ""
+  "Attack target with spy probes": ""
 bot.settings.home:
   "Actions": "" # global (undefined)
   "Are you sure?": "" # global (undefined)
@@ -731,13 +926,17 @@ bot.settings.home:
   "Repatriate now": ""
   "Reschedule evacuation": ""
   "Research speed": ""
-  "Ships": ""
+  "Ships": "" # global (undefined)
   "Times": ""
   "Universe": "" # global (undefined)
   "Universe speed": ""
   "Universe speed fleet": ""
   "What is my IP?": ""
   "scanner": "" # global (undefined)
+bot.settings.hotkeys:
+  "General": "" # global (undefined)
+  "Hotkeys": "" # global (undefined)
+  "Notifications": "" # global (undefined)
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
   "Color legend": ""
@@ -766,7 +965,9 @@ bot.settings.hunter:
   "next in": "" # global (undefined)
 bot.settings.index:
   "Activities": "" # global (undefined)
+  "Auctioneer": ""
   "Brain": "" # global (undefined)
+  "Colonizer": ""
   "Defender": "" # global (undefined)
   "Expeditions": "" # global (undefined)
   "Farmer": "" # global (undefined)
@@ -789,7 +990,9 @@ bot.settings.logs:
   "Created at": "" # global (undefined)
   "Defender": "" # global (undefined)
   "Download logs": ""
+  "Expeditions": "" # global (undefined)
   "Farmer": "" # global (undefined)
+  "Fleet save": ""
   "General": "" # global (undefined)
   "Hunter": "" # global (undefined)
   "Level": ""
@@ -799,7 +1002,6 @@ bot.settings.logs:
   "Phalanx": "" # global (undefined)
   "Prev": "" # global (undefined)
   "Repatriate": "" # global (undefined)
-  "Search": "" # global (undefined)
   "VM": ""
   "scanner": "" # global (undefined)
 bot.settings.messages:
@@ -816,11 +1018,13 @@ bot.settings.messages:
   "Next": "" # global (undefined)
   "No messages to show": "" # global (undefined)
   "Prev": "" # global (undefined)
-  "Resources": ""
+  "Resources": "" # global (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": ""
   "Bot goes to sleep mode": ""
   "Defender": "" # global (undefined)
+  "Discord": ""
+  "Discord webhook for notifications": ""
   "Email": "" # global (undefined)
   "Email for notifications": ""
   "Evacuation fails": ""
@@ -834,11 +1038,13 @@ bot.settings.notifications:
   "Forward ingame chat from players": ""
   "General": "" # global (undefined)
   "Global": ""
+  "Hotkeys": "" # global (undefined)
   "Hunter": "" # global (undefined)
   "Login fails": ""
   "New attack detected": ""
   "New missiles attack detected": ""
   "Notifications": "" # global (undefined)
+  "Recall of fleets": ""
   "Save": "" # global (undefined)
   "Slack": ""
   "Slack username for notifications": ""
@@ -854,16 +1060,43 @@ bot.settings.phalanx:
   "Phalanx": "" # global (undefined)
   "Start": "" # global (undefined)
 bot.settings.phalanxSession:
-  "Created at": "" # global (undefined)
-  "Data": ""
+  "Arrival time": ""
+  "Attack": "" # global (undefined)
+  "Click on a fleet to get timing details": ""
+  "Collector": ""
+  "Colonize": "" # global (undefined)
+  "Combustion drive": ""
+  "Destination": "" # global (undefined)
+  "Destroy": "" # global (undefined)
+  "Discoverer": ""
+  "Expedition": "" # global (undefined)
+  "General": "" # global (undefined)
+  "Grouped Attack": "" # global (undefined)
+  "Harvest": "" # global (undefined)
+  "Hyperspace drive": ""
+  "Impulse drive": ""
+  "Missile Attack": "" # global (undefined)
+  "Mission": "" # global (undefined)
   "Next": "" # global (undefined)
+  "No class": ""
   "No fleets": "" # global (undefined)
-  "No reports to display": ""
+  "Origin": "" # global (undefined)
+  "Park": "" # global (undefined)
+  "Park In That Ally": "" # global (undefined)
   "Phalanx": "" # global (undefined)
   "Phalanx session": ""
   "Prev": "" # global (undefined)
+  "Recall back at": ""
+  "Recall time": ""
+  "Scheduled arrive time": ""
   "Session aborted": ""
+  "Ships": "" # global (undefined)
+  "Speed": "" # global (undefined)
+  "Spy": "" # global (undefined)
+  "Started at": ""
   "Stop": "" # global (undefined)
+  "Target information": ""
+  "Transport": "" # global (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "" # global (undefined)
   "Interval between system scan": ""
@@ -882,8 +1115,10 @@ bot.settings.settings:
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": ""
   "Are you sure?": "" # global (undefined)
   "Auto enable manual mode when using browser": ""
+  "Backup this bot": ""
   "Bot timezone": ""
   "Browser augments": ""
+  "Captcha": "" # global (undefined)
   "Change ogame credentials": ""
   "Change proxy": ""
   "Commander UI": ""
@@ -900,12 +1135,15 @@ bot.settings.settings:
   "Enable RecursosAmpliados": ""
   "Enable TopRaider": ""
   "Enable browser augments": ""
+  "Enable galaxy browser augments": ""
   "Enter your password": ""
   "Espionage probe": ""
+  "Gameforge bearer token": ""
   "General": "" # global (undefined)
   "General options": ""
-  "Homeworld": ""
+  "Homeworld": "" # global (undefined)
   "Host machine Timezone": ""
+  "Hotkeys": "" # global (undefined)
   "Large cargo": ""
   "Max brain slots": ""
   "Max expeditions slots": ""
@@ -915,7 +1153,12 @@ bot.settings.settings:
   "Name": "" # global (undefined)
   "Notifications": "" # global (undefined)
   "OGT (OGame Timezone)": ""
+  "OTP secret": "" # global (undefined)
+  "Ogame password": ""
+  "Ogame universe": ""
+  "Ogame username": ""
   "Pathfinder": "" # global (undefined)
+  "Player ID": "" # global (undefined)
   "Preferred transport ships": ""
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
@@ -930,6 +1173,7 @@ bot.settings.settings:
   "Show credentials": ""
   "Slots reserved for player": ""
   "Small cargo": ""
+  "Solve captcha": ""
   "Sort planets in dropdowns by": ""
   "Theme": "" # global (undefined)
   "UTC+00:00": ""
@@ -971,7 +1215,9 @@ bot.settings.settings:
   "UTC-12:00": ""
   "User-Agent": ""
   "Username": "" # global (undefined)
-  "proxy login requests only": ""
+  "Validate": ""
+  "Validate account": ""
+  "proxy login requests only": "" # global (undefined)
 bot.settings.sleepMode:
   "--- Select a destination ---": ""
   "Active": "" # global (undefined)
@@ -979,25 +1225,28 @@ bot.settings.sleepMode:
   "Awake bot now": ""
   "Destination": "" # global (undefined)
   "Every day": ""
+  "Expedition": "" # global (undefined)
   "Friday": ""
   "Manual fleet save": ""
   "Monday": ""
   "Own debris field": ""
   "Planet": "" # global (undefined)
   "Put bot to sleep now": ""
-  "Random colonize mission": ""
+  "Random colonize": ""
   "Random debris field": ""
   "Random delay before going to sleep (minutes)": ""
   "Saturday": ""
   "Save": "" # global (undefined)
   "Sleep Mode": "" # global (undefined)
+  "Spy deep space (position 16)": ""
   "Sunday": ""
   "Thursday": ""
   "Tuesday": ""
   "Wake up at": ""
   "Wednesday": ""
   "automatic fleet save (experimental)": ""
-  "manual trigger": ""
+  "manual trigger fleet save": ""
+  "must save changes first": ""
 bot.simulator:
   "ACS planner": ""
   "API": "" # global (undefined)
@@ -1082,9 +1331,30 @@ bot-card:
   "Start": "" # global (undefined)
   "Stop": "" # global (undefined)
   "Universe": "" # global (undefined)
+captchas-icon:
+  "Captchas": "" # global (undefined)
+  "Discover": ""
+  "Save": "" # global (undefined)
+captchas-icons:
+  "Icons": ""
+  "Next": "" # global (undefined)
+  "Prev": "" # global (undefined)
+captchas-service:
+  "Service": ""
+captchas:
+  "Next": "" # global (undefined)
+  "Prev": "" # global (undefined)
+  "Questions": ""
 changelog:
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
+compiled-scripts:
+  "Compile & download": ""
+  "Delete project": ""
+  "Files saved": ""
+  "New project": ""
+  "Save": "" # global (undefined)
+  "failed to save script": ""
 database:
   "Actions": "" # global (undefined)
   "Delete all keys": ""
@@ -1094,9 +1364,15 @@ database:
   "Search": "" # global (undefined)
   "Stats": ""
   "Value": ""
+debug.i18n:
+  "App language": ""
+  "Open locals folder": ""
+  "Reload locals": ""
 debug.index:
   "Runtime": ""
   "SQL": ""
+  "Signer": ""
+  "i18n": ""
 download:
   "Actions": "" # global (undefined)
   "Active": "" # global (undefined)
@@ -1139,6 +1415,10 @@ features:
   "meta-description": "" # global (undefined)
   "simulator-desc": "" # global (undefined)
   "title": "" # global (undefined)
+fingerprints:
+  "Delete fingerprint": ""
+  "Fingerprints": ""
+  "New fingerprint": "" # global (undefined)
 first-use:
   "Admin account": ""
   "Confirm password": ""
@@ -1164,28 +1444,49 @@ get-trial-key:
   "Home": "" # global (undefined)
 home-slave:
   "Bots": "" # global (undefined)
+  "Compiled scripts": ""
   "Create script on all bots": "" # global (undefined)
+  "Download all scripts": ""
+  "Email": "" # global (undefined)
+  "Export bots": ""
+  "ID": ""
+  "Import bots": ""
   "New bot": "" # global (undefined)
   "Other actions": ""
+  "Player name": "" # global (undefined)
+  "Points": "" # global (undefined)
+  "Rank": "" # global (undefined)
   "Reorder bots": "" # global (undefined)
+  "Universe": "" # global (undefined)
 home:
   "Actions": "" # global (undefined)
   "Are you sure?": "" # global (undefined)
   "Domain": ""
   "Expires": ""
+  "Http proxy url:": ""
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
   "Join the server now": "" # global (undefined)
+  "My proxies": ""
   "My servers": ""
   "New password": "" # global (undefined)
+  "New proxy": ""
   "New server": "" # global (undefined)
   "New username": "" # global (undefined)
+  "No proxy to display": ""
   "No servers to display": ""
+  "Password": "" # global (undefined)
   "Region": "" # global (undefined)
-  "Version": ""
+  "Username": "" # global (undefined)
+  "Version": "" # global (undefined)
   "You're invited to join our Slack server": "" # global (undefined)
+import:
+  "Import bot": ""
+  "Upload": "" # global (undefined)
 index:
   "Account": "" # global (undefined)
   "Admin": "" # global (undefined)
+  "Captchas": "" # global (undefined)
+  "Check again": ""
   "Download": "" # global (undefined)
   "FAQ": ""
   "Features": ""
@@ -1198,6 +1499,7 @@ index:
   "Servers": ""
   "Sign out": ""
   "Support": ""
+  "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
   "Your Ninja software needs to be updated.": ""
@@ -1214,7 +1516,7 @@ invoice:
   "New license": "" # global (undefined)
   "Pay with Credit/debit card": "" # global (undefined)
   "Pay with paypal": "" # global (undefined)
-  "Submit payment": ""
+  "Submit payment": "" # global (undefined)
   "Upgrade license": ""
   "Valid until": "" # global (undefined)
   "we are using": "" # global (undefined)
@@ -1256,7 +1558,7 @@ license:
   "License expired": ""
   "Renew license": "" # global (undefined)
   "Stop all bots": ""
-  "Upload": ""
+  "Upload": "" # global (undefined)
   "Upload license file": ""
 login:
   "I forgot my password": "" # global (undefined)
@@ -1277,20 +1579,57 @@ must-contact:
 must-update:
   "Please update": ""
   "Software is too old": ""
+  "Update to latest": "" # global (undefined)
   "You must update your software.": ""
 new-bot:
-  "Add account to lobby": "" # global (undefined)
+  "Add account to lobby ?": ""
   "Create": "" # global (undefined)
+  "Create lobby ?": ""
   "Gameforge email": "" # global (undefined)
   "Gameforge password": "" # global (undefined)
   "New bot": "" # global (undefined)
-  "New lobby": "" # global (undefined)
   "OTP secret": "" # global (undefined)
-  "Player ID": ""
+  "Player ID": "" # global (undefined)
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
   "Redeem code": "" # global (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
+  "proxy login requests only": "" # global (undefined)
+new-fingerprint:
+  "AudioCtxHash": ""
+  "AudioHash": ""
+  "Browser engine name": ""
+  "Browser name": ""
+  "CalcDeltaMs": ""
+  "Canvas2dInfo": ""
+  "Constant version": ""
+  "Create": "" # global (undefined)
+  "DateISO": ""
+  "Fingerprint name": ""
+  "FontsHash": ""
+  "Game1DateHeader": ""
+  "Hardware concurrency": ""
+  "Languages": ""
+  "MediaDevicesHash": ""
+  "Memory": ""
+  "Navigator vendor": ""
+  "NavigatorDoNotTrack": ""
+  "New fingerprint": "" # global (undefined)
+  "OfflineAudioCtx": ""
+  "Os name": ""
+  "PermissionsStatesHash": ""
+  "PluginsHash": ""
+  "Screen color depth": ""
+  "Screen height": ""
+  "Screen width": ""
+  "Timezone": ""
+  "Update": "" # global (undefined)
+  "User-agent": ""
+  "Version": "" # global (undefined)
+  "VideoHash": ""
+  "Webgl info": ""
+  "WebglRenderHash": ""
+  "XGame": ""
 new-license:
   "Buy license": "" # global (undefined)
   "Credit or debit card": "" # global (undefined)
@@ -1305,32 +1644,26 @@ new-license:
   "description1": "" # global (undefined)
   "description2": ""
   "we are using": "" # global (undefined)
-new-lobby-account:
-  "Add account to lobby": "" # global (undefined)
+new-ogamex-bot:
   "Create": "" # global (undefined)
-  "Gameforge email": "" # global (undefined)
-  "Gameforge password": "" # global (undefined)
-  "New bot": "" # global (undefined)
-  "New lobby": "" # global (undefined)
-  "OTP secret": "" # global (undefined)
-  "Proxy password": "" # global (undefined)
-  "Proxy username": "" # global (undefined)
-  "Redeem code": "" # global (undefined)
-  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
-new-lobby:
-  "Add account to lobby": "" # global (undefined)
-  "Create": "" # global (undefined)
-  "Gameforge email": "" # global (undefined)
-  "Gameforge password": "" # global (undefined)
-  "New bot": "" # global (undefined)
-  "New lobby": "" # global (undefined)
-  "Proxy password": "" # global (undefined)
-  "Proxy username": "" # global (undefined)
-  "Redeem code": "" # global (undefined)
-  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
+  "New ogamex bot": ""
+  "OgameX email": ""
+  "OgameX password": ""
 new-proposal:
   "All suggestions": "" # global (undefined)
   "New suggestion": ""
+new-proxies:
+  "-- Select a country --": ""
+  "Country": ""
+  "Credit or debit card": "" # global (undefined)
+  "Download": "" # global (undefined)
+  "New license": "" # global (undefined)
+  "Pay with Credit/debit card": "" # global (undefined)
+  "Pay with paypal": "" # global (undefined)
+  "Proxies parameters": ""
+  "Submit payment for proxies": ""
+  "Total": "" # global (undefined)
+  "we are using": "" # global (undefined)
 new-script:
   "<b>Warning:</b> This will override existing scripts that have the same name.": ""
   "All bots that I have access to": ""
@@ -1344,6 +1677,7 @@ new-script:
   "Where to create the script": ""
 new-server:
   "3 - 20 letter/number/underscore. eg: ": ""
+  "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
   "Credit or debit card": "" # global (undefined)
   "Home": "" # global (undefined)
   "New server": "" # global (undefined)
@@ -1375,8 +1709,10 @@ pricing:
   "30 days license": ""
   "Buy now": ""
   "Get started": ""
+  "OGame proxy": ""
   "Pricing": "" # global (undefined)
   "Priority Slack support": ""
+  "Proxies": ""
   "Self-host": ""
   "Slack support": ""
   "These are our pricing plans, if you can't quite find what you need, let us know on Slack and we'll work something out!": ""
@@ -1396,11 +1732,9 @@ proposals:
   "Prev": "" # global (undefined)
   "Search": "" # global (undefined)
 redeem-code:
-  "Add account to lobby": "" # global (undefined)
   "Gameforge email": "" # global (undefined)
   "Gameforge password": "" # global (undefined)
   "New bot": "" # global (undefined)
-  "New lobby": "" # global (undefined)
   "OTP secret": "" # global (undefined)
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
@@ -1478,8 +1812,14 @@ settings.api:
   "API key": ""
   "Are you sure?": "" # global (undefined)
 settings.gift-cards:
+  "Add credit to my account": ""
+  "Credit or debit card": "" # global (undefined)
   "Gift cards": "" # global (undefined)
   "No gift card to show": ""
+  "Pay with Credit/debit card": "" # global (undefined)
+  "Pay with paypal": "" # global (undefined)
+  "Submit payment": "" # global (undefined)
+  "we are using": "" # global (undefined)
 settings.index:
   "API": "" # global (undefined)
   "Account": "" # global (undefined)
