@@ -684,6 +684,7 @@ bot.settings.brain:
   "None": "" # global (undefined)
   "Planet": "" # global (undefined)
   "Prevent importing if come back during sleep time": ""
+  "Prioritize nanite factory": ""
   "Queue": "" # global (undefined)
   "Rocktal": ""
   "Save": "" # global (undefined)
@@ -693,12 +694,14 @@ bot.settings.brain:
   "reset form": ""
   "to": "" # global (undefined)
 bot.settings.colonizer:
-  "--- Currently active planet/moon ---": "" # global (undefined)
   "Colonize using": ""
   "Colonizer configs": ""
+  "Galaxy": "" # global (undefined)
+  "Max colonizer slots": "" # global (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
   "Save": "" # global (undefined)
+  "Systems": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -742,6 +745,12 @@ bot.settings.defender:
   "next in": "" # global (undefined)
   "sec": ""
   "to": "" # global (undefined)
+bot.settings.discovery:
+  "Discovery configs": ""
+  "Discovery using": ""
+  "Max discovery slots": "" # global (undefined)
+  "Save": "" # global (undefined)
+  "discovery active": ""
 bot.settings.expeditionMessages:
   "Actions": "" # global (undefined)
   "All": "" # global (undefined)
@@ -775,6 +784,7 @@ bot.settings.expeditions:
   "Are you sure?": "" # global (undefined)
   "Arrive in": "" # global (undefined)
   "Attack": "" # global (undefined)
+  "Automatic fleet": ""
   "Battlecruiser": "" # global (undefined)
   "Battleship": "" # global (undefined)
   "Bomber": "" # global (undefined)
@@ -917,6 +927,7 @@ bot.settings.home:
   "Donut system": ""
   "Email": "" # global (undefined)
   "Expeditions": "" # global (undefined)
+  "Fingerprint": ""
   "General info": ""
   "Hunter": "" # global (undefined)
   "No evacuations": ""
@@ -927,6 +938,7 @@ bot.settings.home:
   "Reschedule evacuation": ""
   "Research speed": ""
   "Ships": "" # global (undefined)
+  "Skip sus login wait": ""
   "Times": ""
   "Universe": "" # global (undefined)
   "Universe speed": ""
@@ -967,8 +979,9 @@ bot.settings.index:
   "Activities": "" # global (undefined)
   "Auctioneer": ""
   "Brain": "" # global (undefined)
-  "Colonizer": ""
+  "Colonizer": "" # global (undefined)
   "Defender": "" # global (undefined)
+  "Discovery": ""
   "Expeditions": "" # global (undefined)
   "Farmer": "" # global (undefined)
   "Hunter": "" # global (undefined)
@@ -986,6 +999,7 @@ bot.settings.logs:
   "Audit": ""
   "Brain": "" # global (undefined)
   "Category": "" # global (undefined)
+  "Colonizer": "" # global (undefined)
   "Crawler": "" # global (undefined)
   "Created at": "" # global (undefined)
   "Defender": "" # global (undefined)
@@ -1146,6 +1160,8 @@ bot.settings.settings:
   "Hotkeys": "" # global (undefined)
   "Large cargo": ""
   "Max brain slots": ""
+  "Max colonizer slots": "" # global (undefined)
+  "Max discovery slots": "" # global (undefined)
   "Max expeditions slots": ""
   "Max farmer slots": ""
   "Max repatriate slots": ""
@@ -1235,6 +1251,7 @@ bot.settings.sleepMode:
   "Random colonize": ""
   "Random debris field": ""
   "Random delay before going to sleep (minutes)": ""
+  "Random delay before waking up (minutes)": ""
   "Saturday": ""
   "Save": "" # global (undefined)
   "Sleep Mode": "" # global (undefined)
@@ -1242,6 +1259,7 @@ bot.settings.sleepMode:
   "Sunday": ""
   "Thursday": ""
   "Tuesday": ""
+  "Wait for expeditions before going to sleep": ""
   "Wake up at": ""
   "Wednesday": ""
   "automatic fleet save (experimental)": ""

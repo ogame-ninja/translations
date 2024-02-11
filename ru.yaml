@@ -685,6 +685,7 @@ bot.settings.brain:
   "None": "Ничего" # global (undefined)
   "Planet": "Планета" # global (undefined)
   "Prevent importing if come back during sleep time": "Предотвратить импорт, если вернетесь во время сна"
+  "Prioritize nanite factory": ""
   "Queue": "Очередь" # global (undefined)
   "Rocktal": ""
   "Save": "Сохранить" # global (undefined)
@@ -694,12 +695,14 @@ bot.settings.brain:
   "reset form": ""
   "to": "в" # global (undefined)
 bot.settings.colonizer:
-  "--- Currently active planet/moon ---": "" # global (undefined)
   "Colonize using": ""
   "Colonizer configs": ""
+  "Galaxy": "" # global (undefined)
+  "Max colonizer slots": "" # global (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
   "Save": "" # global (undefined)
+  "Systems": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": "Время ожидания клиента http"
@@ -743,6 +746,12 @@ bot.settings.defender:
   "next in": "Следующая в" # global (undefined)
   "sec": "сек"
   "to": "в" # global (undefined)
+bot.settings.discovery:
+  "Discovery configs": ""
+  "Discovery using": ""
+  "Max discovery slots": "" # global (undefined)
+  "Save": "" # global (undefined)
+  "discovery active": ""
 bot.settings.expeditionMessages:
   "Actions": "Отозвать" # global (undefined)
   "All": "" # global (undefined)
@@ -776,6 +785,7 @@ bot.settings.expeditions:
   "Are you sure?": "Вы Уверены?" # global (undefined)
   "Arrive in": "Прибудет в" # global (undefined)
   "Attack": "Атака" # global (undefined)
+  "Automatic fleet": ""
   "Battlecruiser": "Линейный Кресйсер" # global (undefined)
   "Battleship": "Линкор" # global (undefined)
   "Bomber": "Бомбандировщик" # global (undefined)
@@ -918,6 +928,7 @@ bot.settings.home:
   "Donut system": "Закольцованные системы"
   "Email": "Емайл" # global (undefined)
   "Expeditions": "Экспедиция" # global (undefined)
+  "Fingerprint": ""
   "General info": "Общая Информация"
   "Hunter": "Охотник" # global (undefined)
   "No evacuations": "Нет Эвакуации"
@@ -928,6 +939,7 @@ bot.settings.home:
   "Reschedule evacuation": "Перенести Сбор Ресурсов"
   "Research speed": "Скорость Исследования"
   "Ships": "Корабли" # global (undefined)
+  "Skip sus login wait": ""
   "Times": "Темы"
   "Universe": "Уня" # global (undefined)
   "Universe speed": "Скорость Уни"
@@ -968,8 +980,9 @@ bot.settings.index:
   "Activities": "Мероприятия" # global (undefined)
   "Auctioneer": ""
   "Brain": "ИИ" # global (undefined)
-  "Colonizer": ""
+  "Colonizer": "" # global (undefined)
   "Defender": "Защитник" # global (undefined)
+  "Discovery": ""
   "Expeditions": "Экспедиции" # global (undefined)
   "Farmer": "Сборщик ресурсов" # global (undefined)
   "Hunter": "Охотник" # global (undefined)
@@ -987,6 +1000,7 @@ bot.settings.logs:
   "Audit": "Аудит"
   "Brain": "ИИ" # global (undefined)
   "Category": "Категория" # global (undefined)
+  "Colonizer": "" # global (undefined)
   "Crawler": "Гусеничка" # global (undefined)
   "Created at": "Создать в" # global (undefined)
   "Defender": "Защитник" # global (undefined)
@@ -1147,6 +1161,8 @@ bot.settings.settings:
   "Hotkeys": "" # global (undefined)
   "Large cargo": "Большой Транспорт"
   "Max brain slots": "Максимальное количество слотов для ИИ"
+  "Max colonizer slots": "" # global (undefined)
+  "Max discovery slots": "" # global (undefined)
   "Max expeditions slots": "Максимальное количество слотов для Экспедиции"
   "Max farmer slots": "Максимальное количество слотов для Сборщика Ресурсов"
   "Max repatriate slots": "Максимальное количество слотов для Сбора ресурсов"
@@ -1236,6 +1252,7 @@ bot.settings.sleepMode:
   "Random colonize": ""
   "Random debris field": ""
   "Random delay before going to sleep (minutes)": "Случайная задержка перед сном (минуты)"
+  "Random delay before waking up (minutes)": ""
   "Saturday": "Суббота"
   "Save": "Сохранить" # global (undefined)
   "Sleep Mode": "Режим Сна" # global (undefined)
@@ -1243,6 +1260,7 @@ bot.settings.sleepMode:
   "Sunday": "Воскресенье"
   "Thursday": "Четверг"
   "Tuesday": "Вторник"
+  "Wait for expeditions before going to sleep": ""
   "Wake up at": "Проснуться в"
   "Wednesday": "Среда"
   "automatic fleet save (experimental)": "Автоматический Сей Флота (Экспериментальная)"

@@ -827,6 +827,7 @@ bot.settings.brain:
   "None": "无" # global (undefined)
   "Planet": "行星" # global (undefined)
   "Prevent importing if come back during sleep time": "不要在睡觉时间接收资源"
+  "Prioritize nanite factory": ""
   "Queue": "排程" # global (undefined)
   "Rocktal": ""
   "Save": "保存" # global (undefined)
@@ -836,12 +837,14 @@ bot.settings.brain:
   "reset form": ""
   "to": "至" # global (undefined)
 bot.settings.colonizer:
-  "--- Currently active planet/moon ---": "" # global (undefined)
   "Colonize using": ""
   "Colonizer configs": ""
+  "Galaxy": "" # global (defined)
+  "Max colonizer slots": "" # global (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
   "Save": "" # global (undefined)
+  "Systems": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -885,6 +888,12 @@ bot.settings.defender:
   "next in": "下次于" # global (undefined)
   "sec": "秒"
   "to": "至" # global (undefined)
+bot.settings.discovery:
+  "Discovery configs": ""
+  "Discovery using": ""
+  "Max discovery slots": "" # global (undefined)
+  "Save": "" # global (undefined)
+  "discovery active": ""
 bot.settings.expeditionMessages:
   "Actions": "" # global (defined)
   "All": "" # global (undefined)
@@ -918,6 +927,7 @@ bot.settings.expeditions:
   "Are you sure?": "" # global (defined)
   "Arrive in": "抵达于" # global (defined)
   "Attack": "攻击" # global (defined)
+  "Automatic fleet": ""
   "Battlecruiser": "" # global (defined)
   "Battleship": "" # global (defined)
   "Bomber": "" # global (defined)
@@ -1060,6 +1070,7 @@ bot.settings.home:
   "Donut system": "环绕太阳系"
   "Email": "电子信箱" # global (defined)
   "Expeditions": "探险" # global (defined)
+  "Fingerprint": ""
   "General info": "一般资讯"
   "Hunter": "" # global (defined)
   "No evacuations": "无彻离舰队"
@@ -1070,6 +1081,7 @@ bot.settings.home:
   "Reschedule evacuation": "重新安排彻离"
   "Research speed": "研究速度"
   "Ships": "船" # global (undefined)
+  "Skip sus login wait": ""
   "Times": ""
   "Universe": "宇宙" # global (undefined)
   "Universe speed": "经济速度"
@@ -1110,8 +1122,9 @@ bot.settings.index:
   "Activities": "" # global (defined)
   "Auctioneer": ""
   "Brain": "" # global (defined)
-  "Colonizer": ""
+  "Colonizer": "" # global (undefined)
   "Defender": "" # global (defined)
+  "Discovery": ""
   "Expeditions": "探险" # global (defined)
   "Farmer": "" # global (defined)
   "Hunter": "" # global (defined)
@@ -1129,6 +1142,7 @@ bot.settings.logs:
   "Audit": "拍卖"
   "Brain": "大脑(建设)" # global (defined)
   "Category": "分类" # global (undefined)
+  "Colonizer": "" # global (undefined)
   "Crawler": "爬虫(抓取资料)" # global (defined)
   "Created at": "创建于" # global (undefined)
   "Defender": "防御者" # global (defined)
@@ -1289,6 +1303,8 @@ bot.settings.settings:
   "Hotkeys": "热键" # global (undefined)
   "Large cargo": "大型运输舰"
   "Max brain slots": "最多允许大脑(建设)使用的航线"
+  "Max colonizer slots": "" # global (undefined)
+  "Max discovery slots": "" # global (undefined)
   "Max expeditions slots": "最多允许探险使用的航线"
   "Max farmer slots": "最多允许耕作者(刮I)使用的航线"
   "Max repatriate slots": "最多允许集资使用的航线"
@@ -1378,6 +1394,7 @@ bot.settings.sleepMode:
   "Random colonize": ""
   "Random debris field": "随机废墟"
   "Random delay before going to sleep (minutes)": "随机延迟睡觉时间 (分钟)"
+  "Random delay before waking up (minutes)": ""
   "Saturday": "週六"
   "Save": "保存" # global (undefined)
   "Sleep Mode": "睡眠模式" # global (undefined)
@@ -1385,6 +1402,7 @@ bot.settings.sleepMode:
   "Sunday": "週日/天"
   "Thursday": "週四"
   "Tuesday": "週二"
+  "Wait for expeditions before going to sleep": ""
   "Wake up at": "唤醒于"
   "Wednesday": "週三"
   "automatic fleet save (experimental)": "自动FS(保护舰队；测试中的功能)"
