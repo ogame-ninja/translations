@@ -82,12 +82,14 @@ global:
   "Missile Silo": "Silo de missiles"
   "Mission": "Mission"
   "Nanite Factory": "Usine de nanites"
+  "Next": "Suivant"
   "No": "Non"
   "Origin": "Origine"
   "Overview": "Overview"
   "Park": "Stationnement"
   "Park In That Ally": "Se garer chez cet allié"
   "Password": "Mot de passe"
+  "Pathfinder": "Éclaireur"
   "Plasma Technology": "Technologie Plasma"
   "Plasma Turret": "Lanceur de plasma"
   "Points": "Points"
@@ -103,6 +105,7 @@ global:
   "Research Network": "Réseau de recherche intergalactique"
   "Robotics Factory": "Usine de robots"
   "Rocket Launcher": "Lanceur de missiles"
+  "Save": "Sauvegarder"
   "Scanner": "Scanner"
   "Scripts": "Scripts"
   "Sensor Phalanx": "Sensor Phalanx"
@@ -124,6 +127,7 @@ global:
   "Start": "Démarrer"
   "Stop": "Arrêtez"
   "Structural integrity": "Points de structure"
+  "Subscriptions": "Abonnements"
   "Table": "Table"
   "Terraformer": "Terraformeur"
   "Transport": "Transport"
@@ -136,6 +140,7 @@ global:
   "Your Ninja software needs to be updated.": "Votre logiciel doit être mis à jour."
   "download the latest version here": "télécharger la dernière version ici"
   "max": "max"
+  "prev": "Précédent" # (unused)
   "update your instance here": "mettre à jour votre instance ici"
 admin.bots:
   "Are you sure?": "" # global (defined)
@@ -155,31 +160,31 @@ admin.license:
   "Expired": "Expiré" # global (undefined)
   "License": "License" # global (defined)
   "Owner": "Propriétaire" # global (undefined)
-  "Subscription": ""
+  "Subscription": "Abonnement"
   "UUID": "" # global (undefined)
   "Upload": "" # global (undefined)
   "Upload file": ""
   "unlimited": "illimitée" # global (undefined)
 admin.login-history:
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "Prev": "" # global (undefined)
 admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": "Vous donne accès à votre serveur self-host via"
   "Host eg: smtp.gmail.com": "Hôte eg: smtp.gmail.com"
   "Images URL": ""
-  "Logs retention (days)": ""
-  "Need application restart": ""
-  "Open .ogame folder": ""
+  "Logs retention (days)": "Conservation des journaux (jours)"
+  "Need application restart": "Besoin de redémarrer l'application"
+  "Open .ogame folder": "Ouvrez le dossier .ogame"
   "Password": "" # global (defined)
   "Port eg: 587": "Port eg: 587"
   "Reverse tunnel": "Tunnel inverse"
   "SMTP settings (email)": "Paramètres SMTP (email)"
-  "Save": "Sauvegarder" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Settings": "Paramètres" # global (defined)
-  "Start both http / https web servers": ""
-  "Start http web server only": ""
-  "Start https web server only": ""
+  "Start both http / https web servers": "Démarrez les deux serveurs web http/https"
+  "Start http web server only": "Démarrer le serveur web http uniquement"
+  "Start https web server only": "Démarrer le serveur web https uniquement"
   "Telegram bot api token": "Telegram bot api token"
   "Username": "" # global (defined)
 admin.theme-new:
@@ -194,9 +199,9 @@ admin.themes:
   "Themes": "" # global (undefined)
 admin.update:
   "Update": "Mettre à jour" # global (defined)
-  "Update to latest": "" # global (undefined)
+  "Update to latest": "Mise à jour vers la dernière version" # global (undefined)
 admin.updating:
-  "You will be redirected soon": ""
+  "You will be redirected soon": "Vous serez bientôt redirigé"
 admin.user-edit:
   "Create user": "Créer un utilisateur"
   "Email": "Email" # global (undefined)
@@ -206,11 +211,11 @@ admin.user-edit:
   "Retype password": "Retaper le mot de passe" # global (undefined)
   "Update user": "Mettre à jour l'utilisateur"
   "Username": "" # global (defined)
-  "Yes": ""
+  "Yes": "Oui"
 admin.users:
   "Admin": "Administrateur" # global (defined)
   "Created at": "Créé le" # global (undefined)
-  "Delete user": ""
+  "Delete user": "Supprimer l'utilisateur"
   "New user": "Nouvel utilisateur"
   "Username": "" # global (defined)
   "Users": "Utilisateurs" # global (defined)
@@ -226,15 +231,15 @@ antigame:
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
 bot.browser:
-  "Empire page": ""
-  "Fullscreen": ""
-  "Toggle manual mode": ""
+  "Empire page": "Page empire"
+  "Fullscreen": "Plein écran"
+  "Toggle manual mode": "Basculer en mode manuel"
 bot.captcha:
   "Captcha": "" # global (undefined)
   "Submit": ""
 bot.conqueror:
-  "Get spy reports": "" # global (undefined)
-  "No espionage report to show": ""
+  "Get spy reports": "Obtenez les rapports d'espionnage" # global (undefined)
+  "No espionage report to show": "Aucun rapport d'espionnage à afficher"
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
@@ -392,7 +397,7 @@ bot.empire:
   "Overclocking Battleship": ""
   "Overclocking Heavy Fighter": ""
   "Overclocking Large Cargo": ""
-  "Pathfinder": "" # global (undefined)
+  "Pathfinder": "" # global (defined)
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
@@ -520,7 +525,7 @@ bot.flights:
   "PF": ""
   "Park": "" # global (defined)
   "Park In That Ally": "" # global (defined)
-  "Pathfinder": "" # global (undefined)
+  "Pathfinder": "" # global (defined)
   "Planet": "Planète" # global (undefined)
   "R": ""
   "Reaper": "" # global (undefined)
@@ -750,7 +755,7 @@ bot.settings.activities:
   "Fleet log": "Journal des flottes"
   "Logins": ""
   "Mission": "" # global (defined)
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "No fleet in the log": "Pas de flotte dans le journal"
   "Origin": "Origine" # global (defined)
   "Prev": "" # global (undefined)
@@ -765,7 +770,7 @@ bot.settings.auctioneer:
   "Highest bid value": ""
   "Homeworld": "" # global (undefined)
   "Metal": "" # global (defined)
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
 bot.settings.brain:
   "AI": ""
   "Batch update": ""
@@ -791,7 +796,7 @@ bot.settings.brain:
   "Prioritize nanite factory": ""
   "Queue": "" # global (undefined)
   "Rocktal": ""
-  "Save": "Sauvegarder" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Set all moons": ""
   "Set all planets": ""
   "Try to buy 'offer of the day' every 4h": ""
@@ -804,12 +809,12 @@ bot.settings.colonizer:
   "Max colonizer slots": "" # global (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "Systems": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
 bot.settings.defender:
   "--- Bot decision ---": ""
   "2-steps (planets then moons)": ""
@@ -841,7 +846,7 @@ bot.settings.defender:
   "Repatriate interval": "Intervalle de rapatriement"
   "Repatriate random order": ""
   "Repatriate resources": "Rapatrier les ressources"
-  "Save": "Sauvegarder" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Send message to attackers": "Envoyer un message aux attaquants"
   "activate for moon ?": "activer pour la lune?"
   "minutes": "minutes" # global (undefined)
@@ -853,7 +858,7 @@ bot.settings.discovery:
   "Discovery configs": ""
   "Discovery using": ""
   "Max discovery slots": "" # global (undefined)
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "discovery active": ""
 bot.settings.expeditionMessages:
   "Actions": "" # global (defined)
@@ -866,7 +871,7 @@ bot.settings.expeditionMessages:
   "InGame date": "" # global (undefined)
   "Message": "" # global (undefined)
   "Messages": "" # global (undefined)
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "No messages to show": "" # global (undefined)
   "Prev": "" # global (undefined)
   "Re-process existing messages": ""
@@ -936,7 +941,7 @@ bot.settings.expeditions:
   "PF will be send to arrive at the same time as debris field is created (if any)": ""
   "Park": "" # global (defined)
   "Park In That Ally": "" # global (defined)
-  "Pathfinder": "" # global (undefined)
+  "Pathfinder": "" # global (defined)
   "Pathfinders to stay": ""
   "Reaper": "" # global (undefined)
   "Recycle debris": ""
@@ -961,10 +966,10 @@ bot.settings.expeditions:
   "next check in": "" # global (undefined)
   "unlimited": "" # global (undefined)
 bot.settings.farmer:
-  "Abort all sessions": ""
+  "Abort all sessions": "Abandonner toutes les sessions"
   "Actions": "" # global (defined)
   "Active": "" # global (undefined)
-  "Additional cargo": ""
+  "Additional cargo": "Cargaison supplémentaire"
   "Are you sure?": "" # global (defined)
   "Attack from nearest moon": ""
   "Attack from nearest planet": "Attaque de la planète la plus proche"
@@ -985,14 +990,14 @@ bot.settings.farmer:
   "Min. resources to attack": "Ressources minimales pour attaquer"
   "Minimum level of storage": "Niveau minimum de stockage"
   "Nb probes": "Nb sondes"
-  "New session": ""
+  "New session": "Nouvelle session"
   "No session": "Pas de session"
   "Origin": "Origine" # global (defined)
   "Planet": "Planète" # global (undefined)
   "Priority calculation": "Calcul de priorité"
   "Range": "portée"
-  "Redo": "" # global (undefined)
-  "Save": "Sauvegarder" # global (undefined)
+  "Redo": "Refaire" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Select origin": "Sélectionnez l'origine" # global (undefined)
   "Start new session": "Commencer une nouvelle session"
   "State": "Etat"
@@ -1057,7 +1062,7 @@ bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
   "Color legend": ""
   "Notify when inactive for": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "Target": ""
   "minutes": "" # global (undefined)
 bot.settings.hunter:
@@ -1072,7 +1077,7 @@ bot.settings.hunter:
   "No targets": "Aucune cible"
   "Player": "Joueur"
   "Player rank": "Classement du joueur"
-  "Save": "Sauvegarder" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Scan frequency": "Fréquence de scan" # global (undefined)
   "Scan using": "" # global (undefined)
   "Vacation": "" # global (undefined)
@@ -1115,7 +1120,7 @@ bot.settings.logs:
   "Hunter": "Hunter" # global (defined)
   "Level": "Niveau"
   "Message": "Message" # global (undefined)
-  "Next": "Suivant" # global (undefined)
+  "Next": "Suivant" # global (defined)
   "No logs to show": "Aucun journal à afficher"
   "Phalanx": "" # global (undefined)
   "Prev": "Précédent" # global (undefined)
@@ -1133,7 +1138,7 @@ bot.settings.messages:
   "Loot": ""
   "Manual": ""
   "Messages": "" # global (undefined)
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "No messages to show": "" # global (undefined)
   "Prev": "" # global (undefined)
   "Resources": "" # global (undefined)
@@ -1163,7 +1168,7 @@ bot.settings.notifications:
   "New missiles attack detected": ""
   "Notifications": "" # global (undefined)
   "Recall of fleets": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "Slack": ""
   "Slack username for notifications": ""
   "Sleep Mode": "" # global (undefined)
@@ -1192,7 +1197,7 @@ bot.settings.phalanxSession:
   "Is general?": ""
   "Missile Attack": "" # global (defined)
   "Mission": "" # global (defined)
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "No fleets": "" # global (undefined)
   "Origin": "" # global (defined)
   "Park": "" # global (defined)
@@ -1215,7 +1220,7 @@ bot.settings.phalanxSession:
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "" # global (undefined)
   "Interval between system scan": "Intervalle entre les scan de système"
-  "Save": "Sauvegarder" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Scan frequency": "Fréquence de scan" # global (undefined)
   "Scan using": "" # global (undefined)
   "Scans the whole universe every set amount of hours.": "Scanne l'univers entier toutes les X heures."
@@ -1274,7 +1279,7 @@ bot.settings.settings:
   "Ogame password": ""
   "Ogame universe": ""
   "Ogame username": ""
-  "Pathfinder": "" # global (undefined)
+  "Pathfinder": "" # global (defined)
   "Player ID": "" # global (undefined)
   "Preferred transport ships": ""
   "Proxy password": "" # global (undefined)
@@ -1283,7 +1288,7 @@ bot.settings.settings:
   "Remove banner": ""
   "Round up resources": ""
   "Round up ships": ""
-  "Save": "Sauvegarder" # global (undefined)
+  "Save": "Sauvegarder" # global (defined)
   "Save proxy": "Enregistrer le proxy"
   "Share account": "Partager le compte"
   "Share with": "Partager avec"
@@ -1355,7 +1360,7 @@ bot.settings.sleepMode:
   "Random delay before waking up (minutes)": ""
   "Recall saved fleet half way through the night": ""
   "Saturday": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "Sleep Mode": "" # global (undefined)
   "Spy deep space (position 16)": ""
   "Sunday": ""
@@ -1419,8 +1424,8 @@ bot.simulator:
   "Metal": "" # global (defined)
   "Moonchance": "Chance de lune"
   "Open in TrashSim": ""
-  "Pathfinder": "" # global (undefined)
-  "Pathfinders": ""
+  "Pathfinder": "" # global (defined)
+  "Pathfinders": "Éclaireurs"
   "Planet": "Planète" # global (undefined)
   "Planet/Moon": "Planète/Lune"
   "Plasma Turret": "" # global (defined)
@@ -1455,15 +1460,15 @@ bot-card:
 captchas-icon:
   "Captchas": "" # global (undefined)
   "Discover": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
 captchas-icons:
   "Icons": ""
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "Prev": "" # global (undefined)
 captchas-service:
   "Service": ""
 captchas:
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "Prev": "" # global (undefined)
   "Questions": ""
 changelog:
@@ -1474,7 +1479,7 @@ compiled-scripts:
   "Delete project": ""
   "Files saved": ""
   "New project": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "failed to save script": ""
 database:
   "Actions": "" # global (defined)
@@ -1560,9 +1565,9 @@ features:
   "simulator-desc": "Simulez rapidement un combat en utilisant les paramètres de votre planète et un rapport d’espionnage avec notre simulateur intégré." # global (undefined)
   "title": "Aperçu des fonctionnalités" # global (undefined)
 fingerprints:
-  "Delete fingerprint": ""
-  "Fingerprints": ""
-  "New fingerprint": "" # global (undefined)
+  "Delete fingerprint": "Supprimer l'empreinte"
+  "Fingerprints": "Empreintes"
+  "New fingerprint": "Nouvelle empreinte" # global (undefined)
 first-use:
   "Admin account": "Compte administrateur"
   "Confirm password": "Confirmez le mot de passe"
@@ -1583,8 +1588,8 @@ forgot-password:
   "meta-description": "Remplissez le formulaire pour récupérer l'accès à votre compte." # global (undefined)
   "title": "Formulaire de récupération de mot de passe" # global (undefined)
 get-trial-key:
-  "Get free trial key": ""
-  "Get trial key": ""
+  "Get free trial key": "Obtenez une clé d'essai gratuite"
+  "Get trial key": "Obtenir la clé d'essai"
   "Home": "" # global (defined)
 home-slave:
   "Bots": "" # global (defined)
@@ -1609,14 +1614,14 @@ home:
   "Expires": ""
   "Http proxy url:": ""
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
-  "Join the server now": "" # global (undefined)
-  "My proxies": ""
+  "Join the server now": "Rejoignez le serveur maintenant" # global (undefined)
+  "My proxies": "Mes proxies"
   "My servers": "Mes serveurs"
   "New password": "" # global (undefined)
-  "New proxy": ""
+  "New proxy": "Nouveau proxy"
   "New server": "Nouveau serveur" # global (undefined)
   "New username": "" # global (undefined)
-  "No proxy to display": ""
+  "No proxy to display": "Aucun proxy à afficher"
   "No servers to display": "Aucun serveur à afficher"
   "Password": "" # global (defined)
   "Region": "" # global (undefined)
@@ -1630,26 +1635,26 @@ index:
   "Account": "" # global (defined)
   "Admin": "" # global (defined)
   "Captchas": "" # global (undefined)
-  "Check again": ""
+  "Check again": "Revérifier"
   "Download": "" # global (defined)
   "FAQ": ""
-  "Features": ""
+  "Features": "Fonctionnalités"
   "Home": "" # global (defined)
-  "Login": ""
+  "Login": "Se connecter"
   "My licenses": "" # global (undefined)
   "Please": ""
   "Pricing": "" # global (defined)
   "Proposals": ""
-  "Register": ""
-  "Servers": ""
-  "Sign out": ""
+  "Register": "S'enregistrer"
+  "Servers": "Serveurs"
+  "Sign out": "Se déconnecter"
   "Support": ""
-  "System clock is not synchronized": ""
+  "System clock is not synchronized": "L'horloge système n'est pas synchronisée"
   "Ticket support": ""
   "Translations": ""
-  "Your Ninja software needs to be updated.": ""
-  "download the latest version here": ""
-  "update your instance here": ""
+  "Your Ninja software needs to be updated.": "Votre logiciel Ninja doit être mis à jour."
+  "download the latest version here": "télécharger la dernière version ici"
+  "update your instance here": "mettez à jour votre instance ici"
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": ""
 instance-actions:
@@ -1849,7 +1854,7 @@ new-server:
   "Subdomain": "Sous-domaine"
   "Submit Payment for cloud hosting": "Soumettre le paiement pour l'hébergement cloud"
   "Total": "Totale" # global (undefined)
-  "You will access your app using this URL": ""
+  "You will access your app using this URL": "Vous accéderez à votre application en utilisant cette URL"
   "the bots will use IP from that region": "les bots utiliseront des IP de cette région"
   "we are using": "nous utilisons" # global (undefined)
 new-trial-license:
@@ -1886,11 +1891,11 @@ pricing:
   "title": "Détails des prix" # global (undefined)
   "upgradable": ""
 proposal:
-  "All suggestions": "" # global (undefined)
+  "All suggestions": "Toutes les suggestions" # global (undefined)
 proposals:
-  "Next": "" # global (undefined)
+  "Next": "" # global (defined)
   "Prev": "" # global (undefined)
-  "Search": "" # global (undefined)
+  "Search": "Recherche" # global (undefined)
 redeem-code:
   "Gameforge email": "" # global (undefined)
   "Gameforge password": "" # global (undefined)
@@ -1937,7 +1942,7 @@ renew-license:
   "we are using": "nous utilisons" # global (undefined)
 reorder-bots:
   "Home": "" # global (defined)
-  "Reorder bots": "" # global (undefined)
+  "Reorder bots": "Réorganiser les robots" # global (undefined)
 sessions-two-factor-recovery:
   "Recovery code": ""
   "Two-factor recovery": ""
@@ -1967,7 +1972,7 @@ settings.account:
   "No activity": "" # global (undefined)
   "Old password": "Ancien mot de passe"
   "Root admin cannot delete his account": "L'administrateur principale ne peut pas supprimer son compte"
-  "Save": "" # global (undefined)
+  "Save": "" # global (defined)
   "Settings": "" # global (defined)
   "Slack account": ""
   "Theme": "" # global (undefined)
@@ -1993,7 +1998,7 @@ settings.index:
   "Account": "" # global (defined)
   "Gift cards": "" # global (undefined)
   "Sessions": ""
-  "Subscriptions": "" # global (undefined)
+  "Subscriptions": "" # global (defined)
 settings.sessions:
   "Are you sure?": "" # global (defined)
   "Expires at": "Expire à"
@@ -2004,8 +2009,8 @@ settings.sessions:
   "on": "sur"
 settings.subscriptions:
   "Are you sure?": "" # global (defined)
-  "No subscription to show": ""
-  "Subscriptions": "" # global (undefined)
+  "No subscription to show": "Aucun abonnement à afficher"
+  "Subscriptions": "" # global (defined)
 signup:
   "Email": "Email" # global (undefined)
   "Note": "Remarque" # global (undefined)
