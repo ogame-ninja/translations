@@ -93,6 +93,7 @@ global:
   "Plasma Technology": "Technologie Plasma"
   "Plasma Turret": "Lanceur de plasma"
   "Points": "Points"
+  "Prev": "Précédent"
   "Pricing": "Prix"
   "Proposals": "Propositions"
   "Rank": "Position"
@@ -140,7 +141,6 @@ global:
   "Your Ninja software needs to be updated.": "Votre logiciel doit être mis à jour."
   "download the latest version here": "télécharger la dernière version ici"
   "max": "max"
-  "prev": "Précédent" # (unused)
   "update your instance here": "mettre à jour votre instance ici"
 admin.bots:
   "Are you sure?": "" # global (defined)
@@ -167,7 +167,7 @@ admin.license:
   "unlimited": "illimitée" # global (undefined)
 admin.login-history:
   "Next": "" # global (defined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
 admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": "Vous donne accès à votre serveur self-host via"
@@ -758,7 +758,7 @@ bot.settings.activities:
   "Next": "" # global (defined)
   "No fleet in the log": "Pas de flotte dans le journal"
   "Origin": "Origine" # global (defined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
   "Sent fleets": ""
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
@@ -873,7 +873,7 @@ bot.settings.expeditionMessages:
   "Messages": "" # global (undefined)
   "Next": "" # global (defined)
   "No messages to show": "" # global (undefined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
   "Re-process existing messages": ""
   "alien": ""
   "delay": ""
@@ -1123,7 +1123,7 @@ bot.settings.logs:
   "Next": "Suivant" # global (defined)
   "No logs to show": "Aucun journal à afficher"
   "Phalanx": "" # global (undefined)
-  "Prev": "Précédent" # global (undefined)
+  "Prev": "Précédent" # global (defined)
   "Repatriate": "Repatriate" # global (undefined)
   "VM": ""
   "scanner": "" # global (undefined)
@@ -1140,7 +1140,7 @@ bot.settings.messages:
   "Messages": "" # global (undefined)
   "Next": "" # global (defined)
   "No messages to show": "" # global (undefined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
   "Resources": "" # global (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": ""
@@ -1204,7 +1204,7 @@ bot.settings.phalanxSession:
   "Park In That Ally": "" # global (defined)
   "Phalanx": "" # global (undefined)
   "Phalanx session": ""
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
   "Recall back at": ""
   "Recall time": ""
   "Scheduled arrive time": ""
@@ -1464,12 +1464,12 @@ captchas-icon:
 captchas-icons:
   "Icons": ""
   "Next": "" # global (defined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
 captchas-service:
   "Service": ""
 captchas:
   "Next": "" # global (defined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
   "Questions": ""
 changelog:
   "meta-description": "Changelog entre chaque version." # global (undefined)
@@ -1874,10 +1874,10 @@ pricing:
   "30 days license": "Licence de 30 jours"
   "Buy now": "Acheter maintenant"
   "Get started": "Commencer"
-  "OGame proxy": ""
+  "OGame proxy": "Proxy ogame"
   "Pricing": "Prix" # global (defined)
   "Priority Slack support": "Support Slack prioritaire"
-  "Proxies": ""
+  "Proxies": "Proxys"
   "Self-host": "Self-host"
   "Slack support": "Support Slack"
   "These are our pricing plans, if you can't quite find what you need, let us know on Slack and we'll work something out!": "Voici nos formules de tarification. Si vous ne trouvez pas exactement ce dont vous avez besoin, signalez-le-nous sur Slack et nous allons travailler quelque chose!"
@@ -1889,12 +1889,12 @@ pricing:
   "meta-description": "Tarification pour le service d'auto-hébergement et cloud. Essai gratuit de 48 heures." # global (undefined)
   "month": "mois"
   "title": "Détails des prix" # global (undefined)
-  "upgradable": ""
+  "upgradable": "peut être augmenté"
 proposal:
   "All suggestions": "Toutes les suggestions" # global (undefined)
 proposals:
   "Next": "" # global (defined)
-  "Prev": "" # global (undefined)
+  "Prev": "" # global (defined)
   "Search": "Recherche" # global (undefined)
 redeem-code:
   "Gameforge email": "" # global (undefined)
