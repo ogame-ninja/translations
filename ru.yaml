@@ -675,6 +675,7 @@ bot.settings.colonizer:
   "Minimum temperature": ""
   "Save": "" # global (undefined)
   "Systems": ""
+  "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": "Время ожидания клиента http"
@@ -1464,12 +1465,16 @@ home-slave:
   "Export bots": "" # global (undefined)
   "ID": "" # global (undefined)
   "Import bots": "" # global (undefined)
+  "Lang": "" # global (undefined)
   "New bot": "Новый Бот" # global (undefined)
   "Other actions": "Прочие Действия" # global (undefined)
   "Player name": "" # global (undefined)
   "Points": "" # global (undefined)
+  "Proxy": "" # global (undefined)
   "Rank": "" # global (undefined)
   "Reorder bots": "Расставить очередность ботов" # global (undefined)
+  "Start": "" # global (undefined)
+  "Stop": "" # global (undefined)
   "Universe": "" # global (undefined)
 home:
   "Actions": "Действия" # global (undefined)

@@ -212,12 +212,12 @@ admin.user-edit:
   "Create user": "新增使用者"
 #  "Email": "" # global (defined)
   "Is admin": "為管理者"
-  "No": "否"
+  "No": "否" # global (defined)
 #  "Password": "" # global (defined)
   "Retype password": "再次輸入密碼" # global (undefined)
   "Update user": "更新使用者"
   "Username": "使用者名稱" # global (defined)
-  "Yes": "是"
+  "Yes": "是" # global (defined)
 admin.users:
 #  "Admin": "" # global (defined)
   "Created at": "創造於" # global (undefined)
@@ -280,7 +280,7 @@ bot.empire:
 #  "Colony Ship": "" # global (defined)
 #  "Combustion Drive": "" # global (defined)
 #  "Computer Technology": "" # global (defined)
-  "Crawl": ""
+#  "Crawl": "" # global (defined)
 #  "Crawler": "" # global (defined)
   "Crawler setting": "履帶車設定"
 #  "Cruiser": "" # global (defined)
@@ -345,7 +345,7 @@ bot.empire:
   "High Performance Terraformer": ""
   "High Performance Transformer": ""
   "High Temperature Superconductors": ""
-  "Honour points": ""
+#  "Honour points": "" # global (defined)
   "Humans buildings": ""
   "Humans researches": ""
 #  "Hyperspace Drive": "" # global (defined)
@@ -355,7 +355,7 @@ bot.empire:
   "Improved Stellarator": ""
 #  "Impulse Drive": "" # global (defined)
   "Intergalactic Envoys": ""
-  "Intergalactic Research Network": ""
+#  "Intergalactic Research Network": "" # global (defined)
   "Interplanetary Analysis Network": ""
 #  "Interplanetary Missiles": "" # global (defined)
 #  "Ion Cannon": "" # global (defined)
@@ -535,7 +535,7 @@ bot.flights:
   "Planet": "行星" # global (undefined)
   "R": ""
   "Reaper": "惡魔飛船" # global (undefined)
-  "Recycle debris field": ""
+#  "Recycle debris field": "" # global (defined)
 #  "Recycler": "" # global (defined)
   "Resources to": "資源"
   "Return": "返回"
@@ -556,7 +556,7 @@ bot.flights:
 #  "Transport": "" # global (defined)
   "from": "自"
   "keep": "保留"
-  "max": ""
+#  "max": "" # global (defined)
   "mission": "任務"
   "random delay 0-10min added": "已增加隨機0-10分鐘"
   "send": "運送"
@@ -567,7 +567,7 @@ bot.flightsEdit:
   "Send all resources": "運送所有資源" # global (undefined)
   "Send all ships": "派出所有艦船"
 bot.galaxy.index:
-  "Map": "圖"
+  "Map": "圖" # global (defined)
   "Table": "表"
 bot.galaxy.map:
   "Active": "活躍" # global (undefined)
@@ -621,15 +621,15 @@ bot.galaxy.table:
   "Stop scan universe": "停止掃描宇宙"
   "Updated": "更新於" # global (undefined)
 bot.index:
-  "Bot": "機器人"
-  "Browser": ""
+  "Bot": "機器人" # global (defined)
+#  "Browser": "" # global (defined)
   "Conqueror": "征服者"
 #  "Empire": "" # global (defined)
-  "Flights": ""
+#  "Flights": "" # global (defined)
 #  "Galaxy": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Scripts": ""
-  "Simulator": ""
+#  "Scripts": "" # global (defined)
+#  "Simulator": "" # global (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (undefined)
 #  "Attack": "" # global (defined)
@@ -656,7 +656,7 @@ bot.planet:
   "Add to queue": "增加至排程"
   "Build": "建造"
   "Building": "建造中"
-  "Cargo capacity": "貨艙容量"
+  "Cargo capacity": "貨艙容量" # global (defined)
   "Current": "現在"
   "Current planet": "當今行星"
 #  "Fuel consumption": "" # global (defined)
@@ -670,15 +670,15 @@ bot.planet:
   "Price": "所需資源"
   "Queue": "排程" # global (undefined)
   "Queue tear down": "於排程中加入拆毀"
-  "Rapidfire against": ""
-  "Rapidfire from": ""
+#  "Rapidfire against": "" # global (defined)
+#  "Rapidfire from": "" # global (defined)
   "Research": ""
-  "Shield power": ""
+#  "Shield power": "" # global (defined)
 #  "Shipyard": "" # global (defined)
 #  "Speed": "" # global (defined)
-  "Structural integrity": ""
+#  "Structural integrity": "" # global (defined)
   "Sum": "總和"
-  "Weapon power": ""
+#  "Weapon power": "" # global (defined)
   "no item in queue": "排程是空的"
 bot.reorderPlanets:
 #  "Empire": "" # global (defined)
@@ -734,7 +734,7 @@ bot.report:
 #  "Recycler": "" # global (defined)
   "Report": ""
 #  "Research Lab": "" # global (defined)
-  "Research Network": ""
+#  "Research Network": "" # global (defined)
 #  "Robotics Factory": "" # global (defined)
 #  "Rocket Launcher": "" # global (defined)
 #  "Sensor Phalanx": "" # global (defined)
@@ -817,6 +817,7 @@ bot.settings.colonizer:
   "Minimum temperature": ""
   "Save": "" # global (undefined)
   "Systems": ""
+  "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -1100,11 +1101,11 @@ bot.settings.index:
 #  "Expeditions": "" # global (defined)
 #  "Farmer": "" # global (defined)
 #  "Hunter": "" # global (defined)
-  "Logs": ""
+#  "Logs": "" # global (defined)
   "Messages": "訊息" # global (undefined)
-  "Overview": "總覽"
+  "Overview": "總覽" # global (defined)
   "Phalanx": "感應陣列" # global (undefined)
-  "Scanner": "掃描者"
+  "Scanner": "掃描者" # global (defined)
 #  "Settings": "" # global (defined)
   "Sleep mode": "睡眠模式"
 #  "Start": "" # global (defined)
@@ -1431,7 +1432,7 @@ bot.simulator:
   "Moonchance": "造月機率"
   "Open in TrashSim": "於TrashSim中打開"
 #  "Pathfinder": "" # global (defined)
-  "Pathfinders": "探路者"
+  "Pathfinders": "探路者" # global (defined)
   "Planet": "行星" # global (undefined)
   "Planet/Moon": "行星/月球"
 #  "Plasma Turret": "" # global (defined)
@@ -1606,12 +1607,16 @@ home-slave:
   "Export bots": "" # global (undefined)
   "ID": "" # global (undefined)
   "Import bots": "" # global (undefined)
+  "Lang": "" # global (undefined)
   "New bot": "新機器人" # global (undefined)
   "Other actions": "其他動作" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
+  "Proxy": "" # global (undefined)
 #  "Rank": "" # global (defined)
   "Reorder bots": "重新排序機器人" # global (undefined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Universe": "" # global (undefined)
 home:
 #  "Actions": "" # global (defined)
@@ -1658,24 +1663,24 @@ index:
   "Captchas": "" # global (undefined)
   "Check again": ""
 #  "Download": "" # global (defined)
-  "FAQ": "常見問題"
-  "Features": ""
+  "FAQ": "常見問題" # global (defined)
+#  "Features": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Login": "登入"
+  "Login": "登入" # global (defined)
   "My licenses": "" # global (undefined)
   "Please": ""
 #  "Pricing": "" # global (defined)
   "Proposals": "提案"
-  "Register": ""
-  "Servers": ""
-  "Sign out": ""
+#  "Register": "" # global (defined)
+#  "Servers": "" # global (defined)
+#  "Sign out": "" # global (defined)
   "Support": "問題協助"
   "System clock is not synchronized": ""
   "Ticket support": "問題處理系統"
   "Translations": "翻譯"
-  "Your Ninja software needs to be updated.": "您的忍者需要更新"
-  "download the latest version here": "於此處下載最新版本"
-  "update your instance here": ""
+  "Your Ninja software needs to be updated.": "您的忍者需要更新" # global (defined)
+  "download the latest version here": "於此處下載最新版本" # global (defined)
+#  "update your instance here": "" # global (defined)
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": "正在初始化機器人，請稍等您將會被自動重新導向..."
 instance-actions:
@@ -2018,7 +2023,7 @@ settings.index:
   "API": "" # global (undefined)
 #  "Account": "" # global (defined)
   "Gift cards": "禮物卡" # global (undefined)
-  "Sessions": "工作階段"
+  "Sessions": "工作階段" # global (defined)
   "Subscriptions": "" # global (undefined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)

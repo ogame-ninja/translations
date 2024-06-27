@@ -317,7 +317,7 @@ admin.themes:
   "New theme": ""
   "No theme": ""
   "Themes": "" # global (undefined)
-#admin.update:
+admin.update:
 #  "Update": "" # global (defined)
   "Update to latest": "" # global (undefined)
 admin.updating:
@@ -326,12 +326,12 @@ admin.user-edit:
   "Create user": "Create user"
   "Email": "Email" # global (undefined)
   "Is admin": "Is admin"
-  "No": ""
+#  "No": "" # global (defined)
 #  "Password": "" # global (defined)
   "Retype password": "Retype password" # global (undefined)
   "Update user": "Update user"
 #  "Username": "" # global (defined)
-  "Yes": ""
+#  "Yes": "" # global (defined)
 admin.users:
 #  "Admin": "" # global (defined)
   "Created at": "Created at" # global (undefined)
@@ -361,206 +361,206 @@ bot.conqueror:
   "Get spy reports": "" # global (undefined)
   "No espionage report to show": ""
 bot.empire:
-  "Academy Of Sciences": ""
-  "Acoustic Scanning": ""
+#  "Academy Of Sciences": "" # global (defined)
+#  "Acoustic Scanning": "" # global (defined)
 #  "Actions": "" # global (defined)
   "Advanced Recycling Plant": ""
   "All": "" # global (undefined)
 #  "Alliance Depot": "" # global (defined)
 #  "Anti-Ballistic Missiles": "" # global (defined)
-  "Antimatter Condenser": ""
-  "Antimatter Convector": ""
+#  "Antimatter Condenser": "" # global (defined)
+#  "Antimatter Convector": "" # global (defined)
 #  "Are you sure?": "" # global (defined)
 #  "Armour Technology": "" # global (defined)
-  "Artificial Swarm Intelligence": ""
-  "Assembly Line": ""
+#  "Artificial Swarm Intelligence": "" # global (defined)
+#  "Assembly Line": "" # global (defined)
 #  "Astrophysics": "" # global (defined)
-  "Automated Transport Lines": ""
-  "Automatised Assembly Centre": ""
+#  "Automated Transport Lines": "" # global (defined)
+#  "Automatised Assembly Centre": "" # global (defined)
 #  "Battlecruiser": "" # global (defined)
-  "Battlecruiser MkII": ""
+#  "Battlecruiser MkII": "" # global (defined)
 #  "Battleship": "" # global (defined)
-  "Bio Modifier": ""
-  "Biosphere Farm": ""
+#  "Bio Modifier": "" # global (defined)
+#  "Biosphere Farm": "" # global (defined)
   "BiotechLab": ""
 #  "Bomber": "" # global (defined)
-  "Bomber MkII": ""
-  "Cargo Hold Expansion Civilian Ships": ""
-  "Catalyser Technology": ""
-  "Chip Mass Production": ""
-  "Chrysalis Accelerator": ""
+#  "Bomber MkII": "" # global (defined)
+#  "Cargo Hold Expansion Civilian Ships": "" # global (defined)
+#  "Catalyser Technology": "" # global (defined)
+#  "Chip Mass Production": "" # global (defined)
+#  "Chrysalis Accelerator": "" # global (defined)
   "Clear all construction queues": ""
-  "Cloning Laboratory": ""
+#  "Cloning Laboratory": "" # global (defined)
 #  "Colony Ship": "" # global (defined)
 #  "Combustion Drive": "" # global (defined)
 #  "Computer Technology": "" # global (defined)
-  "Crawl": ""
+#  "Crawl": "" # global (defined)
   "Crawler": "" # global (undefined)
   "Crawler setting": ""
 #  "Cruiser": "" # global (defined)
-  "Cruiser MkII": ""
+#  "Cruiser MkII": "" # global (defined)
 #  "Crystal": "" # global (defined)
-  "Crystal Farm": ""
+#  "Crystal Farm": "" # global (defined)
 #  "Crystal Mine": "" # global (defined)
-  "Crystal Refinery": ""
+#  "Crystal Refinery": "" # global (defined)
 #  "Crystal Storage": "" # global (defined)
   "Crystal setting": ""
 #  "Deathstar": "" # global (defined)
   "Defenses": ""
-  "Depot AI": ""
-  "Depth Sounding": ""
+#  "Depot AI": "" # global (defined)
+#  "Depth Sounding": "" # global (defined)
 #  "Destroyer": "" # global (defined)
-  "Destroyer MkII": ""
+#  "Destroyer MkII": "" # global (defined)
   "Deut synt setting": ""
 #  "Deuterium": "" # global (defined)
-  "Deuterium Synthesiser": ""
+#  "Deuterium Synthesiser": "" # global (defined)
 #  "Deuterium Synthesizer": "" # global (defined)
 #  "Deuterium Tank": "" # global (defined)
-  "Diamond Energy Transmitter": ""
-  "Disruption Chamber": ""
-  "Efficiency Module": ""
-  "Efficient Swarm Intelligence": ""
+#  "Diamond Energy Transmitter": "" # global (defined)
+#  "Disruption Chamber": "" # global (defined)
+#  "Efficiency Module": "" # global (defined)
+#  "Efficient Swarm Intelligence": "" # global (defined)
   "Energy": ""
 #  "Energy Technology": "" # global (defined)
-  "Enhanced Production Technologies": ""
-  "Enhanced Sensor Technology": ""
+#  "Enhanced Production Technologies": "" # global (defined)
+#  "Enhanced Sensor Technology": "" # global (defined)
 #  "Espionage Probe": "" # global (defined)
 #  "Espionage Technology": "" # global (defined)
-  "Experimental Recycling Technology": ""
-  "Experimental Weapons Technology": ""
+#  "Experimental Recycling Technology": "" # global (defined)
+#  "Experimental Weapons Technology": "" # global (defined)
   "Facilities": ""
   "Fields": ""
-  "Food Silo": ""
-  "Forum Of Transcendence": ""
-  "Fusion Cell Factory": ""
-  "Fusion Drives": ""
-  "Fusion Powered Production": ""
+#  "Food Silo": "" # global (defined)
+#  "Forum Of Transcendence": "" # global (defined)
+#  "Fusion Cell Factory": "" # global (defined)
+#  "Fusion Drives": "" # global (defined)
+#  "Fusion Powered Production": "" # global (defined)
 #  "Fusion Reactor": "" # global (defined)
   "Fusion reactor setting": ""
 #  "Gauss Cannon": "" # global (defined)
-  "General Overhaul Battlecruiser": ""
-  "General Overhaul Battleship": ""
-  "General Overhaul Bomber": ""
-  "General Overhaul Cruiser": ""
-  "General Overhaul Destroyer": ""
-  "General Overhaul Light Fighter": ""
-  "Geothermal Power Plants": ""
-  "Gravitation Sensors": ""
+#  "General Overhaul Battlecruiser": "" # global (defined)
+#  "General Overhaul Battleship": "" # global (defined)
+#  "General Overhaul Bomber": "" # global (defined)
+#  "General Overhaul Cruiser": "" # global (defined)
+#  "General Overhaul Destroyer": "" # global (defined)
+#  "General Overhaul Light Fighter": "" # global (defined)
+#  "Geothermal Power Plants": "" # global (defined)
+#  "Gravitation Sensors": "" # global (defined)
 #  "Graviton Technology": "" # global (defined)
-  "Halls Of Realisation": ""
-  "Hardened Diamond Drill Heads": ""
-  "Heat Recovery": ""
+#  "Halls Of Realisation": "" # global (defined)
+#  "Hardened Diamond Drill Heads": "" # global (defined)
+#  "Heat Recovery": "" # global (defined)
 #  "Heavy Fighter": "" # global (defined)
 #  "Heavy Laser": "" # global (defined)
-  "High Energy Pump Systems": ""
-  "High Energy Smelting": ""
-  "High Performance Extractors": ""
-  "High Performance Synthesiser": ""
-  "High Performance Terraformer": ""
-  "High Performance Transformer": ""
-  "High Temperature Superconductors": ""
-  "Honour points": ""
+#  "High Energy Pump Systems": "" # global (defined)
+#  "High Energy Smelting": "" # global (defined)
+#  "High Performance Extractors": "" # global (defined)
+#  "High Performance Synthesiser": "" # global (defined)
+#  "High Performance Terraformer": "" # global (defined)
+#  "High Performance Transformer": "" # global (defined)
+#  "High Temperature Superconductors": "" # global (defined)
+#  "Honour points": "" # global (defined)
   "Humans buildings": ""
   "Humans researches": ""
 #  "Hyperspace Drive": "" # global (defined)
 #  "Hyperspace Technology": "" # global (defined)
-  "Improved Drone AI": ""
-  "Improved Lab Technology": ""
-  "Improved Stellarator": ""
+#  "Improved Drone AI": "" # global (defined)
+#  "Improved Lab Technology": "" # global (defined)
+#  "Improved Stellarator": "" # global (defined)
 #  "Impulse Drive": "" # global (defined)
-  "Intergalactic Envoys": ""
-  "Intergalactic Research Network": ""
-  "Interplanetary Analysis Network": ""
+#  "Intergalactic Envoys": "" # global (defined)
+#  "Intergalactic Research Network": "" # global (defined)
+#  "Interplanetary Analysis Network": "" # global (defined)
 #  "Interplanetary Missiles": "" # global (defined)
 #  "Ion Cannon": "" # global (defined)
-  "Ion Crystal Enhancement Heavy Fighter": ""
-  "Ion Crystal Modules": ""
+#  "Ion Crystal Enhancement Heavy Fighter": "" # global (defined)
+#  "Ion Crystal Modules": "" # global (defined)
 #  "Ion Technology": "" # global (defined)
 #  "Jump Gate": "" # global (defined)
-  "Kaelesh Discoverer Enhancement": ""
+#  "Kaelesh Discoverer Enhancement": "" # global (defined)
   "Kaelesh buildings": ""
   "Kaelesh researches": ""
 #  "Large Cargo": "" # global (defined)
 #  "Large Shield Dome": "" # global (defined)
 #  "Laser Technology": "" # global (defined)
 #  "Light Fighter": "" # global (defined)
-  "Light Fighter MkII": ""
+#  "Light Fighter MkII": "" # global (defined)
 #  "Light Laser": "" # global (defined)
-  "Low Temperature Drives": ""
+#  "Low Temperature Drives": "" # global (defined)
 #  "Lunar Base": "" # global (defined)
-  "Magma Forge": ""
-  "Magma Powered Production": ""
+#  "Magma Forge": "" # global (defined)
+#  "Magma Powered Production": "" # global (defined)
   "Magma Powered PumpSystems": ""
   "MechanGeneral Enhancement": ""
   "Mechas buildings": ""
   "Mechas researches": ""
-  "Meditation Enclave": ""
-  "Megalith": ""
+#  "Meditation Enclave": "" # global (defined)
+#  "Megalith": "" # global (defined)
 #  "Metal": "" # global (defined)
 #  "Metal Mine": "" # global (defined)
 #  "Metal Storage": "" # global (defined)
   "Metal setting": ""
-  "Metropolis": ""
-  "Microchip Assembly Line": ""
-  "Mineral Research Centre": ""
+#  "Metropolis": "" # global (defined)
+#  "Microchip Assembly Line": "" # global (defined)
+#  "Mineral Research Centre": "" # global (defined)
 #  "Missile Silo": "" # global (defined)
   "Moons": ""
 #  "Nanite Factory": "" # global (defined)
-  "Nano Repair Bots": ""
-  "Neuro Calibration Centre": ""
-  "Neuro Interface": ""
-  "Neuromodal Compressor": ""
-  "Obsidian Shield Reinforcement": ""
-  "Optimised Silo Construction Method": ""
-  "Orbital Den": ""
-  "Oriktorium": ""
-  "Overclocking Battleship": ""
-  "Overclocking Heavy Fighter": ""
-  "Overclocking Large Cargo": ""
+#  "Nano Repair Bots": "" # global (defined)
+#  "Neuro Calibration Centre": "" # global (defined)
+#  "Neuro Interface": "" # global (defined)
+#  "Neuromodal Compressor": "" # global (defined)
+#  "Obsidian Shield Reinforcement": "" # global (defined)
+#  "Optimised Silo Construction Method": "" # global (defined)
+#  "Orbital Den": "" # global (defined)
+#  "Oriktorium": "" # global (defined)
+#  "Overclocking Battleship": "" # global (defined)
+#  "Overclocking Heavy Fighter": "" # global (defined)
+#  "Overclocking Large Cargo": "" # global (defined)
   "Pathfinder": "" # global (undefined)
-  "Planetary Shield": ""
+#  "Planetary Shield": "" # global (defined)
   "Planets": ""
-  "Plasma Drive": ""
+#  "Plasma Drive": "" # global (defined)
 #  "Plasma Technology": "" # global (defined)
-  "Plasma Terraformer": ""
+#  "Plasma Terraformer": "" # global (defined)
 #  "Plasma Turret": "" # global (defined)
 #  "Points": "" # global (defined)
-  "Production Assembly Hall": ""
-  "Psionic Modulator": ""
-  "Psionic Network": ""
-  "Psionic Shield Matrix": ""
-  "Psychoharmoniser": ""
-  "Quantum Computer Centre": ""
+#  "Production Assembly Hall": "" # global (defined)
+#  "Psionic Modulator": "" # global (defined)
+#  "Psionic Network": "" # global (defined)
+#  "Psionic Shield Matrix": "" # global (defined)
+#  "Psychoharmoniser": "" # global (defined)
+#  "Quantum Computer Centre": "" # global (defined)
 #  "Rank": "" # global (defined)
   "Reaper": "" # global (undefined)
 #  "Recycler": "" # global (defined)
   "Reorder planets": "" # global (undefined)
-  "Research AI": ""
-  "Research Centre": ""
+#  "Research AI": "" # global (defined)
+#  "Research Centre": "" # global (defined)
 #  "Research Lab": "" # global (defined)
-  "Residential Sector": ""
+#  "Residential Sector": "" # global (defined)
   "Resources": "" # global (undefined)
-  "Robot Assistants": ""
+#  "Robot Assistants": "" # global (defined)
 #  "Robotics Factory": "" # global (defined)
-  "Robotics Research Centre": ""
+#  "Robotics Research Centre": "" # global (defined)
 #  "Rocket Launcher": "" # global (defined)
-  "Rocktal Collector Enhancement": ""
+#  "Rocktal Collector Enhancement": "" # global (defined)
   "Rocktal buildings": ""
   "Rocktal researches": ""
-  "Rune Forge": ""
-  "Rune Shields": ""
-  "Rune Technologium": ""
-  "Sanctuary": ""
-  "Seismic Mining Technology": ""
+#  "Rune Forge": "" # global (defined)
+#  "Rune Shields": "" # global (defined)
+#  "Rune Technologium": "" # global (defined)
+#  "Sanctuary": "" # global (defined)
+#  "Seismic Mining Technology": "" # global (defined)
 #  "Sensor Phalanx": "" # global (defined)
 #  "Settings": "" # global (defined)
 #  "Shielding Technology": "" # global (defined)
-  "Ship Manufacturing Hall": ""
+#  "Ship Manufacturing Hall": "" # global (defined)
   "Ships": "" # global (undefined)
 #  "Shipyard": "" # global (defined)
-  "Sixth Sense": ""
-  "Skyscraper": ""
-  "Slingshot Autopilot": ""
+#  "Sixth Sense": "" # global (defined)
+#  "Skyscraper": "" # global (defined)
+#  "Slingshot Autopilot": "" # global (defined)
 #  "Small Cargo": "" # global (defined)
 #  "Small Shield Dome": "" # global (defined)
 #  "Solar Plant": "" # global (defined)
@@ -568,18 +568,18 @@ bot.empire:
   "Solar plant setting": ""
   "Solar sat setting": ""
 #  "Space Dock": "" # global (defined)
-  "Stealth Field Generator": ""
-  "Sulphide Process": ""
-  "Supercomputer": ""
+#  "Stealth Field Generator": "" # global (defined)
+#  "Sulphide Process": "" # global (defined)
+#  "Supercomputer": "" # global (defined)
   "Supplies": ""
   "Supra Refractor": ""
-  "Telekinetic Drive": ""
-  "Telekinetic Tractor Beam": ""
+#  "Telekinetic Drive": "" # global (defined)
+#  "Telekinetic Tractor Beam": "" # global (defined)
 #  "Terraformer": "" # global (defined)
-  "Update Network": ""
+#  "Update Network": "" # global (defined)
   "Updated at": ""
-  "Volcanic Batteries": ""
-  "Vortex Chamber": ""
+#  "Volcanic Batteries": "" # global (defined)
+#  "Vortex Chamber": "" # global (defined)
 #  "Weapons Technology": "" # global (defined)
 bot.flights:
 #  "Actions": "" # global (defined)
@@ -649,7 +649,7 @@ bot.flights:
   "Planet": "Planet" # global (undefined)
   "R": ""
   "Reaper": "" # global (undefined)
-  "Recycle debris field": ""
+#  "Recycle debris field": "" # global (defined)
 #  "Recycler": "" # global (defined)
   "Resources to": ""
   "Return": ""
@@ -670,7 +670,7 @@ bot.flights:
 #  "Transport": "" # global (defined)
   "from": "from"
   "keep": ""
-  "max": ""
+#  "max": "" # global (defined)
   "mission": "mission"
   "random delay 0-10min added": ""
   "send": ""
@@ -680,9 +680,9 @@ bot.flightsEdit:
   "Homeworld": "" # global (undefined)
   "Send all resources": "" # global (undefined)
   "Send all ships": ""
-bot.galaxy.index:
-  "Map": ""
-  "Table": ""
+#bot.galaxy.index:
+#  "Map": "" # global (defined)
+#  "Table": "" # global (defined)
 bot.galaxy.map:
   "Active": "Active" # global (undefined)
   "Coord": "Coord"
@@ -735,15 +735,15 @@ bot.galaxy.table:
   "Stop scan universe": "Stop scan universe"
   "Updated": "Updated" # global (undefined)
 bot.index:
-  "Bot": ""
-  "Browser": ""
+#  "Bot": "" # global (defined)
+#  "Browser": "" # global (defined)
   "Conqueror": ""
 #  "Empire": "" # global (defined)
-  "Flights": ""
+#  "Flights": "" # global (defined)
 #  "Galaxy": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Scripts": ""
-  "Simulator": ""
+#  "Scripts": "" # global (defined)
+#  "Simulator": "" # global (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (undefined)
 #  "Attack": "" # global (defined)
@@ -770,7 +770,7 @@ bot.planet:
   "Add to queue": "Add to queue"
   "Build": "Build"
   "Building": "Building"
-  "Cargo capacity": ""
+#  "Cargo capacity": "" # global (defined)
   "Current": "Current"
   "Current planet": "Current planet"
 #  "Fuel consumption": "" # global (defined)
@@ -784,15 +784,15 @@ bot.planet:
   "Price": "Price"
   "Queue": "Queue" # global (undefined)
   "Queue tear down": ""
-  "Rapidfire against": ""
-  "Rapidfire from": ""
+#  "Rapidfire against": "" # global (defined)
+#  "Rapidfire from": "" # global (defined)
   "Research": "Research"
-  "Shield power": ""
+#  "Shield power": "" # global (defined)
 #  "Shipyard": "" # global (defined)
 #  "Speed": "" # global (defined)
-  "Structural integrity": ""
+#  "Structural integrity": "" # global (defined)
   "Sum": "Sum"
-  "Weapon power": ""
+#  "Weapon power": "" # global (defined)
   "no item in queue": "no item in queue"
 bot.reorderPlanets:
 #  "Empire": "" # global (defined)
@@ -848,7 +848,7 @@ bot.report:
 #  "Recycler": "" # global (defined)
   "Report": "Report"
 #  "Research Lab": "" # global (defined)
-  "Research Network": ""
+#  "Research Network": "" # global (defined)
 #  "Robotics Factory": "" # global (defined)
 #  "Rocket Launcher": "" # global (defined)
 #  "Sensor Phalanx": "" # global (defined)
@@ -931,6 +931,7 @@ bot.settings.colonizer:
   "Minimum temperature": ""
   "Save": "" # global (undefined)
   "Systems": ""
+  "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -1214,11 +1215,11 @@ bot.settings.index:
   "Expeditions": "" # global (undefined)
 #  "Farmer": "" # global (defined)
 #  "Hunter": "" # global (defined)
-  "Logs": ""
+#  "Logs": "" # global (defined)
   "Messages": "" # global (undefined)
-  "Overview": ""
+#  "Overview": "" # global (defined)
   "Phalanx": "" # global (undefined)
-  "Scanner": ""
+#  "Scanner": "" # global (defined)
 #  "Settings": "" # global (defined)
   "Sleep mode": ""
 #  "Start": "" # global (defined)
@@ -1720,12 +1721,16 @@ home-slave:
   "Export bots": "" # global (undefined)
   "ID": "" # global (undefined)
   "Import bots": "" # global (undefined)
+  "Lang": "" # global (undefined)
   "New bot": "" # global (undefined)
   "Other actions": "" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
+  "Proxy": "" # global (undefined)
 #  "Rank": "" # global (defined)
   "Reorder bots": "" # global (undefined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Universe": "" # global (undefined)
 home:
 #  "Actions": "" # global (defined)
@@ -1772,24 +1777,24 @@ index:
   "Captchas": "" # global (undefined)
   "Check again": ""
 #  "Download": "" # global (defined)
-  "FAQ": ""
-  "Features": ""
+#  "FAQ": "" # global (defined)
+#  "Features": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Login": ""
+#  "Login": "" # global (defined)
   "My licenses": "" # global (undefined)
   "Please": ""
 #  "Pricing": "" # global (defined)
   "Proposals": ""
-  "Register": ""
-  "Servers": ""
-  "Sign out": ""
+#  "Register": "" # global (defined)
+#  "Servers": "" # global (defined)
+#  "Sign out": "" # global (defined)
   "Support": ""
   "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
-  "Your Ninja software needs to be updated.": ""
-  "download the latest version here": ""
-  "update your instance here": ""
+#  "Your Ninja software needs to be updated.": "" # global (defined)
+#  "download the latest version here": "" # global (defined)
+#  "update your instance here": "" # global (defined)
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": ""
 instance-actions:
@@ -2132,7 +2137,7 @@ settings.index:
   "API": "" # global (undefined)
 #  "Account": "" # global (defined)
   "Gift cards": "" # global (undefined)
-  "Sessions": ""
+#  "Sessions": "" # global (defined)
   "Subscriptions": "" # global (undefined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)

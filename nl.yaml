@@ -197,7 +197,7 @@ admin.themes:
   "New theme": ""
   "No theme": ""
   "Themes": "" # global (undefined)
-#admin.update:
+admin.update:
 #  "Update": "" # global (defined)
   "Update to latest": "" # global (undefined)
 admin.updating:
@@ -206,12 +206,12 @@ admin.user-edit:
   "Create user": "Maak gebruiker aan"
   "Email": "Email" # global (undefined)
   "Is admin": "Is beheerder"
-  "No": ""
+#  "No": "" # global (defined)
 #  "Password": "" # global (defined)
   "Retype password": "Geef nogmaals het wachtwoord" # global (undefined)
   "Update user": "Update gebruiker"
 #  "Username": "" # global (defined)
-  "Yes": ""
+#  "Yes": "" # global (defined)
 admin.users:
   "Admin": "Beheerder" # global (defined)
   "Created at": "Aangemaakt op" # global (undefined)
@@ -274,7 +274,7 @@ bot.empire:
 #  "Colony Ship": "" # global (defined)
 #  "Combustion Drive": "" # global (defined)
 #  "Computer Technology": "" # global (defined)
-  "Crawl": ""
+#  "Crawl": "" # global (defined)
   "Crawler": "" # global (undefined)
   "Crawler setting": ""
 #  "Cruiser": "" # global (defined)
@@ -339,7 +339,7 @@ bot.empire:
   "High Performance Terraformer": ""
   "High Performance Transformer": ""
   "High Temperature Superconductors": ""
-  "Honour points": ""
+#  "Honour points": "" # global (defined)
   "Humans buildings": ""
   "Humans researches": ""
 #  "Hyperspace Drive": "" # global (defined)
@@ -349,7 +349,7 @@ bot.empire:
   "Improved Stellarator": ""
 #  "Impulse Drive": "" # global (defined)
   "Intergalactic Envoys": ""
-  "Intergalactic Research Network": ""
+#  "Intergalactic Research Network": "" # global (defined)
   "Interplanetary Analysis Network": ""
 #  "Interplanetary Missiles": "" # global (defined)
 #  "Ion Cannon": "" # global (defined)
@@ -529,7 +529,7 @@ bot.flights:
   "Planet": "Planeet" # global (undefined)
   "R": ""
   "Reaper": "" # global (undefined)
-  "Recycle debris field": ""
+#  "Recycle debris field": "" # global (defined)
 #  "Recycler": "" # global (defined)
   "Resources to": ""
   "Return": ""
@@ -550,7 +550,7 @@ bot.flights:
 #  "Transport": "" # global (defined)
   "from": "Van"
   "keep": ""
-  "max": ""
+#  "max": "" # global (defined)
   "mission": "Missie"
   "random delay 0-10min added": ""
   "send": ""
@@ -560,9 +560,9 @@ bot.flightsEdit:
   "Homeworld": "" # global (undefined)
   "Send all resources": "" # global (undefined)
   "Send all ships": ""
-bot.galaxy.index:
-  "Map": ""
-  "Table": ""
+#bot.galaxy.index:
+#  "Map": "" # global (defined)
+#  "Table": "" # global (defined)
 bot.galaxy.map:
   "Active": "Actief" # global (undefined)
   "Coord": "Coördinaten"
@@ -615,15 +615,15 @@ bot.galaxy.table:
   "Stop scan universe": "Stop scan universum"
   "Updated": "Geupdate" # global (undefined)
 bot.index:
-  "Bot": ""
-  "Browser": ""
+#  "Bot": "" # global (defined)
+#  "Browser": "" # global (defined)
   "Conqueror": ""
 #  "Empire": "" # global (defined)
-  "Flights": ""
+#  "Flights": "" # global (defined)
 #  "Galaxy": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Scripts": ""
-  "Simulator": ""
+#  "Scripts": "" # global (defined)
+#  "Simulator": "" # global (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (undefined)
 #  "Attack": "" # global (defined)
@@ -650,7 +650,7 @@ bot.planet:
   "Add to queue": "Voeg toe aan wachtrij"
   "Build": "Bouw"
   "Building": "Gebouw"
-  "Cargo capacity": ""
+#  "Cargo capacity": "" # global (defined)
   "Current": "Huidige"
   "Current planet": "Huidige planeet"
 #  "Fuel consumption": "" # global (defined)
@@ -664,15 +664,15 @@ bot.planet:
   "Price": "Prijs"
   "Queue": "Wachtrij" # global (undefined)
   "Queue tear down": ""
-  "Rapidfire against": ""
-  "Rapidfire from": ""
+#  "Rapidfire against": "" # global (defined)
+#  "Rapidfire from": "" # global (defined)
   "Research": "Onderzoek"
-  "Shield power": ""
+#  "Shield power": "" # global (defined)
 #  "Shipyard": "" # global (defined)
 #  "Speed": "" # global (defined)
-  "Structural integrity": ""
+#  "Structural integrity": "" # global (defined)
   "Sum": "Som"
-  "Weapon power": ""
+#  "Weapon power": "" # global (defined)
   "no item in queue": "Geen item in wachtrij"
 bot.reorderPlanets:
 #  "Empire": "" # global (defined)
@@ -728,7 +728,7 @@ bot.report:
 #  "Recycler": "" # global (defined)
   "Report": "Rapport"
 #  "Research Lab": "" # global (defined)
-  "Research Network": ""
+#  "Research Network": "" # global (defined)
 #  "Robotics Factory": "" # global (defined)
 #  "Rocket Launcher": "" # global (defined)
 #  "Sensor Phalanx": "" # global (defined)
@@ -811,6 +811,7 @@ bot.settings.colonizer:
   "Minimum temperature": ""
   "Save": "" # global (undefined)
   "Systems": ""
+  "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -1094,11 +1095,11 @@ bot.settings.index:
   "Expeditions": "" # global (undefined)
 #  "Farmer": "" # global (defined)
 #  "Hunter": "" # global (defined)
-  "Logs": ""
+#  "Logs": "" # global (defined)
   "Messages": "" # global (undefined)
-  "Overview": ""
+#  "Overview": "" # global (defined)
   "Phalanx": "" # global (undefined)
-  "Scanner": ""
+#  "Scanner": "" # global (defined)
 #  "Settings": "" # global (defined)
   "Sleep mode": ""
 #  "Start": "" # global (defined)
@@ -1600,12 +1601,16 @@ home-slave:
   "Export bots": "" # global (undefined)
   "ID": "" # global (undefined)
   "Import bots": "" # global (undefined)
+  "Lang": "" # global (undefined)
   "New bot": "" # global (undefined)
   "Other actions": "" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
+  "Proxy": "" # global (undefined)
 #  "Rank": "" # global (defined)
   "Reorder bots": "" # global (undefined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Universe": "" # global (undefined)
 home:
 #  "Actions": "" # global (defined)
@@ -1652,22 +1657,22 @@ index:
   "Captchas": "" # global (undefined)
   "Check again": ""
 #  "Download": "" # global (defined)
-  "FAQ": ""
-  "Features": ""
+#  "FAQ": "" # global (defined)
+#  "Features": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Login": ""
+#  "Login": "" # global (defined)
   "My licenses": "" # global (undefined)
   "Please": ""
 #  "Pricing": "" # global (defined)
   "Proposals": ""
-  "Register": ""
-  "Servers": ""
-  "Sign out": ""
+#  "Register": "" # global (defined)
+#  "Servers": "" # global (defined)
+#  "Sign out": "" # global (defined)
   "Support": ""
   "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
-  "Your Ninja software needs to be updated.": ""
+#  "Your Ninja software needs to be updated.": "" # global (defined)
   "download the latest version here": ""
   "update your instance here": ""
 initialization:
@@ -2012,7 +2017,7 @@ settings.index:
   "API": "" # global (undefined)
 #  "Account": "" # global (defined)
   "Gift cards": "" # global (undefined)
-  "Sessions": ""
+#  "Sessions": "" # global (defined)
   "Subscriptions": "" # global (undefined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)

@@ -251,12 +251,12 @@ admin.user-edit:
   "Create user": "Benutzer erstellen"
 #  "Email": "" # global (defined)
   "Is admin": "Ist Admin"
-  "No": ""
+#  "No": "" # global (defined)
 #  "Password": "" # global (defined)
   "Retype password": "Passwort wiederholen" # global (undefined)
   "Update user": "Benutzer aktualisieren"
 #  "Username": "" # global (defined)
-  "Yes": ""
+#  "Yes": "" # global (defined)
 admin.users:
 #  "Admin": "" # global (defined)
 #  "Created at": "" # global (defined)
@@ -319,7 +319,7 @@ bot.empire:
 #  "Colony Ship": "" # global (defined)
 #  "Combustion Drive": "" # global (defined)
 #  "Computer Technology": "" # global (defined)
-  "Crawl": "Daten aktualisieren"
+  "Crawl": "Daten aktualisieren" # global (defined)
   "Crawler": "" # global (undefined)
   "Crawler setting": ""
 #  "Cruiser": "" # global (defined)
@@ -384,7 +384,7 @@ bot.empire:
   "High Performance Terraformer": ""
   "High Performance Transformer": ""
   "High Temperature Superconductors": ""
-  "Honour points": ""
+#  "Honour points": "" # global (defined)
   "Humans buildings": ""
   "Humans researches": ""
 #  "Hyperspace Drive": "" # global (defined)
@@ -394,7 +394,7 @@ bot.empire:
   "Improved Stellarator": ""
 #  "Impulse Drive": "" # global (defined)
   "Intergalactic Envoys": ""
-  "Intergalactic Research Network": ""
+#  "Intergalactic Research Network": "" # global (defined)
   "Interplanetary Analysis Network": ""
 #  "Interplanetary Missiles": "" # global (defined)
 #  "Ion Cannon": "" # global (defined)
@@ -574,7 +574,7 @@ bot.flights:
 #  "Planet": "" # global (defined)
   "R": ""
 #  "Reaper": "" # global (defined)
-  "Recycle debris field": "Trümmerfeld abbauen"
+  "Recycle debris field": "Trümmerfeld abbauen" # global (defined)
 #  "Recycler": "" # global (defined)
   "Resources to": ""
   "Return": "Rückkehr"
@@ -595,7 +595,7 @@ bot.flights:
 #  "Transport": "" # global (defined)
   "from": "von"
   "keep": ""
-  "max": "max"
+  "max": "max" # global (defined)
   "mission": "Mission"
   "random delay 0-10min added": "zufallsverzögerung 0-10 min ergänzt"
   "send": ""
@@ -606,8 +606,8 @@ bot.flightsEdit:
   "Send all resources": "" # global (undefined)
   "Send all ships": ""
 bot.galaxy.index:
-  "Map": "Karte"
-  "Table": "Tabelle"
+  "Map": "Karte" # global (defined)
+  "Table": "Tabelle" # global (defined)
 bot.galaxy.map:
 #  "Active": "" # global (defined)
   "Coord": "Koordinaten"
@@ -660,15 +660,15 @@ bot.galaxy.table:
   "Stop scan universe": "Scan anhalten"
 #  "Updated": "" # global (defined)
 bot.index:
-  "Bot": ""
-  "Browser": ""
+#  "Bot": "" # global (defined)
+#  "Browser": "" # global (defined)
   "Conqueror": "Eroberer"
 #  "Empire": "" # global (defined)
-  "Flights": "Flüge"
+  "Flights": "Flüge" # global (defined)
 #  "Galaxy": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Scripts": "Skripte"
-  "Simulator": "Simulator"
+  "Scripts": "Skripte" # global (defined)
+  "Simulator": "Simulator" # global (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (undefined)
 #  "Attack": "" # global (defined)
@@ -695,7 +695,7 @@ bot.planet:
   "Add to queue": "Zur Warteschlange hinzufügen"
   "Build": "Bauen"
   "Building": "Baut"
-  "Cargo capacity": "Transporter Laderaum"
+  "Cargo capacity": "Transporter Laderaum" # global (defined)
   "Current": "Aktuell"
   "Current planet": "Aktueller Planet"
 #  "Fuel consumption": "" # global (defined)
@@ -709,15 +709,15 @@ bot.planet:
   "Price": "Kosten"
 #  "Queue": "" # global (defined)
   "Queue tear down": "Abriss in Warteschlange"
-  "Rapidfire against": "Rapidfire gegen"
-  "Rapidfire from": "Rapidfire von"
+  "Rapidfire against": "Rapidfire gegen" # global (defined)
+  "Rapidfire from": "Rapidfire von" # global (defined)
   "Research": "Forschung"
-  "Shield power": "Schildstärke"
+  "Shield power": "Schildstärke" # global (defined)
 #  "Shipyard": "" # global (defined)
 #  "Speed": "" # global (defined)
-  "Structural integrity": "Strukturpunkte"
+  "Structural integrity": "Strukturpunkte" # global (defined)
   "Sum": "Summe"
-  "Weapon power": "Angriffswert"
+  "Weapon power": "Angriffswert" # global (defined)
   "no item in queue": "Nichts in der Warteschlange"
 #bot.reorderPlanets:
 #  "Empire": "" # global (defined)
@@ -773,7 +773,7 @@ bot.report:
 #  "Recycler": "" # global (defined)
   "Report": "Bericht"
 #  "Research Lab": "" # global (defined)
-  "Research Network": "Intergalaktisches Forschungsnetzwerk"
+  "Research Network": "Intergalaktisches Forschungsnetzwerk" # global (defined)
 #  "Robotics Factory": "" # global (defined)
 #  "Rocket Launcher": "" # global (defined)
 #  "Sensor Phalanx": "" # global (defined)
@@ -856,6 +856,7 @@ bot.settings.colonizer:
   "Minimum temperature": ""
   "Save": "" # global (undefined)
   "Systems": ""
+  "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -954,7 +955,7 @@ bot.settings.expeditions:
 #  "Destination": "" # global (defined)
 #  "Destroy": "" # global (defined)
 #  "Destroyer": "" # global (defined)
-  "Duration": ""
+#  "Duration": "" # global (defined)
 #  "Espionage Probe": "" # global (defined)
 #  "Exp": "" # global (defined)
 #  "Expedition": "" # global (defined)
@@ -1139,11 +1140,11 @@ bot.settings.index:
   "Expeditions": "" # global (undefined)
 #  "Farmer": "" # global (defined)
 #  "Hunter": "" # global (defined)
-  "Logs": ""
+#  "Logs": "" # global (defined)
 #  "Messages": "" # global (defined)
-  "Overview": "Übersicht"
+  "Overview": "Übersicht" # global (defined)
   "Phalanx": "" # global (undefined)
-  "Scanner": ""
+#  "Scanner": "" # global (defined)
 #  "Settings": "" # global (defined)
   "Sleep mode": "Schlafmodus"
 #  "Start": "" # global (defined)
@@ -1645,12 +1646,16 @@ home-slave:
   "Export bots": "" # global (undefined)
   "ID": "" # global (undefined)
   "Import bots": "" # global (undefined)
+  "Lang": "" # global (undefined)
   "New bot": "" # global (undefined)
   "Other actions": "" # global (undefined)
 #  "Player name": "" # global (defined)
 #  "Points": "" # global (defined)
+  "Proxy": "" # global (undefined)
 #  "Rank": "" # global (defined)
   "Reorder bots": "" # global (undefined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Universe": "" # global (undefined)
 home:
 #  "Actions": "" # global (defined)
@@ -1697,24 +1702,24 @@ index:
   "Captchas": "" # global (undefined)
   "Check again": ""
 #  "Download": "" # global (defined)
-  "FAQ": ""
-  "Features": ""
+#  "FAQ": "" # global (defined)
+#  "Features": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Login": ""
+#  "Login": "" # global (defined)
   "My licenses": "" # global (undefined)
   "Please": ""
 #  "Pricing": "" # global (defined)
   "Proposals": ""
-  "Register": ""
-  "Servers": ""
-  "Sign out": ""
+#  "Register": "" # global (defined)
+#  "Servers": "" # global (defined)
+#  "Sign out": "" # global (defined)
   "Support": ""
   "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
-  "Your Ninja software needs to be updated.": ""
-  "download the latest version here": ""
-  "update your instance here": ""
+#  "Your Ninja software needs to be updated.": "" # global (defined)
+#  "download the latest version here": "" # global (defined)
+#  "update your instance here": "" # global (defined)
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": ""
 instance-actions:
@@ -2057,7 +2062,7 @@ settings.index:
   "API": "" # global (undefined)
 #  "Account": "" # global (defined)
   "Gift cards": "" # global (undefined)
-  "Sessions": ""
+#  "Sessions": "" # global (defined)
   "Subscriptions": "" # global (undefined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)

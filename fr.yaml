@@ -5,6 +5,7 @@ global:
   "Admin": "Admin"
   "Alliance Depot": "Dépôt de ravitaillement"
   "Anti-Ballistic Missiles": "Missile d`interception"
+  "Arch": "Arch"
   "Are you sure?": "Êtes-vous sûr?"
   "Armour Technology": "Technologie Protection des vaisseaux spatiaux"
   "Arrive in": "Arrive dans"
@@ -24,10 +25,12 @@ global:
   "Computer Technology": "Technologie Ordinateur"
   "Crawl": "Crawl"
   "Created at": "Créé le"
+  "Credit or debit card": "Carte de crédit ou de débit"
   "Cruiser": "Croiseur"
   "Crystal": "Cristal"
   "Crystal Mine": "Mine de cristal"
   "Crystal Storage": "Hangar de cristal"
+  "Current license valid until": "Licence actuelle valable jusqu'au"
   "Deathstar": "Étoile de la mort"
   "Defender": "Defender"
   "Destination": "Destination"
@@ -37,6 +40,7 @@ global:
   "Deuterium Synthesizer": "Synthétiseur de deutérium"
   "Deuterium Tank": "Réservoir de deutérium"
   "Download": "Télécharger"
+  "Downloads": "Téléchargements"
   "Empire": "Empire"
   "Energy Technology": "Technologie énergétique"
   "Espionage Probe": "Sonde d'espionnage"
@@ -46,10 +50,13 @@ global:
   "FAQ": "FAQ"
   "Farmer": "Farmer"
   "Features": "Fonctionnalités"
+  "File name": "Nom de fichier"
   "Flights": "Vols"
   "Fuel consumption": "Consommation de carburant"
   "Fusion Reactor": "Centrale électrique de fusion"
   "Galaxy": "Galaxie"
+  "Gameforge email": "Email Gameforge"
+  "Gameforge password": "Mot de passe Gameforge"
   "Gauss Cannon": "Canon de Gauss"
   "Graviton Technology": "Technologie Graviton"
   "Grouped Attack": "Attaque groupée"
@@ -57,6 +64,7 @@ global:
   "Heavy Fighter": "Chasseur lourd"
   "Heavy Laser": "Artillerie laser lourde"
   "Home": "Accueil"
+  "Homeworld": "Planète mère"
   "Honour points": "Points honorifiques"
   "Hotkeys": "Raccourcis clavier"
   "Hunter": "Hunter"
@@ -88,14 +96,21 @@ global:
   "My licenses": "Mes licences"
   "Nanite Factory": "Usine de nanites"
   "New license": "Nouvelle licence"
+  "New license valid until": "Nouvelle licence valable jusqu'au"
+  "New server": "Nouveau serveur"
   "Next": "Suivant"
   "No": "Non"
+  "No files to display": "Aucun fichier à afficher"
+  "No fleets": "Aucune flotte"
+  "OS": "OS"
   "Origin": "Origine"
   "Overview": "Overview"
   "Park": "Stationnement"
   "Park In That Ally": "Se garer chez cet allié"
   "Password": "Mot de passe"
   "Pathfinder": "Éclaireur"
+  "Pay with Credit/debit card": "Payer avec une carte de crédit/débit"
+  "Pay with paypal": "Payer avec PayPal"
   "Plasma Technology": "Technologie Plasma"
   "Plasma Turret": "Lanceur de plasma"
   "Points": "Points"
@@ -109,14 +124,17 @@ global:
   "Recycler": "Recycleur"
   "Redo": "Refaire"
   "Register": "S'inscrire"
+  "Renew instance": "Renouveler l'instance"
   "Reorder bots": "Réorganiser les robots"
   "Research Lab": "Laboratoire de recherche"
   "Research Network": "Réseau de recherche intergalactique"
+  "Retype password": "Retaper le mot de passe"
   "Robotics Factory": "Usine de robots"
   "Rocket Launcher": "Lanceur de missiles"
   "Save": "Sauvegarder"
   "Scanner": "Scanner"
   "Scripts": "Scripts"
+  "Search": "Recherche"
   "Sensor Phalanx": "Sensor Phalanx"
   "Servers": "Serveurs"
   "Sessions": "Sessions"
@@ -127,6 +145,8 @@ global:
   "Sign in": "Se connecter"
   "Sign out": "Déconnexion"
   "Simulator": "Simulateur"
+  "Size": "Taille"
+  "Sleep Mode": "Mode veille"
   "Small Cargo": "Petit transporteur"
   "Small Shield Dome": "Petit bouclier"
   "Solar Plant": "Centrale électrique solaire"
@@ -137,20 +157,27 @@ global:
   "Start": "Démarrer"
   "Stop": "Arrêtez"
   "Structural integrity": "Points de structure"
+  "Subscribe": "S'abonner"
   "Subscriptions": "Abonnements"
   "Table": "Table"
   "Terraformer": "Terraformeur"
   "Transport": "Transport"
+  "Universe": "Univers"
+  "Unlimited": "Illimitée"
   "Update": "Mettre à jour"
   "Username": "Nom d'utilisateur"
   "Users": "Utilisateurs"
+  "Verify": "Vérifier"
   "Weapon power": "Valeur d`attaque"
   "Weapons Technology": "Technologie Armes"
   "Yes": "Oui"
   "Your Ninja software needs to be updated.": "Votre logiciel doit être mis à jour."
   "download the latest version here": "télécharger la dernière version ici"
   "max": "max"
+  "proxy login requests only": "proxy les requêtes d'authentification seulement"
+  "unlimited": "illimitée"
   "update your instance here": "mettre à jour votre instance ici"
+  "we are using": "nous utilisons"
 #admin.bots:
 #  "Are you sure?": "" # global (defined)
 admin.index:
@@ -173,7 +200,7 @@ admin.license:
   "UUID": "" # global (undefined)
   "Upload": "" # global (undefined)
   "Upload file": "Téléverser un fichier"
-  "unlimited": "illimitée" # global (undefined)
+#  "unlimited": "" # global (defined)
 admin.login-history:
 #  "Created at": "" # global (defined)
   "Deleted at": "Supprimé le"
@@ -221,12 +248,12 @@ admin.user-edit:
   "Create user": "Créer un utilisateur"
   "Email": "Email" # global (undefined)
   "Is admin": "Est admin"
-  "No": ""
+#  "No": "" # global (defined)
 #  "Password": "" # global (defined)
-  "Retype password": "Retaper le mot de passe" # global (undefined)
+#  "Retype password": "" # global (defined)
   "Update user": "Mettre à jour l'utilisateur"
 #  "Username": "" # global (defined)
-  "Yes": "Oui"
+  "Yes": "Oui" # global (defined)
 admin.users:
   "Admin": "Administrateur" # global (defined)
 #  "Created at": "" # global (defined)
@@ -236,13 +263,13 @@ admin.users:
 #  "Users": "" # global (defined)
   "Verified": "Vérifié"
 antigame:
-  "Arch": "" # global (undefined)
-  "Downloads": "" # global (undefined)
-  "File name": "" # global (undefined)
-  "No files to display": "" # global (undefined)
-  "OS": "" # global (undefined)
+#  "Arch": "" # global (defined)
+#  "Downloads": "" # global (defined)
+#  "File name": "" # global (defined)
+#  "No files to display": "" # global (defined)
+#  "OS": "" # global (defined)
   "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
+#  "Size": "" # global (defined)
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
 bot.browser:
@@ -289,7 +316,7 @@ bot.empire:
 #  "Colony Ship": "" # global (defined)
 #  "Combustion Drive": "" # global (defined)
 #  "Computer Technology": "" # global (defined)
-  "Crawl": ""
+#  "Crawl": "" # global (defined)
   "Crawler": "" # global (undefined)
   "Crawler setting": ""
 #  "Cruiser": "" # global (defined)
@@ -354,7 +381,7 @@ bot.empire:
   "High Performance Terraformer": ""
   "High Performance Transformer": ""
   "High Temperature Superconductors": ""
-  "Honour points": ""
+#  "Honour points": "" # global (defined)
   "Humans buildings": ""
   "Humans researches": ""
 #  "Hyperspace Drive": "" # global (defined)
@@ -364,7 +391,7 @@ bot.empire:
   "Improved Stellarator": ""
 #  "Impulse Drive": "" # global (defined)
   "Intergalactic Envoys": ""
-  "Intergalactic Research Network": ""
+#  "Intergalactic Research Network": "" # global (defined)
   "Interplanetary Analysis Network": ""
 #  "Interplanetary Missiles": "" # global (defined)
 #  "Ion Cannon": "" # global (defined)
@@ -518,10 +545,10 @@ bot.flights:
   "Flight": "Vol"
   "Fuel": "Carburant"
 #  "Grouped Attack": "" # global (defined)
-  "Grouped attack": ""
+  "Grouped attack": "Attaque groupée"
 #  "Harvest": "" # global (defined)
 #  "Heavy Fighter": "" # global (defined)
-  "Homeworld": "" # global (undefined)
+#  "Homeworld": "" # global (defined)
   "Jump gate": "Porte de saut"
   "LC": "GT"
 #  "Large Cargo": "" # global (defined)
@@ -531,7 +558,7 @@ bot.flights:
 #  "Mission": "" # global (defined)
   "Moon": "Lune" # global (undefined)
   "No cron job at the moment": "Pas de job cron pour le moment"
-  "No fleets": "Pas de flotte" # global (undefined)
+#  "No fleets": "" # global (defined)
   "No saved flights": "Aucun vol enregistré"
   "No scheduled flights": ""
   "None": "Aucun" # global (undefined)
@@ -544,7 +571,7 @@ bot.flights:
   "Planet": "Planète" # global (undefined)
   "R": ""
   "Reaper": "" # global (undefined)
-  "Recycle debris field": ""
+#  "Recycle debris field": "" # global (defined)
 #  "Recycler": "" # global (defined)
   "Resources to": ""
   "Return": ""
@@ -554,7 +581,7 @@ bot.flights:
   "Schedule": ""
   "Schedule fleet": ""
   "Scheduled flights": ""
-  "Search for lifeforms": ""
+  "Search for lifeforms": "Rechercher des formes de vie"
   "Select origin": "Sélectionnez l'origine" # global (undefined)
   "Send all resources": "" # global (undefined)
   "Send fleet": "Envoyer la flotte"
@@ -564,20 +591,20 @@ bot.flights:
 #  "Spy": "" # global (defined)
 #  "Transport": "" # global (defined)
   "from": "de"
-  "keep": ""
-  "max": ""
+  "keep": "garder"
+  "max": "max" # global (defined)
   "mission": "mission"
-  "random delay 0-10min added": ""
-  "send": ""
+  "random delay 0-10min added": "délai aléatoire 0-10min ajouté"
+  "send": "envoyer"
   "speed": "vitesse"
   "to": "à" # global (undefined)
 bot.flightsEdit:
-  "Homeworld": "" # global (undefined)
-  "Send all resources": "" # global (undefined)
-  "Send all ships": ""
+#  "Homeworld": "" # global (defined)
+  "Send all resources": "Envoyer toutes les ressources" # global (undefined)
+  "Send all ships": "Envoyez tous les vaisseaux"
 bot.galaxy.index:
-  "Map": ""
-  "Table": ""
+  "Map": "Carte" # global (defined)
+  "Table": "Tableau" # global (defined)
 bot.galaxy.map:
   "Active": "Actif" # global (undefined)
   "Coord": "Coord"
@@ -604,8 +631,8 @@ bot.galaxy.player:
   "Updated": "Mis à jour" # global (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (defined)
-  "Add alliance to ignore list": ""
-  "Add player to ignore list": ""
+  "Add alliance to ignore list": "Ajouter une alliance à la liste des ignorés"
+  "Add player to ignore list": "Ajouter un joueur à la liste des ignorés"
   "Alliance": "Alliance" # global (undefined)
   "Coords": "Coords" # global (undefined)
 #  "Crystal": "" # global (defined)
@@ -625,20 +652,20 @@ bot.galaxy.table:
   "Rank": "Rang" # global (defined)
   "Scan this page": "Scannez cette page"
   "Scan universe": "Scanner l'univers"
-  "Search": "Chercher" # global (undefined)
+  "Search": "Chercher" # global (defined)
   "Send recyclers": "" # global (undefined)
   "Stop scan universe": "Arrêter le scan de l'univers"
   "Updated": "Mis à jour" # global (undefined)
 bot.index:
-  "Bot": ""
-  "Browser": ""
+#  "Bot": "" # global (defined)
+#  "Browser": "" # global (defined)
   "Conqueror": ""
 #  "Empire": "" # global (defined)
-  "Flights": ""
+#  "Flights": "" # global (defined)
 #  "Galaxy": "" # global (defined)
 #  "Home": "" # global (defined)
-  "Scripts": ""
-  "Simulator": ""
+#  "Scripts": "" # global (defined)
+#  "Simulator": "" # global (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (undefined)
 #  "Attack": "" # global (defined)
@@ -651,7 +678,7 @@ bot.phalanxPlayer:
 #  "Harvest": "" # global (defined)
 #  "Missile Attack": "" # global (defined)
 #  "Mission": "" # global (defined)
-  "No fleets": "" # global (undefined)
+#  "No fleets": "" # global (defined)
 #  "Origin": "" # global (defined)
 #  "Park": "" # global (defined)
 #  "Park In That Ally": "" # global (defined)
@@ -665,7 +692,7 @@ bot.planet:
   "Add to queue": "Ajouter à la liste"
   "Build": "Construire"
   "Building": "Bâtiment"
-  "Cargo capacity": ""
+#  "Cargo capacity": "" # global (defined)
   "Current": "Actuel"
   "Current planet": "Planète actuelle"
 #  "Fuel consumption": "" # global (defined)
@@ -679,15 +706,15 @@ bot.planet:
   "Price": "Prix"
   "Queue": "File" # global (undefined)
   "Queue tear down": ""
-  "Rapidfire against": ""
-  "Rapidfire from": ""
+#  "Rapidfire against": "" # global (defined)
+#  "Rapidfire from": "" # global (defined)
   "Research": "Recherche"
-  "Shield power": ""
+#  "Shield power": "" # global (defined)
 #  "Shipyard": "" # global (defined)
 #  "Speed": "" # global (defined)
-  "Structural integrity": ""
+#  "Structural integrity": "" # global (defined)
   "Sum": "Somme"
-  "Weapon power": ""
+#  "Weapon power": "" # global (defined)
   "no item in queue": "aucun article en file d'attente"
 bot.reorderPlanets:
 #  "Empire": "" # global (defined)
@@ -743,7 +770,7 @@ bot.report:
 #  "Recycler": "" # global (defined)
   "Report": "Rapport"
 #  "Research Lab": "" # global (defined)
-  "Research Network": ""
+#  "Research Network": "" # global (defined)
 #  "Robotics Factory": "" # global (defined)
 #  "Rocket Launcher": "" # global (defined)
 #  "Sensor Phalanx": "" # global (defined)
@@ -783,7 +810,7 @@ bot.settings.auctioneer:
 #  "Crystal": "" # global (defined)
 #  "Deuterium": "" # global (defined)
   "Highest bid value": ""
-  "Homeworld": "" # global (undefined)
+#  "Homeworld": "" # global (defined)
 #  "Metal": "" # global (defined)
 #  "Save": "" # global (defined)
 bot.settings.brain:
@@ -818,14 +845,15 @@ bot.settings.brain:
   "reset form": "réinitialiser le formulaire"
   "to": "à" # global (undefined)
 bot.settings.colonizer:
-  "Colonize using": ""
-  "Colonizer configs": ""
+  "Colonize using": "Coloniser en utilisant"
+  "Colonizer configs": "Configurations du colonisateur"
 #  "Galaxy": "" # global (defined)
   "Max colonizer slots": "" # global (undefined)
-  "Minimum fields": ""
-  "Minimum temperature": ""
+  "Minimum fields": "Champs minimaux"
+  "Minimum temperature": "Température minimale"
 #  "Save": "" # global (defined)
-  "Systems": ""
+  "Systems": "Systèmes"
+#  "Unlimited": "" # global (defined)
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
@@ -908,48 +936,48 @@ bot.settings.expeditions:
 #  "Are you sure?": "" # global (defined)
 #  "Arrive in": "" # global (defined)
 #  "Attack": "" # global (defined)
-  "Automatic fleet": ""
+  "Automatic fleet": "Flotte automatique"
 #  "Battlecruiser": "" # global (defined)
 #  "Battleship": "" # global (defined)
 #  "Bomber": "" # global (defined)
-  "Cancel Fleet": "" # global (undefined)
-  "Click here to load current fleets": ""
+  "Cancel Fleet": "Annuler la flotte" # global (undefined)
+  "Click here to load current fleets": "Cliquez ici pour charger les flottes actuelles"
 #  "Colonize": "" # global (defined)
 #  "Colony Ship": "" # global (defined)
 #  "Cruiser": "" # global (defined)
-  "Current fleets": "" # global (undefined)
+  "Current fleets": "Flottes actuelles" # global (undefined)
 #  "Deathstar": "" # global (defined)
-  "Delay between fleet (secs)": ""
-  "Delay between waves (secs)": ""
+  "Delay between fleet (secs)": "Délai entre les flottes (en secondes)"
+  "Delay between waves (secs)": "Délai entre les vagues (en secondes)"
 #  "Destination": "" # global (defined)
 #  "Destroy": "" # global (defined)
 #  "Destroyer": "" # global (defined)
-  "Duration": ""
+  "Duration": "Durée"
 #  "Espionage Probe": "" # global (defined)
   "Exp": "" # global (undefined)
 #  "Expedition": "" # global (defined)
-  "Expedition speed": ""
-  "Expeditions active": ""
-  "Expeditions configs": ""
-  "Expeditions origin": ""
+  "Expedition speed": "Vitesse d'expédition"
+  "Expeditions active": "Expéditions actives"
+  "Expeditions configs": "Configurations des expéditions"
+  "Expeditions origin": "Origine des expéditions"
 #  "Grouped Attack": "" # global (defined)
 #  "Harvest": "" # global (defined)
 #  "Heavy Fighter": "" # global (defined)
-  "Homeworld": "" # global (undefined)
+#  "Homeworld": "" # global (defined)
   "Ignore min deut": ""
   "LC that will not be send with auto-split": ""
 #  "Large Cargo": "" # global (defined)
-  "Large Cargo to stay": ""
+  "Large Cargo to stay": "Grand transporteurs à rester"
 #  "Light Fighter": "" # global (defined)
   "Minimum Pathfinders": ""
   "Minimum amount of pathfinders needed to consider a debris field": ""
-  "Minimum speed": ""
+  "Minimum speed": "Vitesse minimale"
   "Minimum speed for the early PF": ""
 #  "Missile Attack": "" # global (defined)
 #  "Mission": "" # global (defined)
-  "Name": "" # global (undefined)
+  "Name": "Nom" # global (undefined)
   "Never wait (100% getting ban)": ""
-  "No fleets": "" # global (undefined)
+#  "No fleets": "" # global (defined)
   "Number to send": ""
 #  "Origin": "" # global (defined)
   "PF that will not be send with auto-split nor for recycle": ""
@@ -979,7 +1007,7 @@ bot.settings.expeditions:
   "Wait for majority of expeditions slots": ""
   "expeditions": ""
   "next check in": "" # global (undefined)
-  "unlimited": "" # global (undefined)
+#  "unlimited": "" # global (defined)
 bot.settings.farmer:
   "Abort all sessions": "Abandonner toutes les sessions"
 #  "Actions": "" # global (defined)
@@ -1064,7 +1092,7 @@ bot.settings.home:
   "Ships": "Vaisseaux" # global (undefined)
   "Skip sus login wait": ""
   "Times": ""
-  "Universe": "Univers" # global (undefined)
+#  "Universe": "" # global (defined)
   "Universe speed": "Vitesse de l'univers"
   "Universe speed fleet": "Vitesse de flotte de l'univers"
   "What is my IP?": "Quel est mon ip?"
@@ -1109,11 +1137,11 @@ bot.settings.index:
   "Expeditions": "" # global (undefined)
 #  "Farmer": "" # global (defined)
 #  "Hunter": "" # global (defined)
-  "Logs": ""
+#  "Logs": "" # global (defined)
   "Messages": "" # global (undefined)
-  "Overview": ""
+#  "Overview": "" # global (defined)
   "Phalanx": "" # global (undefined)
-  "Scanner": ""
+#  "Scanner": "" # global (defined)
 #  "Settings": "" # global (defined)
   "Sleep mode": ""
 #  "Start": "" # global (defined)
@@ -1186,7 +1214,7 @@ bot.settings.notifications:
 #  "Save": "" # global (defined)
   "Slack": "Slack"
   "Slack username for notifications": "Nom d'utilisateur Slack pour les notifications"
-  "Sleep Mode": "Mode veille" # global (undefined)
+#  "Sleep Mode": "" # global (defined)
   "Target become inactive": "La cible devient inactive"
   "Target dropped in military points": "La cible perd des points militaires"
   "Telegram": "Telegram"
@@ -1213,7 +1241,7 @@ bot.settings.phalanxSession:
 #  "Missile Attack": "" # global (defined)
 #  "Mission": "" # global (defined)
 #  "Next": "" # global (defined)
-  "No fleets": "" # global (undefined)
+#  "No fleets": "" # global (defined)
 #  "Origin": "" # global (defined)
 #  "Park": "" # global (defined)
 #  "Park In That Ally": "" # global (defined)
@@ -1276,7 +1304,7 @@ bot.settings.settings:
   "Gameforge bearer token": ""
   "General": "" # global (undefined)
   "General options": "Options générales"
-  "Homeworld": "" # global (undefined)
+#  "Homeworld": "" # global (defined)
   "Host machine Timezone": "Fuseau horaire de la machine hôte"
 #  "Hotkeys": "" # global (defined)
   "Large cargo": ""
@@ -1313,71 +1341,71 @@ bot.settings.settings:
   "Solve captcha": ""
   "Sort planets in dropdowns by": "Trier les planètes dans les listes déroulantes par"
   "Theme": "" # global (undefined)
-  "UTC+00:00": ""
-  "UTC+01:00": ""
-  "UTC+02:00": ""
-  "UTC+03:00": ""
-  "UTC+04:00": ""
-  "UTC+04:30": ""
-  "UTC+05:00": ""
-  "UTC+05:30": ""
-  "UTC+05:45": ""
-  "UTC+06:00": ""
-  "UTC+06:30": ""
-  "UTC+07:00": ""
-  "UTC+08:00": ""
-  "UTC+08:45": ""
-  "UTC+09:00": ""
-  "UTC+09:30": ""
-  "UTC+10:00": ""
-  "UTC+10:30": ""
-  "UTC+11:00": ""
-  "UTC+12:00": ""
-  "UTC+12:45": ""
-  "UTC+13:00": ""
-  "UTC+14:00": ""
-  "UTC-01:00": ""
-  "UTC-02:00": ""
-  "UTC-02:30": ""
-  "UTC-03:00": ""
-  "UTC-04:00": ""
-  "UTC-05:00": ""
-  "UTC-06:00": ""
-  "UTC-07:00": ""
-  "UTC-08:00": ""
-  "UTC-09:00": ""
-  "UTC-09:30": ""
-  "UTC-10:00": ""
-  "UTC-11:00": ""
-  "UTC-12:00": ""
+  "UTC+00:00": "UTC+00:00"
+  "UTC+01:00": "UTC+01:00"
+  "UTC+02:00": "UTC+02:00"
+  "UTC+03:00": "UTC+03:00"
+  "UTC+04:00": "UTC+04:00"
+  "UTC+04:30": "UTC+04:30"
+  "UTC+05:00": "UTC+05:00"
+  "UTC+05:30": "UTC+05:30"
+  "UTC+05:45": "UTC+05:45"
+  "UTC+06:00": "UTC+06:00"
+  "UTC+06:30": "UTC+06:30"
+  "UTC+07:00": "UTC+07:00"
+  "UTC+08:00": "UTC+08:00"
+  "UTC+08:45": "UTC+08:45"
+  "UTC+09:00": "UTC+09:00"
+  "UTC+09:30": "UTC+09:30"
+  "UTC+10:00": "UTC+10:00"
+  "UTC+10:30": "UTC+10:30"
+  "UTC+11:00": "UTC+11:00"
+  "UTC+12:00": "UTC+12:00"
+  "UTC+12:45": "UTC+12:45"
+  "UTC+13:00": "UTC+13:00"
+  "UTC+14:00": "UTC+14:00"
+  "UTC-01:00": "UTC-01:00"
+  "UTC-02:00": "UTC-02:00"
+  "UTC-02:30": "UTC-02:30"
+  "UTC-03:00": "UTC-03:00"
+  "UTC-04:00": "UTC-04:00"
+  "UTC-05:00": "UTC-05:00"
+  "UTC-06:00": "UTC-06:00"
+  "UTC-07:00": "UTC-07:00"
+  "UTC-08:00": "UTC-08:00"
+  "UTC-09:00": "UTC-09:00"
+  "UTC-09:30": "UTC-09:30"
+  "UTC-10:00": "UTC-10:00"
+  "UTC-11:00": "UTC-11:00"
+  "UTC-12:00": "UTC-12:00"
   "User-Agent": ""
 #  "Username": "" # global (defined)
-  "Validate": ""
+  "Validate": "Valider"
   "Validate account": "Valider le compte"
-  "proxy login requests only": "proxy les requêtes d'authentification seulement" # global (undefined)
+#  "proxy login requests only": "" # global (defined)
 bot.settings.sleepMode:
   "--- Select a destination ---": "--- Choisissez une destination ---"
   "Active": "" # global (undefined)
 #  "Are you sure?": "" # global (defined)
   "Awake bot now": "Réveillez le robot maintenant"
 #  "Destination": "" # global (defined)
-  "Every day": ""
+  "Every day": "Tous les jours"
 #  "Expedition": "" # global (defined)
   "Friday": "Vendredi"
   "Manual fleet save": "Sauvegarde manuelle de la flotte"
   "Monday": "Lundi"
-  "Own debris field": ""
+  "Own debris field": "Propre champ de débris"
   "Planet": "" # global (undefined)
   "Put bot to sleep now": "Mettre le robot en veille maintenant"
-  "Random colonize": ""
-  "Random debris field": ""
+  "Random colonize": "Colonisation aléatoire"
+  "Random debris field": "Champ de débris aléatoire"
   "Random delay before going to sleep (minutes)": "Délai aléatoire avant d'aller dormir (minutes)"
   "Random delay before waking up (minutes)": "Délai aléatoire avant le réveil (minutes)"
   "Recall saved fleet half way through the night": "Rappel des flottes sauvées au milieu de la nuit"
   "Saturday": "Samedi"
 #  "Save": "" # global (defined)
-  "Sleep Mode": "" # global (undefined)
-  "Spy deep space (position 16)": ""
+#  "Sleep Mode": "" # global (defined)
+  "Spy deep space (position 16)": "Espionner l'espace profond (position 16)"
   "Sunday": "Dimanche"
   "Thursday": "Jeudi"
   "Tuesday": "Mardi"
@@ -1471,7 +1499,7 @@ bot-card:
 #  "Rank": "" # global (defined)
 #  "Start": "" # global (defined)
 #  "Stop": "" # global (defined)
-  "Universe": "" # global (undefined)
+#  "Universe": "" # global (defined)
 captchas-icon:
   "Captchas": "" # global (undefined)
   "Discover": ""
@@ -1490,21 +1518,21 @@ changelog:
   "meta-description": "Changelog entre chaque version." # global (undefined)
   "title": "Releases changelog" # global (undefined)
 compiled-scripts:
-  "Compile & download": ""
-  "Delete project": ""
-  "Files saved": ""
-  "New project": ""
+  "Compile & download": "Compiler et télécharger"
+  "Delete project": "Supprimer le projet"
+  "Files saved": "Fichiers enregistrés"
+  "New project": "Nouveau projet"
 #  "Save": "" # global (defined)
-  "failed to save script": ""
+  "failed to save script": "échec de l'enregistrement du script"
 database:
 #  "Actions": "" # global (defined)
-  "Delete all keys": ""
-  "Key": ""
-  "Key/value storage": ""
-  "No data to display": ""
-  "Search": "" # global (undefined)
-  "Stats": ""
-  "Value": ""
+  "Delete all keys": "Supprimer toutes les clés"
+  "Key": "Clé"
+  "Key/value storage": "Stockage clé/valeur"
+  "No data to display": "Aucune donnée à afficher"
+#  "Search": "" # global (defined)
+  "Stats": "Statistiques"
+  "Value": "Valeur"
 debug.i18n:
   "App language": ""
   "Open locals folder": ""
@@ -1517,14 +1545,14 @@ debug.index:
 download-antigame:
   "AntiGame for Ninja": ""
   "Antigame": "" # global (undefined)
-  "Arch": "" # global (undefined)
-  "File name": "Nom de fichier" # global (undefined)
+#  "Arch": "" # global (defined)
+#  "File name": "" # global (defined)
   "Instructions how to install and run": "Instructions pour installer et exécuter" # global (undefined)
   "Licenses": "" # global (undefined)
-  "No files to display": "Aucun fichier à afficher" # global (undefined)
-  "OS": "" # global (undefined)
+#  "No files to display": "" # global (defined)
+#  "OS": "" # global (defined)
   "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
+#  "Size": "" # global (defined)
   "meta-description": "" # global (undefined)
   "ogame Ninja": "" # global (undefined)
   "title": "" # global (undefined)
@@ -1549,16 +1577,16 @@ download-licenses:
   "title": "" # global (undefined)
 download:
   "Antigame": "" # global (undefined)
-  "Arch": "Arch" # global (undefined)
+#  "Arch": "" # global (defined)
   "Changelog": "Changelog"
-  "Downloads": "Téléchargements" # global (undefined)
-  "File name": "Nom de fichier" # global (undefined)
+#  "Downloads": "" # global (defined)
+#  "File name": "" # global (defined)
   "Instructions how to install and run": "Instructions pour installer et exécuter" # global (undefined)
   "Licenses": "" # global (undefined)
-  "No files to display": "Aucun fichier à afficher" # global (undefined)
-  "OS": "OS" # global (undefined)
+#  "No files to display": "" # global (defined)
+#  "OS": "" # global (defined)
   "SHA256 Checksum": "Somme de contrôle SHA256" # global (undefined)
-  "Size": "Size" # global (undefined)
+#  "Size": "" # global (defined)
   "meta-description": "Téléchargez les versions de Ninja pour Windows, Linux, Mac OSX." # global (undefined)
   "ogame Ninja": "" # global (undefined)
   "title": "Téléchargements" # global (undefined)
@@ -1593,7 +1621,7 @@ first-use:
 forgot-password-reset:
 #  "Password": "" # global (defined)
   "Reset password": "Réinitialiser le mot de passe"
-  "Retype password": "Retaper le mot de passe" # global (undefined)
+#  "Retype password": "" # global (defined)
 #  "Username": "" # global (defined)
 forgot-password:
   "Email Address": "Addresse Email"
@@ -1615,13 +1643,17 @@ home-slave:
   "Export bots": "" # global (undefined)
   "ID": "" # global (undefined)
   "Import bots": "" # global (undefined)
+  "Lang": "" # global (undefined)
   "New bot": "" # global (undefined)
   "Other actions": "" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
+  "Proxy": "" # global (undefined)
 #  "Rank": "" # global (defined)
 #  "Reorder bots": "" # global (defined)
-  "Universe": "" # global (undefined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
+#  "Universe": "" # global (defined)
 home:
 #  "Actions": "" # global (defined)
 #  "Are you sure?": "" # global (defined)
@@ -1643,7 +1675,7 @@ home:
   "New bot": "Nouveau robot" # global (undefined)
   "New password": "Nouveau mot de passe" # global (undefined)
   "New proxy": "Nouveau proxy"
-  "New server": "Nouveau serveur" # global (undefined)
+#  "New server": "" # global (defined)
   "New username": "Nouveau nom d'utilisateur" # global (undefined)
   "No proxy to display": "Aucun proxy à afficher"
   "No servers to display": "Aucun serveur à afficher"
@@ -1654,7 +1686,7 @@ home:
 #  "Rank": "" # global (defined)
   "Region": "Région" # global (undefined)
 #  "Reorder bots": "" # global (defined)
-  "Universe": "Univers" # global (undefined)
+#  "Universe": "" # global (defined)
 #  "Username": "" # global (defined)
   "Version": "Version" # global (undefined)
   "You're invited to join our Slack server": "Vous êtes invité à rejoindre notre serveur Slack" # global (undefined)
@@ -1667,24 +1699,24 @@ index:
   "Captchas": "" # global (undefined)
   "Check again": "Revérifier"
 #  "Download": "" # global (defined)
-  "FAQ": ""
-  "Features": "Fonctionnalités"
+#  "FAQ": "" # global (defined)
+  "Features": "Fonctionnalités" # global (defined)
 #  "Home": "" # global (defined)
-  "Login": "Se connecter"
+  "Login": "Se connecter" # global (defined)
 #  "My licenses": "" # global (defined)
   "Please": ""
 #  "Pricing": "" # global (defined)
-  "Proposals": ""
-  "Register": "S'enregistrer"
-  "Servers": "Serveurs"
-  "Sign out": "Se déconnecter"
+#  "Proposals": "" # global (defined)
+  "Register": "S'enregistrer" # global (defined)
+  "Servers": "Serveurs" # global (defined)
+  "Sign out": "Se déconnecter" # global (defined)
   "Support": ""
   "System clock is not synchronized": "L'horloge système n'est pas synchronisée"
   "Ticket support": ""
   "Translations": ""
-  "Your Ninja software needs to be updated.": "Votre logiciel Ninja doit être mis à jour."
-  "download the latest version here": "télécharger la dernière version ici"
-  "update your instance here": "mettez à jour votre instance ici"
+  "Your Ninja software needs to be updated.": "Votre logiciel Ninja doit être mis à jour." # global (defined)
+  "download the latest version here": "télécharger la dernière version ici" # global (defined)
+  "update your instance here": "mettez à jour votre instance ici" # global (defined)
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": ""
 instance-actions:
@@ -1692,14 +1724,14 @@ instance-actions:
   "New username": "" # global (undefined)
 invoice:
 #  "Bots": "" # global (defined)
-  "Credit or debit card": "" # global (undefined)
+#  "Credit or debit card": "" # global (defined)
 #  "New license": "" # global (defined)
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
   "Submit payment": "" # global (undefined)
   "Upgrade license": ""
   "Valid until": "" # global (undefined)
-  "we are using": "" # global (undefined)
+#  "we are using": "" # global (defined)
 landing:
   "Combat simulator": "Simulateur de combat" # global (undefined)
   "Construction queue": "File d'attente de construction"
@@ -1740,7 +1772,7 @@ license:
   "Upload": "Téléverser" # global (undefined)
   "Upload license file": "Téléverser le fichier de licence"
 login:
-  "I forgot my password": "j'ai oublié mon mot de passe" # global (defined)
+#  "I forgot my password": "" # global (defined)
 #  "Password": "" # global (defined)
 #  "Sign in": "" # global (defined)
   "Sign in to continue": "Connectez-vous pour continuer"
@@ -1761,19 +1793,19 @@ must-update:
   "Update to latest": "" # global (undefined)
   "You must update your software.": "Vous devez mettre à jour votre logiciel."
 new-bot:
-  "Add account to lobby ?": ""
+  "Add account to lobby ?": "Ajouter un compte au lobby ?"
   "Create": "Créer" # global (undefined)
-  "Create lobby ?": ""
-  "Gameforge email": "" # global (undefined)
-  "Gameforge password": "" # global (undefined)
+  "Create lobby ?": "Créer un lobby ?"
+#  "Gameforge email": "" # global (defined)
+#  "Gameforge password": "" # global (defined)
   "New bot": "Nouveau bot" # global (undefined)
   "OTP secret": "" # global (undefined)
-  "Player ID": "" # global (undefined)
-  "Proxy password": "" # global (undefined)
-  "Proxy username": "" # global (undefined)
+  "Player ID": "ID du joueur" # global (undefined)
+  "Proxy password": "Mot de passe du proxy" # global (undefined)
+  "Proxy username": "Nom d'utilisateur du proxy" # global (undefined)
   "Redeem code": "" # global (undefined)
-  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
-  "proxy login requests only": "" # global (undefined)
+  "http/socks5 proxy (leave empty if you do not know what this is)": "proxy http/socks5 (laissez vide si vous ne savez pas de quoi il s'agit)" # global (undefined)
+#  "proxy login requests only": "" # global (defined)
 new-fingerprint:
   "AudioCtxHash": ""
   "AudioHash": ""
@@ -1809,48 +1841,48 @@ new-fingerprint:
   "Webgl info": ""
   "WebglRenderHash": ""
   "XGame": ""
-new-license-paypal-subscribe:
+#new-license-paypal-subscribe:
 #  "Download": "" # global (defined)
 #  "New license": "" # global (defined)
-  "Subscribe": "" # global (undefined)
-new-license-subscribe:
+#  "Subscribe": "" # global (defined)
+#new-license-subscribe:
 #  "Download": "" # global (defined)
 #  "New license": "" # global (defined)
-  "Subscribe": "" # global (undefined)
+#  "Subscribe": "" # global (defined)
 new-license:
   "Buy license": "Acheter une licence" # global (undefined)
-  "Credit or debit card": "carte de crédit ou de débit" # global (undefined)
+  "Credit or debit card": "carte de crédit ou de débit" # global (defined)
 #  "Download": "" # global (defined)
   "Get trial license": "Obtenir une licence d'essai" # global (undefined)
 #  "New license": "" # global (defined)
-  "Pay with Credit/debit card": "Payer avec une carte de crédit/débit" # global (undefined)
-  "Pay with paypal": "Payer avec PayPal" # global (undefined)
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
   "Self hosting license parameters": "Paramètres de licence d'auto-hébergement" # global (undefined)
   "Submit payment for self-host license": "Soumettre le paiement pour la licence auto-hébergement" # global (undefined)
   "Total": "Totale" # global (undefined)
   "description1": "Une licence est valable 1 mois. Après cette période, vous devrez la renouveler.<br /> Si vous souhaitez vous abonner pour une période plus longue afin d'éviter les tracas, n'hésitez pas à nous contacter.<br />" # global (undefined)
   "description2": ""
-  "we are using": "nous utilisons" # global (undefined)
+#  "we are using": "" # global (defined)
 new-ogamex-bot:
   "Create": "" # global (undefined)
   "New ogamex bot": ""
   "OgameX email": ""
   "OgameX password": ""
 new-proposal:
-  "All suggestions": "" # global (undefined)
-  "New suggestion": ""
+  "All suggestions": "Toutes les suggestions" # global (undefined)
+  "New suggestion": "Nouvelle suggestion"
 new-proxies:
-  "-- Select a country --": ""
-  "Country": ""
-  "Credit or debit card": "" # global (undefined)
+  "-- Select a country --": "-- Choisissez un pays --"
+  "Country": "Pays"
+#  "Credit or debit card": "" # global (defined)
 #  "Download": "" # global (defined)
 #  "New license": "" # global (defined)
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
-  "Proxies parameters": ""
-  "Submit payment for proxies": ""
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
+  "Proxies parameters": "Paramètres proxy"
+  "Submit payment for proxies": "Soumettre le paiement pour les proxys"
   "Total": "" # global (undefined)
-  "we are using": "" # global (undefined)
+#  "we are using": "" # global (defined)
 new-script:
   "<b>Warning:</b> This will override existing scripts that have the same name.": ""
   "All bots that I have access to": ""
@@ -1862,22 +1894,22 @@ new-script:
   "Run at start": "" # global (undefined)
   "Script file name": ""
   "Where to create the script": ""
-new-server-paypal-subscribe:
+#new-server-paypal-subscribe:
 #  "Download": "" # global (defined)
-  "New server": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
-new-server-subscribe:
-  "New server": "" # global (undefined)
+#  "New server": "" # global (defined)
+#  "Subscribe": "" # global (defined)
+#new-server-subscribe:
+#  "New server": "" # global (defined)
 #  "Pricing": "" # global (defined)
-  "Subscribe": "" # global (undefined)
+#  "Subscribe": "" # global (defined)
 new-server:
-  "3 - 20 letter/number/underscore. eg: ": ""
+  "3 - 20 letter/number/underscore. eg: ": "3 - 20 letter/nombre/underscore. ie: "
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
-  "Credit or debit card": "Carte de crédit ou de débit" # global (undefined)
+#  "Credit or debit card": "" # global (defined)
 #  "Home": "" # global (defined)
-  "New server": "Nouveau serveur" # global (undefined)
-  "Pay with Credit/debit card": "Payer avec une carte de crédit/débit" # global (undefined)
-  "Pay with paypal": "Payer avec PayPal" # global (undefined)
+#  "New server": "" # global (defined)
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
   "Region": "Région" # global (undefined)
   "Select one": "Choisissez une"
 #  "Settings": "" # global (defined)
@@ -1886,7 +1918,7 @@ new-server:
   "Total": "Totale" # global (undefined)
   "You will access your app using this URL": "Vous accéderez à votre application en utilisant cette URL"
   "the bots will use IP from that region": "les bots utiliseront des IP de cette région"
-  "we are using": "nous utilisons" # global (undefined)
+#  "we are using": "" # global (defined)
 new-trial-license:
   "Buy license": "Acheter une licence" # global (undefined)
 #  "Download": "" # global (defined)
@@ -1922,13 +1954,13 @@ pricing:
   "upgradable": "peut être augmenté"
 proposal:
   "All suggestions": "Toutes les suggestions" # global (undefined)
-proposals:
+#proposals:
 #  "Next": "" # global (defined)
 #  "Prev": "" # global (defined)
-  "Search": "Recherche" # global (undefined)
+#  "Search": "" # global (defined)
 redeem-code:
-  "Gameforge email": "" # global (undefined)
-  "Gameforge password": "" # global (undefined)
+#  "Gameforge email": "" # global (defined)
+#  "Gameforge password": "" # global (defined)
   "New bot": "" # global (undefined)
   "OTP secret": "" # global (undefined)
   "Proxy password": "" # global (undefined)
@@ -1936,56 +1968,56 @@ redeem-code:
   "Redeem code": "" # global (undefined)
   "____-____-____-____-____": ""
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
-renew-instance-subscribe:
+#renew-instance-subscribe:
 #  "Download": "" # global (defined)
-  "Renew instance": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Renew instance": "" # global (defined)
+#  "Subscribe": "" # global (defined)
 renew-instance:
-  "Credit or debit card": "Carte de crédit ou de débit" # global (undefined)
-  "Current license valid until": "Licence actuelle valable jusqu'au" # global (undefined)
+#  "Credit or debit card": "" # global (defined)
+#  "Current license valid until": "" # global (defined)
 #  "Home": "" # global (defined)
-  "New license valid until": "Nouvelle licence valable jusqu'au" # global (undefined)
-  "Pay with Credit/debit card": "Payer avec une carte de crédit/débit" # global (undefined)
-  "Pay with paypal": "Payer avec PayPal" # global (undefined)
-  "Renew instance": "Renouveler l'instance" # global (undefined)
+#  "New license valid until": "" # global (defined)
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
+#  "Renew instance": "" # global (defined)
 #  "Settings": "" # global (defined)
   "Submit payment to renew cloud license": "Soumettre le paiement pour renouveler la licence cloud"
   "bot": "" # global (undefined)
-  "we are using": "nous utilisons" # global (undefined)
+#  "we are using": "" # global (defined)
 renew-license-subscribe:
 #  "Download": "" # global (defined)
   "Renew license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Subscribe": "" # global (defined)
 renew-license:
-  "Credit or debit card": "Carte de crédit ou de débit" # global (undefined)
-  "Current license valid until": "Licence actuelle valable jusqu'au" # global (undefined)
+#  "Credit or debit card": "" # global (defined)
+#  "Current license valid until": "" # global (defined)
 #  "Download": "" # global (defined)
-  "New license valid until": "Nouvelle licence valable jusqu'au" # global (undefined)
-  "Pay with Credit/debit card": "Payer avec une carte de crédit/débit" # global (undefined)
-  "Pay with paypal": "Payer avec PayPal" # global (undefined)
+#  "New license valid until": "" # global (defined)
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
   "Renew license": "Renouveler la licence" # global (undefined)
   "Self hosting license parameters": "Paramètres de licence d'auto-hébergement" # global (undefined)
   "Submit payment for self-host license": "Soumettre le paiement pour la licence auto-hébergement" # global (undefined)
   "Total": "Totale" # global (undefined)
   "bot": "" # global (undefined)
   "disclaimer": "<strong>AVERTISSEMENT:</strong> Cette licence est pour vous d'auto-héberger, ce qui signifie que vous devrez exécuter le programme sur votre ordinateur pour que le bot fonctionne.<br /> Si vous souhaitez <a href=\"/servers/new\">utiliser notre option cloud</a>, ce qui signifie que nous allons exécuter le bot pour vous sur votre propre serveur dédié privé, veuillez cliquer <a href=\"/servers/new\">ici</a>."
-  "we are using": "nous utilisons" # global (undefined)
+#  "we are using": "" # global (defined)
 #reorder-bots:
 #  "Home": "" # global (defined)
 #  "Reorder bots": "" # global (defined)
 sessions-two-factor-recovery:
   "Recovery code": ""
   "Two-factor recovery": ""
-  "Verify": "" # global (undefined)
+#  "Verify": "" # global (defined)
 sessions-two-factor:
-  "6-digit code": ""
-  "Enter a two-factor recovery code": ""
-  "Two-factor authentication": ""
-  "Verify": "" # global (undefined)
+  "6-digit code": "Code à 6 chiffres"
+  "Enter a two-factor recovery code": "Entrez un code de récupération à deux facteurs"
+  "Two-factor authentication": "Authentification à deux facteurs"
+#  "Verify": "" # global (defined)
 settings.account:
-  "0-15min": ""
-  "16-40min": ""
-  "41-60min": ""
+  "0-15min": "0-15min"
+  "16-40min": "16-40min"
+  "41-60min": "41-60min"
   "Change my username": "Changer mon identifiant"
   "Change password": "Changer le mot de passe"
   "Change username": "Changer le nom d'utilisateur"
@@ -2016,18 +2048,18 @@ settings.api:
 #  "Are you sure?": "" # global (defined)
 settings.gift-cards:
   "Add credit to my account": ""
-  "Credit or debit card": "" # global (undefined)
+#  "Credit or debit card": "" # global (defined)
   "Gift cards": "" # global (undefined)
   "No gift card to show": ""
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
+#  "Pay with Credit/debit card": "" # global (defined)
+#  "Pay with paypal": "" # global (defined)
   "Submit payment": "" # global (undefined)
-  "we are using": "" # global (undefined)
+#  "we are using": "" # global (defined)
 settings.index:
   "API": "" # global (undefined)
 #  "Account": "" # global (defined)
   "Gift cards": "" # global (undefined)
-  "Sessions": ""
+#  "Sessions": "" # global (defined)
 #  "Subscriptions": "" # global (defined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)
@@ -2045,20 +2077,20 @@ signup:
   "Email": "Email" # global (undefined)
   "Note": "Remarque" # global (undefined)
 #  "Password": "" # global (defined)
-  "Retype password": "Retaper le mot de passe" # global (undefined)
+#  "Retype password": "" # global (defined)
   "Sign up": "S'inscrire"
 #  "Username": "" # global (defined)
   "You will receive an email to validate your account": "Vous recevrez un email pour valider votre compte"
   "meta-description": "Créez votre compte gratuitement." # global (undefined)
   "title": "Créez votre compte" # global (undefined)
 socks5:
-  "Arch": "" # global (undefined)
-  "Downloads": "" # global (undefined)
-  "File name": "" # global (undefined)
-  "No files to display": "" # global (undefined)
-  "OS": "" # global (undefined)
+#  "Arch": "" # global (defined)
+#  "Downloads": "" # global (defined)
+#  "File name": "" # global (defined)
+#  "No files to display": "" # global (defined)
+#  "OS": "" # global (defined)
   "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
+#  "Size": "" # global (defined)
   "Socks5 server": ""
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
