@@ -18,6 +18,7 @@ admin.license:
   "Expired": "Истекает" # global (undefined)
   "License": "Лицензия" # global (undefined)
   "Owner": "Владелец" # global (undefined)
+  "Subscription": ""
   "UUID": "Индификатор" # global (undefined)
   "Upload": "" # global (undefined)
   "Upload file": ""
@@ -93,6 +94,7 @@ admin.settings:
   "Host eg: smtp.gmail.com": "Хост eg: smtp.gmail.com"
   "Images URL": "URL-адрес изображений"
   "Logs retention (days)": "Хранение журналов (дней)"
+  "Need application restart": ""
   "Open .ogame folder": "Открыть Ogame папку"
   "Password": "Пароль" # global (undefined)
   "Port eg: 587": "Порт eg: 587"
@@ -100,6 +102,9 @@ admin.settings:
   "SMTP settings (email)": "Настройки SMTP (электронная почта)"
   "Save": "Сохранить" # global (undefined)
   "Settings": "Настройки" # global (undefined)
+  "Start both http / https web servers": ""
+  "Start http web server only": ""
+  "Start https web server only": ""
   "Telegram bot api token": "Telegram bot api токен"
   "Username": "Пользователь" # global (undefined)
 admin.theme-new:
@@ -418,6 +423,7 @@ bot.flights:
   "Flight": "Задание флота"
   "Fuel": "Топливо"
   "Grouped Attack": "Групповая Атака" # global (undefined)
+  "Grouped attack": ""
   "Harvest": "Собрать" # global (undefined)
   "Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
   "Homeworld": "" # global (undefined)
@@ -497,7 +503,7 @@ bot.galaxy.player:
   "Moon": "Луна" # global (undefined)
   "Planet name": "Имя Планеты" # global (undefined)
   "Player name": "Имя Игрока" # global (undefined)
-  "Player profile": "Профиль Игрока"
+  "Player profile": "Профиль Игрока" # global (undefined)
   "RN": "Кол." # global (undefined)
   "Rank": "Ранк" # global (undefined)
   "Updated": "Последнее время обновления" # global (undefined)
@@ -538,6 +544,28 @@ bot.index:
   "Home": "Дом" # global (undefined)
   "Scripts": "Скрипты"
   "Simulator": "Симулятор боя"
+bot.phalanxPlayer:
+  "Arrival time": "" # global (undefined)
+  "Attack": "" # global (undefined)
+  "Colonize": "" # global (undefined)
+  "Destination": "" # global (undefined)
+  "Destroy": "" # global (undefined)
+  "Expedition": "" # global (undefined)
+  "Galaxy": "" # global (undefined)
+  "Grouped Attack": "" # global (undefined)
+  "Harvest": "" # global (undefined)
+  "Missile Attack": "" # global (undefined)
+  "Mission": "" # global (undefined)
+  "No fleets": "" # global (undefined)
+  "Origin": "" # global (undefined)
+  "Park": "" # global (undefined)
+  "Park In That Ally": "" # global (undefined)
+  "Phalanx all": ""
+  "Player profile": "" # global (undefined)
+  "Ships": "" # global (undefined)
+  "Spy": "" # global (undefined)
+  "Transport": "" # global (undefined)
+  "Union ID": "" # global (undefined)
 bot.planet:
   "Add to queue": "Добавить в Очередь"
   "Build": "Строить"
@@ -888,7 +916,7 @@ bot.settings.farmer:
   "Planet": "Планета" # global (undefined)
   "Priority calculation": "Расчет приоритета"
   "Range": "Интервал"
-  "Redo": "Повторить"
+  "Redo": "Повторить" # global (undefined)
   "Save": "Сохранить" # global (undefined)
   "Select origin": "Выбрать Место вылета" # global (undefined)
   "Start new session": "Старт Нового Сбора"
@@ -933,7 +961,7 @@ bot.settings.home:
   "Hunter": "Охотник" # global (undefined)
   "No evacuations": "Нет Эвакуации"
   "No plans": "Нет плана"
-  "Proxy": "Прокси"
+  "Proxy": "Прокси" # global (undefined)
   "Repatriate": "Сбор Ресурсов" # global (undefined)
   "Repatriate now": "Собрать ресурсы сейчас"
   "Reschedule evacuation": "Перенести Сбор Ресурсов"
@@ -1072,28 +1100,24 @@ bot.settings.notifications:
   "test notif": "Тест уведомление"
   "test slack": "Тест Сласк"
 bot.settings.phalanx:
+  "Are you sure?": "" # global (undefined)
   "Phalanx": "Сенсорная Фаланга" # global (undefined)
+  "Redo": "" # global (undefined)
   "Start": "Старт" # global (undefined)
 bot.settings.phalanxSession:
-  "Arrival time": ""
+  "Arrival time": "" # global (undefined)
   "Attack": "" # global (undefined)
   "Click on a fleet to get timing details": ""
-  "Collector": ""
   "Colonize": "" # global (undefined)
-  "Combustion drive": ""
   "Destination": "" # global (undefined)
   "Destroy": "" # global (undefined)
-  "Discoverer": ""
   "Expedition": "" # global (undefined)
-  "General": "" # global (undefined)
   "Grouped Attack": "" # global (undefined)
   "Harvest": "" # global (undefined)
-  "Hyperspace drive": ""
-  "Impulse drive": ""
+  "Is general?": ""
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Next": "Следйющии" # global (undefined)
-  "No class": ""
   "No fleets": "Нет флотов" # global (undefined)
   "Origin": "" # global (undefined)
   "Park": "" # global (undefined)
@@ -1112,6 +1136,7 @@ bot.settings.phalanxSession:
   "Stop": "Стоп" # global (undefined)
   "Target information": ""
   "Transport": "" # global (undefined)
+  "Union ID": "" # global (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (undefined)
   "Interval between system scan": "Интервал между сканированием системы"
@@ -1253,6 +1278,7 @@ bot.settings.sleepMode:
   "Random debris field": ""
   "Random delay before going to sleep (minutes)": "Случайная задержка перед сном (минуты)"
   "Random delay before waking up (minutes)": ""
+  "Recall saved fleet half way through the night": ""
   "Saturday": "Суббота"
   "Save": "Сохранить" # global (undefined)
   "Sleep Mode": "Режим Сна" # global (undefined)
@@ -1346,6 +1372,7 @@ bot-card:
   "Email": "Емайл" # global (undefined)
   "Lang": "Язык" # global (undefined)
   "Points": "Очки" # global (undefined)
+  "Proxy": "" # global (undefined)
   "Rank": "Ранк" # global (undefined)
   "Start": "Старт" # global (undefined)
   "Stop": "Стоп" # global (undefined)
@@ -1392,30 +1419,53 @@ debug.index:
   "SQL": "SQL"
   "Signer": ""
   "i18n": ""
-download:
+download-antigame:
+  "AntiGame for Ninja": "AntiGame для Ninja"
+  "Antigame": "" # global (undefined)
+  "Arch": "Арка" # global (undefined)
+  "File name": "Имя Фаила" # global (undefined)
+  "Instructions how to install and run": "Инструкции по установке и запуску" # global (undefined)
+  "Licenses": "" # global (undefined)
+  "No files to display": "" # global (undefined)
+  "OS": "ОС" # global (undefined)
+  "SHA256 Checksum": "" # global (undefined)
+  "Size": "" # global (undefined)
+  "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
+  "title": "" # global (undefined)
+download-licenses:
   "Actions": "Действия" # global (undefined)
   "Active": "Активен" # global (undefined)
-  "AntiGame for Ninja": "AntiGame для Ninja"
-  "Arch": "Арка" # global (undefined)
-  "Changelog": "Список Изменений"
+  "Antigame": "" # global (undefined)
   "Download": "Загрузка" # global (undefined)
-  "Downloads": "Загрузки" # global (undefined)
   "Expired": "Истекший" # global (undefined)
   "Expired at": "Заканчивается через"
-  "File name": "Имя Фаила" # global (undefined)
   "Full license": "Полная Лицензия"
-  "Instructions how to install and run": "Инструкции по установке и запуску"
   "Is cloud": ""
-  "My licenses": "Моя Лицензия"
+  "Licenses": "" # global (undefined)
+  "My licenses": "Моя Лицензия" # global (undefined)
   "New license": "Новая Лицензия" # global (undefined)
-  "No files to display": "Нет фаилов для отображения" # global (undefined)
   "No license to display": "Нет лицензии для отображения"
-  "OS": "ОС" # global (undefined)
   "Renew license": "Продлить Лицензию" # global (undefined)
+  "UUID": "идентификатор UUID" # global (undefined)
+  "You must be authenticated": ""
+  "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
+  "title": "" # global (undefined)
+download:
+  "Antigame": "" # global (undefined)
+  "Arch": "Арка" # global (undefined)
+  "Changelog": "Список Изменений"
+  "Downloads": "Загрузки" # global (undefined)
+  "File name": "Имя Фаила" # global (undefined)
+  "Instructions how to install and run": "Инструкции по установке и запуску" # global (undefined)
+  "Licenses": "" # global (undefined)
+  "No files to display": "Нет фаилов для отображения" # global (undefined)
+  "OS": "ОС" # global (undefined)
   "SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
   "Size": "Размер" # global (undefined)
-  "UUID": "идентификатор UUID" # global (undefined)
   "meta-description": "Метаописание" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
   "title": "Заглавие" # global (undefined)
 features:
   "Activities": "Действия" # global (undefined)
@@ -1511,6 +1561,7 @@ index:
   "Features": "Особенности"
   "Home": "Дом" # global (undefined)
   "Login": "Логин"
+  "My licenses": "" # global (undefined)
   "Please": "Пожалуйста"
   "Pricing": "Цена" # global (undefined)
   "Proposals": "Предложения"
@@ -1573,7 +1624,6 @@ license-view:
 license:
   "Are you sure?": "" # global (undefined)
   "Click \"Renew license\" button": ""
-  "Current license requires a newer version of the software. Please update.": ""
   "License expired": ""
   "Renew license": "Вы Уверены?" # global (undefined)
   "Stop all bots": "Стоп все Боты"
@@ -1649,6 +1699,14 @@ new-fingerprint:
   "Webgl info": ""
   "WebglRenderHash": ""
   "XGame": ""
+new-license-paypal-subscribe:
+  "Download": "" # global (undefined)
+  "New license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
+new-license-subscribe:
+  "Download": "" # global (undefined)
+  "New license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 new-license:
   "Buy license": "Купить Лиценцию" # global (undefined)
   "Credit or debit card": "Добавить Кредитную ,дебетовую карту" # global (undefined)
@@ -1694,6 +1752,14 @@ new-script:
   "Run at start": "Запустить при старте" # global (undefined)
   "Script file name": "Имя фала скрипта"
   "Where to create the script": "Где создать скрипт"
+new-server-paypal-subscribe:
+  "Download": "" # global (undefined)
+  "New server": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
+new-server-subscribe:
+  "New server": "" # global (undefined)
+  "Pricing": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": "3-20 букв/цифр / подчеркивание. напр.:"
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
@@ -1760,6 +1826,10 @@ redeem-code:
   "Redeem code": "Активировать код" # global (undefined)
   "____-____-____-____-____": "____-____-____-____-____"
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
+renew-instance-subscribe:
+  "Download": "" # global (undefined)
+  "Renew instance": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 renew-instance:
   "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
   "Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (undefined)
@@ -1767,11 +1837,15 @@ renew-instance:
   "New license valid until": "Новая лицензия действительна до тех пор, пока" # global (undefined)
   "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
   "Pay with paypal": "Оплатить через paypal" # global (undefined)
-  "Renew instance": "Обновить экземпляр"
+  "Renew instance": "Обновить экземпляр" # global (undefined)
   "Settings": "Настройки" # global (undefined)
   "Submit payment to renew cloud license": "Отправить платеж для продления облачной лицензии"
   "bot": "Бот" # global (undefined)
   "we are using": "мы используем" # global (undefined)
+renew-license-subscribe:
+  "Download": "" # global (undefined)
+  "Renew license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 renew-license:
   "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
   "Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (undefined)
@@ -1844,6 +1918,7 @@ settings.index:
   "Account": "Аккаунт" # global (undefined)
   "Gift cards": "Подарочная карта" # global (undefined)
   "Sessions": "Сессия"
+  "Subscriptions": "" # global (undefined)
 settings.sessions:
   "Are you sure?": "Вы Уверены?" # global (undefined)
   "Expires at": "Истекает в"
@@ -1852,6 +1927,10 @@ settings.sessions:
   "User agent": "Пользовательский агент"
   "Your current session": "Ваша текущая сессия"
   "on": "ВКЛ"
+settings.subscriptions:
+  "Are you sure?": "" # global (undefined)
+  "No subscription to show": ""
+  "Subscriptions": "" # global (undefined)
 signup:
   "Email": "Емайл" # global (undefined)
   "Note": "Запись" # global (undefined)

@@ -154,6 +154,7 @@ admin.license:
   "Expired": "Verlopen" # global (undefined)
   "License": "Licentie" # global (defined)
   "Owner": "Eigenaar" # global (undefined)
+  "Subscription": ""
   "UUID": "" # global (undefined)
   "Upload": "" # global (undefined)
   "Upload file": ""
@@ -229,6 +230,7 @@ admin.settings:
   "Host eg: smtp.gmail.com": "Host eg: smtp.gmail.com"
   "Images URL": ""
   "Logs retention (days)": ""
+  "Need application restart": ""
   "Open .ogame folder": ""
   "Password": "" # global (defined)
   "Port eg: 587": "Port eg: 587"
@@ -236,6 +238,9 @@ admin.settings:
   "SMTP settings (email)": "Smpt instellingen (email)"
   "Save": "Opslaan" # global (undefined)
   "Settings": "Instellingen" # global (defined)
+  "Start both http / https web servers": ""
+  "Start http web server only": ""
+  "Start https web server only": ""
   "Telegram bot api token": "Telegram bot api token"
   "Username": "" # global (defined)
 admin.theme-new:
@@ -554,6 +559,7 @@ bot.flights:
   "Flight": "Vlucht"
   "Fuel": "Brandstof"
   "Grouped Attack": "" # global (defined)
+  "Grouped attack": ""
   "Harvest": "" # global (defined)
   "Heavy Fighter": "" # global (defined)
   "Homeworld": "" # global (undefined)
@@ -633,7 +639,7 @@ bot.galaxy.player:
   "Moon": "Maan" # global (undefined)
   "Planet name": "Planeet naam" # global (undefined)
   "Player name": "Speler naam" # global (undefined)
-  "Player profile": "Speler profiel"
+  "Player profile": "Speler profiel" # global (undefined)
   "RN": "RN" # global (undefined)
   "Rank": "Rang" # global (defined)
   "Updated": "Geupdate" # global (undefined)
@@ -674,6 +680,28 @@ bot.index:
   "Home": "" # global (defined)
   "Scripts": ""
   "Simulator": ""
+bot.phalanxPlayer:
+  "Arrival time": "" # global (undefined)
+  "Attack": "" # global (defined)
+  "Colonize": "" # global (defined)
+  "Destination": "" # global (defined)
+  "Destroy": "" # global (defined)
+  "Expedition": "" # global (defined)
+  "Galaxy": "" # global (defined)
+  "Grouped Attack": "" # global (defined)
+  "Harvest": "" # global (defined)
+  "Missile Attack": "" # global (defined)
+  "Mission": "" # global (defined)
+  "No fleets": "" # global (undefined)
+  "Origin": "" # global (defined)
+  "Park": "" # global (defined)
+  "Park In That Ally": "" # global (defined)
+  "Phalanx all": ""
+  "Player profile": "" # global (undefined)
+  "Ships": "" # global (undefined)
+  "Spy": "" # global (defined)
+  "Transport": "" # global (defined)
+  "Union ID": "" # global (undefined)
 bot.planet:
   "Add to queue": "Voeg toe aan wachtrij"
   "Build": "Bouw"
@@ -1024,7 +1052,7 @@ bot.settings.farmer:
   "Planet": "Planeet" # global (undefined)
   "Priority calculation": "Prioriteitsberekening"
   "Range": "Afstand"
-  "Redo": ""
+  "Redo": "" # global (undefined)
   "Save": "Opslaan" # global (undefined)
   "Select origin": "Selecteer oorsprong" # global (undefined)
   "Start new session": "Start nieuwe sessie"
@@ -1069,7 +1097,7 @@ bot.settings.home:
   "Hunter": "" # global (defined)
   "No evacuations": ""
   "No plans": "Geen plannen"
-  "Proxy": "Proxy"
+  "Proxy": "Proxy" # global (undefined)
   "Repatriate": "" # global (undefined)
   "Repatriate now": "Verzend nu"
   "Reschedule evacuation": "Verplaats de evacuatie"
@@ -1208,28 +1236,24 @@ bot.settings.notifications:
   "test notif": ""
   "test slack": ""
 bot.settings.phalanx:
+  "Are you sure?": "" # global (defined)
   "Phalanx": "" # global (undefined)
+  "Redo": "" # global (undefined)
   "Start": "" # global (defined)
 bot.settings.phalanxSession:
-  "Arrival time": ""
+  "Arrival time": "" # global (undefined)
   "Attack": "" # global (defined)
   "Click on a fleet to get timing details": ""
-  "Collector": ""
   "Colonize": "" # global (defined)
-  "Combustion drive": ""
   "Destination": "" # global (defined)
   "Destroy": "" # global (defined)
-  "Discoverer": ""
   "Expedition": "" # global (defined)
-  "General": "" # global (undefined)
   "Grouped Attack": "" # global (defined)
   "Harvest": "" # global (defined)
-  "Hyperspace drive": ""
-  "Impulse drive": ""
+  "Is general?": ""
   "Missile Attack": "" # global (defined)
   "Mission": "" # global (defined)
   "Next": "" # global (undefined)
-  "No class": ""
   "No fleets": "" # global (undefined)
   "Origin": "" # global (defined)
   "Park": "" # global (defined)
@@ -1248,6 +1272,7 @@ bot.settings.phalanxSession:
   "Stop": "" # global (defined)
   "Target information": ""
   "Transport": "" # global (defined)
+  "Union ID": "" # global (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "" # global (undefined)
   "Interval between system scan": "Interval tussen systeemscan"
@@ -1389,6 +1414,7 @@ bot.settings.sleepMode:
   "Random debris field": ""
   "Random delay before going to sleep (minutes)": ""
   "Random delay before waking up (minutes)": ""
+  "Recall saved fleet half way through the night": ""
   "Saturday": ""
   "Save": "" # global (undefined)
   "Sleep Mode": "" # global (undefined)
@@ -1482,6 +1508,7 @@ bot-card:
   "Email": "" # global (undefined)
   "Lang": "" # global (undefined)
   "Points": "" # global (defined)
+  "Proxy": "" # global (undefined)
   "Rank": "" # global (defined)
   "Start": "" # global (defined)
   "Stop": "" # global (defined)
@@ -1528,30 +1555,53 @@ debug.index:
   "SQL": ""
   "Signer": ""
   "i18n": ""
-download:
+download-antigame:
+  "AntiGame for Ninja": ""
+  "Antigame": "" # global (undefined)
+  "Arch": "Architectuur" # global (undefined)
+  "File name": "Bestandsnaam" # global (undefined)
+  "Instructions how to install and run": "Instructies voor installatie en uitvoering" # global (undefined)
+  "Licenses": "" # global (undefined)
+  "No files to display": "Geen bestanden om weer te geven" # global (undefined)
+  "OS": "Besturingssysteem" # global (undefined)
+  "SHA256 Checksum": "" # global (undefined)
+  "Size": "" # global (undefined)
+  "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
+  "title": "" # global (undefined)
+download-licenses:
   "Actions": "" # global (defined)
   "Active": "" # global (undefined)
-  "AntiGame for Ninja": ""
-  "Arch": "Architectuur" # global (undefined)
-  "Changelog": "Changelog"
-  "Download": "Download" # global (defined)
-  "Downloads": "Downloads" # global (undefined)
+  "Antigame": "" # global (undefined)
+  "Download": "" # global (defined)
   "Expired": "" # global (undefined)
   "Expired at": "Verlopen op"
-  "File name": "Bestandsnaam" # global (undefined)
   "Full license": "Volledige licentie"
-  "Instructions how to install and run": "Instructies voor installatie en uitvoering"
   "Is cloud": ""
-  "My licenses": "Mijn Licenties"
+  "Licenses": "" # global (undefined)
+  "My licenses": "Mijn Licenties" # global (undefined)
   "New license": "Nieuwe licentie" # global (undefined)
-  "No files to display": "Geen bestanden om weer te geven" # global (undefined)
   "No license to display": "Geen licenties om weer te geven"
-  "OS": "Besturingssysteem" # global (undefined)
   "Renew license": "Vernieuw licentie" # global (undefined)
+  "UUID": "" # global (undefined)
+  "You must be authenticated": ""
+  "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
+  "title": "" # global (undefined)
+download:
+  "Antigame": "" # global (undefined)
+  "Arch": "Architectuur" # global (undefined)
+  "Changelog": "Changelog"
+  "Downloads": "Downloads" # global (undefined)
+  "File name": "Bestandsnaam" # global (undefined)
+  "Instructions how to install and run": "Instructies voor installatie en uitvoering" # global (undefined)
+  "Licenses": "" # global (undefined)
+  "No files to display": "Geen bestanden om weer te geven" # global (undefined)
+  "OS": "Besturingssysteem" # global (undefined)
   "SHA256 Checksum": "SHA256 Checksum" # global (undefined)
   "Size": "Grootte" # global (undefined)
-  "UUID": "" # global (undefined)
   "meta-description": "Download uitgaves van Ninja voor windows, linux, mac osx." # global (undefined)
+  "ogame Ninja": "" # global (undefined)
   "title": "Download uitgave" # global (undefined)
 features:
   "Activities": "Activiteiten" # global (defined)
@@ -1647,6 +1697,7 @@ index:
   "Features": ""
   "Home": "" # global (defined)
   "Login": ""
+  "My licenses": "" # global (undefined)
   "Please": ""
   "Pricing": "" # global (defined)
   "Proposals": ""
@@ -1709,7 +1760,6 @@ license-view:
 license:
   "Are you sure?": "" # global (defined)
   "Click \"Renew license\" button": ""
-  "Current license requires a newer version of the software. Please update.": ""
   "License expired": "Licentie verlopen"
   "Renew license": "Vernieuw licentie" # global (undefined)
   "Stop all bots": ""
@@ -1785,6 +1835,14 @@ new-fingerprint:
   "Webgl info": ""
   "WebglRenderHash": ""
   "XGame": ""
+new-license-paypal-subscribe:
+  "Download": "" # global (defined)
+  "New license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
+new-license-subscribe:
+  "Download": "" # global (defined)
+  "New license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 new-license:
   "Buy license": "Koop licentie" # global (undefined)
   "Credit or debit card": "Krediet of betaalkaart" # global (undefined)
@@ -1830,6 +1888,14 @@ new-script:
   "Run at start": "" # global (undefined)
   "Script file name": ""
   "Where to create the script": ""
+new-server-paypal-subscribe:
+  "Download": "" # global (defined)
+  "New server": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
+new-server-subscribe:
+  "New server": "" # global (undefined)
+  "Pricing": "" # global (defined)
+  "Subscribe": "" # global (undefined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": ""
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
@@ -1896,6 +1962,10 @@ redeem-code:
   "Redeem code": "" # global (undefined)
   "____-____-____-____-____": ""
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
+renew-instance-subscribe:
+  "Download": "" # global (defined)
+  "Renew instance": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 renew-instance:
   "Credit or debit card": "Krediet of betaalkaart" # global (undefined)
   "Current license valid until": "Huidige licentie geldig tot" # global (undefined)
@@ -1903,11 +1973,15 @@ renew-instance:
   "New license valid until": "Nieuwe licentie geldig tot" # global (undefined)
   "Pay with Credit/debit card": "Betaal met krediet/betaalkaart" # global (undefined)
   "Pay with paypal": "Betaal met paypal" # global (undefined)
-  "Renew instance": "Vernieuw instantie"
+  "Renew instance": "Vernieuw instantie" # global (undefined)
   "Settings": "Instellingen" # global (defined)
   "Submit payment to renew cloud license": "Dien een betaling in om de cloudlicentie te verlengen"
   "bot": "" # global (undefined)
   "we are using": "wij gebruiken" # global (undefined)
+renew-license-subscribe:
+  "Download": "" # global (defined)
+  "Renew license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 renew-license:
   "Credit or debit card": "Krediet of betaalkaart" # global (undefined)
   "Current license valid until": "Huidige licentie geldig tot" # global (undefined)
@@ -1980,6 +2054,7 @@ settings.index:
   "Account": "" # global (defined)
   "Gift cards": "" # global (undefined)
   "Sessions": ""
+  "Subscriptions": "" # global (undefined)
 settings.sessions:
   "Are you sure?": "" # global (defined)
   "Expires at": "Verloopt om"
@@ -1988,6 +2063,10 @@ settings.sessions:
   "User agent": "Gebruikersagent"
   "Your current session": "Je huidige sessie"
   "on": "Op"
+settings.subscriptions:
+  "Are you sure?": "" # global (defined)
+  "No subscription to show": ""
+  "Subscriptions": "" # global (undefined)
 signup:
   "Email": "Email" # global (undefined)
   "Note": "Notitie" # global (undefined)

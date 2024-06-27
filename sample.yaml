@@ -17,6 +17,7 @@ admin.license:
   "Expired": "" # global (undefined)
   "License": "" # global (undefined)
   "Owner": "" # global (undefined)
+  "Subscription": ""
   "UUID": "" # global (undefined)
   "Upload": "" # global (undefined)
   "Upload file": ""
@@ -92,6 +93,7 @@ admin.settings:
   "Host eg: smtp.gmail.com": ""
   "Images URL": ""
   "Logs retention (days)": ""
+  "Need application restart": ""
   "Open .ogame folder": ""
   "Password": "" # global (undefined)
   "Port eg: 587": ""
@@ -99,6 +101,9 @@ admin.settings:
   "SMTP settings (email)": ""
   "Save": "" # global (undefined)
   "Settings": "" # global (undefined)
+  "Start both http / https web servers": ""
+  "Start http web server only": ""
+  "Start https web server only": ""
   "Telegram bot api token": ""
   "Username": "" # global (undefined)
 admin.theme-new:
@@ -417,6 +422,7 @@ bot.flights:
   "Flight": ""
   "Fuel": ""
   "Grouped Attack": "" # global (undefined)
+  "Grouped attack": ""
   "Harvest": "" # global (undefined)
   "Heavy Fighter": "" # global (undefined)
   "Homeworld": "" # global (undefined)
@@ -496,7 +502,7 @@ bot.galaxy.player:
   "Moon": "" # global (undefined)
   "Planet name": "" # global (undefined)
   "Player name": "" # global (undefined)
-  "Player profile": ""
+  "Player profile": "" # global (undefined)
   "RN": "" # global (undefined)
   "Rank": "" # global (undefined)
   "Updated": "" # global (undefined)
@@ -537,6 +543,28 @@ bot.index:
   "Home": "" # global (undefined)
   "Scripts": ""
   "Simulator": ""
+bot.phalanxPlayer:
+  "Arrival time": "" # global (undefined)
+  "Attack": "" # global (undefined)
+  "Colonize": "" # global (undefined)
+  "Destination": "" # global (undefined)
+  "Destroy": "" # global (undefined)
+  "Expedition": "" # global (undefined)
+  "Galaxy": "" # global (undefined)
+  "Grouped Attack": "" # global (undefined)
+  "Harvest": "" # global (undefined)
+  "Missile Attack": "" # global (undefined)
+  "Mission": "" # global (undefined)
+  "No fleets": "" # global (undefined)
+  "Origin": "" # global (undefined)
+  "Park": "" # global (undefined)
+  "Park In That Ally": "" # global (undefined)
+  "Phalanx all": ""
+  "Player profile": "" # global (undefined)
+  "Ships": "" # global (undefined)
+  "Spy": "" # global (undefined)
+  "Transport": "" # global (undefined)
+  "Union ID": "" # global (undefined)
 bot.planet:
   "Add to queue": ""
   "Build": ""
@@ -887,7 +915,7 @@ bot.settings.farmer:
   "Planet": "" # global (undefined)
   "Priority calculation": ""
   "Range": ""
-  "Redo": ""
+  "Redo": "" # global (undefined)
   "Save": "" # global (undefined)
   "Select origin": "" # global (undefined)
   "Start new session": ""
@@ -932,7 +960,7 @@ bot.settings.home:
   "Hunter": "" # global (undefined)
   "No evacuations": ""
   "No plans": ""
-  "Proxy": ""
+  "Proxy": "" # global (undefined)
   "Repatriate": "" # global (undefined)
   "Repatriate now": ""
   "Reschedule evacuation": ""
@@ -1071,28 +1099,24 @@ bot.settings.notifications:
   "test notif": ""
   "test slack": ""
 bot.settings.phalanx:
+  "Are you sure?": "" # global (undefined)
   "Phalanx": "" # global (undefined)
+  "Redo": "" # global (undefined)
   "Start": "" # global (undefined)
 bot.settings.phalanxSession:
-  "Arrival time": ""
+  "Arrival time": "" # global (undefined)
   "Attack": "" # global (undefined)
   "Click on a fleet to get timing details": ""
-  "Collector": ""
   "Colonize": "" # global (undefined)
-  "Combustion drive": ""
   "Destination": "" # global (undefined)
   "Destroy": "" # global (undefined)
-  "Discoverer": ""
   "Expedition": "" # global (undefined)
-  "General": "" # global (undefined)
   "Grouped Attack": "" # global (undefined)
   "Harvest": "" # global (undefined)
-  "Hyperspace drive": ""
-  "Impulse drive": ""
+  "Is general?": ""
   "Missile Attack": "" # global (undefined)
   "Mission": "" # global (undefined)
   "Next": "" # global (undefined)
-  "No class": ""
   "No fleets": "" # global (undefined)
   "Origin": "" # global (undefined)
   "Park": "" # global (undefined)
@@ -1111,6 +1135,7 @@ bot.settings.phalanxSession:
   "Stop": "" # global (undefined)
   "Target information": ""
   "Transport": "" # global (undefined)
+  "Union ID": "" # global (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "" # global (undefined)
   "Interval between system scan": ""
@@ -1252,6 +1277,7 @@ bot.settings.sleepMode:
   "Random debris field": ""
   "Random delay before going to sleep (minutes)": ""
   "Random delay before waking up (minutes)": ""
+  "Recall saved fleet half way through the night": ""
   "Saturday": ""
   "Save": "" # global (undefined)
   "Sleep Mode": "" # global (undefined)
@@ -1345,6 +1371,7 @@ bot-card:
   "Email": "" # global (undefined)
   "Lang": "" # global (undefined)
   "Points": "" # global (undefined)
+  "Proxy": "" # global (undefined)
   "Rank": "" # global (undefined)
   "Start": "" # global (undefined)
   "Stop": "" # global (undefined)
@@ -1391,30 +1418,53 @@ debug.index:
   "SQL": ""
   "Signer": ""
   "i18n": ""
-download:
-  "Actions": "" # global (undefined)
-  "Active": "" # global (undefined)
+download-antigame:
   "AntiGame for Ninja": ""
+  "Antigame": "" # global (undefined)
   "Arch": "" # global (undefined)
-  "Changelog": ""
-  "Download": "" # global (undefined)
-  "Downloads": "" # global (undefined)
-  "Expired": "" # global (undefined)
-  "Expired at": ""
   "File name": "" # global (undefined)
-  "Full license": ""
-  "Instructions how to install and run": ""
-  "Is cloud": ""
-  "My licenses": ""
-  "New license": "" # global (undefined)
+  "Instructions how to install and run": "" # global (undefined)
+  "Licenses": "" # global (undefined)
   "No files to display": "" # global (undefined)
-  "No license to display": ""
   "OS": "" # global (undefined)
-  "Renew license": "" # global (undefined)
   "SHA256 Checksum": "" # global (undefined)
   "Size": "" # global (undefined)
-  "UUID": "" # global (undefined)
   "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
+  "title": "" # global (undefined)
+download-licenses:
+  "Actions": "" # global (undefined)
+  "Active": "" # global (undefined)
+  "Antigame": "" # global (undefined)
+  "Download": "" # global (undefined)
+  "Expired": "" # global (undefined)
+  "Expired at": ""
+  "Full license": ""
+  "Is cloud": ""
+  "Licenses": "" # global (undefined)
+  "My licenses": "" # global (undefined)
+  "New license": "" # global (undefined)
+  "No license to display": ""
+  "Renew license": "" # global (undefined)
+  "UUID": "" # global (undefined)
+  "You must be authenticated": ""
+  "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
+  "title": "" # global (undefined)
+download:
+  "Antigame": "" # global (undefined)
+  "Arch": "" # global (undefined)
+  "Changelog": ""
+  "Downloads": "" # global (undefined)
+  "File name": "" # global (undefined)
+  "Instructions how to install and run": "" # global (undefined)
+  "Licenses": "" # global (undefined)
+  "No files to display": "" # global (undefined)
+  "OS": "" # global (undefined)
+  "SHA256 Checksum": "" # global (undefined)
+  "Size": "" # global (undefined)
+  "meta-description": "" # global (undefined)
+  "ogame Ninja": "" # global (undefined)
   "title": "" # global (undefined)
 features:
   "Activities": "" # global (undefined)
@@ -1510,6 +1560,7 @@ index:
   "Features": ""
   "Home": "" # global (undefined)
   "Login": ""
+  "My licenses": "" # global (undefined)
   "Please": ""
   "Pricing": "" # global (undefined)
   "Proposals": ""
@@ -1572,7 +1623,6 @@ license-view:
 license:
   "Are you sure?": "" # global (undefined)
   "Click \"Renew license\" button": ""
-  "Current license requires a newer version of the software. Please update.": ""
   "License expired": ""
   "Renew license": "" # global (undefined)
   "Stop all bots": ""
@@ -1648,6 +1698,14 @@ new-fingerprint:
   "Webgl info": ""
   "WebglRenderHash": ""
   "XGame": ""
+new-license-paypal-subscribe:
+  "Download": "" # global (undefined)
+  "New license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
+new-license-subscribe:
+  "Download": "" # global (undefined)
+  "New license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 new-license:
   "Buy license": "" # global (undefined)
   "Credit or debit card": "" # global (undefined)
@@ -1693,6 +1751,14 @@ new-script:
   "Run at start": "" # global (undefined)
   "Script file name": ""
   "Where to create the script": ""
+new-server-paypal-subscribe:
+  "Download": "" # global (undefined)
+  "New server": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
+new-server-subscribe:
+  "New server": "" # global (undefined)
+  "Pricing": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": ""
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
@@ -1759,6 +1825,10 @@ redeem-code:
   "Redeem code": "" # global (undefined)
   "____-____-____-____-____": ""
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
+renew-instance-subscribe:
+  "Download": "" # global (undefined)
+  "Renew instance": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 renew-instance:
   "Credit or debit card": "" # global (undefined)
   "Current license valid until": "" # global (undefined)
@@ -1766,11 +1836,15 @@ renew-instance:
   "New license valid until": "" # global (undefined)
   "Pay with Credit/debit card": "" # global (undefined)
   "Pay with paypal": "" # global (undefined)
-  "Renew instance": ""
+  "Renew instance": "" # global (undefined)
   "Settings": "" # global (undefined)
   "Submit payment to renew cloud license": ""
   "bot": "" # global (undefined)
   "we are using": "" # global (undefined)
+renew-license-subscribe:
+  "Download": "" # global (undefined)
+  "Renew license": "" # global (undefined)
+  "Subscribe": "" # global (undefined)
 renew-license:
   "Credit or debit card": "" # global (undefined)
   "Current license valid until": "" # global (undefined)
@@ -1843,6 +1917,7 @@ settings.index:
   "Account": "" # global (undefined)
   "Gift cards": "" # global (undefined)
   "Sessions": ""
+  "Subscriptions": "" # global (undefined)
 settings.sessions:
   "Are you sure?": "" # global (undefined)
   "Expires at": ""
@@ -1851,6 +1926,10 @@ settings.sessions:
   "User agent": ""
   "Your current session": ""
   "on": ""
+settings.subscriptions:
+  "Are you sure?": "" # global (undefined)
+  "No subscription to show": ""
+  "Subscriptions": "" # global (undefined)
 signup:
   "Email": "" # global (undefined)
   "Note": "" # global (undefined)
