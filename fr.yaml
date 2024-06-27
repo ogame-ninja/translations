@@ -982,7 +982,7 @@ bot.settings.expeditions:
 #  "Destroyer": "" # global (count: 5) (defined)
   "Duration": "Durée"
 #  "Espionage Probe": "" # global (count: 5) (defined)
-  "Exp": "" # global (count: 2) (undefined)
+  "Exp": "Exp" # global (count: 2) (undefined)
 #  "Expedition": "" # global (count: 7) (defined)
   "Expedition speed": "Vitesse d'expédition"
   "Expeditions active": "Expéditions actives"
@@ -992,15 +992,15 @@ bot.settings.expeditions:
 #  "Harvest": "" # global (count: 4) (defined)
 #  "Heavy Fighter": "" # global (count: 5) (defined)
 #  "Homeworld": "" # global (count: 5) (defined)
-  "Ignore min deut": ""
-  "LC that will not be send with auto-split": ""
+  "Ignore min deut": "Ignorer le minimum de deutérium"
+  "LC that will not be send with auto-split": "GT qui ne seront pas envoyée avec auto-split"
 #  "Large Cargo": "" # global (count: 5) (defined)
   "Large Cargo to stay": "Grand transporteurs à rester"
 #  "Light Fighter": "" # global (count: 5) (defined)
-  "Minimum Pathfinders": ""
-  "Minimum amount of pathfinders needed to consider a debris field": ""
+  "Minimum Pathfinders": "Éclaireurs minimal"
+  "Minimum amount of pathfinders needed to consider a debris field": "Nombre minimum d'éclaireurs nécessaires pour considérer un champ de débris"
   "Minimum speed": "Vitesse minimale"
-  "Minimum speed for the early PF": ""
+  "Minimum speed for the early PF": "Vitesse minimale pour les premiers éclaireurs "
 #  "Missile Attack": "" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
   "Name": "Nom" # global (count: 3) (undefined)
@@ -1008,8 +1008,8 @@ bot.settings.expeditions:
 #  "No fleets": "" # global (count: 4) (defined)
   "Number to send": "Nombre à envoyer"
 #  "Origin": "" # global (count: 6) (defined)
-  "PF that will not be send with auto-split nor for recycle": ""
-  "PF will be send to arrive at the same time as debris field is created (if any)": ""
+  "PF that will not be send with auto-split nor for recycle": "Éclaireurs qui ne seront pas envoyé avec auto-split ni pour recyclage"
+  "PF will be send to arrive at the same time as debris field is created (if any)": "Éclaireurs seront envoyé pour arriver en même temps que le champ de débris est créé (le cas échéant)"
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
 #  "Pathfinder": "" # global (count: 5) (defined)
@@ -1017,8 +1017,8 @@ bot.settings.expeditions:
 #  "Reaper": "" # global (count: 4) (defined)
   "Recycle debris": "Recycler les débris"
 #  "Recycler": "" # global (count: 5) (defined)
-  "SC that will not be send with auto-split": ""
-  "Secs after expedition": ""
+  "SC that will not be send with auto-split": "PT qui ne sera pas envoyé avec auto-split"
+  "Secs after expedition": "Secondes après expédition"
 #  "Select origin": "" # global (count: 4) (defined)
   "Ships per expedition": "Vaisseaux par expédition"
   "Slots allowed": "Slots autorisés"
@@ -1089,12 +1089,12 @@ bot.settings.farmer:
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Remove all": "" # global (count: 3) (defined)
 bot.settings.farmerSession:
-  "Attack target with preferred cargo ships": ""
-  "Attack target with spy probes": ""
+  "Attack target with preferred cargo ships": "Attaquez une cible avec les cargos préférés"
+  "Attack target with spy probes": "Attaquez une cible avec des sondes d'espionnage"
 bot.settings.home:
 #  "Actions": "" # global (count: 12) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
-  "Attack type": ""
+  "Attack type": "Type d'attaque"
   "Attacker": "Attaquant" # global (count: 2) (undefined)
   "Brain activities": "Brain activités"
   "Cancel evacuation": "Annuler l'évacuation"
@@ -1130,12 +1130,12 @@ bot.settings.hotkeys:
 #  "Hotkeys": "" # global (count: 3) (defined)
 #  "Notifications": "" # global (count: 4) (defined)
 bot.settings.hunter-target:
-  "Alliance": "" # global (count: 4) (undefined)
-  "Color legend": ""
-  "Notify when inactive for": ""
+  "Alliance": "Alliance" # global (count: 4) (undefined)
+  "Color legend": "Légende des couleurs"
+  "Notify when inactive for": "Avertir en cas d'inactivité pendant"
 #  "Save": "" # global (count: 17) (defined)
-  "Target": ""
-  "minutes": "" # global (count: 3) (undefined)
+  "Target": "Cible"
+  "minutes": "minutes" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (count: 2) (undefined)
 #  "Actions": "" # global (count: 12) (defined)
@@ -1328,7 +1328,7 @@ bot.settings.settings:
   "Enable browser augments": "Activer les augmentations du navigateur"
   "Enable galaxy browser augments": "Activer les augmentations du navigateur Galaxy"
   "Enter your password": "Tapez votre mot de passe"
-  "Espionage probe": ""
+  "Espionage probe": "Sonde d'espionnage"
   "Gameforge bearer token": ""
   "General": "" # global (count: 5) (undefined)
   "General options": "Options générales"
@@ -1562,7 +1562,7 @@ database:
   "Stats": "Statistiques"
   "Value": "Valeur"
 debug.i18n:
-  "App language": ""
+  "App language": "Langage de l'application"
   "Open locals folder": "Ouvrir le dossier locals"
   "Reload locals": "Recharger locals"
 debug.index:
@@ -1587,7 +1587,7 @@ download-antigame:
 download-licenses:
 #  "Actions": "" # global (count: 12) (defined)
 #  "Active": "" # global (count: 6) (defined)
-  "Antigame": "" # global (count: 3) (undefined)
+  "Antigame": "Antigame" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
   "Expired": "" # global (count: 3) (undefined)
   "Expired at": "Expiré le"
@@ -1664,19 +1664,19 @@ get-trial-key:
 #  "Home": "" # global (count: 8) (defined)
 home-slave:
 #  "Bots": "" # global (count: 5) (defined)
-  "Compiled scripts": "" # global (count: 2) (undefined)
-  "Create script on all bots": "" # global (count: 3) (undefined)
-  "Download all scripts": "" # global (count: 2) (undefined)
+  "Compiled scripts": "Scripts compilés" # global (count: 2) (undefined)
+  "Create script on all bots": "Créer un script sur tous les robots" # global (count: 3) (undefined)
+  "Download all scripts": "Téléchargez tous les scripts" # global (count: 2) (undefined)
 #  "Email": "" # global (count: 11) (defined)
-  "Export bots": "" # global (count: 2) (undefined)
+  "Export bots": "Exporter des robots" # global (count: 2) (undefined)
   "ID": "ID" # global (count: 2) (undefined)
-  "Import bots": "" # global (count: 2) (undefined)
+  "Import bots": "Importer des robots" # global (count: 2) (undefined)
   "Lang": "Lang" # global (count: 3) (undefined)
 #  "New bot": "" # global (count: 4) (defined)
-  "Other actions": "" # global (count: 2) (undefined)
-  "Player name": "" # global (count: 4) (undefined)
+  "Other actions": "Autres actions" # global (count: 2) (undefined)
+  "Player name": "Nom du joueur" # global (count: 4) (undefined)
 #  "Points": "" # global (count: 4) (defined)
-  "Proxy": "" # global (count: 3) (undefined)
+  "Proxy": "Proxy" # global (count: 3) (undefined)
 #  "Rank": "" # global (count: 6) (defined)
 #  "Reorder bots": "" # global (count: 3) (defined)
 #  "Start": "" # global (count: 4) (defined)
@@ -1724,7 +1724,7 @@ import:
 index:
 #  "Account": "" # global (count: 2) (defined)
 #  "Admin": "" # global (count: 2) (defined)
-  "Captchas": "" # global (count: 2) (undefined)
+  "Captchas": "Captchas" # global (count: 2) (undefined)
   "Check again": "Revérifier"
 #  "Download": "" # global (count: 12) (defined)
 #  "FAQ": "" # global (count: 1) (defined)
@@ -1738,27 +1738,27 @@ index:
   "Register": "S'enregistrer" # global (count: 1) (defined)
   "Servers": "Serveurs" # global (count: 1) (defined)
   "Sign out": "Se déconnecter" # global (count: 1) (defined)
-  "Support": ""
+  "Support": "Soutien"
   "System clock is not synchronized": "L'horloge système n'est pas synchronisée"
-  "Ticket support": ""
-  "Translations": ""
+  "Ticket support": "Ticket support"
+  "Translations": "Traductions"
   "Your Ninja software needs to be updated.": "Votre logiciel Ninja doit être mis à jour." # global (count: 1) (defined)
   "download the latest version here": "télécharger la dernière version ici" # global (count: 1) (defined)
   "update your instance here": "mettez à jour votre instance ici" # global (count: 1) (defined)
 initialization:
-  "Bot is being initialized, please wait until you get automatically redirected...": ""
+  "Bot is being initialized, please wait until you get automatically redirected...": "Le bot est en cours d'initialisation, veuillez patienter jusqu'à ce que vous soyez automatiquement redirigé..."
 instance-actions:
-  "New password": "" # global (count: 3) (undefined)
-  "New username": "" # global (count: 3) (undefined)
+  "New password": "Nouveau mot de passe" # global (count: 3) (undefined)
+  "New username": "Nouveau nom d'utilisateur" # global (count: 3) (undefined)
 invoice:
 #  "Bots": "" # global (count: 5) (defined)
 #  "Credit or debit card": "" # global (count: 7) (defined)
 #  "New license": "" # global (count: 6) (defined)
 #  "Pay with Credit/debit card": "" # global (count: 7) (defined)
 #  "Pay with paypal": "" # global (count: 7) (defined)
-  "Submit payment": "" # global (count: 2) (undefined)
-  "Upgrade license": ""
-  "Valid until": "" # global (count: 2) (undefined)
+  "Submit payment": "Soumettre le paiement" # global (count: 2) (undefined)
+  "Upgrade license": "Réviser la license"
+  "Valid until": "Valable jusqu'au" # global (count: 2) (undefined)
 #  "we are using": "" # global (count: 7) (defined)
 landing:
   "Combat simulator": "Simulateur de combat" # global (count: 2) (undefined)
@@ -2133,7 +2133,7 @@ support:
 #  "Home": "" # global (count: 8) (defined)
 ticketSupport.new-invoice:
 #  "Bots": "" # global (count: 5) (defined)
-  "Valid until": "Valable jusque" # global (count: 2) (undefined)
+  "Valid until": "Valable jusqu'au" # global (count: 2) (undefined)
 two-factor-authentication-verify:
   "1- Recovery code": ""
   "2- Scan this barcode with your app.": ""
