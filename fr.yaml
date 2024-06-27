@@ -1585,7 +1585,7 @@ download-licenses:
   "No license to display": "Aucune licence à afficher"
   "Renew license": "Renouveler la licence" # global (undefined)
   "UUID": "" # global (undefined)
-  "You must be authenticated": ""
+  "You must be authenticated": "Authentification requise"
   "meta-description": "" # global (undefined)
   "ogame Ninja": "" # global (undefined)
   "title": "" # global (undefined)
