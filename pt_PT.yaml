@@ -569,7 +569,7 @@ bot.galaxy.map:
   "Inactive": "Inactivo" # global (undefined)
   "Vacation": "Férias" # global (undefined)
 bot.galaxy.player:
-  "Actions": "Acções" # global (defined)
+#  "Actions": "" # global (defined)
   "Add to hunter list": "Adicionar ao hunter"
   "Alliance": "Aliança" # global (undefined)
   "Coords": "Coords" # global (undefined)
@@ -751,13 +751,13 @@ bot.scripts:
   "Validate Script": "Validar Script"
 bot.settings.activities:
   "Created at": "Criado em" # global (undefined)
-  "Destination": "Destino" # global (defined)
+#  "Destination": "" # global (defined)
   "Fleet log": "Log de Frotas"
   "Logins": ""
 #  "Mission": "" # global (defined)
   "Next": "Seguinte" # global (undefined)
   "No fleet in the log": "Sem frotas no log"
-  "Origin": "Origem" # global (defined)
+#  "Origin": "" # global (defined)
   "Prev": "Anterior" # global (undefined)
   "Sent fleets": ""
 bot.settings.auctioneer:
@@ -977,14 +977,14 @@ bot.settings.farmer:
   "Created at": "Criado em" # global (undefined)
 #  "Crystal": "" # global (defined)
   "Delete combat reports": "Apagar relatórios de combate"
-  "Deuterium": "Deutério" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Espionage probe raids": "Atacar com sondas de espionagem"
   "Farm sessions": "Sessão de Farm"
   "Farmer active": "Farmer activo"
   "Fast attacking": "Ataque rápido"
   "Ignore targets with activity": "Ignorar alvos c/ actividade"
   "Inactive": "" # global (undefined)
-  "Metal": "Metal" # global (defined)
+#  "Metal": "" # global (defined)
   "Min. defenses to ignore": "Defesas mínimas a ignorar"
   "Min. player rank": "Min. classificação jogador"
   "Min. resources to attack": "Recursos mínimos p/ atacar"
@@ -992,7 +992,7 @@ bot.settings.farmer:
   "Nb probes": "Nr Sondas"
   "New session": "Nova sessão"
   "No session": "Sem sessão"
-  "Origin": "Origem" # global (defined)
+#  "Origin": "" # global (defined)
   "Planet": "Planeta" # global (undefined)
   "Priority calculation": "Prioridade de cálculo"
   "Range": "Intervalo"
@@ -1068,7 +1068,7 @@ bot.settings.hunter-target:
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- Planeta/Lua activa ---" # global (undefined)
 #  "Actions": "" # global (defined)
-  "Activities": "Actividades" # global (defined)
+#  "Activities": "" # global (defined)
   "Activity": "Actividade"
   "Alliance": "Aliança" # global (undefined)
   "Alliance rank": "Classificação aliança"
@@ -1106,18 +1106,18 @@ bot.settings.index:
 bot.settings.logs:
   "All": "Tudo" # global (undefined)
   "Audit": "Audit"
-  "Brain": "Brain" # global (defined)
+#  "Brain": "" # global (defined)
   "Category": "Categoria" # global (undefined)
   "Colonizer": "" # global (undefined)
   "Crawler": "Crawler" # global (undefined)
   "Created at": "Criado em" # global (undefined)
-  "Defender": "Defender" # global (defined)
+#  "Defender": "" # global (defined)
   "Download logs": "Download logs"
   "Expeditions": "" # global (undefined)
-  "Farmer": "Farmer" # global (defined)
+#  "Farmer": "" # global (defined)
   "Fleet save": ""
   "General": "Geral" # global (undefined)
-  "Hunter": "Hunter" # global (defined)
+#  "Hunter": "" # global (defined)
   "Level": "Nível"
   "Message": "Mensagem" # global (undefined)
   "Next": "Seguinte" # global (undefined)
@@ -1336,7 +1336,7 @@ bot.settings.settings:
   "UTC-11:00": ""
   "UTC-12:00": ""
   "User-Agent": "User-Agent"
-  "Username": "Utilizador" # global (defined)
+#  "Username": "" # global (defined)
   "Validate": ""
   "Validate account": ""
   "proxy login requests only": "" # global (undefined)
@@ -1433,7 +1433,7 @@ bot.simulator:
   "Possible": "Possível"
   "Profit": "Lucro"
   "Reaper": "Ceifeira" # global (undefined)
-  "Recycler": "Reciclador" # global (defined)
+#  "Recycler": "" # global (defined)
   "Result": "Resultado"
 #  "Rocket Launcher": "" # global (defined)
   "Rounds": "Rondas"
@@ -2010,7 +2010,7 @@ settings.gift-cards:
   "we are using": "" # global (undefined)
 settings.index:
   "API": "API" # global (undefined)
-  "Account": "Conta" # global (defined)
+#  "Account": "" # global (defined)
   "Gift cards": "Cartões de presente" # global (undefined)
   "Sessions": "Sessões"
   "Subscriptions": "" # global (undefined)

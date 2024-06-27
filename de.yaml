@@ -195,15 +195,15 @@ admin.license:
 #  "Are you sure?": "" # global (defined)
   "Bots allowed": "Bots erlaubt" # global (undefined)
   "Created": "Erstellt am" # global (undefined)
-  "Email": "Email" # global (defined)
+#  "Email": "" # global (defined)
   "Expired": "Abgelaufen" # global (undefined)
-  "License": "Lizenz" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Besitzer" # global (undefined)
   "Subscription": ""
   "UUID": "" # global (undefined)
   "Upload": "" # global (undefined)
   "Upload file": ""
-  "unlimited": "Unbegrenzt" # global (defined)
+#  "unlimited": "" # global (defined)
 admin.login-history:
 #  "Created at": "" # global (defined)
   "Deleted at": ""
@@ -226,7 +226,7 @@ admin.settings:
   "Reverse tunnel": "Reverse-Tunnel"
   "SMTP settings (email)": "SMTP E-Mail Einstellungen"
   "Save": "Speichern" # global (undefined)
-  "Settings": "Einstellungen" # global (defined)
+#  "Settings": "" # global (defined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
@@ -249,7 +249,7 @@ admin.updating:
   "You will be redirected soon": "Sie werden gleich weitergeleitet"
 admin.user-edit:
   "Create user": "Benutzer erstellen"
-  "Email": "Email" # global (defined)
+#  "Email": "" # global (defined)
   "Is admin": "Ist Admin"
   "No": ""
 #  "Password": "" # global (defined)
@@ -258,12 +258,12 @@ admin.user-edit:
 #  "Username": "" # global (defined)
   "Yes": ""
 admin.users:
-  "Admin": "Admin" # global (defined)
-  "Created at": "Erstellt am" # global (defined)
+#  "Admin": "" # global (defined)
+#  "Created at": "" # global (defined)
   "Delete user": "Benutzer löschen"
   "New user": "Neuer Benutzer"
 #  "Username": "" # global (defined)
-  "Users": "Benutzer" # global (defined)
+#  "Users": "" # global (defined)
   "Verified": "Bestätigt"
 antigame:
   "Arch": "" # global (undefined)
@@ -509,17 +509,17 @@ bot.empire:
 bot.flights:
 #  "Actions": "" # global (defined)
   "Activate all": "Alle aktivieren"
-  "Active": "Aktiv" # global (defined)
-  "All": "Alle" # global (defined)
+#  "Active": "" # global (defined)
+#  "All": "" # global (defined)
 #  "Are you sure?": "" # global (defined)
   "Arrival": "Ankunft"
   "Arrive at": ""
-  "Arrive in": "Ankunft in" # global (defined)
+#  "Arrive in": "" # global (defined)
 #  "Attack": "" # global (defined)
 #  "Battlecruiser": "" # global (defined)
 #  "Battleship": "" # global (defined)
 #  "Bomber": "" # global (defined)
-  "Cancel Fleet": "Flotte abbrechen" # global (defined)
+#  "Cancel Fleet": "" # global (defined)
   "Cancel scheduled flight": ""
   "Cargo": "Laderaum"
 #  "Colonize": "" # global (defined)
@@ -528,7 +528,7 @@ bot.flights:
   "Cron jobs": "Cronjobs"
 #  "Cruiser": "" # global (defined)
 #  "Crystal": "" # global (defined)
-  "Current fleets": "Aktuelle Flotten" # global (defined)
+#  "Current fleets": "" # global (defined)
   "DS": "Todesstern"
   "Deactivate all": "Alle Deaktivieren"
 #  "Deathstar": "" # global (defined)
@@ -543,7 +543,7 @@ bot.flights:
   "Dur": "Dauer"
   "Edit cron job": "Cronjob bearbeiten"
 #  "Espionage Probe": "" # global (defined)
-  "Exp": "Exp" # global (defined)
+#  "Exp": "" # global (defined)
 #  "Expedition": "" # global (defined)
   "Flight": "Flug"
   "Fuel": "Verbrauch"
@@ -558,10 +558,10 @@ bot.flights:
 #  "Light Fighter": "" # global (defined)
 #  "Metal": "" # global (defined)
 #  "Missile Attack": "" # global (defined)
-  "Mission": "Mission" # global (defined)
-  "Moon": "Mond" # global (defined)
+#  "Mission": "" # global (defined)
+#  "Moon": "" # global (defined)
   "No cron job at the moment": "Derzeit kein Cronjob eingerichtet"
-  "No fleets": "Keine Flotten" # global (defined)
+#  "No fleets": "" # global (defined)
   "No saved flights": "Keine gespeicherten Flüge"
   "No scheduled flights": ""
   "None": "Keine" # global (defined)
@@ -571,7 +571,7 @@ bot.flights:
 #  "Park": "" # global (defined)
 #  "Park In That Ally": "" # global (defined)
 #  "Pathfinder": "" # global (defined)
-  "Planet": "Planet" # global (defined)
+#  "Planet": "" # global (defined)
   "R": ""
 #  "Reaper": "" # global (defined)
   "Recycle debris field": "Trümmerfeld abbauen"
@@ -585,7 +585,7 @@ bot.flights:
   "Schedule fleet": ""
   "Scheduled flights": ""
   "Search for lifeforms": ""
-  "Select origin": "Ursprung wählen" # global (defined)
+#  "Select origin": "" # global (defined)
   "Send all resources": "" # global (undefined)
   "Send fleet": "Flotte senden"
   "Send flight": "Flug losschicken"
@@ -600,7 +600,7 @@ bot.flights:
   "random delay 0-10min added": "zufallsverzögerung 0-10 min ergänzt"
   "send": ""
   "speed": "Geschwindigkeit"
-  "to": "nach" # global (defined)
+#  "to": "" # global (defined)
 bot.flightsEdit:
   "Homeworld": "" # global (undefined)
   "Send all resources": "" # global (undefined)
@@ -609,48 +609,48 @@ bot.galaxy.index:
   "Map": "Karte"
   "Table": "Tabelle"
 bot.galaxy.map:
-  "Active": "Aktiv" # global (defined)
+#  "Active": "" # global (defined)
   "Coord": "Koordinaten"
-  "Inactive": "Inaktiv" # global (defined)
-  "Vacation": "Urlaub" # global (defined)
+#  "Inactive": "" # global (defined)
+#  "Vacation": "" # global (defined)
 bot.galaxy.player:
 #  "Actions": "" # global (defined)
   "Add to hunter list": "Zur Jägerliste hinzufügen"
-  "Alliance": "Allianz" # global (defined)
-  "Coords": "Koordinaten" # global (defined)
-  "Crystal": "Kristall" # global (defined)
+#  "Alliance": "" # global (defined)
+#  "Coords": "" # global (defined)
+#  "Crystal": "" # global (defined)
 #  "Deuterium": "" # global (defined)
   "Espionage": "" # global (undefined)
-  "Espionage report": "Spionagebericht" # global (defined)
-  "Galaxy": "Galaxie" # global (defined)
-  "Members": "Mitglieder" # global (defined)
-  "Metal": "Metall" # global (defined)
-  "Moon": "Mond" # global (defined)
+#  "Espionage report": "" # global (defined)
+#  "Galaxy": "" # global (defined)
+#  "Members": "" # global (defined)
+#  "Metal": "" # global (defined)
+#  "Moon": "" # global (defined)
 #  "Planet name": "" # global (defined)
-  "Player name": "Spielername" # global (defined)
+#  "Player name": "" # global (defined)
   "Player profile": "Spielerprofil" # global (undefined)
   "RN": "Anzahl Recycler" # global (undefined)
   "Rank": "Rang" # global (defined)
-  "Updated": "Aktualisiert am" # global (defined)
+#  "Updated": "" # global (defined)
 bot.galaxy.table:
 #  "Actions": "" # global (defined)
   "Add alliance to ignore list": ""
   "Add player to ignore list": ""
-  "Alliance": "Allianz" # global (defined)
-  "Coords": "Koordinaten" # global (defined)
-  "Crystal": "Kristall" # global (defined)
+#  "Alliance": "" # global (defined)
+#  "Coords": "" # global (defined)
+#  "Crystal": "" # global (defined)
   "Debris top 100": "Top100 Trümmerfelder"
 #  "Deuterium": "" # global (defined)
   "Espionage": "" # global (undefined)
-  "Espionage report": "Spionagebericht" # global (defined)
-  "Get spy reports": "Spionageberichte abrufen" # global (defined)
+#  "Espionage report": "" # global (defined)
+#  "Get spy reports": "" # global (defined)
   "Go": "Los"
-  "Members": "Mitglieder" # global (defined)
-  "Metal": "Metall" # global (defined)
-  "Moon": "Mond" # global (defined)
+#  "Members": "" # global (defined)
+#  "Metal": "" # global (defined)
+#  "Moon": "" # global (defined)
   "Open in OGame browser": "Im Ogame Browser öffnen"
   "Planet name": "Name des Planeten" # global (defined)
-  "Player name": "Spielername" # global (defined)
+#  "Player name": "" # global (defined)
   "RN": "Anzahl Recycler" # global (undefined)
   "Rank": "Rang" # global (defined)
   "Scan this page": "Diese Seite scannen"
@@ -658,7 +658,7 @@ bot.galaxy.table:
   "Search": "Suche" # global (undefined)
   "Send recyclers": "" # global (undefined)
   "Stop scan universe": "Scan anhalten"
-  "Updated": "Aktualisiert am" # global (defined)
+#  "Updated": "" # global (defined)
 bot.index:
   "Bot": ""
   "Browser": ""
@@ -698,7 +698,7 @@ bot.planet:
   "Cargo capacity": "Transporter Laderaum"
   "Current": "Aktuell"
   "Current planet": "Aktueller Planet"
-  "Fuel consumption": "Treibstoffverbrauch" # global (defined)
+#  "Fuel consumption": "" # global (defined)
   "Import resources & build": "Rohstoffe importieren und bauen"
   "Is Collector": ""
   "Is Discoverer": ""
@@ -707,7 +707,7 @@ bot.planet:
   "Lifeform researches": ""
   "Main planet": "Hauptplanet"
   "Price": "Kosten"
-  "Queue": "Warteschlange" # global (defined)
+#  "Queue": "" # global (defined)
   "Queue tear down": "Abriss in Warteschlange"
   "Rapidfire against": "Rapidfire gegen"
   "Rapidfire from": "Rapidfire von"
@@ -795,14 +795,14 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "Skript überprüfen"
 bot.settings.activities:
-  "Created at": "Erstellt am" # global (defined)
-  "Destination": "Ziel" # global (defined)
+#  "Created at": "" # global (defined)
+#  "Destination": "" # global (defined)
   "Fleet log": "Flottenjournal"
   "Logins": ""
 #  "Mission": "" # global (defined)
 #  "Next": "" # global (defined)
   "No fleet in the log": "Keine Flotten im Journal"
-  "Origin": "Ursprung" # global (defined)
+#  "Origin": "" # global (defined)
 #  "Prev": "" # global (defined)
   "Sent fleets": ""
 bot.settings.auctioneer:
@@ -894,9 +894,9 @@ bot.settings.defender:
   "Save": "Speichern" # global (undefined)
   "Send message to attackers": "Nachricht an Angreifer senden"
   "activate for moon ?": "für Monde aktivieren?"
-  "minutes": "Minuten" # global (defined)
-  "next check in": "Nächste Prüfung in" # global (defined)
-  "next in": "Nächstes Mal in" # global (defined)
+#  "minutes": "" # global (defined)
+#  "next check in": "" # global (defined)
+#  "next in": "" # global (defined)
   "sec": "sek"
   "to": "bis" # global (defined)
 bot.settings.discovery:
@@ -1019,17 +1019,17 @@ bot.settings.farmer:
   "Attack from nearest moon": "Vom nahegelegensten Mond aus Angreifen"
   "Attack from nearest planet": "Vom nahegelegensten Planeten aus angreifen"
   "Attack speed": "Angriffsgeschwindigkeit"
-  "Created at": "Erstellt am" # global (defined)
-  "Crystal": "Kristall" # global (defined)
+#  "Created at": "" # global (defined)
+#  "Crystal": "" # global (defined)
   "Delete combat reports": "Lösche Kampfberichte"
-  "Deuterium": "Deuterium" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Espionage probe raids": "Raids mit Spionagesonden"
   "Farm sessions": "Farmsitzungen"
   "Farmer active": "Farmer aktiv"
   "Fast attacking": "Schnellangriff"
   "Ignore targets with activity": ""
 #  "Inactive": "" # global (defined)
-  "Metal": "Metall" # global (defined)
+#  "Metal": "" # global (defined)
   "Min. defenses to ignore": "Mindestverteidigung für Überspringen"
   "Min. player rank": ""
   "Min. resources to attack": "Mindestbeute bei Angriff"
@@ -1037,13 +1037,13 @@ bot.settings.farmer:
   "Nb probes": "Anzahl Sonden"
   "New session": "Neue Sitzung"
   "No session": "keine Sitzung"
-  "Origin": "Ursprung" # global (defined)
-  "Planet": "Planet" # global (defined)
+#  "Origin": "" # global (defined)
+#  "Planet": "" # global (defined)
   "Priority calculation": "Berechnung der Priorität"
   "Range": "Bereich"
   "Redo": "erneut ausführen" # global (undefined)
   "Save": "Speichern" # global (undefined)
-  "Select origin": "Ursprung wählen" # global (defined)
+#  "Select origin": "" # global (defined)
   "Start new session": "Neue Sitzung starten"
   "State": "Status"
   "Total loot": "Gesamtbeute"
@@ -1079,7 +1079,7 @@ bot.settings.home:
 #  "Destination": "" # global (defined)
   "Donut galaxy": "Donut Galaxie"
   "Donut system": "Donut System"
-  "Email": "Email" # global (defined)
+#  "Email": "" # global (defined)
   "Expeditions": "" # global (undefined)
   "Fingerprint": ""
   "General info": "Allgemeine Informationen"
@@ -1113,9 +1113,9 @@ bot.settings.hunter-target:
 bot.settings.hunter:
 #  "--- Currently active planet/moon ---": "" # global (defined)
 #  "Actions": "" # global (defined)
-  "Activities": "Aktivitäten" # global (defined)
+#  "Activities": "" # global (defined)
   "Activity": "Aktivität"
-  "Alliance": "Allianz" # global (defined)
+#  "Alliance": "" # global (defined)
   "Alliance rank": "Allianzrang"
   "Hunter configs": "Jäger Einstellungen"
   "No activity": "keine Aktivität" # global (undefined)
@@ -1127,8 +1127,8 @@ bot.settings.hunter:
   "Scan using": "Scan benutzt" # global (undefined)
 #  "Vacation": "" # global (defined)
   "View activities": "Zeige Aktivitäten"
-  "minutes": "Minuten" # global (defined)
-  "next in": "Nächstes Mal in" # global (defined)
+#  "minutes": "" # global (defined)
+#  "next in": "" # global (defined)
 bot.settings.index:
 #  "Activities": "" # global (defined)
   "Auctioneer": ""
@@ -1151,18 +1151,18 @@ bot.settings.index:
 bot.settings.logs:
   "All": "All" # global (defined)
   "Audit": "Einstellungen"
-  "Brain": "Bauplaner" # global (defined)
+#  "Brain": "" # global (defined)
   "Category": "Kategorie" # global (undefined)
   "Colonizer": "" # global (undefined)
   "Crawler": "Ausleser" # global (undefined)
-  "Created at": "Erstellt am" # global (defined)
-  "Defender": "Verteidiger" # global (defined)
+#  "Created at": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Download logs": "Logs herunterladen"
   "Expeditions": "" # global (undefined)
-  "Farmer": "Farmer" # global (defined)
+#  "Farmer": "" # global (defined)
   "Fleet save": ""
   "General": "Allgemein" # global (undefined)
-  "Hunter": "Jäger" # global (defined)
+#  "Hunter": "" # global (defined)
   "Level": "Detailgrad"
   "Message": "Nachricht" # global (undefined)
   "Next": "Nächste" # global (defined)
@@ -1272,7 +1272,7 @@ bot.settings.scanner:
   "hours": "Stunden"
   "milliseconds": "Millisekunden"
   "minimum": "Mindestwert"
-  "next in": "Nächstes Mal in" # global (defined)
+#  "next in": "" # global (defined)
   "scanner active": "Scanner Aktiv"
   "scanner configs": "Scanner Einstellungen"
 bot.settings.settings:
@@ -1442,7 +1442,7 @@ bot.simulator:
   "Defence": ""
   "Defence repair factor": "Verteidigungsanlagen Reperatur Faktor"
   "Defence to debris": "Verteidigung ins Trümmerfeld"
-  "Defender": "Verteidiger" # global (defined)
+#  "Defender": "" # global (defined)
   "Defender win": "Verteidiger gewinnt"
 #  "Destroyer": "" # global (defined)
 #  "Deuterium": "" # global (defined)
@@ -1471,7 +1471,7 @@ bot.simulator:
   "Open in TrashSim": "In TrahSim öffnen"
 #  "Pathfinder": "" # global (defined)
   "Pathfinders": ""
-  "Planet": "Planet" # global (defined)
+#  "Planet": "" # global (defined)
   "Planet/Moon": "Planet/Mond"
 #  "Plasma Turret": "" # global (defined)
   "Plunder": "Plünderung"
@@ -1482,7 +1482,7 @@ bot.simulator:
   "Result": "Ergebnis"
 #  "Rocket Launcher": "" # global (defined)
   "Rounds": "Runde(n)"
-  "Select origin": "Ursprung wählen" # global (defined)
+#  "Select origin": "" # global (defined)
   "Send attack": "Angriff abschicken"
   "Send recyclers": "" # global (undefined)
   "Shield": "Schild"
@@ -1496,7 +1496,7 @@ bot.simulator:
 bot-card:
 #  "Email": "" # global (defined)
   "Lang": "Sprache" # global (undefined)
-  "Points": "Punkte" # global (defined)
+#  "Points": "" # global (defined)
   "Proxy": "" # global (undefined)
   "Rank": "Rang" # global (defined)
 #  "Start": "" # global (defined)
@@ -1562,7 +1562,7 @@ download-licenses:
 #  "Actions": "" # global (defined)
 #  "Active": "" # global (defined)
   "Antigame": "" # global (undefined)
-  "Download": "Herunterladen" # global (defined)
+#  "Download": "" # global (defined)
   "Expired": "" # global (undefined)
   "Expired at": "Gültig bis"
   "Full license": "Voll-Lizenz"
@@ -1593,12 +1593,12 @@ download:
   "ogame Ninja": "" # global (undefined)
   "title": "Download" # global (undefined)
 features:
-  "Activities": "Aktivitäten" # global (defined)
+#  "Activities": "" # global (defined)
   "Augmented browsing experience": "Browserintegration"
   "Combat simulator": "Kampfsimulator" # global (undefined)
-  "Defender": "Verteidiger" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Imperiumsansicht" # global (undefined)
-  "Farmer": "Farmer" # global (defined)
+#  "Farmer": "" # global (defined)
   "Universe map": "Karte des Universums" # global (undefined)
   "activities-desc": "Visualisiere deine Flottenaktivitäten und stelle damit sicher, dass es so aussieht, als würde ein richtiger Spieler sie kommandieren."
   "augments-desc": "OGame Ninja zeigt Dir direkt im Ogame Browser nützliche Sonderfunktionen an. So bekommst du zum Beispiel eine Übersicht aller Koordinaten eines Spielers und deren Aktivitätsstatus (aktiv, inaktiv, Urlaubsmodus etc.)"
@@ -1728,12 +1728,12 @@ invoice:
   "Pay with paypal": "" # global (undefined)
   "Submit payment": "Übermittle Bezahlung" # global (undefined)
   "Upgrade license": ""
-  "Valid until": "Gültig bis" # global (defined)
+#  "Valid until": "" # global (defined)
   "we are using": "" # global (undefined)
 landing:
   "Combat simulator": "Kampfsimulator" # global (undefined)
   "Construction queue": "Bauwarteschlange"
-  "Defender": "Verteidiger" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Imperiumsansicht" # global (undefined)
   "Farming": "Farming"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
@@ -1755,10 +1755,10 @@ landing:
 license-view:
   "Bots allowed": "Bots erlaubt" # global (undefined)
   "Created": "Erstellt" # global (undefined)
-  "Download": "Herunterladen" # global (defined)
+#  "Download": "" # global (defined)
   "Email": "E-Mail" # global (defined)
   "Expired": "Abgelaufen" # global (undefined)
-  "License": "Lizenz" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Benutzer" # global (undefined)
   "UUID": "" # global (undefined)
 license:
@@ -1850,7 +1850,7 @@ new-license-subscribe:
 new-license:
   "Buy license": "Lizenz kaufen" # global (undefined)
   "Credit or debit card": "Kredit- oder Debitkarte" # global (undefined)
-  "Download": "Herunterladen" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "Demolizenz erhalten" # global (undefined)
   "New license": "Neue Lizenz" # global (undefined)
   "Pay with Credit/debit card": "Mit Kredit-/Debitkarte bezahlen" # global (undefined)
@@ -1910,7 +1910,7 @@ new-server:
   "Pay with paypal": "Zahlung mit PayPal" # global (undefined)
   "Region": "Region/Land" # global (undefined)
   "Select one": "Bitte wählen"
-  "Settings": "Einstellungen" # global (defined)
+#  "Settings": "" # global (defined)
   "Subdomain": "Subdomain"
   "Submit Payment for cloud hosting": "Bezahlen um die cloudbasierte Lizenz zu erhalten"
   "Total": "Summe" # global (undefined)
@@ -1919,12 +1919,12 @@ new-server:
   "we are using": "Wir nutzen" # global (undefined)
 new-trial-license:
   "Buy license": "Lizenz kaufen" # global (undefined)
-  "Download": "Herunterladen" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "Demo-Lizenz erhalten" # global (undefined)
   "New trial license": "Neue Demo-Lizenz"
   "description1": "Die Demolizenz funktioniert für <strong>einen Ogame Account</strong>.<br /> Du musst hierbei angeben, für welchen Account der Bot eingerichtet wird.<br /> Die Lizenz ist für <strong>48 Stunden gültig</strong> und kann nicht erneuert werden.<br /> Die 48 Stunden beginnen mit Absenden dieses Formulars." # global (undefined)
 notifications:
-  "Created at": "Erstellt am" # global (defined)
+#  "Created at": "" # global (defined)
   "Message": "Nachricht" # global (undefined)
   "No notifications": "Keine Benachrichtigungen"
   "Notifications": "Benachrichtigungen" # global (undefined)
@@ -1935,7 +1935,7 @@ pricing:
   "Buy now": "Jetzt kaufen"
   "Get started": "Loslegen"
   "OGame proxy": ""
-  "Pricing": "Preismodelle" # global (defined)
+#  "Pricing": "" # global (defined)
   "Priority Slack support": ""
   "Proxies": ""
   "Self-host": "Selbstgehosted"
@@ -1978,7 +1978,7 @@ renew-instance:
   "Pay with Credit/debit card": "Zahlung mit Kredit-/Debitkarte" # global (undefined)
   "Pay with paypal": "Zahlung mit PayPal" # global (undefined)
   "Renew instance": "Instanz erneuern" # global (undefined)
-  "Settings": "Einstellungen" # global (defined)
+#  "Settings": "" # global (defined)
   "Submit payment to renew cloud license": "Bezahlen um die cloudbasierte Lizenz zu erneuern"
   "bot": "" # global (undefined)
   "we are using": "Wir nutzen" # global (undefined)
@@ -1989,7 +1989,7 @@ renew-license-subscribe:
 renew-license:
   "Credit or debit card": "Kredit-/Debitkarte" # global (undefined)
   "Current license valid until": "Aktuelle Lizenz gültig bis" # global (undefined)
-  "Download": "Herunterladen" # global (defined)
+#  "Download": "" # global (defined)
   "New license valid until": "Neue Lizenz gültig bis" # global (undefined)
   "Pay with Credit/debit card": "Zahlung mit Kredit-/Debitkarte" # global (undefined)
   "Pay with paypal": "Zahlung mit PayPal" # global (undefined)

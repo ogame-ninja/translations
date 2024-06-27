@@ -152,7 +152,7 @@ admin.license:
   "Created": "Creado el" # global (undefined)
   "Email": "Email" # global (undefined)
   "Expired": "Caduca el" # global (undefined)
-  "License": "Licencia" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Propietario" # global (undefined)
   "Subscription": ""
   "UUID": "" # global (undefined)
@@ -181,7 +181,7 @@ admin.settings:
   "Reverse tunnel": "Túnel inverso"
   "SMTP settings (email)": "Configurar SMTP (email)"
   "Save": "Guardar" # global (undefined)
-  "Settings": "Configuración" # global (defined)
+#  "Settings": "" # global (defined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
@@ -197,8 +197,8 @@ admin.themes:
   "New theme": ""
   "No theme": ""
   "Themes": "" # global (undefined)
-admin.update:
-  "Update": "Actualizar" # global (defined)
+#admin.update:
+#  "Update": "" # global (defined)
   "Update to latest": "" # global (undefined)
 admin.updating:
   "You will be redirected soon": ""
@@ -213,12 +213,12 @@ admin.user-edit:
 #  "Username": "" # global (defined)
   "Yes": ""
 admin.users:
-  "Admin": "Admin" # global (defined)
+#  "Admin": "" # global (defined)
   "Created at": "Creado el" # global (undefined)
   "Delete user": ""
   "New user": "Nuevo usuario"
 #  "Username": "" # global (defined)
-  "Users": "Usuarios" # global (defined)
+#  "Users": "" # global (defined)
   "Verified": "Verificado"
 antigame:
   "Arch": "" # global (undefined)
@@ -513,7 +513,7 @@ bot.flights:
 #  "Light Fighter": "" # global (defined)
 #  "Metal": "" # global (defined)
 #  "Missile Attack": "" # global (defined)
-  "Mission": "Misión" # global (defined)
+#  "Mission": "" # global (defined)
   "Moon": "Luna" # global (undefined)
   "No cron job at the moment": "(sin tareas CRON)"
   "No fleets": "(sin flotas en vuelo)" # global (undefined)
@@ -573,19 +573,19 @@ bot.galaxy.player:
   "Add to hunter list": "Añadir a Cazador"
   "Alliance": "Alianza" # global (undefined)
   "Coords": "Coordenadas" # global (undefined)
-  "Crystal": "Cristal" # global (defined)
+#  "Crystal": "" # global (defined)
 #  "Deuterium": "" # global (defined)
   "Espionage": "" # global (undefined)
   "Espionage report": "Informe de espionaje" # global (undefined)
-  "Galaxy": "Galaxia" # global (defined)
+#  "Galaxy": "" # global (defined)
   "Members": "Miembros" # global (undefined)
-  "Metal": "Metal" # global (defined)
+#  "Metal": "" # global (defined)
   "Moon": "Luna" # global (undefined)
   "Planet name": "Nombre de planeta" # global (undefined)
   "Player name": "Nombre de jugador" # global (undefined)
   "Player profile": "Perfil de jugador" # global (undefined)
   "RN": "Nº Recicladores" # global (undefined)
-  "Rank": "Rango" # global (defined)
+#  "Rank": "" # global (defined)
   "Updated": "Últ. Actualización" # global (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (defined)
@@ -593,7 +593,7 @@ bot.galaxy.table:
   "Add player to ignore list": ""
   "Alliance": "Alianza" # global (undefined)
   "Coords": "Coordenadas" # global (undefined)
-  "Crystal": "Cristal" # global (defined)
+#  "Crystal": "" # global (defined)
   "Debris top 100": "Top 100 campos de escombros"
 #  "Deuterium": "" # global (defined)
   "Espionage": "" # global (undefined)
@@ -601,13 +601,13 @@ bot.galaxy.table:
   "Get spy reports": "Obtener informes de espionaje" # global (undefined)
   "Go": "Ir"
   "Members": "Miembros" # global (undefined)
-  "Metal": "Metal" # global (defined)
+#  "Metal": "" # global (defined)
   "Moon": "Luna" # global (undefined)
   "Open in OGame browser": "Abrir con el navegador de Ogame"
   "Planet name": "Nombre de planeta" # global (undefined)
   "Player name": "Nombre de jugador" # global (undefined)
   "RN": "Nº Recicladores" # global (undefined)
-  "Rank": "Rango" # global (defined)
+#  "Rank": "" # global (defined)
   "Scan this page": "Escanear esta página"
   "Scan universe": "Escanear universo"
   "Search": "Buscar" # global (undefined)
@@ -751,13 +751,13 @@ bot.scripts:
   "Validate Script": ""
 bot.settings.activities:
   "Created at": "Creado el" # global (undefined)
-  "Destination": "Destino" # global (defined)
+#  "Destination": "" # global (defined)
   "Fleet log": "Log de flotas"
   "Logins": ""
 #  "Mission": "" # global (defined)
   "Next": "" # global (undefined)
   "No fleet in the log": "Log - ID Flota"
-  "Origin": "Origen" # global (defined)
+#  "Origin": "" # global (defined)
   "Prev": "" # global (undefined)
   "Sent fleets": ""
 bot.settings.auctioneer:
@@ -975,16 +975,16 @@ bot.settings.farmer:
   "Attack from nearest planet": "Atacar desde el planeta más cercano"
   "Attack speed": "Velocidad de ataques"
   "Created at": "Creado el" # global (undefined)
-  "Crystal": "Cristal" # global (defined)
+#  "Crystal": "" # global (defined)
   "Delete combat reports": ""
-  "Deuterium": "Deuterio" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Espionage probe raids": "Ataque con sondas"
   "Farm sessions": "Lista de farmeos"
   "Farmer active": "Activar Farmeo"
   "Fast attacking": "Ataque inmediato"
   "Ignore targets with activity": ""
   "Inactive": "" # global (undefined)
-  "Metal": "Metal" # global (defined)
+#  "Metal": "" # global (defined)
   "Min. defenses to ignore": "Defensas mínimas para ignorar objetivo"
   "Min. player rank": ""
   "Min. resources to attack": "Recursos mínimo para atacar"
@@ -992,7 +992,7 @@ bot.settings.farmer:
   "Nb probes": "Nº de sondas para espiar"
   "New session": ""
   "No session": "Nº de farmeo"
-  "Origin": "Origen" # global (defined)
+#  "Origin": "" # global (defined)
   "Planet": "Planeta" # global (undefined)
   "Priority calculation": "Factor de prioridad"
   "Range": "Rango de sistemas a farmear"
@@ -1111,13 +1111,13 @@ bot.settings.logs:
   "Colonizer": "" # global (undefined)
   "Crawler": "Detectar Info" # global (undefined)
   "Created at": "Creado el" # global (undefined)
-  "Defender": "Defensor" # global (defined)
+#  "Defender": "" # global (defined)
   "Download logs": "Descargar logs"
   "Expeditions": "" # global (undefined)
   "Farmer": "Farmeo" # global (defined)
   "Fleet save": ""
   "General": "General" # global (undefined)
-  "Hunter": "Cazador" # global (defined)
+#  "Hunter": "" # global (defined)
   "Level": "Nivel"
   "Message": "Mensaje" # global (undefined)
   "Next": "Posterior" # global (undefined)
@@ -1397,7 +1397,7 @@ bot.simulator:
   "Defence": ""
   "Defence repair factor": ""
   "Defence to debris": ""
-  "Defender": "Defensor" # global (defined)
+#  "Defender": "" # global (defined)
   "Defender win": "El defensor gana"
 #  "Destroyer": "" # global (defined)
 #  "Deuterium": "" # global (defined)
@@ -1551,9 +1551,9 @@ features:
   "Activities": "Actividad" # global (defined)
   "Augmented browsing experience": "Experiencia de navegación mejorada"
   "Combat simulator": "Simulador de batallas" # global (undefined)
-  "Defender": "Defensor" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Vista Imperio" # global (undefined)
-  "Farmer": "Granjero" # global (defined)
+#  "Farmer": "" # global (defined)
   "Universe map": "Mapa del universo" # global (undefined)
   "activities-desc": "Visualiza tu actividad de flotas y asegura que parece una persona jugando."
   "augments-desc": "OGame Ninja inyecta nuevas características en Html.<br /> Por ejemplo, tienes un link para rellenar el campo de unidades a construir con el máximo posible cuando construyes cualquier cosa.<br /> Obtienes la lista de todos los planetas de un jugador al navegar en la página de galaxia.<br /> La lista de posición está mejorada con el estado de los jugadores. (Activo/Inactivo, Vacaciones, ...)"
@@ -1688,7 +1688,7 @@ invoice:
 landing:
   "Combat simulator": "Simulador de batallas" # global (undefined)
   "Construction queue": "Cola de construcción"
-  "Defender": "Defensor" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Vista Imperio" # global (undefined)
   "Farming": "Granjero"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
@@ -1713,7 +1713,7 @@ license-view:
   "Download": "Descargar" # global (defined)
   "Email": "Email" # global (undefined)
   "Expired": "Caduca el" # global (undefined)
-  "License": "Licencia" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Propietario" # global (undefined)
   "UUID": "" # global (undefined)
 license:
@@ -1865,7 +1865,7 @@ new-server:
   "Pay with paypal": "Pagar con Paypal" # global (undefined)
   "Region": "Región" # global (undefined)
   "Select one": "Seleccione uno"
-  "Settings": "Configuración" # global (defined)
+#  "Settings": "" # global (defined)
   "Subdomain": "Subdominio"
   "Submit Payment for cloud hosting": "Procesar pago de licencia Cloud"
   "Total": "Total" # global (undefined)
@@ -1890,7 +1890,7 @@ pricing:
   "Buy now": "Comprar ahora"
   "Get started": "Inicia aquí"
   "OGame proxy": ""
-  "Pricing": "Precios" # global (defined)
+#  "Pricing": "" # global (defined)
   "Priority Slack support": "Soporte prioritario en Slack"
   "Proxies": ""
   "Self-host": "Autogestionado"
@@ -1933,7 +1933,7 @@ renew-instance:
   "Pay with Credit/debit card": "Pagar con tarjeta de crédito débito" # global (undefined)
   "Pay with paypal": "" # global (undefined)
   "Renew instance": "Renovar instancia" # global (undefined)
-  "Settings": "Configuración" # global (defined)
+#  "Settings": "" # global (defined)
   "Submit payment to renew cloud license": "Procesar pago de renovación de licencia Cloud"
   "bot": "" # global (undefined)
   "we are using": "Trabajamos con" # global (undefined)

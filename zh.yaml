@@ -146,19 +146,19 @@ global:
 #  "Are you sure?": "" # global (defined)
 admin.index:
   "Bots": "機器人" # global (defined)
-  "License": "憑證" # global (defined)
+#  "License": "" # global (defined)
   "Login history": "登入歷史"
-  "Settings": "設定" # global (defined)
+#  "Settings": "" # global (defined)
   "Themes": "主題" # global (undefined)
-  "Update": "更新" # global (defined)
+#  "Update": "" # global (defined)
   "Users": "用戶" # global (defined)
 admin.license:
-  "Are you sure?": "您確定嗎?" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Bots allowed": "能使用的機器人數" # global (undefined)
   "Created": "創建時間" # global (undefined)
-  "Email": "電子信箱" # global (defined)
+#  "Email": "" # global (defined)
   "Expired": "到期時間" # global (undefined)
-  "License": "憑證" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "所有者" # global (undefined)
   "Subscription": ""
   "UUID": "" # global (undefined)
@@ -170,7 +170,7 @@ admin.login-history:
   "Deleted at": ""
   "Expires at": "" # global (undefined)
   "IP": "" # global (undefined)
-  "Next": "下頁" # global (defined)
+#  "Next": "" # global (defined)
   "Prev": "前頁" # global (defined)
   "User": ""
   "User-agent": "" # global (undefined)
@@ -187,7 +187,7 @@ admin.settings:
   "Reverse tunnel": "反向隧道協議(reverse tunnel)"
   "SMTP settings (email)": "SMTP設定(電子郵件)"
   "Save": "保存" # global (undefined)
-  "Settings": "設定" # global (defined)
+#  "Settings": "" # global (defined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
@@ -198,33 +198,33 @@ admin.theme-new:
   "Name": "主題名" # global (undefined)
   "Update theme": "更新主題"
 admin.themes:
-  "Are you sure?": "您確定嗎?" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Delete theme": "刪除主題"
   "New theme": "新主題"
   "No theme": "無主題"
   "Themes": "主題" # global (undefined)
 admin.update:
-  "Update": "更新" # global (defined)
+#  "Update": "" # global (defined)
   "Update to latest": "更新至最新" # global (undefined)
 admin.updating:
   "You will be redirected soon": "將馬上重新定向"
 admin.user-edit:
   "Create user": "新增使用者"
-  "Email": "電子信箱" # global (defined)
+#  "Email": "" # global (defined)
   "Is admin": "為管理者"
   "No": "否"
-  "Password": "密碼" # global (defined)
+#  "Password": "" # global (defined)
   "Retype password": "再次輸入密碼" # global (undefined)
   "Update user": "更新使用者"
   "Username": "使用者名稱" # global (defined)
   "Yes": "是"
 admin.users:
-  "Admin": "管理員" # global (defined)
+#  "Admin": "" # global (defined)
   "Created at": "創造於" # global (undefined)
   "Delete user": "刪除使用者"
   "New user": "新使用者"
   "Username": "使用者名稱" # global (defined)
-  "Users": "使用者" # global (defined)
+#  "Users": "" # global (defined)
   "Verified": "已驗證"
 antigame:
   "Arch": "" # global (undefined)
@@ -403,7 +403,7 @@ bot.empire:
   "Overclocking Battleship": ""
   "Overclocking Heavy Fighter": ""
   "Overclocking Large Cargo": ""
-  "Pathfinder": "探路者" # global (defined)
+#  "Pathfinder": "" # global (defined)
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
@@ -483,7 +483,7 @@ bot.flights:
   "Cancel Fleet": "取消艦隊" # global (undefined)
   "Cancel scheduled flight": "取消預定艦隊"
   "Cargo": "容量"
-  "Colonize": "殖民" # global (defined)
+#  "Colonize": "" # global (defined)
 #  "Colony Ship": "" # global (defined)
 #  "Crawler": "" # global (defined)
   "Cron jobs": "時間任務管理系統"
@@ -497,20 +497,20 @@ bot.flights:
   "Delete cron job": "刪除任務"
   "Delete flight": "刪除飛行任務"
   "Depart at": "啟航於"
-  "Destination": "目的地" # global (defined)
-  "Destroy": "毀月" # global (defined)
+#  "Destination": "" # global (defined)
+#  "Destroy": "" # global (defined)
 #  "Destroyer": "" # global (defined)
 #  "Deuterium": "" # global (defined)
   "Dur": "持續時間"
   "Edit cron job": "編輯任務"
 #  "Espionage Probe": "" # global (defined)
   "Exp": "探" # global (undefined)
-  "Expedition": "探險" # global (defined)
+#  "Expedition": "" # global (defined)
   "Flight": "艦隊"
   "Fuel": "燃料"
-  "Grouped Attack": "聯合攻擊" # global (defined)
+#  "Grouped Attack": "" # global (defined)
   "Grouped attack": ""
-  "Harvest": "收割" # global (defined)
+#  "Harvest": "" # global (defined)
 #  "Heavy Fighter": "" # global (defined)
   "Homeworld": "" # global (undefined)
   "Jump gate": ""
@@ -519,8 +519,8 @@ bot.flights:
 #  "Light Fighter": "" # global (defined)
 #  "Metal": "" # global (defined)
   "Missile Attack": "導彈攻擊彈" # global (defined)
-  "Mission": "任務" # global (defined)
-  "Moon": "月球" # global (defined)
+#  "Mission": "" # global (defined)
+#  "Moon": "" # global (defined)
   "No cron job at the moment": "當前並無任務時間表"
   "No fleets": "沒有艦船" # global (undefined)
   "No saved flights": "沒有保存的艦隊"
@@ -552,7 +552,7 @@ bot.flights:
   "Send flight": "派出艦船"
 #  "Small Cargo": "" # global (defined)
   "Spec": ""
-  "Spy": "間諜" # global (defined)
+#  "Spy": "" # global (defined)
 #  "Transport": "" # global (defined)
   "from": "自"
   "keep": "保留"
@@ -575,7 +575,7 @@ bot.galaxy.map:
   "Inactive": "不活躍" # global (undefined)
   "Vacation": "假期" # global (undefined)
 bot.galaxy.player:
-  "Actions": "動作" # global (defined)
+#  "Actions": "" # global (defined)
   "Add to hunter list": "加入獵人列表"
   "Alliance": "聯盟" # global (undefined)
   "Coords": "座標" # global (undefined)
@@ -591,7 +591,7 @@ bot.galaxy.player:
   "Player name": "玩家名稱" # global (undefined)
   "Player profile": "玩家資料" # global (undefined)
   "RN": "所需回收船" # global (undefined)
-  "Rank": "排名" # global (defined)
+#  "Rank": "" # global (defined)
   "Updated": "更新於" # global (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (defined)
@@ -624,10 +624,10 @@ bot.index:
   "Bot": "機器人"
   "Browser": ""
   "Conqueror": "征服者"
-  "Empire": "帝國" # global (defined)
+#  "Empire": "" # global (defined)
   "Flights": ""
 #  "Galaxy": "" # global (defined)
-  "Home": "首頁" # global (defined)
+#  "Home": "" # global (defined)
   "Scripts": ""
   "Simulator": ""
 bot.phalanxPlayer:
@@ -659,7 +659,7 @@ bot.planet:
   "Cargo capacity": "貨艙容量"
   "Current": "現在"
   "Current planet": "當今行星"
-  "Fuel consumption": "燃料消耗" # global (defined)
+#  "Fuel consumption": "" # global (defined)
   "Import resources & build": "運送資源及開始建造"
   "Is Collector": ""
   "Is Discoverer": ""
@@ -675,13 +675,13 @@ bot.planet:
   "Research": ""
   "Shield power": ""
 #  "Shipyard": "" # global (defined)
-  "Speed": "速度" # global (defined)
+#  "Speed": "" # global (defined)
   "Structural integrity": ""
   "Sum": "總和"
   "Weapon power": ""
   "no item in queue": "排程是空的"
 bot.reorderPlanets:
-  "Empire": "帝國" # global (defined)
+#  "Empire": "" # global (defined)
   "Reorder planets": "重新排列行星" # global (undefined)
 bot.report:
   "Alliance Class": ""
@@ -752,19 +752,19 @@ bot.scripts:
   "Pause/unpause": "暫停/取消暫停"
   "Run": "執行"
   "Run at start": "(於開啟時)自動執行" # global (undefined)
-  "Stop": "停止" # global (defined)
+#  "Stop": "" # global (defined)
   "Upload scripts": ""
   "Validate Script": "驗證腳本"
 bot.settings.activities:
   "Created at": "創建於" # global (undefined)
-  "Destination": "目的地" # global (defined)
+#  "Destination": "" # global (defined)
   "Fleet log": "艦隊紀錄"
   "Logins": ""
-  "Mission": "任務" # global (defined)
-  "Next": "下頁" # global (defined)
+#  "Mission": "" # global (defined)
+#  "Next": "" # global (defined)
   "No fleet in the log": "紀錄中無艦隊資料"
-  "Origin": "出發地" # global (defined)
-  "Prev": "上頁" # global (defined)
+#  "Origin": "" # global (defined)
+#  "Prev": "" # global (defined)
   "Sent fleets": ""
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
@@ -872,14 +872,14 @@ bot.settings.expeditionMessages:
   "Category": "分類" # global (undefined)
   "Coordinate": "座標" # global (undefined)
   "Espionage report": "間諜報告" # global (undefined)
-  "Expedition": "探險" # global (defined)
+#  "Expedition": "" # global (defined)
   "Extract expedition messages": "提取探險訊息"
   "InGame date": "遊戲內日期" # global (undefined)
   "Message": "訊息" # global (undefined)
   "Messages": "訊息" # global (undefined)
-  "Next": "下頁" # global (defined)
+#  "Next": "" # global (defined)
   "No messages to show": "無訊息顯示" # global (undefined)
-  "Prev": "上頁" # global (defined)
+#  "Prev": "" # global (defined)
   "Re-process existing messages": "重新處理已有訊息"
   "alien": ""
   "delay": ""
@@ -898,7 +898,7 @@ bot.settings.expeditions:
   "Active": "啟用" # global (undefined)
 #  "Are you sure?": "" # global (defined)
   "Arrive in": "抵達於" # global (defined)
-  "Attack": "攻擊" # global (defined)
+#  "Attack": "" # global (defined)
   "Automatic fleet": ""
 #  "Battlecruiser": "" # global (defined)
 #  "Battleship": "" # global (defined)
@@ -923,7 +923,7 @@ bot.settings.expeditions:
   "Expeditions active": "啟用探險"
   "Expeditions configs": "探險設定"
   "Expeditions origin": "探險出發地"
-  "Grouped Attack": "聯合攻擊" # global (defined)
+#  "Grouped Attack": "" # global (defined)
 #  "Harvest": "" # global (defined)
 #  "Heavy Fighter": "" # global (defined)
   "Homeworld": "" # global (undefined)
@@ -942,12 +942,12 @@ bot.settings.expeditions:
   "Never wait (100% getting ban)": "不要等 (百分百被會抓)"
   "No fleets": "沒有艦隊" # global (undefined)
   "Number to send": "派出數量"
-  "Origin": "出發地" # global (defined)
+#  "Origin": "" # global (defined)
   "PF that will not be send with auto-split nor for recycle": "不被自動分派的探路者數量"
   "PF will be send to arrive at the same time as debris field is created (if any)": "於廢墟生成時間同時到達的探路者數量"
 #  "Park": "" # global (defined)
   "Park In That Ally": "" # global (undefined)
-  "Pathfinder": "探路者" # global (defined)
+#  "Pathfinder": "" # global (defined)
   "Pathfinders to stay": "保留於星/月上的探路者"
   "Reaper": "惡魔飛船" # global (undefined)
   "Recycle debris": "回收廢墟"
@@ -965,7 +965,7 @@ bot.settings.expeditions:
   "Systems range": "太陽系範圍"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "勾選以自動分派可用的艦船；否則指定派出數量"
   "Time in seconds that early PF will arrive after the expedition": "該先行探路者隊於探險後幾秒到達"
-  "Transport": "運輸" # global (defined)
+#  "Transport": "" # global (defined)
   "Wait for all expeditions slots": "等待所有可用探險指揮數"
   "Wait for majority of expeditions slots": "等待大部分可用探險指揮數"
   "expeditions": "探險"
@@ -998,7 +998,7 @@ bot.settings.farmer:
   "Nb probes": "間諜數量"
   "New session": "新工作階段"
   "No session": "無工作階段"
-  "Origin": "出發地" # global (defined)
+#  "Origin": "" # global (defined)
   "Planet": "行星" # global (undefined)
   "Priority calculation": "優先考量計算"
   "Range": "範圍"
@@ -1040,8 +1040,8 @@ bot.settings.home:
 #  "Destination": "" # global (defined)
   "Donut galaxy": "環繞銀河系"
   "Donut system": "環繞太陽系"
-  "Email": "電子信箱" # global (defined)
-  "Expeditions": "探險" # global (defined)
+#  "Email": "" # global (defined)
+#  "Expeditions": "" # global (defined)
   "Fingerprint": ""
   "General info": "一般資訊"
 #  "Hunter": "" # global (defined)
@@ -1074,7 +1074,7 @@ bot.settings.hunter-target:
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- 當前有活動的星/月 ---" # global (undefined)
 #  "Actions": "" # global (defined)
-  "Activities": "活動" # global (defined)
+#  "Activities": "" # global (defined)
   "Activity": "活動"
   "Alliance": "" # global (undefined)
   "Alliance rank": "聯盟排名"
@@ -1097,7 +1097,7 @@ bot.settings.index:
   "Colonizer": "" # global (undefined)
 #  "Defender": "" # global (defined)
   "Discovery": ""
-  "Expeditions": "探險" # global (defined)
+#  "Expeditions": "" # global (defined)
 #  "Farmer": "" # global (defined)
 #  "Hunter": "" # global (defined)
   "Logs": ""
@@ -1105,31 +1105,31 @@ bot.settings.index:
   "Overview": "總覽"
   "Phalanx": "感應陣列" # global (undefined)
   "Scanner": "掃描者"
-  "Settings": "設定" # global (defined)
+#  "Settings": "" # global (defined)
   "Sleep mode": "睡眠模式"
-  "Start": "開始" # global (defined)
-  "Stop": "停止" # global (defined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
 bot.settings.logs:
   "All": "全部" # global (undefined)
   "Audit": "拍賣"
-  "Brain": "大腦(建設)" # global (defined)
+#  "Brain": "" # global (defined)
   "Category": "分類" # global (undefined)
   "Colonizer": "" # global (undefined)
   "Crawler": "爬虫(抓取资料)" # global (defined)
   "Created at": "創建於" # global (undefined)
-  "Defender": "防禦者" # global (defined)
+#  "Defender": "" # global (defined)
   "Download logs": "下載紀錄"
 #  "Expeditions": "" # global (defined)
-  "Farmer": "耕作者(刮I)" # global (defined)
+#  "Farmer": "" # global (defined)
   "Fleet save": ""
   "General": "一般" # global (undefined)
-  "Hunter": "獵人" # global (defined)
+#  "Hunter": "" # global (defined)
   "Level": "級別"
   "Message": "訊息" # global (undefined)
-  "Next": "下頁" # global (defined)
+#  "Next": "" # global (defined)
   "No logs to show": "無紀錄可顯示"
   "Phalanx": "感應陣列" # global (undefined)
-  "Prev": "上頁" # global (defined)
+#  "Prev": "" # global (defined)
   "Repatriate": "集中資源" # global (undefined)
   "VM": "虛擬主機"
   "scanner": "掃描者" # global (undefined)
@@ -1137,38 +1137,38 @@ bot.settings.messages:
   "All": "全部" # global (undefined)
   "Coordinate": "座標" # global (undefined)
   "Espionage report": "間諜報告" # global (undefined)
-  "Expedition": "探險" # global (defined)
+#  "Expedition": "" # global (defined)
 #  "Farmer": "" # global (defined)
   "Importer": "接受位置"
   "InGame date": "遊戲中日期" # global (undefined)
   "Loot": "掠奪資源"
   "Manual": "手動"
   "Messages": "訊息" # global (undefined)
-  "Next": "下頁" # global (defined)
+#  "Next": "" # global (defined)
   "No messages to show": "無訊息顯示" # global (undefined)
-  "Prev": "上頁" # global (defined)
+#  "Prev": "" # global (defined)
   "Resources": "資源" # global (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": "機器人自睡眠模式醒來"
   "Bot goes to sleep mode": "機器人進入睡眠模式"
-  "Defender": "防禦者" # global (defined)
+#  "Defender": "" # global (defined)
   "Discord": ""
   "Discord webhook for notifications": ""
 #  "Email": "" # global (defined)
   "Email for notifications": "接收通知的電子信箱"
   "Evacuation fails": "撤離失敗"
   "Expedition loss": "探險損失"
-  "Expeditions": "探險" # global (defined)
+#  "Expeditions": "" # global (defined)
   "Failed to fleet save": "無法FS(保護艦隊)"
   "Farm session completed": "耕作(刮I)工作完成"
   "Farm session started": "耕作(刮I)工作開始"
-  "Farmer": "耕作者(刮I)" # global (defined)
+#  "Farmer": "" # global (defined)
   "Forward ingame chat from alliance": "轉發遊戲內聯盟訊息"
   "Forward ingame chat from players": "轉發遊戲內玩家訊息"
   "General": "一般" # global (undefined)
   "Global": "總體"
   "Hotkeys": "熱鍵" # global (undefined)
-  "Hunter": "獵人" # global (defined)
+#  "Hunter": "" # global (defined)
   "Login fails": "登入失敗"
   "New attack detected": "偵測到新的攻擊者"
   "New missiles attack detected": "偵測到新的導彈攻擊"
@@ -1189,7 +1189,7 @@ bot.settings.phalanx:
 #  "Are you sure?": "" # global (defined)
   "Phalanx": "感應陣列" # global (undefined)
   "Redo": "" # global (undefined)
-  "Start": "開始" # global (defined)
+#  "Start": "" # global (defined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (undefined)
 #  "Attack": "" # global (defined)
@@ -1203,14 +1203,14 @@ bot.settings.phalanxSession:
   "Is general?": ""
 #  "Missile Attack": "" # global (defined)
 #  "Mission": "" # global (defined)
-  "Next": "下頁" # global (defined)
+#  "Next": "" # global (defined)
   "No fleets": "沒有艦隊活動" # global (undefined)
 #  "Origin": "" # global (defined)
 #  "Park": "" # global (defined)
   "Park In That Ally": "" # global (undefined)
   "Phalanx": "感應陣列" # global (undefined)
   "Phalanx session": "感應陣列工作階段"
-  "Prev": "上頁" # global (defined)
+#  "Prev": "" # global (defined)
   "Recall back at": ""
   "Recall time": ""
   "Scheduled arrive time": ""
@@ -1219,7 +1219,7 @@ bot.settings.phalanxSession:
 #  "Speed": "" # global (defined)
 #  "Spy": "" # global (defined)
   "Started at": ""
-  "Stop": "停止" # global (defined)
+#  "Stop": "" # global (defined)
   "Target information": ""
 #  "Transport": "" # global (defined)
   "Union ID": "" # global (undefined)
@@ -1239,7 +1239,7 @@ bot.settings.scanner:
 bot.settings.settings:
   "--- Default ---": "--- 預設 ---"
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "<strong>警告:</strong>此為更改機器人登入用的帳密，並非改變OGame帳密本身"
-  "Are you sure?": "您確定嗎?" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Auto enable manual mode when using browser": "使用瀏覽器時自動切換成手動模式"
   "Backup this bot": ""
   "Bot timezone": "機器人時區"
@@ -1285,7 +1285,7 @@ bot.settings.settings:
   "Ogame password": ""
   "Ogame universe": ""
   "Ogame username": ""
-  "Pathfinder": "探路者" # global (defined)
+#  "Pathfinder": "" # global (defined)
   "Player ID": "" # global (undefined)
   "Preferred transport ships": "偏好的運輸船艦"
   "Proxy password": "代理伺服器密碼" # global (undefined)
@@ -1351,7 +1351,7 @@ bot.settings.sleepMode:
   "Active": "啟用" # global (undefined)
 #  "Are you sure?": "" # global (defined)
   "Awake bot now": "喚醒機器人"
-  "Destination": "目的地" # global (defined)
+#  "Destination": "" # global (defined)
   "Every day": "每天"
 #  "Expedition": "" # global (defined)
   "Friday": "週五"
@@ -1395,7 +1395,7 @@ bot.simulator:
   "Combustion": "燃燒"
   "Configs": "設定"
   "Coordinates": "座標" # global (undefined)
-  "Crawler": "履帶車" # global (defined)
+#  "Crawler": "" # global (defined)
 #  "Cruiser": "" # global (defined)
 #  "Crystal": "" # global (defined)
 #  "Deathstar": "" # global (defined)
@@ -1403,7 +1403,7 @@ bot.simulator:
   "Defence": "防禦"
   "Defence repair factor": "防禦修復係數"
   "Defence to debris": "防禦生成廢墟量"
-  "Defender": "防禦者" # global (defined)
+#  "Defender": "" # global (defined)
   "Defender win": "防禦者獲勝"
 #  "Destroyer": "" # global (defined)
 #  "Deuterium": "" # global (defined)
@@ -1430,7 +1430,7 @@ bot.simulator:
 #  "Metal": "" # global (defined)
   "Moonchance": "造月機率"
   "Open in TrashSim": "於TrashSim中打開"
-  "Pathfinder": "探路者" # global (defined)
+#  "Pathfinder": "" # global (defined)
   "Pathfinders": "探路者"
   "Planet": "行星" # global (undefined)
   "Planet/Moon": "行星/月球"
@@ -1455,13 +1455,13 @@ bot.simulator:
   "Tactical retreat": "戰術性撤退"
   "Weapon": "武器"
 bot-card:
-  "Email": "電子信箱" # global (defined)
+#  "Email": "" # global (defined)
   "Lang": "語言" # global (undefined)
-  "Points": "分數" # global (defined)
+#  "Points": "" # global (defined)
   "Proxy": "" # global (undefined)
-  "Rank": "排名" # global (defined)
-  "Start": "開始" # global (defined)
-  "Stop": "停止" # global (defined)
+#  "Rank": "" # global (defined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Universe": "宇宙" # global (undefined)
 captchas-icon:
   "Captchas": "" # global (undefined)
@@ -1523,7 +1523,7 @@ download-licenses:
 #  "Actions": "" # global (defined)
   "Active": "" # global (undefined)
   "Antigame": "" # global (undefined)
-  "Download": "下載" # global (defined)
+#  "Download": "" # global (defined)
   "Expired": "已失效" # global (undefined)
   "Expired at": "失效於"
   "Full license": "完整憑證"
@@ -1554,12 +1554,12 @@ download:
   "ogame Ninja": "" # global (undefined)
   "title": "標題" # global (undefined)
 features:
-  "Activities": "活動" # global (defined)
+#  "Activities": "" # global (defined)
   "Augmented browsing experience": "瀏覽器增強體驗"
   "Combat simulator": "戰鬥模礙器" # global (undefined)
-  "Defender": "防禦者" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "帝國總覽" # global (undefined)
-  "Farmer": "耕作者(刮I)" # global (defined)
+#  "Farmer": "" # global (defined)
   "Universe map": "宇宙星圖" # global (undefined)
   "activities-desc": ""
   "augments-desc": ""
@@ -1578,11 +1578,11 @@ first-use:
   "Admin account": "管理員帳號"
   "Confirm password": "確認密碼"
   "Create admin account": "創建管理員帳號"
-  "Email": "電子信箱" # global (defined)
-  "Password": "密碼" # global (defined)
+#  "Email": "" # global (defined)
+#  "Password": "" # global (defined)
   "Username": "使用者名稱" # global (defined)
 forgot-password-reset:
-  "Password": "密碼" # global (defined)
+#  "Password": "" # global (defined)
   "Reset password": "重設密碼"
   "Retype password": "再次輸入密碼" # global (undefined)
   "Username": "使用者名稱" # global (defined)
@@ -1598,7 +1598,7 @@ get-trial-key:
   "Get trial key": "取得試用金鑰"
   "Home": "主頁" # global (defined)
 home-slave:
-  "Bots": "機器人們" # global (defined)
+#  "Bots": "" # global (defined)
   "Compiled scripts": "" # global (undefined)
   "Create script on all bots": "於所有機器人上生成腳本" # global (undefined)
   "Download all scripts": "" # global (undefined)
@@ -1614,8 +1614,8 @@ home-slave:
   "Reorder bots": "重新排序機器人" # global (undefined)
   "Universe": "" # global (undefined)
 home:
-  "Actions": "動作" # global (defined)
-  "Are you sure?": "您確定嗎?" # global (defined)
+#  "Actions": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
 #  "Bots": "" # global (defined)
   "Compiled scripts": "" # global (undefined)
   "Create script on all bots": "" # global (undefined)
@@ -1653,14 +1653,14 @@ import:
   "Import bot": ""
   "Upload": "" # global (undefined)
 index:
-  "Account": "帳號" # global (defined)
-  "Admin": "管理員" # global (defined)
+#  "Account": "" # global (defined)
+#  "Admin": "" # global (defined)
   "Captchas": "" # global (undefined)
   "Check again": ""
-  "Download": "下載" # global (defined)
+#  "Download": "" # global (defined)
   "FAQ": "常見問題"
   "Features": ""
-  "Home": "首頁" # global (defined)
+#  "Home": "" # global (defined)
   "Login": "登入"
   "My licenses": "" # global (undefined)
   "Please": ""
@@ -1682,7 +1682,7 @@ instance-actions:
   "New password": "新密碼" # global (undefined)
   "New username": "新使用者" # global (undefined)
 invoice:
-  "Bots": "機器人們" # global (defined)
+#  "Bots": "" # global (defined)
   "Credit or debit card": "信用卡或借記卡" # global (undefined)
   "New license": "新憑證" # global (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (undefined)
@@ -1716,10 +1716,10 @@ landing:
 license-view:
   "Bots allowed": "可使用的機器人數量" # global (undefined)
   "Created": "創建於" # global (undefined)
-  "Download": "下載" # global (defined)
+#  "Download": "" # global (defined)
 #  "Email": "" # global (defined)
   "Expired": "失效於" # global (undefined)
-  "License": "憑證" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "所有者" # global (undefined)
   "UUID": "" # global (undefined)
 license:
@@ -1732,7 +1732,7 @@ license:
   "Upload license file": "上傳憑證"
 login:
   "I forgot my password": "忘記密碼" # global (undefined)
-  "Password": "密碼" # global (defined)
+#  "Password": "" # global (defined)
   "Sign in": "登入" # global (undefined)
   "Sign in to continue": "登入以繼續"
   "Username": "使用者名稱" # global (defined)
@@ -1740,7 +1740,7 @@ login:
   "title": "標題" # global (undefined)
 login2:
   "I forgot my password": "忘記密碼" # global (undefined)
-  "Password": "密碼" # global (defined)
+#  "Password": "" # global (defined)
   "Sign in": "登入" # global (undefined)
   "Username": "使用者名稱" # global (defined)
 must-contact:
@@ -1811,7 +1811,7 @@ new-license-subscribe:
 new-license:
   "Buy license": "購買憑證" # global (undefined)
   "Credit or debit card": "信用卡或借記卡" # global (undefined)
-  "Download": "下載" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "取得試用憑證" # global (undefined)
   "New license": "新憑證" # global (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (undefined)
@@ -1846,7 +1846,7 @@ new-script:
   "<b>Warning:</b> This will override existing scripts that have the same name.": "<b>警告:</b>將會覆蓋同名的腳本"
   "All bots that I have access to": "所有我有權限的機器人們"
   "Create script on all bots": "於所有機器人上生成腳本" # global (undefined)
-  "Home": "首頁" # global (defined)
+#  "Home": "" # global (defined)
   "My bots": "我的機器人"
   "New script": "新腳本"
   "Place script here": "將腳本放於此"
@@ -1865,13 +1865,13 @@ new-server:
   "3 - 20 letter/number/underscore. eg: ": "3到20位字母/數字/下劃線。比如："
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
   "Credit or debit card": "信用卡或借記卡" # global (undefined)
-  "Home": "首頁" # global (defined)
+#  "Home": "" # global (defined)
   "New server": "新伺服器" # global (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (undefined)
   "Pay with paypal": "使用Paypal付款" # global (undefined)
   "Region": "地區" # global (undefined)
   "Select one": "選擇一項"
-  "Settings": "設定" # global (defined)
+#  "Settings": "" # global (defined)
   "Subdomain": "子域名"
   "Submit Payment for cloud hosting": "提交雲端伺服器的付款"
   "Total": "總額" # global (undefined)
@@ -1880,7 +1880,7 @@ new-server:
   "we are using": "我們使用" # global (undefined)
 new-trial-license:
   "Buy license": "購買憑證" # global (undefined)
-  "Download": "下載" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "取得試用憑證" # global (undefined)
   "New trial license": "新憑證"
   "description1": "描述" # global (undefined)
@@ -1896,7 +1896,7 @@ pricing:
   "Buy now": "現在購買"
   "Get started": "開始吧"
   "OGame proxy": ""
-  "Pricing": "計價" # global (defined)
+#  "Pricing": "" # global (defined)
   "Priority Slack support": "優先協助(Slack)"
   "Proxies": ""
   "Self-host": "自我托管主機"
@@ -1914,8 +1914,8 @@ pricing:
 proposal:
   "All suggestions": "所有的提案/建議" # global (undefined)
 proposals:
-  "Next": "下頁" # global (defined)
-  "Prev": "上頁" # global (defined)
+#  "Next": "" # global (defined)
+#  "Prev": "" # global (defined)
   "Search": "搜尋" # global (undefined)
 redeem-code:
   "Gameforge email": "Gameforge的電子信箱" # global (undefined)
@@ -1939,7 +1939,7 @@ renew-instance:
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (undefined)
   "Pay with paypal": "使用Paypal付款" # global (undefined)
   "Renew instance": "更新物件(instance)" # global (undefined)
-  "Settings": "設定" # global (defined)
+#  "Settings": "" # global (defined)
   "Submit payment to renew cloud license": "提交更新雲端伺服器的付款"
   "bot": "機器人" # global (undefined)
   "we are using": "我們使用" # global (undefined)
@@ -1950,7 +1950,7 @@ renew-license-subscribe:
 renew-license:
   "Credit or debit card": "信用卡或借記卡" # global (undefined)
   "Current license valid until": "當前憑證有效至" # global (undefined)
-  "Download": "下載" # global (defined)
+#  "Download": "" # global (defined)
   "New license valid until": "新憑證有效至" # global (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (undefined)
   "Pay with paypal": "使用Paypal付款" # global (undefined)
@@ -1994,7 +1994,7 @@ settings.account:
   "Old password": "舊密碼"
   "Root admin cannot delete his account": "超級使用者(root)不可刪除帳號"
   "Save": "保存" # global (undefined)
-  "Settings": "設定" # global (defined)
+#  "Settings": "" # global (defined)
   "Slack account": "Slack帳號"
   "Theme": "主題" # global (undefined)
   "Two-Factor Authentication": "雙重認證(2FA)" # global (undefined)
@@ -2016,7 +2016,7 @@ settings.gift-cards:
   "we are using": "" # global (undefined)
 settings.index:
   "API": "" # global (undefined)
-  "Account": "帳號" # global (defined)
+#  "Account": "" # global (defined)
   "Gift cards": "禮物卡" # global (undefined)
   "Sessions": "工作階段"
   "Subscriptions": "" # global (undefined)
@@ -2035,7 +2035,7 @@ settings.subscriptions:
 signup:
 #  "Email": "" # global (defined)
   "Note": "註記" # global (undefined)
-  "Password": "密碼" # global (defined)
+#  "Password": "" # global (defined)
   "Retype password": "重新輸入密碼" # global (undefined)
   "Sign up": "註冊"
   "Username": "使用者名稱" # global (defined)
@@ -2063,7 +2063,7 @@ support:
 ticketSupport.index:
   "Home": "主頁" # global (defined)
 ticketSupport.new-invoice:
-  "Bots": "機器人們" # global (defined)
+#  "Bots": "" # global (defined)
   "Valid until": "有效直到" # global (undefined)
 two-factor-authentication-verify:
   "1- Recovery code": "1- 恢復代碼"

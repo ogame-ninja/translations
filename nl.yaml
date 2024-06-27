@@ -152,7 +152,7 @@ admin.license:
   "Created": "Aangemaakt" # global (undefined)
   "Email": "Email" # global (undefined)
   "Expired": "Verlopen" # global (undefined)
-  "License": "Licentie" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Eigenaar" # global (undefined)
   "Subscription": ""
   "UUID": "" # global (undefined)
@@ -181,7 +181,7 @@ admin.settings:
   "Reverse tunnel": "Reverse tunnel"
   "SMTP settings (email)": "Smpt instellingen (email)"
   "Save": "Opslaan" # global (undefined)
-  "Settings": "Instellingen" # global (defined)
+#  "Settings": "" # global (defined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
@@ -197,8 +197,8 @@ admin.themes:
   "New theme": ""
   "No theme": ""
   "Themes": "" # global (undefined)
-admin.update:
-  "Update": "Update" # global (defined)
+#admin.update:
+#  "Update": "" # global (defined)
   "Update to latest": "" # global (undefined)
 admin.updating:
   "You will be redirected soon": ""
@@ -218,7 +218,7 @@ admin.users:
   "Delete user": ""
   "New user": "Nieuwe gebruiker"
 #  "Username": "" # global (defined)
-  "Users": "Gebruikers" # global (defined)
+#  "Users": "" # global (defined)
   "Verified": "Geverifieerd"
 antigame:
   "Arch": "" # global (undefined)
@@ -513,7 +513,7 @@ bot.flights:
 #  "Light Fighter": "" # global (defined)
 #  "Metal": "" # global (defined)
 #  "Missile Attack": "" # global (defined)
-  "Mission": "Missie" # global (defined)
+#  "Mission": "" # global (defined)
   "Moon": "Maan" # global (undefined)
   "No cron job at the moment": "Geen cron taken op deze moment"
   "No fleets": "Geen vloten" # global (undefined)
@@ -573,19 +573,19 @@ bot.galaxy.player:
   "Add to hunter list": "Toevoegen aan jagerslijst"
   "Alliance": "Alliantie" # global (undefined)
   "Coords": "Coördinaten" # global (undefined)
-  "Crystal": "Kristal" # global (defined)
+#  "Crystal": "" # global (defined)
 #  "Deuterium": "" # global (defined)
   "Espionage": "" # global (undefined)
   "Espionage report": "Spionagerapport" # global (undefined)
-  "Galaxy": "Melkweg" # global (defined)
+#  "Galaxy": "" # global (defined)
   "Members": "Leden" # global (undefined)
-  "Metal": "Metaal" # global (defined)
+#  "Metal": "" # global (defined)
   "Moon": "Maan" # global (undefined)
   "Planet name": "Planeet naam" # global (undefined)
   "Player name": "Speler naam" # global (undefined)
   "Player profile": "Speler profiel" # global (undefined)
   "RN": "RN" # global (undefined)
-  "Rank": "Rang" # global (defined)
+#  "Rank": "" # global (defined)
   "Updated": "Geupdate" # global (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (defined)
@@ -593,7 +593,7 @@ bot.galaxy.table:
   "Add player to ignore list": ""
   "Alliance": "Alliantie" # global (undefined)
   "Coords": "Coördinaten" # global (undefined)
-  "Crystal": "Kristal" # global (defined)
+#  "Crystal": "" # global (defined)
   "Debris top 100": "Puin top 100"
 #  "Deuterium": "" # global (defined)
   "Espionage": "" # global (undefined)
@@ -601,13 +601,13 @@ bot.galaxy.table:
   "Get spy reports": "Ontvang spionagerapporten" # global (undefined)
   "Go": "Ga"
   "Members": "Leden" # global (undefined)
-  "Metal": "Metaal" # global (defined)
+#  "Metal": "" # global (defined)
   "Moon": "Maan" # global (undefined)
   "Open in OGame browser": "Open in Ogame browser"
   "Planet name": "Planeet naam" # global (undefined)
   "Player name": "Speler naam" # global (undefined)
   "RN": "RN" # global (undefined)
-  "Rank": "Rang" # global (defined)
+#  "Rank": "" # global (defined)
   "Scan this page": "Scan deze pagina"
   "Scan universe": "Scan universum"
   "Search": "Zoek" # global (undefined)
@@ -751,13 +751,13 @@ bot.scripts:
   "Validate Script": ""
 bot.settings.activities:
   "Created at": "Aangemaakt op" # global (undefined)
-  "Destination": "Bestemming" # global (defined)
+#  "Destination": "" # global (defined)
   "Fleet log": "Vloot log"
   "Logins": ""
 #  "Mission": "" # global (defined)
   "Next": "" # global (undefined)
   "No fleet in the log": "Geen vloten in de log"
-  "Origin": "Oorsprong" # global (defined)
+#  "Origin": "" # global (defined)
   "Prev": "" # global (undefined)
   "Sent fleets": ""
 bot.settings.auctioneer:
@@ -975,16 +975,16 @@ bot.settings.farmer:
   "Attack from nearest planet": "Val aan vanaf de dichtstbijzijnde planeet"
   "Attack speed": "Aanvals snelheid"
   "Created at": "Aangemaakt op" # global (undefined)
-  "Crystal": "Kristal" # global (defined)
+#  "Crystal": "" # global (defined)
   "Delete combat reports": ""
-  "Deuterium": "Deuterium" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Espionage probe raids": "Spionage sonde aanval"
   "Farm sessions": "Farm sessies"
   "Farmer active": "Farmer actief"
   "Fast attacking": "Snelle aanval"
   "Ignore targets with activity": ""
   "Inactive": "" # global (undefined)
-  "Metal": "Metaal" # global (defined)
+#  "Metal": "" # global (defined)
   "Min. defenses to ignore": "Min. verdediging die wordt genegeerd"
   "Min. player rank": ""
   "Min. resources to attack": "Min. grondstoffen voor aanval"
@@ -992,7 +992,7 @@ bot.settings.farmer:
   "Nb probes": "aantal spionage sondes"
   "New session": ""
   "No session": "Geen sessie"
-  "Origin": "Oorsprong" # global (defined)
+#  "Origin": "" # global (defined)
   "Planet": "Planeet" # global (undefined)
   "Priority calculation": "Prioriteitsberekening"
   "Range": "Afstand"
@@ -1068,7 +1068,7 @@ bot.settings.hunter-target:
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (undefined)
 #  "Actions": "" # global (defined)
-  "Activities": "Activiteiten" # global (defined)
+#  "Activities": "" # global (defined)
   "Activity": ""
   "Alliance": "Alliantie" # global (undefined)
   "Alliance rank": "Alliantie rang"
@@ -1106,18 +1106,18 @@ bot.settings.index:
 bot.settings.logs:
   "All": "Allemaal" # global (undefined)
   "Audit": "Audit"
-  "Brain": "Brain" # global (defined)
+#  "Brain": "" # global (defined)
   "Category": "Categorie" # global (undefined)
   "Colonizer": "" # global (undefined)
   "Crawler": "Crawl" # global (undefined)
   "Created at": "Gemaakt bij" # global (undefined)
-  "Defender": "Verdediger" # global (defined)
+#  "Defender": "" # global (defined)
   "Download logs": "Download logs"
   "Expeditions": "" # global (undefined)
-  "Farmer": "Farmer" # global (defined)
+#  "Farmer": "" # global (defined)
   "Fleet save": ""
   "General": "Algemeen" # global (undefined)
-  "Hunter": "Jager" # global (defined)
+#  "Hunter": "" # global (defined)
   "Level": "Level"
   "Message": "Bericht" # global (undefined)
   "Next": "Volgende" # global (undefined)
@@ -1397,7 +1397,7 @@ bot.simulator:
   "Defence": ""
   "Defence repair factor": ""
   "Defence to debris": ""
-  "Defender": "Verdediger" # global (defined)
+#  "Defender": "" # global (defined)
   "Defender win": "Verdediger wint"
 #  "Destroyer": "" # global (defined)
 #  "Deuterium": "" # global (defined)
@@ -1548,12 +1548,12 @@ download:
   "ogame Ninja": "" # global (undefined)
   "title": "Download uitgave" # global (undefined)
 features:
-  "Activities": "Activiteiten" # global (defined)
+#  "Activities": "" # global (defined)
   "Augmented browsing experience": "Augmented browser ervaringen"
   "Combat simulator": "gevechtssimulator" # global (undefined)
-  "Defender": "Verdediger" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Koninkrijk overzicht" # global (undefined)
-  "Farmer": "Farmer" # global (defined)
+#  "Farmer": "" # global (defined)
   "Universe map": "Universum kaart" # global (undefined)
   "activities-desc": "Visualiseer uw vlootactiviteiten en zorg ervoor dat het lijkt alsof een mens speelt."
   "augments-desc": "OGame Ninja injecteert nieuwe functies in de html.<br /> U krijgt bijvoorbeeld een link om het formulier in te vullen met maximaal mogelijke eenheden bij het bouwen van iets.<br /> Je krijgt een lijst met alle planeten van de gebruikers bij het bekijken van de Melkweg-pagina.<br /> De highscore-lijst wordt aangevuld met de status van de speler. (actief / inactief, vakantie ...)"
@@ -1688,7 +1688,7 @@ invoice:
 landing:
   "Combat simulator": "Gevecht simulator" # global (undefined)
   "Construction queue": "Bouw wachtrij"
-  "Defender": "Verdediger" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Koninkrijk overzicht" # global (undefined)
   "Farming": "Farmer"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
@@ -1710,10 +1710,10 @@ landing:
 license-view:
   "Bots allowed": "" # global (undefined)
   "Created": "Aangemaakt" # global (undefined)
-  "Download": "Download" # global (defined)
+#  "Download": "" # global (defined)
   "Email": "Email" # global (undefined)
   "Expired": "Verlopen" # global (undefined)
-  "License": "Licentie" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Eigenaar" # global (undefined)
   "UUID": "" # global (undefined)
 license:
@@ -1805,7 +1805,7 @@ new-license-subscribe:
 new-license:
   "Buy license": "Koop licentie" # global (undefined)
   "Credit or debit card": "Krediet of betaalkaart" # global (undefined)
-  "Download": "Download" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "Krijg een proeflicentie" # global (undefined)
   "New license": "Nieuwe licentie" # global (undefined)
   "Pay with Credit/debit card": "Betaal met Krediet/betaalkaart" # global (undefined)
@@ -1865,7 +1865,7 @@ new-server:
   "Pay with paypal": "Betaal met paypal" # global (undefined)
   "Region": "Regio" # global (undefined)
   "Select one": "Kies een"
-  "Settings": "Instellingen" # global (defined)
+#  "Settings": "" # global (defined)
   "Subdomain": "subdomein"
   "Submit Payment for cloud hosting": "Dien de betaling in voor cloud hosting"
   "Total": "Totaal" # global (undefined)
@@ -1874,7 +1874,7 @@ new-server:
   "we are using": "wij gebruiken" # global (undefined)
 new-trial-license:
   "Buy license": "Koop licentie" # global (undefined)
-  "Download": "Download" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "Krijg een proeflicentie" # global (undefined)
   "New trial license": "Nieuwe proeflicentie"
   "description1": "De proeflicentie zal werken voor <strong>1 ogame account</strong> alleen.<br /> U moet opgeven voor welk account de licentie is bedoeld.<br /> De licentie is <strong>geldig voor 48 uur</strong> en kan niet worden vernieuwd.<br /> De 48h begint op het moment dat u dit formulier verzendt." # global (undefined)
@@ -1890,7 +1890,7 @@ pricing:
   "Buy now": "Koop nu"
   "Get started": "Begin"
   "OGame proxy": ""
-  "Pricing": "Prijzen" # global (defined)
+#  "Pricing": "" # global (defined)
   "Priority Slack support": "Prioriteits ondersteuring op Slack"
   "Proxies": ""
   "Self-host": "Self-host"
@@ -1933,7 +1933,7 @@ renew-instance:
   "Pay with Credit/debit card": "Betaal met krediet/betaalkaart" # global (undefined)
   "Pay with paypal": "Betaal met paypal" # global (undefined)
   "Renew instance": "Vernieuw instantie" # global (undefined)
-  "Settings": "Instellingen" # global (defined)
+#  "Settings": "" # global (defined)
   "Submit payment to renew cloud license": "Dien een betaling in om de cloudlicentie te verlengen"
   "bot": "" # global (undefined)
   "we are using": "wij gebruiken" # global (undefined)
@@ -1944,7 +1944,7 @@ renew-license-subscribe:
 renew-license:
   "Credit or debit card": "Krediet of betaalkaart" # global (undefined)
   "Current license valid until": "Huidige licentie geldig tot" # global (undefined)
-  "Download": "Download" # global (defined)
+#  "Download": "" # global (defined)
   "New license valid until": "Nieuwe licentie geldig tot" # global (undefined)
   "Pay with Credit/debit card": "Betaal met krediet/betaalkaart" # global (undefined)
   "Pay with paypal": "Betaal met paypal" # global (undefined)
