@@ -1245,25 +1245,25 @@ bot.settings.settings:
   "Coordinates": "" # global (undefined)
   "Default": ""
   "Delete bot": "Supprimer le bot"
-  "Delete expedition messages once imported": ""
-  "Delete spy reports once imported": ""
+  "Delete expedition messages once imported": "Supprimer les messages d'expédition une fois importés"
+  "Delete spy reports once imported": "Supprimer les rapports d'espionnage une fois importés"
   "Delete this bot": "Supprimer ce bot"
-  "Disable ogame dropdown (fix jump gate on mobile)": ""
-  "Enable Expe-3000": ""
-  "Enable InfoCompte3": ""
-  "Enable NixianRaidTracker": ""
-  "Enable RecursosAmpliados": ""
-  "Enable TopRaider": ""
+  "Disable ogame dropdown (fix jump gate on mobile)": "Désactiver la liste déroulante ogame (répare la porte de saut sur mobile)"
+  "Enable Expe-3000": "Activer Expe-3000"
+  "Enable InfoCompte3": "Activer InfoCompte3"
+  "Enable NixianRaidTracker": "Activer NixianRaidTracker"
+  "Enable RecursosAmpliados": "Activer RecursosAmpliados"
+  "Enable TopRaider": "Activer TopRaider"
   "Enable browser augments": "Activer les augmentations du navigateur"
-  "Enable galaxy browser augments": ""
-  "Enter your password": ""
+  "Enable galaxy browser augments": "Activer les augmentations du navigateur Galaxy"
+  "Enter your password": "Tapez votre mot de passe"
   "Espionage probe": ""
   "Gameforge bearer token": ""
   "General": "" # global (undefined)
   "General options": "Options générales"
   "Homeworld": "" # global (undefined)
-  "Host machine Timezone": ""
-  "Hotkeys": "" # global (undefined)
+  "Host machine Timezone": "Fuseau horaire de la machine hôte"
+  "Hotkeys": "Raccourcis clavier" # global (undefined)
   "Large cargo": ""
   "Max brain slots": ""
   "Max colonizer slots": "" # global (undefined)
@@ -1281,22 +1281,22 @@ bot.settings.settings:
   "Ogame username": ""
   "Pathfinder": "" # global (defined)
   "Player ID": "" # global (undefined)
-  "Preferred transport ships": ""
+  "Preferred transport ships": "Navires de transport préférés"
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
-  "Remove ads": ""
-  "Remove banner": ""
-  "Round up resources": ""
-  "Round up ships": ""
+  "Remove ads": "Supprimez la pub"
+  "Remove banner": "Supprimer la bannière"
+  "Round up resources": "Arrondire les ressources"
+  "Round up ships": "Arrondire les vaisseaux"
   "Save": "Sauvegarder" # global (defined)
   "Save proxy": "Enregistrer le proxy"
   "Share account": "Partager le compte"
   "Share with": "Partager avec"
-  "Show credentials": ""
+  "Show credentials": "Afficher les informations d'identification"
   "Slots reserved for player": "Places réservées au joueur"
   "Small cargo": ""
   "Solve captcha": ""
-  "Sort planets in dropdowns by": ""
+  "Sort planets in dropdowns by": "Trier les planètes dans les listes déroulantes par"
   "Theme": "" # global (undefined)
   "UTC+00:00": ""
   "UTC+01:00": ""
@@ -1338,40 +1338,40 @@ bot.settings.settings:
   "User-Agent": ""
   "Username": "" # global (defined)
   "Validate": ""
-  "Validate account": ""
-  "proxy login requests only": "" # global (undefined)
+  "Validate account": "Valider le compte"
+  "proxy login requests only": "proxy les requêtes d'authentification seulement" # global (undefined)
 bot.settings.sleepMode:
-  "--- Select a destination ---": ""
+  "--- Select a destination ---": "--- Choisissez une destination ---"
   "Active": "" # global (undefined)
   "Are you sure?": "" # global (defined)
-  "Awake bot now": ""
+  "Awake bot now": "Réveillez le robot maintenant"
   "Destination": "" # global (defined)
   "Every day": ""
   "Expedition": "" # global (defined)
-  "Friday": ""
-  "Manual fleet save": ""
-  "Monday": ""
+  "Friday": "Vendredi"
+  "Manual fleet save": "Sauvegarde manuelle de la flotte"
+  "Monday": "Lundi"
   "Own debris field": ""
   "Planet": "" # global (undefined)
-  "Put bot to sleep now": ""
+  "Put bot to sleep now": "Mettre le robot en veille maintenant"
   "Random colonize": ""
   "Random debris field": ""
-  "Random delay before going to sleep (minutes)": ""
-  "Random delay before waking up (minutes)": ""
-  "Recall saved fleet half way through the night": ""
-  "Saturday": ""
+  "Random delay before going to sleep (minutes)": "Délai aléatoire avant d'aller dormir (minutes)"
+  "Random delay before waking up (minutes)": "Délai aléatoire avant le réveil (minutes)"
+  "Recall saved fleet half way through the night": "Rappel des flottes sauvées au milieu de la nuit"
+  "Saturday": "Samedi"
   "Save": "" # global (defined)
   "Sleep Mode": "" # global (undefined)
   "Spy deep space (position 16)": ""
-  "Sunday": ""
-  "Thursday": ""
-  "Tuesday": ""
-  "Wait for expeditions before going to sleep": ""
-  "Wake up at": ""
-  "Wednesday": ""
-  "automatic fleet save (experimental)": ""
-  "manual trigger fleet save": ""
-  "must save changes first": ""
+  "Sunday": "Dimanche"
+  "Thursday": "Jeudi"
+  "Tuesday": "Mardi"
+  "Wait for expeditions before going to sleep": "Attendre les expéditions avant de dormir"
+  "Wake up at": "Se réveiller à"
+  "Wednesday": "Mercredi"
+  "automatic fleet save (experimental)": "sauvegarde automatique de la flotte (expérimental)"
+  "manual trigger fleet save": "déclenchement manuel sauvegarde de flotte"
+  "must save changes first": "doit d'abord enregistrer les modifications"
 bot.simulator:
   "ACS planner": ""
   "API": "API" # global (undefined)
