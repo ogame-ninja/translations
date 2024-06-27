@@ -143,133 +143,133 @@ global:
   "max": "最多"
   "update your instance here": "由此更新您的物件(instance)"
 #admin.bots:
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
 admin.index:
-  "Bots": "机器人" # global (defined)
-#  "License": "" # global (defined)
+  "Bots": "机器人" # global (count: 5) (defined)
+#  "License": "" # global (count: 3) (defined)
   "Login history": "登入历史"
-#  "Settings": "" # global (defined)
-  "Themes": "主题" # global (undefined)
-#  "Update": "" # global (defined)
-  "Users": "用户" # global (defined)
+#  "Settings": "" # global (count: 7) (defined)
+  "Themes": "主题" # global (count: 2) (undefined)
+#  "Update": "" # global (count: 3) (defined)
+  "Users": "用户" # global (count: 2) (defined)
 admin.license:
-#  "Are you sure?": "" # global (defined)
-  "Bots allowed": "能使用的机器人数" # global (undefined)
-  "Created": "创建时间" # global (undefined)
-#  "Email": "" # global (defined)
-  "Expired": "到期时间" # global (undefined)
-#  "License": "" # global (defined)
-  "Owner": "所有者" # global (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Bots allowed": "能使用的机器人数" # global (count: 2) (undefined)
+  "Created": "创建时间" # global (count: 2) (undefined)
+#  "Email": "" # global (count: 11) (defined)
+  "Expired": "到期时间" # global (count: 3) (undefined)
+#  "License": "" # global (count: 3) (defined)
+  "Owner": "所有者" # global (count: 2) (undefined)
   "Subscription": ""
-  "UUID": "" # global (undefined)
-  "Upload": "" # global (undefined)
+  "UUID": "" # global (count: 3) (undefined)
+  "Upload": "" # global (count: 3) (undefined)
   "Upload file": ""
-  "unlimited": "无限制" # global (undefined)
+  "unlimited": "无限制" # global (count: 2) (undefined)
 admin.login-history:
-  "Created at": "" # global (undefined)
+  "Created at": "" # global (count: 6) (undefined)
   "Deleted at": ""
-  "Expires at": "" # global (undefined)
-  "IP": "" # global (undefined)
-#  "Next": "" # global (defined)
-  "Prev": "前页" # global (defined)
+  "Expires at": "" # global (count: 2) (undefined)
+  "IP": "" # global (count: 2) (undefined)
+#  "Next": "" # global (count: 9) (defined)
+  "Prev": "前页" # global (count: 9) (defined)
   "User": ""
-  "User-agent": "" # global (undefined)
+  "User-agent": "" # global (count: 2) (undefined)
 admin.settings:
-  "General": "一般" # global (undefined)
+  "General": "一般" # global (count: 5) (undefined)
   "Gives you access to your self-host server through": "通过以下给予自行託管主机权限"
   "Host eg: smtp.gmail.com": "主机 (例：smtp.gmail.com)"
   "Images URL": "图片网址"
   "Logs retention (days)": "保存纪录(天数)"
   "Need application restart": ""
   "Open .ogame folder": "打开 .ogame 资料夹"
-#  "Password": "" # global (defined)
+#  "Password": "" # global (count: 8) (defined)
   "Port eg: 587": "埠(端口) (例：587)"
   "Reverse tunnel": "反向隧道协议(reverse tunnel)"
   "SMTP settings (email)": "SMTP设定(电子邮件)"
-  "Save": "保存" # global (undefined)
-#  "Settings": "" # global (defined)
+  "Save": "保存" # global (count: 17) (undefined)
+#  "Settings": "" # global (count: 7) (defined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
   "Telegram bot api token": "Telegram机器人API token"
-  "Username": "用户名" # global (defined)
+  "Username": "用户名" # global (count: 10) (defined)
 admin.theme-new:
   "Create theme": "新增主题"
-  "Name": "主题名" # global (undefined)
+  "Name": "主题名" # global (count: 3) (undefined)
   "Update theme": "更新主题"
 admin.themes:
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Delete theme": "删除主题"
   "New theme": "新主题"
   "No theme": "无主题"
-  "Themes": "主题" # global (undefined)
+  "Themes": "主题" # global (count: 2) (undefined)
 admin.update:
-#  "Update": "" # global (defined)
-  "Update to latest": "更新至最新" # global (undefined)
+#  "Update": "" # global (count: 3) (defined)
+  "Update to latest": "更新至最新" # global (count: 2) (undefined)
 admin.updating:
   "You will be redirected soon": "将马上重新定向"
 admin.user-edit:
   "Create user": "新增使用者"
-#  "Email": "" # global (defined)
+#  "Email": "" # global (count: 11) (defined)
   "Is admin": "为管理者"
-  "No": "否" # global (defined)
-#  "Password": "" # global (defined)
-  "Retype password": "再次输入密码" # global (undefined)
+  "No": "否" # global (count: 1) (defined)
+#  "Password": "" # global (count: 8) (defined)
+  "Retype password": "再次输入密码" # global (count: 3) (undefined)
   "Update user": "更新使用者"
-  "Username": "使用者名称" # global (defined)
-  "Yes": "是" # global (defined)
+  "Username": "使用者名称" # global (count: 10) (defined)
+  "Yes": "是" # global (count: 1) (defined)
 admin.users:
-#  "Admin": "" # global (defined)
-  "Created at": "创造于" # global (undefined)
+#  "Admin": "" # global (count: 2) (defined)
+  "Created at": "创造于" # global (count: 6) (undefined)
   "Delete user": "删除使用者"
   "New user": "新使用者"
-  "Username": "使用者名称" # global (defined)
-#  "Users": "" # global (defined)
+  "Username": "使用者名称" # global (count: 10) (defined)
+#  "Users": "" # global (count: 2) (defined)
   "Verified": "已验证"
 antigame:
-  "Arch": "" # global (undefined)
-  "Downloads": "" # global (undefined)
-  "File name": "" # global (undefined)
-  "No files to display": "" # global (undefined)
-  "OS": "" # global (undefined)
-  "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
-  "meta-description": "" # global (undefined)
-  "title": "" # global (undefined)
+  "Arch": "" # global (count: 4) (undefined)
+  "Downloads": "" # global (count: 3) (undefined)
+  "File name": "" # global (count: 4) (undefined)
+  "No files to display": "" # global (count: 4) (undefined)
+  "OS": "" # global (count: 4) (undefined)
+  "SHA256 Checksum": "" # global (count: 4) (undefined)
+  "Size": "" # global (count: 4) (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
+  "title": "" # global (count: 13) (undefined)
 bot.browser:
   "Empire page": "帝国页面"
   "Fullscreen": "全萤幕"
   "Toggle manual mode": "手动模式"
 bot.captcha:
-  "Captcha": "" # global (undefined)
+  "Captcha": "" # global (count: 2) (undefined)
   "Submit": ""
 bot.conqueror:
-  "Get spy reports": "取得间谍报告" # global (undefined)
+  "Get spy reports": "取得间谍报告" # global (count: 2) (undefined)
   "No espionage report to show": "无间谍报告可显示"
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-#  "Actions": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
   "Advanced Recycling Plant": ""
-  "All": "" # global (undefined)
-#  "Alliance Depot": "" # global (defined)
-#  "Anti-Ballistic Missiles": "" # global (defined)
+  "All": "" # global (count: 5) (undefined)
+#  "Alliance Depot": "" # global (count: 2) (defined)
+#  "Anti-Ballistic Missiles": "" # global (count: 2) (defined)
   "Antimatter Condenser": ""
   "Antimatter Convector": ""
-#  "Are you sure?": "" # global (defined)
-#  "Armour Technology": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+#  "Armour Technology": "" # global (count: 2) (defined)
   "Artificial Swarm Intelligence": ""
   "Assembly Line": ""
-#  "Astrophysics": "" # global (defined)
+#  "Astrophysics": "" # global (count: 2) (defined)
   "Automated Transport Lines": ""
   "Automatised Assembly Centre": ""
-#  "Battlecruiser": "" # global (defined)
+#  "Battlecruiser": "" # global (count: 5) (defined)
   "Battlecruiser MkII": ""
-#  "Battleship": "" # global (defined)
+#  "Battleship": "" # global (count: 5) (defined)
   "Bio Modifier": ""
   "Biosphere Farm": ""
   "BiotechLab": ""
-#  "Bomber": "" # global (defined)
+#  "Bomber": "" # global (count: 5) (defined)
   "Bomber MkII": ""
   "Cargo Hold Expansion Civilian Ships": ""
   "Catalyser Technology": ""
@@ -277,41 +277,41 @@ bot.empire:
   "Chrysalis Accelerator": ""
   "Clear all construction queues": "清除所有建造排程"
   "Cloning Laboratory": ""
-#  "Colony Ship": "" # global (defined)
-#  "Combustion Drive": "" # global (defined)
-#  "Computer Technology": "" # global (defined)
-#  "Crawl": "" # global (defined)
-#  "Crawler": "" # global (defined)
+#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Combustion Drive": "" # global (count: 2) (defined)
+#  "Computer Technology": "" # global (count: 2) (defined)
+#  "Crawl": "" # global (count: 1) (defined)
+#  "Crawler": "" # global (count: 4) (defined)
   "Crawler setting": "履带车设定"
-#  "Cruiser": "" # global (defined)
+#  "Cruiser": "" # global (count: 5) (defined)
   "Cruiser MkII": ""
-#  "Crystal": "" # global (defined)
+#  "Crystal": "" # global (count: 7) (defined)
   "Crystal Farm": ""
-#  "Crystal Mine": "" # global (defined)
+#  "Crystal Mine": "" # global (count: 2) (defined)
   "Crystal Refinery": ""
-#  "Crystal Storage": "" # global (defined)
+#  "Crystal Storage": "" # global (count: 2) (defined)
   "Crystal setting": "晶体矿设定"
-#  "Deathstar": "" # global (defined)
+#  "Deathstar": "" # global (count: 5) (defined)
   "Defenses": ""
   "Depot AI": ""
   "Depth Sounding": ""
-#  "Destroyer": "" # global (defined)
+#  "Destroyer": "" # global (count: 5) (defined)
   "Destroyer MkII": ""
   "Deut synt setting": "重氢合成器设定"
-#  "Deuterium": "" # global (defined)
+#  "Deuterium": "" # global (count: 7) (defined)
   "Deuterium Synthesiser": ""
-#  "Deuterium Synthesizer": "" # global (defined)
-#  "Deuterium Tank": "" # global (defined)
+#  "Deuterium Synthesizer": "" # global (count: 2) (defined)
+#  "Deuterium Tank": "" # global (count: 2) (defined)
   "Diamond Energy Transmitter": ""
   "Disruption Chamber": ""
   "Efficiency Module": ""
   "Efficient Swarm Intelligence": ""
   "Energy": "能源"
-#  "Energy Technology": "" # global (defined)
+#  "Energy Technology": "" # global (count: 2) (defined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
-#  "Espionage Probe": "" # global (defined)
-#  "Espionage Technology": "" # global (defined)
+#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Technology": "" # global (count: 2) (defined)
   "Experimental Recycling Technology": ""
   "Experimental Weapons Technology": ""
   "Facilities": ""
@@ -321,9 +321,9 @@ bot.empire:
   "Fusion Cell Factory": ""
   "Fusion Drives": ""
   "Fusion Powered Production": ""
-#  "Fusion Reactor": "" # global (defined)
+#  "Fusion Reactor": "" # global (count: 2) (defined)
   "Fusion reactor setting": "核融合反应器设定"
-#  "Gauss Cannon": "" # global (defined)
+#  "Gauss Cannon": "" # global (count: 3) (defined)
   "General Overhaul Battlecruiser": ""
   "General Overhaul Battleship": ""
   "General Overhaul Bomber": ""
@@ -332,12 +332,12 @@ bot.empire:
   "General Overhaul Light Fighter": ""
   "Geothermal Power Plants": ""
   "Gravitation Sensors": ""
-#  "Graviton Technology": "" # global (defined)
+#  "Graviton Technology": "" # global (count: 2) (defined)
   "Halls Of Realisation": ""
   "Hardened Diamond Drill Heads": ""
   "Heat Recovery": ""
-#  "Heavy Fighter": "" # global (defined)
-#  "Heavy Laser": "" # global (defined)
+#  "Heavy Fighter": "" # global (count: 5) (defined)
+#  "Heavy Laser": "" # global (count: 3) (defined)
   "High Energy Pump Systems": ""
   "High Energy Smelting": ""
   "High Performance Extractors": ""
@@ -345,35 +345,35 @@ bot.empire:
   "High Performance Terraformer": ""
   "High Performance Transformer": ""
   "High Temperature Superconductors": ""
-#  "Honour points": "" # global (defined)
+#  "Honour points": "" # global (count: 1) (defined)
   "Humans buildings": ""
   "Humans researches": ""
-#  "Hyperspace Drive": "" # global (defined)
-#  "Hyperspace Technology": "" # global (defined)
+#  "Hyperspace Drive": "" # global (count: 2) (defined)
+#  "Hyperspace Technology": "" # global (count: 2) (defined)
   "Improved Drone AI": ""
   "Improved Lab Technology": ""
   "Improved Stellarator": ""
-#  "Impulse Drive": "" # global (defined)
+#  "Impulse Drive": "" # global (count: 2) (defined)
   "Intergalactic Envoys": ""
-#  "Intergalactic Research Network": "" # global (defined)
+#  "Intergalactic Research Network": "" # global (count: 1) (defined)
   "Interplanetary Analysis Network": ""
-#  "Interplanetary Missiles": "" # global (defined)
-#  "Ion Cannon": "" # global (defined)
+#  "Interplanetary Missiles": "" # global (count: 3) (defined)
+#  "Ion Cannon": "" # global (count: 3) (defined)
   "Ion Crystal Enhancement Heavy Fighter": ""
   "Ion Crystal Modules": ""
-#  "Ion Technology": "" # global (defined)
-#  "Jump Gate": "" # global (defined)
+#  "Ion Technology": "" # global (count: 2) (defined)
+#  "Jump Gate": "" # global (count: 2) (defined)
   "Kaelesh Discoverer Enhancement": ""
   "Kaelesh buildings": ""
   "Kaelesh researches": ""
-#  "Large Cargo": "" # global (defined)
-#  "Large Shield Dome": "" # global (defined)
-#  "Laser Technology": "" # global (defined)
-#  "Light Fighter": "" # global (defined)
+#  "Large Cargo": "" # global (count: 5) (defined)
+#  "Large Shield Dome": "" # global (count: 3) (defined)
+#  "Laser Technology": "" # global (count: 2) (defined)
+#  "Light Fighter": "" # global (count: 5) (defined)
   "Light Fighter MkII": ""
-#  "Light Laser": "" # global (defined)
+#  "Light Laser": "" # global (count: 3) (defined)
   "Low Temperature Drives": ""
-#  "Lunar Base": "" # global (defined)
+#  "Lunar Base": "" # global (count: 2) (defined)
   "Magma Forge": ""
   "Magma Powered Production": ""
   "Magma Powered PumpSystems": ""
@@ -382,16 +382,16 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-#  "Metal": "" # global (defined)
-#  "Metal Mine": "" # global (defined)
-#  "Metal Storage": "" # global (defined)
+#  "Metal": "" # global (count: 7) (defined)
+#  "Metal Mine": "" # global (count: 2) (defined)
+#  "Metal Storage": "" # global (count: 2) (defined)
   "Metal setting": "金属矿设定"
   "Metropolis": ""
   "Microchip Assembly Line": ""
   "Mineral Research Centre": ""
-#  "Missile Silo": "" # global (defined)
+#  "Missile Silo": "" # global (count: 2) (defined)
   "Moons": ""
-#  "Nanite Factory": "" # global (defined)
+#  "Nanite Factory": "" # global (count: 2) (defined)
   "Nano Repair Bots": ""
   "Neuro Calibration Centre": ""
   "Neuro Interface": ""
@@ -403,33 +403,33 @@ bot.empire:
   "Overclocking Battleship": ""
   "Overclocking Heavy Fighter": ""
   "Overclocking Large Cargo": ""
-#  "Pathfinder": "" # global (defined)
+#  "Pathfinder": "" # global (count: 5) (defined)
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
-#  "Plasma Technology": "" # global (defined)
+#  "Plasma Technology": "" # global (count: 2) (defined)
   "Plasma Terraformer": ""
-#  "Plasma Turret": "" # global (defined)
-#  "Points": "" # global (defined)
+#  "Plasma Turret": "" # global (count: 3) (defined)
+#  "Points": "" # global (count: 4) (defined)
   "Production Assembly Hall": ""
   "Psionic Modulator": ""
   "Psionic Network": ""
   "Psionic Shield Matrix": ""
   "Psychoharmoniser": ""
   "Quantum Computer Centre": ""
-#  "Rank": "" # global (defined)
-  "Reaper": "恶魔飞船" # global (undefined)
-#  "Recycler": "" # global (defined)
-  "Reorder planets": "重新排列行星" # global (undefined)
+#  "Rank": "" # global (count: 6) (defined)
+  "Reaper": "恶魔飞船" # global (count: 4) (undefined)
+#  "Recycler": "" # global (count: 5) (defined)
+  "Reorder planets": "重新排列行星" # global (count: 2) (undefined)
   "Research AI": ""
   "Research Centre": ""
-#  "Research Lab": "" # global (defined)
+#  "Research Lab": "" # global (count: 2) (defined)
   "Residential Sector": ""
-  "Resources": "" # global (undefined)
+  "Resources": "" # global (count: 2) (undefined)
   "Robot Assistants": ""
-#  "Robotics Factory": "" # global (defined)
+#  "Robotics Factory": "" # global (count: 2) (defined)
   "Robotics Research Centre": ""
-#  "Rocket Launcher": "" # global (defined)
+#  "Rocket Launcher": "" # global (count: 3) (defined)
   "Rocktal Collector Enhancement": ""
   "Rocktal buildings": ""
   "Rocktal researches": ""
@@ -438,22 +438,22 @@ bot.empire:
   "Rune Technologium": ""
   "Sanctuary": ""
   "Seismic Mining Technology": ""
-#  "Sensor Phalanx": "" # global (defined)
-#  "Settings": "" # global (defined)
-#  "Shielding Technology": "" # global (defined)
+#  "Sensor Phalanx": "" # global (count: 2) (defined)
+#  "Settings": "" # global (count: 7) (defined)
+#  "Shielding Technology": "" # global (count: 2) (defined)
   "Ship Manufacturing Hall": ""
-  "Ships": "" # global (undefined)
-#  "Shipyard": "" # global (defined)
+  "Ships": "" # global (count: 4) (undefined)
+#  "Shipyard": "" # global (count: 3) (defined)
   "Sixth Sense": ""
   "Skyscraper": ""
   "Slingshot Autopilot": ""
-#  "Small Cargo": "" # global (defined)
-#  "Small Shield Dome": "" # global (defined)
-#  "Solar Plant": "" # global (defined)
-#  "Solar Satellite": "" # global (defined)
+#  "Small Cargo": "" # global (count: 5) (defined)
+#  "Small Shield Dome": "" # global (count: 3) (defined)
+#  "Solar Plant": "" # global (count: 2) (defined)
+#  "Solar Satellite": "" # global (count: 3) (defined)
   "Solar plant setting": "太阳能發电厂设定"
   "Solar sat setting": "太阳能卫星设定"
-#  "Space Dock": "" # global (defined)
+#  "Space Dock": "" # global (count: 2) (defined)
   "Stealth Field Generator": ""
   "Sulphide Process": ""
   "Supercomputer": ""
@@ -461,82 +461,82 @@ bot.empire:
   "Supra Refractor": ""
   "Telekinetic Drive": ""
   "Telekinetic Tractor Beam": ""
-#  "Terraformer": "" # global (defined)
+#  "Terraformer": "" # global (count: 2) (defined)
   "Update Network": ""
   "Updated at": "更新于"
   "Volcanic Batteries": ""
   "Vortex Chamber": ""
-#  "Weapons Technology": "" # global (defined)
+#  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
-#  "Actions": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
   "Activate all": "激活所有"
-  "Active": "活动中" # global (undefined)
-  "All": "全部" # global (undefined)
-#  "Are you sure?": "" # global (defined)
+  "Active": "活动中" # global (count: 6) (undefined)
+  "All": "全部" # global (count: 5) (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Arrival": "抵达"
   "Arrive at": "抵达于"
-  "Arrive in": "抵达于" # global (defined)
-#  "Attack": "" # global (defined)
-#  "Battlecruiser": "" # global (defined)
-#  "Battleship": "" # global (defined)
-#  "Bomber": "" # global (defined)
-  "Cancel Fleet": "取消舰队" # global (undefined)
+  "Arrive in": "抵达于" # global (count: 2) (defined)
+#  "Attack": "" # global (count: 4) (defined)
+#  "Battlecruiser": "" # global (count: 5) (defined)
+#  "Battleship": "" # global (count: 5) (defined)
+#  "Bomber": "" # global (count: 5) (defined)
+  "Cancel Fleet": "取消舰队" # global (count: 2) (undefined)
   "Cancel scheduled flight": "取消预定舰队"
   "Cargo": "容量"
-#  "Colonize": "" # global (defined)
-#  "Colony Ship": "" # global (defined)
-#  "Crawler": "" # global (defined)
+#  "Colonize": "" # global (count: 4) (defined)
+#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Crawler": "" # global (count: 4) (defined)
   "Cron jobs": "时间任务管理系统"
-#  "Cruiser": "" # global (defined)
-#  "Crystal": "" # global (defined)
-  "Current fleets": "飞行中舰队" # global (undefined)
+#  "Cruiser": "" # global (count: 5) (defined)
+#  "Crystal": "" # global (count: 7) (defined)
+  "Current fleets": "飞行中舰队" # global (count: 2) (undefined)
   "DS": ""
   "Deactivate all": "解除所有"
-#  "Deathstar": "" # global (defined)
-  "Debris": "废墟" # global (undefined)
+#  "Deathstar": "" # global (count: 5) (defined)
+  "Debris": "废墟" # global (count: 2) (undefined)
   "Delete cron job": "删除任务"
   "Delete flight": "删除飞行任务"
   "Depart at": "启航于"
-#  "Destination": "" # global (defined)
-#  "Destroy": "" # global (defined)
-#  "Destroyer": "" # global (defined)
-#  "Deuterium": "" # global (defined)
+#  "Destination": "" # global (count: 7) (defined)
+#  "Destroy": "" # global (count: 4) (defined)
+#  "Destroyer": "" # global (count: 5) (defined)
+#  "Deuterium": "" # global (count: 7) (defined)
   "Dur": "持续时间"
   "Edit cron job": "编辑任务"
-#  "Espionage Probe": "" # global (defined)
-  "Exp": "探" # global (undefined)
-#  "Expedition": "" # global (defined)
+#  "Espionage Probe": "" # global (count: 5) (defined)
+  "Exp": "探" # global (count: 2) (undefined)
+#  "Expedition": "" # global (count: 7) (defined)
   "Flight": "舰队"
   "Fuel": "燃料"
-#  "Grouped Attack": "" # global (defined)
+#  "Grouped Attack": "" # global (count: 4) (defined)
   "Grouped attack": ""
-#  "Harvest": "" # global (defined)
-#  "Heavy Fighter": "" # global (defined)
-  "Homeworld": "" # global (undefined)
+#  "Harvest": "" # global (count: 4) (defined)
+#  "Heavy Fighter": "" # global (count: 5) (defined)
+  "Homeworld": "" # global (count: 5) (undefined)
   "Jump gate": ""
   "LC": ""
-#  "Large Cargo": "" # global (defined)
-#  "Light Fighter": "" # global (defined)
-#  "Metal": "" # global (defined)
-  "Missile Attack": "导弹攻击弹" # global (defined)
-#  "Mission": "" # global (defined)
-#  "Moon": "" # global (defined)
+#  "Large Cargo": "" # global (count: 5) (defined)
+#  "Light Fighter": "" # global (count: 5) (defined)
+#  "Metal": "" # global (count: 7) (defined)
+  "Missile Attack": "导弹攻击弹" # global (count: 4) (defined)
+#  "Mission": "" # global (count: 5) (defined)
+#  "Moon": "" # global (count: 3) (defined)
   "No cron job at the moment": "当前并无任务时间表"
-  "No fleets": "没有舰船" # global (undefined)
+  "No fleets": "没有舰船" # global (count: 4) (undefined)
   "No saved flights": "没有保存的舰队"
   "No scheduled flights": "没有预定的舰队"
-  "None": "全无" # global (undefined)
-  "Note": "註记" # global (undefined)
-#  "Origin": "" # global (defined)
+  "None": "全无" # global (count: 2) (undefined)
+  "Note": "註记" # global (count: 3) (undefined)
+#  "Origin": "" # global (count: 6) (defined)
   "PF": ""
-#  "Park": "" # global (defined)
-  "Park In That Ally": "派遣至友军" # global (undefined)
-#  "Pathfinder": "" # global (defined)
-  "Planet": "行星" # global (undefined)
+#  "Park": "" # global (count: 4) (defined)
+  "Park In That Ally": "派遣至友军" # global (count: 4) (undefined)
+#  "Pathfinder": "" # global (count: 5) (defined)
+  "Planet": "行星" # global (count: 6) (undefined)
   "R": ""
-  "Reaper": "恶魔飞船" # global (undefined)
-#  "Recycle debris field": "" # global (defined)
-#  "Recycler": "" # global (defined)
+  "Reaper": "恶魔飞船" # global (count: 4) (undefined)
+#  "Recycle debris field": "" # global (count: 1) (defined)
+#  "Recycler": "" # global (count: 5) (defined)
   "Resources to": "资源"
   "Return": "返回"
   "SC": ""
@@ -546,120 +546,120 @@ bot.flights:
   "Schedule fleet": "预定舰队"
   "Scheduled flights": "已预定舰队"
   "Search for lifeforms": ""
-  "Select origin": "选择出發地" # global (undefined)
-  "Send all resources": "运送所有资源" # global (undefined)
+  "Select origin": "选择出發地" # global (count: 4) (undefined)
+  "Send all resources": "运送所有资源" # global (count: 2) (undefined)
   "Send fleet": "派出舰队"
   "Send flight": "派出舰船"
-#  "Small Cargo": "" # global (defined)
+#  "Small Cargo": "" # global (count: 5) (defined)
   "Spec": ""
-#  "Spy": "" # global (defined)
-#  "Transport": "" # global (defined)
+#  "Spy": "" # global (count: 4) (defined)
+#  "Transport": "" # global (count: 4) (defined)
   "from": "自"
   "keep": "保留"
-#  "max": "" # global (defined)
+#  "max": "" # global (count: 1) (defined)
   "mission": "任务"
   "random delay 0-10min added": "已增加随机0-10分钟"
   "send": "运送"
   "speed": "速度"
-  "to": "至" # global (undefined)
+  "to": "至" # global (count: 3) (undefined)
 bot.flightsEdit:
-  "Homeworld": "" # global (undefined)
-  "Send all resources": "运送所有资源" # global (undefined)
+  "Homeworld": "" # global (count: 5) (undefined)
+  "Send all resources": "运送所有资源" # global (count: 2) (undefined)
   "Send all ships": "派出所有舰船"
 bot.galaxy.index:
-  "Map": "图" # global (defined)
+  "Map": "图" # global (count: 1) (defined)
   "Table": "表"
 bot.galaxy.map:
-  "Active": "活跃" # global (undefined)
+  "Active": "活跃" # global (count: 6) (undefined)
   "Coord": "座标"
-  "Inactive": "不活跃" # global (undefined)
-  "Vacation": "假期" # global (undefined)
+  "Inactive": "不活跃" # global (count: 2) (undefined)
+  "Vacation": "假期" # global (count: 3) (undefined)
 bot.galaxy.player:
-#  "Actions": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
   "Add to hunter list": "加入猎人列表"
-  "Alliance": "联盟" # global (undefined)
-  "Coords": "座标" # global (undefined)
-#  "Crystal": "" # global (defined)
-#  "Deuterium": "" # global (defined)
-  "Espionage": "" # global (undefined)
-  "Espionage report": "间谍报告" # global (undefined)
-#  "Galaxy": "" # global (defined)
-  "Members": "成员" # global (undefined)
-#  "Metal": "" # global (defined)
-#  "Moon": "" # global (defined)
-  "Planet name": "行星名称" # global (undefined)
-  "Player name": "玩家名称" # global (undefined)
-  "Player profile": "玩家资料" # global (undefined)
-  "RN": "所需回收船" # global (undefined)
-#  "Rank": "" # global (defined)
-  "Updated": "更新于" # global (undefined)
+  "Alliance": "联盟" # global (count: 4) (undefined)
+  "Coords": "座标" # global (count: 2) (undefined)
+#  "Crystal": "" # global (count: 7) (defined)
+#  "Deuterium": "" # global (count: 7) (defined)
+  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage report": "间谍报告" # global (count: 4) (undefined)
+#  "Galaxy": "" # global (count: 4) (defined)
+  "Members": "成员" # global (count: 2) (undefined)
+#  "Metal": "" # global (count: 7) (defined)
+#  "Moon": "" # global (count: 3) (defined)
+  "Planet name": "行星名称" # global (count: 2) (undefined)
+  "Player name": "玩家名称" # global (count: 4) (undefined)
+  "Player profile": "玩家资料" # global (count: 2) (undefined)
+  "RN": "所需回收船" # global (count: 2) (undefined)
+#  "Rank": "" # global (count: 6) (defined)
+  "Updated": "更新于" # global (count: 2) (undefined)
 bot.galaxy.table:
-#  "Actions": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
   "Add alliance to ignore list": "将联盟加入忽略名单"
   "Add player to ignore list": "将玩家加入忽略名单"
-  "Alliance": "联盟" # global (undefined)
-  "Coords": "座标" # global (undefined)
-#  "Crystal": "" # global (defined)
+  "Alliance": "联盟" # global (count: 4) (undefined)
+  "Coords": "座标" # global (count: 2) (undefined)
+#  "Crystal": "" # global (count: 7) (defined)
   "Debris top 100": "前100废墟量"
-#  "Deuterium": "" # global (defined)
-  "Espionage": "间谍" # global (undefined)
-  "Espionage report": "" # global (undefined)
-  "Get spy reports": "" # global (undefined)
+#  "Deuterium": "" # global (count: 7) (defined)
+  "Espionage": "间谍" # global (count: 2) (undefined)
+  "Espionage report": "" # global (count: 4) (undefined)
+  "Get spy reports": "" # global (count: 2) (undefined)
   "Go": "前往"
-  "Members": "成员" # global (undefined)
-#  "Metal": "" # global (defined)
-#  "Moon": "" # global (defined)
+  "Members": "成员" # global (count: 2) (undefined)
+#  "Metal": "" # global (count: 7) (defined)
+#  "Moon": "" # global (count: 3) (defined)
   "Open in OGame browser": "于OGame浏览器打开"
-  "Planet name": "行星名称" # global (undefined)
-  "Player name": "玩家名称" # global (undefined)
-  "RN": "所需回收船" # global (undefined)
-#  "Rank": "" # global (defined)
+  "Planet name": "行星名称" # global (count: 2) (undefined)
+  "Player name": "玩家名称" # global (count: 4) (undefined)
+  "RN": "所需回收船" # global (count: 2) (undefined)
+#  "Rank": "" # global (count: 6) (defined)
   "Scan this page": "扫描此页"
   "Scan universe": "扫描宇宙"
-  "Search": "寻找" # global (undefined)
-  "Send recyclers": "派遣回收船" # global (undefined)
+  "Search": "寻找" # global (count: 3) (undefined)
+  "Send recyclers": "派遣回收船" # global (count: 2) (undefined)
   "Stop scan universe": "停止扫描宇宙"
-  "Updated": "更新于" # global (undefined)
+  "Updated": "更新于" # global (count: 2) (undefined)
 bot.index:
-  "Bot": "机器人" # global (defined)
-#  "Browser": "" # global (defined)
+  "Bot": "机器人" # global (count: 1) (defined)
+#  "Browser": "" # global (count: 1) (defined)
   "Conqueror": "征服者"
-#  "Empire": "" # global (defined)
-#  "Flights": "" # global (defined)
-#  "Galaxy": "" # global (defined)
-#  "Home": "" # global (defined)
-#  "Scripts": "" # global (defined)
-#  "Simulator": "" # global (defined)
+#  "Empire": "" # global (count: 2) (defined)
+#  "Flights": "" # global (count: 1) (defined)
+#  "Galaxy": "" # global (count: 4) (defined)
+#  "Home": "" # global (count: 8) (defined)
+#  "Scripts": "" # global (count: 1) (defined)
+#  "Simulator": "" # global (count: 1) (defined)
 bot.phalanxPlayer:
-  "Arrival time": "" # global (undefined)
-#  "Attack": "" # global (defined)
-#  "Colonize": "" # global (defined)
-#  "Destination": "" # global (defined)
-#  "Destroy": "" # global (defined)
-#  "Expedition": "" # global (defined)
-#  "Galaxy": "" # global (defined)
-#  "Grouped Attack": "" # global (defined)
-#  "Harvest": "" # global (defined)
-#  "Missile Attack": "" # global (defined)
-#  "Mission": "" # global (defined)
-  "No fleets": "" # global (undefined)
-#  "Origin": "" # global (defined)
-#  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (undefined)
+  "Arrival time": "" # global (count: 2) (undefined)
+#  "Attack": "" # global (count: 4) (defined)
+#  "Colonize": "" # global (count: 4) (defined)
+#  "Destination": "" # global (count: 7) (defined)
+#  "Destroy": "" # global (count: 4) (defined)
+#  "Expedition": "" # global (count: 7) (defined)
+#  "Galaxy": "" # global (count: 4) (defined)
+#  "Grouped Attack": "" # global (count: 4) (defined)
+#  "Harvest": "" # global (count: 4) (defined)
+#  "Missile Attack": "" # global (count: 4) (defined)
+#  "Mission": "" # global (count: 5) (defined)
+  "No fleets": "" # global (count: 4) (undefined)
+#  "Origin": "" # global (count: 6) (defined)
+#  "Park": "" # global (count: 4) (defined)
+  "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx all": ""
-  "Player profile": "" # global (undefined)
-  "Ships": "" # global (undefined)
-#  "Spy": "" # global (defined)
-#  "Transport": "" # global (defined)
-  "Union ID": "" # global (undefined)
+  "Player profile": "" # global (count: 2) (undefined)
+  "Ships": "" # global (count: 4) (undefined)
+#  "Spy": "" # global (count: 4) (defined)
+#  "Transport": "" # global (count: 4) (defined)
+  "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
   "Add to queue": "增加至排程"
   "Build": "建造"
   "Building": "建造中"
-  "Cargo capacity": "货舱容量" # global (defined)
+  "Cargo capacity": "货舱容量" # global (count: 1) (defined)
   "Current": "现在"
   "Current planet": "当今行星"
-#  "Fuel consumption": "" # global (defined)
+#  "Fuel consumption": "" # global (count: 2) (defined)
   "Import resources & build": "运送资源及开始建造"
   "Is Collector": ""
   "Is Discoverer": ""
@@ -668,115 +668,115 @@ bot.planet:
   "Lifeform researches": ""
   "Main planet": "主星"
   "Price": "所需资源"
-  "Queue": "排程" # global (undefined)
+  "Queue": "排程" # global (count: 2) (undefined)
   "Queue tear down": "于排程中加入拆毁"
-#  "Rapidfire against": "" # global (defined)
-#  "Rapidfire from": "" # global (defined)
+#  "Rapidfire against": "" # global (count: 1) (defined)
+#  "Rapidfire from": "" # global (count: 1) (defined)
   "Research": ""
-#  "Shield power": "" # global (defined)
-#  "Shipyard": "" # global (defined)
-#  "Speed": "" # global (defined)
-#  "Structural integrity": "" # global (defined)
+#  "Shield power": "" # global (count: 1) (defined)
+#  "Shipyard": "" # global (count: 3) (defined)
+#  "Speed": "" # global (count: 2) (defined)
+#  "Structural integrity": "" # global (count: 1) (defined)
   "Sum": "总和"
-#  "Weapon power": "" # global (defined)
+#  "Weapon power": "" # global (count: 1) (defined)
   "no item in queue": "排程是空的"
 bot.reorderPlanets:
-#  "Empire": "" # global (defined)
-  "Reorder planets": "重新排列行星" # global (undefined)
+#  "Empire": "" # global (count: 2) (defined)
+  "Reorder planets": "重新排列行星" # global (count: 2) (undefined)
 bot.report:
   "Alliance Class": ""
-#  "Alliance Depot": "" # global (defined)
-#  "Anti-Ballistic Missiles": "" # global (defined)
-#  "Armour Technology": "" # global (defined)
-#  "Astrophysics": "" # global (defined)
-#  "Battlecruiser": "" # global (defined)
-#  "Battleship": "" # global (defined)
-#  "Bomber": "" # global (defined)
+#  "Alliance Depot": "" # global (count: 2) (defined)
+#  "Anti-Ballistic Missiles": "" # global (count: 2) (defined)
+#  "Armour Technology": "" # global (count: 2) (defined)
+#  "Astrophysics": "" # global (count: 2) (defined)
+#  "Battlecruiser": "" # global (count: 5) (defined)
+#  "Battleship": "" # global (count: 5) (defined)
+#  "Bomber": "" # global (count: 5) (defined)
   "Character Class": ""
-#  "Colony Ship": "" # global (defined)
-#  "Combustion Drive": "" # global (defined)
-#  "Computer Technology": "" # global (defined)
-#  "Cruiser": "" # global (defined)
-#  "Crystal Mine": "" # global (defined)
-#  "Crystal Storage": "" # global (defined)
-#  "Deathstar": "" # global (defined)
-#  "Destroyer": "" # global (defined)
-#  "Deuterium Synthesizer": "" # global (defined)
-#  "Deuterium Tank": "" # global (defined)
-#  "Energy Technology": "" # global (defined)
-#  "Espionage Probe": "" # global (defined)
-#  "Espionage Technology": "" # global (defined)
-#  "Fusion Reactor": "" # global (defined)
-#  "Gauss Cannon": "" # global (defined)
-#  "Graviton Technology": "" # global (defined)
-#  "Heavy Fighter": "" # global (defined)
-#  "Heavy Laser": "" # global (defined)
-#  "Hyperspace Drive": "" # global (defined)
-#  "Hyperspace Technology": "" # global (defined)
-#  "Impulse Drive": "" # global (defined)
-#  "Interplanetary Missiles": "" # global (defined)
-#  "Ion Cannon": "" # global (defined)
-#  "Ion Technology": "" # global (defined)
-#  "Jump Gate": "" # global (defined)
-#  "Large Cargo": "" # global (defined)
-#  "Large Shield Dome": "" # global (defined)
-#  "Laser Technology": "" # global (defined)
-#  "Light Fighter": "" # global (defined)
-#  "Light Laser": "" # global (defined)
+#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Combustion Drive": "" # global (count: 2) (defined)
+#  "Computer Technology": "" # global (count: 2) (defined)
+#  "Cruiser": "" # global (count: 5) (defined)
+#  "Crystal Mine": "" # global (count: 2) (defined)
+#  "Crystal Storage": "" # global (count: 2) (defined)
+#  "Deathstar": "" # global (count: 5) (defined)
+#  "Destroyer": "" # global (count: 5) (defined)
+#  "Deuterium Synthesizer": "" # global (count: 2) (defined)
+#  "Deuterium Tank": "" # global (count: 2) (defined)
+#  "Energy Technology": "" # global (count: 2) (defined)
+#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Technology": "" # global (count: 2) (defined)
+#  "Fusion Reactor": "" # global (count: 2) (defined)
+#  "Gauss Cannon": "" # global (count: 3) (defined)
+#  "Graviton Technology": "" # global (count: 2) (defined)
+#  "Heavy Fighter": "" # global (count: 5) (defined)
+#  "Heavy Laser": "" # global (count: 3) (defined)
+#  "Hyperspace Drive": "" # global (count: 2) (defined)
+#  "Hyperspace Technology": "" # global (count: 2) (defined)
+#  "Impulse Drive": "" # global (count: 2) (defined)
+#  "Interplanetary Missiles": "" # global (count: 3) (defined)
+#  "Ion Cannon": "" # global (count: 3) (defined)
+#  "Ion Technology": "" # global (count: 2) (defined)
+#  "Jump Gate": "" # global (count: 2) (defined)
+#  "Large Cargo": "" # global (count: 5) (defined)
+#  "Large Shield Dome": "" # global (count: 3) (defined)
+#  "Laser Technology": "" # global (count: 2) (defined)
+#  "Light Fighter": "" # global (count: 5) (defined)
+#  "Light Laser": "" # global (count: 3) (defined)
   "Load in simulator": ""
-#  "Lunar Base": "" # global (defined)
-#  "Metal Mine": "" # global (defined)
-#  "Metal Storage": "" # global (defined)
-#  "Missile Silo": "" # global (defined)
-#  "Nanite Factory": "" # global (defined)
-#  "Plasma Technology": "" # global (defined)
-#  "Plasma Turret": "" # global (defined)
-#  "Recycler": "" # global (defined)
+#  "Lunar Base": "" # global (count: 2) (defined)
+#  "Metal Mine": "" # global (count: 2) (defined)
+#  "Metal Storage": "" # global (count: 2) (defined)
+#  "Missile Silo": "" # global (count: 2) (defined)
+#  "Nanite Factory": "" # global (count: 2) (defined)
+#  "Plasma Technology": "" # global (count: 2) (defined)
+#  "Plasma Turret": "" # global (count: 3) (defined)
+#  "Recycler": "" # global (count: 5) (defined)
   "Report": ""
-#  "Research Lab": "" # global (defined)
-#  "Research Network": "" # global (defined)
-#  "Robotics Factory": "" # global (defined)
-#  "Rocket Launcher": "" # global (defined)
-#  "Sensor Phalanx": "" # global (defined)
-#  "Shielding Technology": "" # global (defined)
-#  "Shipyard": "" # global (defined)
-#  "Small Cargo": "" # global (defined)
-#  "Small Shield Dome": "" # global (defined)
-#  "Solar Plant": "" # global (defined)
-#  "Solar Satellite": "" # global (defined)
-#  "Space Dock": "" # global (defined)
-#  "Terraformer": "" # global (defined)
-#  "Weapons Technology": "" # global (defined)
+#  "Research Lab": "" # global (count: 2) (defined)
+#  "Research Network": "" # global (count: 1) (defined)
+#  "Robotics Factory": "" # global (count: 2) (defined)
+#  "Rocket Launcher": "" # global (count: 3) (defined)
+#  "Sensor Phalanx": "" # global (count: 2) (defined)
+#  "Shielding Technology": "" # global (count: 2) (defined)
+#  "Shipyard": "" # global (count: 3) (defined)
+#  "Small Cargo": "" # global (count: 5) (defined)
+#  "Small Shield Dome": "" # global (count: 3) (defined)
+#  "Solar Plant": "" # global (count: 2) (defined)
+#  "Solar Satellite": "" # global (count: 3) (defined)
+#  "Space Dock": "" # global (count: 2) (defined)
+#  "Terraformer": "" # global (count: 2) (defined)
+#  "Weapons Technology": "" # global (count: 2) (defined)
 bot.scripts:
   "Edit file name": "编辑档案名称"
   "Pause/unpause": "暂停/取消暂停"
   "Run": "执行"
-  "Run at start": "(于开启时)自动执行" # global (undefined)
-#  "Stop": "" # global (defined)
+  "Run at start": "(于开启时)自动执行" # global (count: 2) (undefined)
+#  "Stop": "" # global (count: 5) (defined)
   "Upload scripts": ""
   "Validate Script": "验证脚本"
 bot.settings.activities:
-  "Created at": "创建于" # global (undefined)
-#  "Destination": "" # global (defined)
+  "Created at": "创建于" # global (count: 6) (undefined)
+#  "Destination": "" # global (count: 7) (defined)
   "Fleet log": "舰队纪录"
   "Logins": ""
-#  "Mission": "" # global (defined)
-#  "Next": "" # global (defined)
+#  "Mission": "" # global (count: 5) (defined)
+#  "Next": "" # global (count: 9) (defined)
   "No fleet in the log": "纪录中无舰队资料"
-#  "Origin": "" # global (defined)
-#  "Prev": "" # global (defined)
+#  "Origin": "" # global (count: 6) (defined)
+#  "Prev": "" # global (count: 9) (defined)
   "Sent fleets": ""
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-#  "Crystal": "" # global (defined)
-#  "Deuterium": "" # global (defined)
+#  "Crystal": "" # global (count: 7) (defined)
+#  "Deuterium": "" # global (count: 7) (defined)
   "Highest bid value": ""
-  "Homeworld": "" # global (undefined)
-#  "Metal": "" # global (defined)
-  "Save": "" # global (undefined)
+  "Homeworld": "" # global (count: 5) (undefined)
+#  "Metal": "" # global (count: 7) (defined)
+  "Save": "" # global (count: 17) (undefined)
 bot.settings.brain:
   "AI": ""
   "Batch update": ""
@@ -796,32 +796,32 @@ bot.settings.brain:
   "Individual": ""
   "Kaelesh": ""
   "Mechas": ""
-  "None": "无" # global (undefined)
-  "Planet": "行星" # global (undefined)
+  "None": "无" # global (count: 2) (undefined)
+  "Planet": "行星" # global (count: 6) (undefined)
   "Prevent importing if come back during sleep time": "不要在睡觉时间接收资源"
   "Prioritize nanite factory": ""
-  "Queue": "排程" # global (undefined)
+  "Queue": "排程" # global (count: 2) (undefined)
   "Rocktal": ""
-  "Save": "保存" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
   "Set all moons": ""
   "Set all planets": ""
   "Try to buy 'offer of the day' every 4h": ""
   "reset form": ""
-  "to": "至" # global (undefined)
+  "to": "至" # global (count: 3) (undefined)
 bot.settings.colonizer:
   "Colonize using": ""
   "Colonizer configs": ""
-#  "Galaxy": "" # global (defined)
-  "Max colonizer slots": "" # global (undefined)
+#  "Galaxy": "" # global (count: 4) (defined)
+  "Max colonizer slots": "" # global (count: 2) (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "Systems": ""
   "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
 bot.settings.defender:
   "--- Bot decision ---": "--- 机器人决定 ---"
   "2-steps (planets then moons)": "两阶段 (先到行星再到月球)"
@@ -841,7 +841,7 @@ bot.settings.defender:
   "Never": "常关"
   "No players whitelisted": "白名单内没有玩家"
   "Notify small fleet attacks (< 1/3 firepower)": "小规模攻击时通知我 (小于三分之一火力)"
-  "Planet": "行星" # global (undefined)
+  "Planet": "行星" # global (count: 6) (undefined)
   "Play sound when attacked": "受攻击时播放音效"
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡觉时间返回则不要派出"
@@ -853,34 +853,34 @@ bot.settings.defender:
   "Repatriate interval": "集中资源间隔"
   "Repatriate random order": "随机顺序集中资源"
   "Repatriate resources": "集中资源"
-  "Save": "保存" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
   "Send message to attackers": "传送讯息给攻击者"
   "activate for moon ?": "月球上也启动?"
-  "minutes": "分" # global (undefined)
-  "next check in": "下次检查于" # global (undefined)
-  "next in": "下次于" # global (undefined)
+  "minutes": "分" # global (count: 3) (undefined)
+  "next check in": "下次检查于" # global (count: 2) (undefined)
+  "next in": "下次于" # global (count: 3) (undefined)
   "sec": "秒"
-  "to": "至" # global (undefined)
+  "to": "至" # global (count: 3) (undefined)
 bot.settings.discovery:
   "Discovery configs": ""
   "Discovery using": ""
-  "Max discovery slots": "" # global (undefined)
-  "Save": "" # global (undefined)
+  "Max discovery slots": "" # global (count: 2) (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-#  "Actions": "" # global (defined)
-  "All": "" # global (undefined)
-  "Category": "分类" # global (undefined)
-  "Coordinate": "座标" # global (undefined)
-  "Espionage report": "间谍报告" # global (undefined)
-#  "Expedition": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
+  "All": "" # global (count: 5) (undefined)
+  "Category": "分类" # global (count: 2) (undefined)
+  "Coordinate": "座标" # global (count: 2) (undefined)
+  "Espionage report": "间谍报告" # global (count: 4) (undefined)
+#  "Expedition": "" # global (count: 7) (defined)
   "Extract expedition messages": "提取探险讯息"
-  "InGame date": "游戏内日期" # global (undefined)
-  "Message": "讯息" # global (undefined)
-  "Messages": "讯息" # global (undefined)
-#  "Next": "" # global (defined)
-  "No messages to show": "无讯息显示" # global (undefined)
-#  "Prev": "" # global (defined)
+  "InGame date": "游戏内日期" # global (count: 2) (undefined)
+  "Message": "讯息" # global (count: 3) (undefined)
+  "Messages": "讯息" # global (count: 3) (undefined)
+#  "Next": "" # global (count: 9) (defined)
+  "No messages to show": "无讯息显示" # global (count: 2) (undefined)
+#  "Prev": "" # global (count: 9) (defined)
   "Re-process existing messages": "重新处理已有讯息"
   "alien": ""
   "delay": ""
@@ -895,103 +895,103 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-#  "Actions": "" # global (defined)
-  "Active": "启用" # global (undefined)
-#  "Are you sure?": "" # global (defined)
-  "Arrive in": "抵达于" # global (defined)
-#  "Attack": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
+  "Active": "启用" # global (count: 6) (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Arrive in": "抵达于" # global (count: 2) (defined)
+#  "Attack": "" # global (count: 4) (defined)
   "Automatic fleet": ""
-#  "Battlecruiser": "" # global (defined)
-#  "Battleship": "" # global (defined)
-#  "Bomber": "" # global (defined)
-  "Cancel Fleet": "取消舰队" # global (undefined)
+#  "Battlecruiser": "" # global (count: 5) (defined)
+#  "Battleship": "" # global (count: 5) (defined)
+#  "Bomber": "" # global (count: 5) (defined)
+  "Cancel Fleet": "取消舰队" # global (count: 2) (undefined)
   "Click here to load current fleets": "点此以载入现在飞行中舰队"
-#  "Colonize": "" # global (defined)
-#  "Colony Ship": "" # global (defined)
-#  "Cruiser": "" # global (defined)
-  "Current fleets": "现飞行中舰队" # global (undefined)
-#  "Deathstar": "" # global (defined)
+#  "Colonize": "" # global (count: 4) (defined)
+#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Cruiser": "" # global (count: 5) (defined)
+  "Current fleets": "现飞行中舰队" # global (count: 2) (undefined)
+#  "Deathstar": "" # global (count: 5) (defined)
   "Delay between fleet (secs)": "舰队间间隔 (秒)"
   "Delay between waves (secs)": "波之间间隔 (秒)"
-#  "Destination": "" # global (defined)
-#  "Destroy": "" # global (defined)
-#  "Destroyer": "" # global (defined)
+#  "Destination": "" # global (count: 7) (defined)
+#  "Destroy": "" # global (count: 4) (defined)
+#  "Destroyer": "" # global (count: 5) (defined)
   "Duration": "探险时间"
-#  "Espionage Probe": "" # global (defined)
-  "Exp": "" # global (undefined)
-#  "Expedition": "" # global (defined)
+#  "Espionage Probe": "" # global (count: 5) (defined)
+  "Exp": "" # global (count: 2) (undefined)
+#  "Expedition": "" # global (count: 7) (defined)
   "Expedition speed": "探险速度"
   "Expeditions active": "启用探险"
   "Expeditions configs": "探险设定"
   "Expeditions origin": "探险出發地"
-#  "Grouped Attack": "" # global (defined)
-#  "Harvest": "" # global (defined)
-#  "Heavy Fighter": "" # global (defined)
-  "Homeworld": "" # global (undefined)
+#  "Grouped Attack": "" # global (count: 4) (defined)
+#  "Harvest": "" # global (count: 4) (defined)
+#  "Heavy Fighter": "" # global (count: 5) (defined)
+  "Homeworld": "" # global (count: 5) (undefined)
   "Ignore min deut": "无视最小重氢量"
   "LC that will not be send with auto-split": "不被自动分派的大运数量"
-#  "Large Cargo": "" # global (defined)
+#  "Large Cargo": "" # global (count: 5) (defined)
   "Large Cargo to stay": "保留于星/月上的大运"
-#  "Light Fighter": "" # global (defined)
+#  "Light Fighter": "" # global (count: 5) (defined)
   "Minimum Pathfinders": "最少探路者"
   "Minimum amount of pathfinders needed to consider a debris field": "最少需要多少探路者才考虑废墟"
   "Minimum speed": "最慢速度"
   "Minimum speed for the early PF": "先行探路者的最慢速度"
-#  "Missile Attack": "" # global (defined)
-#  "Mission": "" # global (defined)
-  "Name": "名称" # global (undefined)
+#  "Missile Attack": "" # global (count: 4) (defined)
+#  "Mission": "" # global (count: 5) (defined)
+  "Name": "名称" # global (count: 3) (undefined)
   "Never wait (100% getting ban)": "不要等 (百分百被会抓)"
-  "No fleets": "没有舰队" # global (undefined)
+  "No fleets": "没有舰队" # global (count: 4) (undefined)
   "Number to send": "派出数量"
-#  "Origin": "" # global (defined)
+#  "Origin": "" # global (count: 6) (defined)
   "PF that will not be send with auto-split nor for recycle": "不被自动分派的探路者数量"
   "PF will be send to arrive at the same time as debris field is created (if any)": "于废墟生成时间同时到达的探路者数量"
-#  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (undefined)
-#  "Pathfinder": "" # global (defined)
+#  "Park": "" # global (count: 4) (defined)
+  "Park In That Ally": "" # global (count: 4) (undefined)
+#  "Pathfinder": "" # global (count: 5) (defined)
   "Pathfinders to stay": "保留于星/月上的探路者"
-  "Reaper": "恶魔飞船" # global (undefined)
+  "Reaper": "恶魔飞船" # global (count: 4) (undefined)
   "Recycle debris": "回收废墟"
-#  "Recycler": "" # global (defined)
+#  "Recycler": "" # global (count: 5) (defined)
   "SC that will not be send with auto-split": "不被自动分派的小运数量"
   "Secs after expedition": "探险后几秒"
-  "Select origin": "选择出發地" # global (undefined)
+  "Select origin": "选择出發地" # global (count: 4) (undefined)
   "Ships per expedition": "每队探险舰船数"
   "Slots allowed": "允许的指挥数"
-#  "Small Cargo": "" # global (defined)
+#  "Small Cargo": "" # global (count: 5) (defined)
   "Small Cargo to stay": "保留于星/月上的小运"
-#  "Spy": "" # global (defined)
+#  "Spy": "" # global (count: 4) (defined)
   "Statistics": "统计"
   "Strategy": "策略"
   "Systems range": "太阳系范围"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "勾选以自动分派可用的舰船；否则指定派出数量"
   "Time in seconds that early PF will arrive after the expedition": "该先行探路者队于探险后几秒到达"
-#  "Transport": "" # global (defined)
+#  "Transport": "" # global (count: 4) (defined)
   "Wait for all expeditions slots": "等待所有可用探险指挥数"
   "Wait for majority of expeditions slots": "等待大部分可用探险指挥数"
   "expeditions": "探险"
-  "next check in": "下次检查于" # global (undefined)
-  "unlimited": "无限制" # global (undefined)
+  "next check in": "下次检查于" # global (count: 2) (undefined)
+  "unlimited": "无限制" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "放弃所有工作阶段"
-#  "Actions": "" # global (defined)
-  "Active": "活跃中" # global (undefined)
+#  "Actions": "" # global (count: 12) (defined)
+  "Active": "活跃中" # global (count: 6) (undefined)
   "Additional cargo": "额外货舱容量"
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Attack from nearest moon": "由最近月球攻击"
   "Attack from nearest planet": "由最近行星攻击"
   "Attack speed": "攻击速度"
-  "Created at": "创建于" # global (undefined)
-#  "Crystal": "" # global (defined)
+  "Created at": "创建于" # global (count: 6) (undefined)
+#  "Crystal": "" # global (count: 7) (defined)
   "Delete combat reports": "删除战斗报告"
-#  "Deuterium": "" # global (defined)
+#  "Deuterium": "" # global (count: 7) (defined)
   "Espionage probe raids": "间谍卫星攻击"
   "Farm sessions": "耕作(刮I)工作阶段"
   "Farmer active": "启用耕作者(刮I)"
   "Fast attacking": "快速攻击"
   "Ignore targets with activity": "忽略目标活动"
-  "Inactive": "不活跃" # global (undefined)
-#  "Metal": "" # global (defined)
+  "Inactive": "不活跃" # global (count: 2) (undefined)
+#  "Metal": "" # global (count: 7) (defined)
   "Min. defenses to ignore": "防御高于 则略过"
   "Min. player rank": "排名高于 则略过"
   "Min. resources to attack": "最少可掠夺资源"
@@ -999,13 +999,13 @@ bot.settings.farmer:
   "Nb probes": "间谍数量"
   "New session": "新工作阶段"
   "No session": "无工作阶段"
-#  "Origin": "" # global (defined)
-  "Planet": "行星" # global (undefined)
+#  "Origin": "" # global (count: 6) (defined)
+  "Planet": "行星" # global (count: 6) (undefined)
   "Priority calculation": "优先考量计算"
   "Range": "范围"
-  "Redo": "重做" # global (undefined)
-  "Save": "保存" # global (undefined)
-  "Select origin": "选择出發地" # global (undefined)
+  "Redo": "重做" # global (count: 2) (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
+  "Select origin": "选择出發地" # global (count: 4) (undefined)
   "Start new session": "开始新工作阶段"
   "State": "状态"
   "Total loot": "总计掠夺"
@@ -1016,169 +1016,169 @@ bot.settings.farmer:
   "ignored players": "忽略的玩家"
   "statistics": "统计"
 bot.settings.farmerIgnoredAlliances:
-#  "Are you sure?": "" # global (defined)
-  "Remove all": "移除所有" # global (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
-#  "Are you sure?": "" # global (defined)
-  "Remove all": "移除所有" # global (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
-#  "Are you sure?": "" # global (defined)
-  "Remove all": "移除所有" # global (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-#  "Actions": "" # global (defined)
-#  "Are you sure?": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Attack type": "攻击种类"
-  "Attacker": "攻击者" # global (undefined)
+  "Attacker": "攻击者" # global (count: 2) (undefined)
   "Brain activities": "大脑(建设)活动"
   "Cancel evacuation": "取消彻离舰队"
   "Check attacks": "检查攻击"
   "Countdowns": "倒计时"
-#  "Defender": "" # global (defined)
+#  "Defender": "" # global (count: 7) (defined)
   "Defender activities": "防御者活动"
-#  "Destination": "" # global (defined)
+#  "Destination": "" # global (count: 7) (defined)
   "Donut galaxy": "环绕银河系"
   "Donut system": "环绕太阳系"
-#  "Email": "" # global (defined)
-#  "Expeditions": "" # global (defined)
+#  "Email": "" # global (count: 11) (defined)
+#  "Expeditions": "" # global (count: 4) (defined)
   "Fingerprint": ""
   "General info": "一般资讯"
-#  "Hunter": "" # global (defined)
+#  "Hunter": "" # global (count: 4) (defined)
   "No evacuations": "无彻离舰队"
   "No plans": "无计划"
-  "Proxy": "代理伺服器" # global (undefined)
-  "Repatriate": "集中资源" # global (undefined)
+  "Proxy": "代理伺服器" # global (count: 3) (undefined)
+  "Repatriate": "集中资源" # global (count: 2) (undefined)
   "Repatriate now": "现在集中资源"
   "Reschedule evacuation": "重新安排彻离"
   "Research speed": "研究速度"
-  "Ships": "船" # global (undefined)
+  "Ships": "船" # global (count: 4) (undefined)
   "Skip sus login wait": ""
   "Times": ""
-  "Universe": "宇宙" # global (undefined)
+  "Universe": "宇宙" # global (count: 4) (undefined)
   "Universe speed": "经济速度"
   "Universe speed fleet": "舰船速度"
   "What is my IP?": "我的IP是？"
-  "scanner": "扫描者" # global (undefined)
+  "scanner": "扫描者" # global (count: 2) (undefined)
 bot.settings.hotkeys:
-  "General": "" # global (undefined)
-  "Hotkeys": "" # global (undefined)
-  "Notifications": "" # global (undefined)
+  "General": "" # global (count: 5) (undefined)
+  "Hotkeys": "" # global (count: 3) (undefined)
+  "Notifications": "" # global (count: 4) (undefined)
 bot.settings.hunter-target:
-  "Alliance": "联盟" # global (undefined)
+  "Alliance": "联盟" # global (count: 4) (undefined)
   "Color legend": "颜色标记"
   "Notify when inactive for": "不活跃多久时通知"
-  "Save": "保存" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
   "Target": "目标"
-  "minutes": "分" # global (undefined)
+  "minutes": "分" # global (count: 3) (undefined)
 bot.settings.hunter:
-  "--- Currently active planet/moon ---": "--- 当前有活动的星/月 ---" # global (undefined)
-#  "Actions": "" # global (defined)
-#  "Activities": "" # global (defined)
+  "--- Currently active planet/moon ---": "--- 当前有活动的星/月 ---" # global (count: 2) (undefined)
+#  "Actions": "" # global (count: 12) (defined)
+#  "Activities": "" # global (count: 3) (defined)
   "Activity": "活动"
-  "Alliance": "" # global (undefined)
+  "Alliance": "" # global (count: 4) (undefined)
   "Alliance rank": "联盟排名"
   "Hunter configs": "猎人设定"
-  "No activity": "无活动" # global (undefined)
+  "No activity": "无活动" # global (count: 2) (undefined)
   "No targets": "无目标"
   "Player": "玩家"
   "Player rank": "玩家排名"
-  "Save": "保存" # global (undefined)
-  "Scan frequency": "扫描频率" # global (undefined)
-  "Scan using": "使用此星/月扫描" # global (undefined)
-  "Vacation": "假期" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
+  "Scan frequency": "扫描频率" # global (count: 2) (undefined)
+  "Scan using": "使用此星/月扫描" # global (count: 2) (undefined)
+  "Vacation": "假期" # global (count: 3) (undefined)
   "View activities": "查看活动"
-  "minutes": "分" # global (undefined)
-  "next in": "下次于" # global (undefined)
+  "minutes": "分" # global (count: 3) (undefined)
+  "next in": "下次于" # global (count: 3) (undefined)
 bot.settings.index:
-#  "Activities": "" # global (defined)
+#  "Activities": "" # global (count: 3) (defined)
   "Auctioneer": ""
-#  "Brain": "" # global (defined)
-  "Colonizer": "" # global (undefined)
-#  "Defender": "" # global (defined)
+#  "Brain": "" # global (count: 2) (defined)
+  "Colonizer": "" # global (count: 2) (undefined)
+#  "Defender": "" # global (count: 7) (defined)
   "Discovery": ""
-#  "Expeditions": "" # global (defined)
-#  "Farmer": "" # global (defined)
-#  "Hunter": "" # global (defined)
-#  "Logs": "" # global (defined)
-  "Messages": "讯息" # global (undefined)
-  "Overview": "总览" # global (defined)
-  "Phalanx": "感应阵列" # global (undefined)
-  "Scanner": "扫描者" # global (defined)
-#  "Settings": "" # global (defined)
+#  "Expeditions": "" # global (count: 4) (defined)
+#  "Farmer": "" # global (count: 5) (defined)
+#  "Hunter": "" # global (count: 4) (defined)
+#  "Logs": "" # global (count: 1) (defined)
+  "Messages": "讯息" # global (count: 3) (undefined)
+  "Overview": "总览" # global (count: 1) (defined)
+  "Phalanx": "感应阵列" # global (count: 4) (undefined)
+  "Scanner": "扫描者" # global (count: 1) (defined)
+#  "Settings": "" # global (count: 7) (defined)
   "Sleep mode": "睡眠模式"
-#  "Start": "" # global (defined)
-#  "Stop": "" # global (defined)
+#  "Start": "" # global (count: 4) (defined)
+#  "Stop": "" # global (count: 5) (defined)
 bot.settings.logs:
-  "All": "全部" # global (undefined)
+  "All": "全部" # global (count: 5) (undefined)
   "Audit": "拍卖"
-#  "Brain": "" # global (defined)
-  "Category": "分类" # global (undefined)
-  "Colonizer": "" # global (undefined)
-  "Crawler": "爬虫(抓取资料)" # global (defined)
-  "Created at": "创建于" # global (undefined)
-#  "Defender": "" # global (defined)
+#  "Brain": "" # global (count: 2) (defined)
+  "Category": "分类" # global (count: 2) (undefined)
+  "Colonizer": "" # global (count: 2) (undefined)
+  "Crawler": "爬虫(抓取资料)" # global (count: 4) (defined)
+  "Created at": "创建于" # global (count: 6) (undefined)
+#  "Defender": "" # global (count: 7) (defined)
   "Download logs": "下载纪录"
-#  "Expeditions": "" # global (defined)
-#  "Farmer": "" # global (defined)
+#  "Expeditions": "" # global (count: 4) (defined)
+#  "Farmer": "" # global (count: 5) (defined)
   "Fleet save": ""
-  "General": "一般" # global (undefined)
-#  "Hunter": "" # global (defined)
+  "General": "一般" # global (count: 5) (undefined)
+#  "Hunter": "" # global (count: 4) (defined)
   "Level": "级别"
-  "Message": "讯息" # global (undefined)
-#  "Next": "" # global (defined)
+  "Message": "讯息" # global (count: 3) (undefined)
+#  "Next": "" # global (count: 9) (defined)
   "No logs to show": "无纪录可显示"
-  "Phalanx": "感应阵列" # global (undefined)
-#  "Prev": "" # global (defined)
-  "Repatriate": "集中资源" # global (undefined)
+  "Phalanx": "感应阵列" # global (count: 4) (undefined)
+#  "Prev": "" # global (count: 9) (defined)
+  "Repatriate": "集中资源" # global (count: 2) (undefined)
   "VM": "虚拟主机"
-  "scanner": "扫描者" # global (undefined)
+  "scanner": "扫描者" # global (count: 2) (undefined)
 bot.settings.messages:
-  "All": "全部" # global (undefined)
-  "Coordinate": "座标" # global (undefined)
-  "Espionage report": "间谍报告" # global (undefined)
-#  "Expedition": "" # global (defined)
-#  "Farmer": "" # global (defined)
+  "All": "全部" # global (count: 5) (undefined)
+  "Coordinate": "座标" # global (count: 2) (undefined)
+  "Espionage report": "间谍报告" # global (count: 4) (undefined)
+#  "Expedition": "" # global (count: 7) (defined)
+#  "Farmer": "" # global (count: 5) (defined)
   "Importer": "接受位置"
-  "InGame date": "游戏中日期" # global (undefined)
+  "InGame date": "游戏中日期" # global (count: 2) (undefined)
   "Loot": "掠夺资源"
   "Manual": "手动"
-  "Messages": "讯息" # global (undefined)
-#  "Next": "" # global (defined)
-  "No messages to show": "无讯息显示" # global (undefined)
-#  "Prev": "" # global (defined)
-  "Resources": "资源" # global (undefined)
+  "Messages": "讯息" # global (count: 3) (undefined)
+#  "Next": "" # global (count: 9) (defined)
+  "No messages to show": "无讯息显示" # global (count: 2) (undefined)
+#  "Prev": "" # global (count: 9) (defined)
+  "Resources": "资源" # global (count: 2) (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": "机器人自睡眠模式醒来"
   "Bot goes to sleep mode": "机器人进入睡眠模式"
-#  "Defender": "" # global (defined)
+#  "Defender": "" # global (count: 7) (defined)
   "Discord": ""
   "Discord webhook for notifications": ""
-#  "Email": "" # global (defined)
+#  "Email": "" # global (count: 11) (defined)
   "Email for notifications": "接收通知的电子信箱"
   "Evacuation fails": "撤离失败"
   "Expedition loss": "探险损失"
-#  "Expeditions": "" # global (defined)
+#  "Expeditions": "" # global (count: 4) (defined)
   "Failed to fleet save": "无法FS(保护舰队)"
   "Farm session completed": "耕作(刮I)工作完成"
   "Farm session started": "耕作(刮I)工作开始"
-#  "Farmer": "" # global (defined)
+#  "Farmer": "" # global (count: 5) (defined)
   "Forward ingame chat from alliance": "转發游戏内联盟讯息"
   "Forward ingame chat from players": "转發游戏内玩家讯息"
-  "General": "一般" # global (undefined)
+  "General": "一般" # global (count: 5) (undefined)
   "Global": "总体"
-  "Hotkeys": "热键" # global (undefined)
-#  "Hunter": "" # global (defined)
+  "Hotkeys": "热键" # global (count: 3) (undefined)
+#  "Hunter": "" # global (count: 4) (defined)
   "Login fails": "登入失败"
   "New attack detected": "侦测到新的攻击者"
   "New missiles attack detected": "侦测到新的导弹攻击"
-  "Notifications": "通知" # global (undefined)
+  "Notifications": "通知" # global (count: 4) (undefined)
   "Recall of fleets": ""
-  "Save": "保存" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
   "Slack": ""
   "Slack username for notifications": "接收通知用Slack使用者名"
-  "Sleep Mode": "睡眠模式" # global (undefined)
+  "Sleep Mode": "睡眠模式" # global (count: 2) (undefined)
   "Target become inactive": "目标变成不活跃"
   "Target dropped in military points": "目标损失军事分数"
   "Telegram": ""
@@ -1187,69 +1187,69 @@ bot.settings.notifications:
   "test notif": "测试通知"
   "test slack": "测试Slack"
 bot.settings.phalanx:
-#  "Are you sure?": "" # global (defined)
-  "Phalanx": "感应阵列" # global (undefined)
-  "Redo": "" # global (undefined)
-#  "Start": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Phalanx": "感应阵列" # global (count: 4) (undefined)
+  "Redo": "" # global (count: 2) (undefined)
+#  "Start": "" # global (count: 4) (defined)
 bot.settings.phalanxSession:
-  "Arrival time": "" # global (undefined)
-#  "Attack": "" # global (defined)
+  "Arrival time": "" # global (count: 2) (undefined)
+#  "Attack": "" # global (count: 4) (defined)
   "Click on a fleet to get timing details": ""
-#  "Colonize": "" # global (defined)
-#  "Destination": "" # global (defined)
-#  "Destroy": "" # global (defined)
-#  "Expedition": "" # global (defined)
-#  "Grouped Attack": "" # global (defined)
-#  "Harvest": "" # global (defined)
+#  "Colonize": "" # global (count: 4) (defined)
+#  "Destination": "" # global (count: 7) (defined)
+#  "Destroy": "" # global (count: 4) (defined)
+#  "Expedition": "" # global (count: 7) (defined)
+#  "Grouped Attack": "" # global (count: 4) (defined)
+#  "Harvest": "" # global (count: 4) (defined)
   "Is general?": ""
-#  "Missile Attack": "" # global (defined)
-#  "Mission": "" # global (defined)
-#  "Next": "" # global (defined)
-  "No fleets": "没有舰队活动" # global (undefined)
-#  "Origin": "" # global (defined)
-#  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (undefined)
-  "Phalanx": "感应阵列" # global (undefined)
+#  "Missile Attack": "" # global (count: 4) (defined)
+#  "Mission": "" # global (count: 5) (defined)
+#  "Next": "" # global (count: 9) (defined)
+  "No fleets": "没有舰队活动" # global (count: 4) (undefined)
+#  "Origin": "" # global (count: 6) (defined)
+#  "Park": "" # global (count: 4) (defined)
+  "Park In That Ally": "" # global (count: 4) (undefined)
+  "Phalanx": "感应阵列" # global (count: 4) (undefined)
   "Phalanx session": "感应阵列工作阶段"
-#  "Prev": "" # global (defined)
+#  "Prev": "" # global (count: 9) (defined)
   "Recall back at": ""
   "Recall time": ""
   "Scheduled arrive time": ""
   "Session aborted": "已放弃工作阶段"
-  "Ships": "" # global (undefined)
-#  "Speed": "" # global (defined)
-#  "Spy": "" # global (defined)
+  "Ships": "" # global (count: 4) (undefined)
+#  "Speed": "" # global (count: 2) (defined)
+#  "Spy": "" # global (count: 4) (defined)
   "Started at": ""
-#  "Stop": "" # global (defined)
+#  "Stop": "" # global (count: 5) (defined)
   "Target information": ""
-#  "Transport": "" # global (defined)
-  "Union ID": "" # global (undefined)
+#  "Transport": "" # global (count: 4) (defined)
+  "Union ID": "" # global (count: 2) (undefined)
 bot.settings.scanner:
-  "--- Currently active planet/moon ---": "--- 当前有活动的行星/月球 ---" # global (undefined)
+  "--- Currently active planet/moon ---": "--- 当前有活动的行星/月球 ---" # global (count: 2) (undefined)
   "Interval between system scan": "系统重整(银河系)时间间隔"
-  "Save": "保存" # global (undefined)
-  "Scan frequency": "扫描频率" # global (undefined)
-  "Scan using": "使用此星/月扫描" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
+  "Scan frequency": "扫描频率" # global (count: 2) (undefined)
+  "Scan using": "使用此星/月扫描" # global (count: 2) (undefined)
   "Scans the whole universe every set amount of hours.": "固定于指定的时间间隔扫描整个宇宙"
   "hours": "小时"
   "milliseconds": "微秒(0.001秒)"
   "minimum": "最小"
-  "next in": "下次于" # global (undefined)
+  "next in": "下次于" # global (count: 3) (undefined)
   "scanner active": "启动扫描者"
   "scanner configs": "扫描者设定"
 bot.settings.settings:
   "--- Default ---": "--- 预设 ---"
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "<strong>警告:</strong>此为更改机器人登入用的帐密，并非改变OGame帐密本身"
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Auto enable manual mode when using browser": "使用浏览器时自动切换成手动模式"
   "Backup this bot": ""
   "Bot timezone": "机器人时区"
   "Browser augments": "浏览器相关(增强)"
-  "Captcha": "" # global (undefined)
+  "Captcha": "" # global (count: 2) (undefined)
   "Change ogame credentials": "更动OGame帐号密码"
   "Change proxy": "更改代理伺服器"
   "Commander UI": "指挥官使用者介面"
-  "Coordinates": "座标" # global (undefined)
+  "Coordinates": "座标" # global (count: 2) (undefined)
   "Default": "预设"
   "Delete bot": "删除机器人"
   "Delete expedition messages once imported": "删除已汇入的探险讯息"
@@ -1266,36 +1266,36 @@ bot.settings.settings:
   "Enter your password": "输入您的密码"
   "Espionage probe": "间谍卫星"
   "Gameforge bearer token": ""
-  "General": "一般" # global (undefined)
+  "General": "一般" # global (count: 5) (undefined)
   "General options": "一般选项"
-  "Homeworld": "母星" # global (undefined)
+  "Homeworld": "母星" # global (count: 5) (undefined)
   "Host machine Timezone": "主机所在时区"
-  "Hotkeys": "热键" # global (undefined)
+  "Hotkeys": "热键" # global (count: 3) (undefined)
   "Large cargo": "大型运输舰"
   "Max brain slots": "最多允许大脑(建设)使用的航线"
-  "Max colonizer slots": "" # global (undefined)
-  "Max discovery slots": "" # global (undefined)
+  "Max colonizer slots": "" # global (count: 2) (undefined)
+  "Max discovery slots": "" # global (count: 2) (undefined)
   "Max expeditions slots": "最多允许探险使用的航线"
   "Max farmer slots": "最多允许耕作者(刮I)使用的航线"
   "Max repatriate slots": "最多允许集资使用的航线"
   "Max script slots": "最多允许脚本使用的航线"
-  "Name": "名称" # global (undefined)
-  "Notifications": "通知" # global (undefined)
+  "Name": "名称" # global (count: 3) (undefined)
+  "Notifications": "通知" # global (count: 4) (undefined)
   "OGT (OGame Timezone)": "OGT (OGame 时区)"
-  "OTP secret": "" # global (undefined)
+  "OTP secret": "" # global (count: 3) (undefined)
   "Ogame password": ""
   "Ogame universe": ""
   "Ogame username": ""
-#  "Pathfinder": "" # global (defined)
-  "Player ID": "" # global (undefined)
+#  "Pathfinder": "" # global (count: 5) (defined)
+  "Player ID": "" # global (count: 2) (undefined)
   "Preferred transport ships": "偏好的运输船舰"
-  "Proxy password": "代理伺服器密码" # global (undefined)
-  "Proxy username": "代理伺服器帐号/使用者" # global (undefined)
+  "Proxy password": "代理伺服器密码" # global (count: 3) (undefined)
+  "Proxy username": "代理伺服器帐号/使用者" # global (count: 3) (undefined)
   "Remove ads": "移除广告"
   "Remove banner": "移除横幅"
   "Round up resources": "资源凑整数"
   "Round up ships": "舰船凑整数"
-  "Save": "保存" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
   "Save proxy": "保存代理伺服器"
   "Share account": "共享帐号"
   "Share with": "共享对象"
@@ -1304,7 +1304,7 @@ bot.settings.settings:
   "Small cargo": "小型运输舰"
   "Solve captcha": ""
   "Sort planets in dropdowns by": "星球排序方法(下拉式选单)"
-  "Theme": "主题" # global (undefined)
+  "Theme": "主题" # global (count: 2) (undefined)
   "UTC+00:00": "协调世界时(UTC)+00:00"
   "UTC+01:00": "协调世界时(UTC)+01:00"
   "UTC+02:00": "协调世界时(UTC)+02:00"
@@ -1343,23 +1343,23 @@ bot.settings.settings:
   "UTC-11:00": "协调世界时(UTC)-11:00"
   "UTC-12:00": "协调世界时(UTC)-12:00"
   "User-Agent": "使用者代理(浏览器)"
-  "Username": "使用者名称" # global (defined)
+  "Username": "使用者名称" # global (count: 10) (defined)
   "Validate": ""
   "Validate account": ""
-  "proxy login requests only": "只用于登入代理伺服器" # global (undefined)
+  "proxy login requests only": "只用于登入代理伺服器" # global (count: 2) (undefined)
 bot.settings.sleepMode:
   "--- Select a destination ---": "--- 选择目的地 ---"
-  "Active": "启用" # global (undefined)
-#  "Are you sure?": "" # global (defined)
+  "Active": "启用" # global (count: 6) (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Awake bot now": "唤醒机器人"
-#  "Destination": "" # global (defined)
+#  "Destination": "" # global (count: 7) (defined)
   "Every day": "每天"
-#  "Expedition": "" # global (defined)
+#  "Expedition": "" # global (count: 7) (defined)
   "Friday": "週五"
   "Manual fleet save": "手动FS(保护舰队)"
   "Monday": "週一"
   "Own debris field": "自己的废墟"
-  "Planet": "行星" # global (undefined)
+  "Planet": "行星" # global (count: 6) (undefined)
   "Put bot to sleep now": "让机器人去睡觉"
   "Random colonize": ""
   "Random debris field": "随机废墟"
@@ -1367,8 +1367,8 @@ bot.settings.sleepMode:
   "Random delay before waking up (minutes)": ""
   "Recall saved fleet half way through the night": ""
   "Saturday": "週六"
-  "Save": "保存" # global (undefined)
-  "Sleep Mode": "睡眠模式" # global (undefined)
+  "Save": "保存" # global (count: 17) (undefined)
+  "Sleep Mode": "睡眠模式" # global (count: 2) (undefined)
   "Spy deep space (position 16)": ""
   "Sunday": "週日/天"
   "Thursday": "週四"
@@ -1381,120 +1381,120 @@ bot.settings.sleepMode:
   "must save changes first": ""
 bot.simulator:
   "ACS planner": "策划ACS"
-  "API": "" # global (undefined)
+  "API": "" # global (count: 3) (undefined)
   "Anti Ballistic Missiles": "反弹道导弹"
   "Armour": "装甲"
-  "Attacker": "攻击者" # global (undefined)
+  "Attacker": "攻击者" # global (count: 2) (undefined)
   "Attacker win": "攻击者获胜"
-#  "Battlecruiser": "" # global (defined)
-#  "Battleship": "" # global (defined)
-#  "Bomber": "" # global (defined)
+#  "Battlecruiser": "" # global (count: 5) (defined)
+#  "Battleship": "" # global (count: 5) (defined)
+#  "Bomber": "" # global (count: 5) (defined)
   "Captured": "收穫量"
   "Cargo's needed": "所需舱储空间"
   "Clear player data": "清除玩家资料"
-#  "Colony Ship": "" # global (defined)
+#  "Colony Ship": "" # global (count: 5) (defined)
   "Combustion": "燃烧"
   "Configs": "设定"
-  "Coordinates": "座标" # global (undefined)
-#  "Crawler": "" # global (defined)
-#  "Cruiser": "" # global (defined)
-#  "Crystal": "" # global (defined)
-#  "Deathstar": "" # global (defined)
-  "Debris": "废墟" # global (undefined)
+  "Coordinates": "座标" # global (count: 2) (undefined)
+#  "Crawler": "" # global (count: 4) (defined)
+#  "Cruiser": "" # global (count: 5) (defined)
+#  "Crystal": "" # global (count: 7) (defined)
+#  "Deathstar": "" # global (count: 5) (defined)
+  "Debris": "废墟" # global (count: 2) (undefined)
   "Defence": "防御"
   "Defence repair factor": "防御修復係数"
   "Defence to debris": "防御生成废墟量"
-#  "Defender": "" # global (defined)
+#  "Defender": "" # global (count: 7) (defined)
   "Defender win": "防御者获胜"
-#  "Destroyer": "" # global (defined)
-#  "Deuterium": "" # global (defined)
+#  "Destroyer": "" # global (count: 5) (defined)
+#  "Deuterium": "" # global (count: 7) (defined)
   "Deuterium save factor": "重氢节省係数"
   "Draw": "平手"
-#  "Espionage Probe": "" # global (defined)
+#  "Espionage Probe": "" # global (count: 5) (defined)
   "Fleet speed": "舰队速度"
   "Fleet to debris": "舰船生成废墟量"
   "Flight time": "飞行时间"
-  "Fuel consumption": "燃料消耗量" # global (defined)
-#  "Gauss Cannon": "" # global (defined)
-#  "Heavy Fighter": "" # global (defined)
-#  "Heavy Laser": "" # global (defined)
+  "Fuel consumption": "燃料消耗量" # global (count: 2) (defined)
+#  "Gauss Cannon": "" # global (count: 3) (defined)
+#  "Heavy Fighter": "" # global (count: 5) (defined)
+#  "Heavy Laser": "" # global (count: 3) (defined)
   "Hyperspace": "超推"
   "Hyperspace tech": "超空间科技"
   "Impulse": "脉冲"
-#  "Interplanetary Missiles": "" # global (defined)
-#  "Ion Cannon": "" # global (defined)
-#  "Large Cargo": "" # global (defined)
-#  "Large Shield Dome": "" # global (defined)
-#  "Light Fighter": "" # global (defined)
-#  "Light Laser": "" # global (defined)
+#  "Interplanetary Missiles": "" # global (count: 3) (defined)
+#  "Ion Cannon": "" # global (count: 3) (defined)
+#  "Large Cargo": "" # global (count: 5) (defined)
+#  "Large Shield Dome": "" # global (count: 3) (defined)
+#  "Light Fighter": "" # global (count: 5) (defined)
+#  "Light Laser": "" # global (count: 3) (defined)
   "Losses": "损失"
-#  "Metal": "" # global (defined)
+#  "Metal": "" # global (count: 7) (defined)
   "Moonchance": "造月机率"
   "Open in TrashSim": "于TrashSim中打开"
-#  "Pathfinder": "" # global (defined)
-  "Pathfinders": "探路者" # global (defined)
-  "Planet": "行星" # global (undefined)
+#  "Pathfinder": "" # global (count: 5) (defined)
+  "Pathfinders": "探路者" # global (count: 1) (defined)
+  "Planet": "行星" # global (count: 6) (undefined)
   "Planet/Moon": "行星/月球"
-#  "Plasma Turret": "" # global (defined)
+#  "Plasma Turret": "" # global (count: 3) (defined)
   "Plunder": "掠夺"
   "Possible": "可能量"
   "Profit": "收益"
-  "Reaper": "恶魔飞船" # global (undefined)
-#  "Recycler": "" # global (defined)
+  "Reaper": "恶魔飞船" # global (count: 4) (undefined)
+#  "Recycler": "" # global (count: 5) (defined)
   "Result": "结果"
-#  "Rocket Launcher": "" # global (defined)
+#  "Rocket Launcher": "" # global (count: 3) (defined)
   "Rounds": "回合数"
-  "Select origin": "选择出發地" # global (undefined)
+  "Select origin": "选择出發地" # global (count: 4) (undefined)
   "Send attack": "發出攻击"
-  "Send recyclers": "派出回收船" # global (undefined)
+  "Send recyclers": "派出回收船" # global (count: 2) (undefined)
   "Shield": "防御盾"
   "Simulate": "模碍"
   "Simulations": "模碍次数"
-#  "Small Cargo": "" # global (defined)
-#  "Small Shield Dome": "" # global (defined)
-#  "Solar Satellite": "" # global (defined)
+#  "Small Cargo": "" # global (count: 5) (defined)
+#  "Small Shield Dome": "" # global (count: 3) (defined)
+#  "Solar Satellite": "" # global (count: 3) (defined)
   "Tactical retreat": "战术性撤退"
   "Weapon": "武器"
 bot-card:
-#  "Email": "" # global (defined)
-  "Lang": "语言" # global (undefined)
-#  "Points": "" # global (defined)
-  "Proxy": "" # global (undefined)
-#  "Rank": "" # global (defined)
-#  "Start": "" # global (defined)
-#  "Stop": "" # global (defined)
-  "Universe": "宇宙" # global (undefined)
+#  "Email": "" # global (count: 11) (defined)
+  "Lang": "语言" # global (count: 3) (undefined)
+#  "Points": "" # global (count: 4) (defined)
+  "Proxy": "" # global (count: 3) (undefined)
+#  "Rank": "" # global (count: 6) (defined)
+#  "Start": "" # global (count: 4) (defined)
+#  "Stop": "" # global (count: 5) (defined)
+  "Universe": "宇宙" # global (count: 4) (undefined)
 captchas-icon:
-  "Captchas": "" # global (undefined)
+  "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
 captchas-icons:
   "Icons": ""
-#  "Next": "" # global (defined)
-#  "Prev": "" # global (defined)
+#  "Next": "" # global (count: 9) (defined)
+#  "Prev": "" # global (count: 9) (defined)
 captchas-service:
   "Service": ""
 captchas:
-#  "Next": "" # global (defined)
-#  "Prev": "" # global (defined)
+#  "Next": "" # global (count: 9) (defined)
+#  "Prev": "" # global (count: 9) (defined)
   "Questions": ""
 changelog:
-  "meta-description": "描述标籤" # global (undefined)
-  "title": "标题" # global (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 compiled-scripts:
   "Compile & download": ""
   "Delete project": ""
   "Files saved": ""
   "New project": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-#  "Actions": "" # global (defined)
+#  "Actions": "" # global (count: 12) (defined)
   "Delete all keys": ""
   "Key": ""
   "Key/value storage": ""
   "No data to display": ""
-  "Search": "" # global (undefined)
+  "Search": "" # global (count: 3) (undefined)
   "Stats": ""
   "Value": ""
 debug.i18n:
@@ -1508,268 +1508,268 @@ debug.index:
   "i18n": ""
 download-antigame:
   "AntiGame for Ninja": ""
-  "Antigame": "" # global (undefined)
-  "Arch": "" # global (undefined)
-  "File name": "档案名称" # global (undefined)
-  "Instructions how to install and run": "如何安装与执行" # global (undefined)
-  "Licenses": "" # global (undefined)
-  "No files to display": "无档案显示" # global (undefined)
-  "OS": "作业系统" # global (undefined)
-  "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
-  "meta-description": "" # global (undefined)
-  "ogame Ninja": "" # global (undefined)
-  "title": "" # global (undefined)
+  "Antigame": "" # global (count: 3) (undefined)
+  "Arch": "" # global (count: 4) (undefined)
+  "File name": "档案名称" # global (count: 4) (undefined)
+  "Instructions how to install and run": "如何安装与执行" # global (count: 2) (undefined)
+  "Licenses": "" # global (count: 3) (undefined)
+  "No files to display": "无档案显示" # global (count: 4) (undefined)
+  "OS": "作业系统" # global (count: 4) (undefined)
+  "SHA256 Checksum": "" # global (count: 4) (undefined)
+  "Size": "" # global (count: 4) (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
+  "ogame Ninja": "" # global (count: 3) (undefined)
+  "title": "" # global (count: 13) (undefined)
 download-licenses:
-#  "Actions": "" # global (defined)
-  "Active": "使用/活跃中" # global (undefined)
-  "Antigame": "" # global (undefined)
-#  "Download": "" # global (defined)
-  "Expired": "已失效" # global (undefined)
+#  "Actions": "" # global (count: 12) (defined)
+  "Active": "使用/活跃中" # global (count: 6) (undefined)
+  "Antigame": "" # global (count: 3) (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "Expired": "已失效" # global (count: 3) (undefined)
   "Expired at": "失效于"
   "Full license": "完整凭证"
   "Is cloud": "云端伺服"
-  "Licenses": "" # global (undefined)
-  "My licenses": "我的凭证" # global (undefined)
-  "New license": "新凭证" # global (undefined)
+  "Licenses": "" # global (count: 3) (undefined)
+  "My licenses": "我的凭证" # global (count: 2) (undefined)
+  "New license": "新凭证" # global (count: 6) (undefined)
   "No license to display": "无凭证可显示"
-  "Renew license": "更新凭证" # global (undefined)
-  "UUID": "" # global (undefined)
+  "Renew license": "更新凭证" # global (count: 4) (undefined)
+  "UUID": "" # global (count: 3) (undefined)
   "You must be authenticated": ""
-  "meta-description": "" # global (undefined)
-  "ogame Ninja": "" # global (undefined)
-  "title": "" # global (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
+  "ogame Ninja": "" # global (count: 3) (undefined)
+  "title": "" # global (count: 13) (undefined)
 download:
-  "Antigame": "" # global (undefined)
-  "Arch": "架构" # global (undefined)
+  "Antigame": "" # global (count: 3) (undefined)
+  "Arch": "架构" # global (count: 4) (undefined)
   "Changelog": "改动/更新纪录"
-  "Downloads": "下载" # global (undefined)
-  "File name": "档案名称" # global (undefined)
-  "Instructions how to install and run": "如何安装与执行" # global (undefined)
-  "Licenses": "" # global (undefined)
-  "No files to display": "无档案显示" # global (undefined)
-  "OS": "作业系统" # global (undefined)
-  "SHA256 Checksum": "SHA256 核对和" # global (undefined)
-  "Size": "大小" # global (undefined)
-  "meta-description": "描述标籤" # global (undefined)
-  "ogame Ninja": "" # global (undefined)
-  "title": "标题" # global (undefined)
+  "Downloads": "下载" # global (count: 3) (undefined)
+  "File name": "档案名称" # global (count: 4) (undefined)
+  "Instructions how to install and run": "如何安装与执行" # global (count: 2) (undefined)
+  "Licenses": "" # global (count: 3) (undefined)
+  "No files to display": "无档案显示" # global (count: 4) (undefined)
+  "OS": "作业系统" # global (count: 4) (undefined)
+  "SHA256 Checksum": "SHA256 核对和" # global (count: 4) (undefined)
+  "Size": "大小" # global (count: 4) (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
+  "ogame Ninja": "" # global (count: 3) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 features:
-#  "Activities": "" # global (defined)
+#  "Activities": "" # global (count: 3) (defined)
   "Augmented browsing experience": "浏览器增强体验"
-  "Combat simulator": "战斗模碍器" # global (undefined)
-#  "Defender": "" # global (defined)
-  "Empire view": "帝国总览" # global (undefined)
-#  "Farmer": "" # global (defined)
-  "Universe map": "宇宙星图" # global (undefined)
+  "Combat simulator": "战斗模碍器" # global (count: 2) (undefined)
+#  "Defender": "" # global (count: 7) (defined)
+  "Empire view": "帝国总览" # global (count: 2) (undefined)
+#  "Farmer": "" # global (count: 5) (defined)
+  "Universe map": "宇宙星图" # global (count: 2) (undefined)
   "activities-desc": ""
   "augments-desc": ""
-  "defender-desc": "" # global (undefined)
-  "empire-desc": "" # global (undefined)
+  "defender-desc": "" # global (count: 2) (undefined)
+  "empire-desc": "" # global (count: 2) (undefined)
   "farmer-desc": ""
-  "map-desc": "" # global (undefined)
-  "meta-description": "描述标籤" # global (undefined)
-  "simulator-desc": "" # global (undefined)
-  "title": "标题" # global (undefined)
+  "map-desc": "" # global (count: 2) (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
+  "simulator-desc": "" # global (count: 2) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 fingerprints:
   "Delete fingerprint": ""
   "Fingerprints": ""
-  "New fingerprint": "" # global (undefined)
+  "New fingerprint": "" # global (count: 2) (undefined)
 first-use:
   "Admin account": "管理员帐号"
   "Confirm password": "确认密码"
   "Create admin account": "创建管理员帐号"
-#  "Email": "" # global (defined)
-#  "Password": "" # global (defined)
-  "Username": "使用者名称" # global (defined)
+#  "Email": "" # global (count: 11) (defined)
+#  "Password": "" # global (count: 8) (defined)
+  "Username": "使用者名称" # global (count: 10) (defined)
 forgot-password-reset:
-#  "Password": "" # global (defined)
+#  "Password": "" # global (count: 8) (defined)
   "Reset password": "重设密码"
-  "Retype password": "再次输入密码" # global (undefined)
-  "Username": "使用者名称" # global (defined)
+  "Retype password": "再次输入密码" # global (count: 3) (undefined)
+  "Username": "使用者名称" # global (count: 10) (defined)
 forgot-password:
   "Email Address": "电子信箱地址"
   "Enter your email address to retrieve your password": "输入您的电子信箱地址以取回密码"
   "Password recovery": "找回密码"
   "Retrieve Password": "取回密码"
-  "meta-description": "描述标籤" # global (undefined)
-  "title": "标题" # global (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 get-trial-key:
   "Get free trial key": "取得免费试用凭证"
   "Get trial key": "取得试用金钥"
-  "Home": "主页" # global (defined)
+  "Home": "主页" # global (count: 8) (defined)
 home-slave:
-#  "Bots": "" # global (defined)
-  "Compiled scripts": "" # global (undefined)
-  "Create script on all bots": "于所有机器人上生成脚本" # global (undefined)
-  "Download all scripts": "" # global (undefined)
-#  "Email": "" # global (defined)
-  "Export bots": "" # global (undefined)
-  "ID": "" # global (undefined)
-  "Import bots": "" # global (undefined)
-  "Lang": "" # global (undefined)
-  "New bot": "新机器人" # global (undefined)
-  "Other actions": "其他动作" # global (undefined)
-  "Player name": "" # global (undefined)
-#  "Points": "" # global (defined)
-  "Proxy": "" # global (undefined)
-#  "Rank": "" # global (defined)
-  "Reorder bots": "重新排序机器人" # global (undefined)
-#  "Start": "" # global (defined)
-#  "Stop": "" # global (defined)
-  "Universe": "" # global (undefined)
+#  "Bots": "" # global (count: 5) (defined)
+  "Compiled scripts": "" # global (count: 2) (undefined)
+  "Create script on all bots": "于所有机器人上生成脚本" # global (count: 3) (undefined)
+  "Download all scripts": "" # global (count: 2) (undefined)
+#  "Email": "" # global (count: 11) (defined)
+  "Export bots": "" # global (count: 2) (undefined)
+  "ID": "" # global (count: 2) (undefined)
+  "Import bots": "" # global (count: 2) (undefined)
+  "Lang": "" # global (count: 3) (undefined)
+  "New bot": "新机器人" # global (count: 4) (undefined)
+  "Other actions": "其他动作" # global (count: 2) (undefined)
+  "Player name": "" # global (count: 4) (undefined)
+#  "Points": "" # global (count: 4) (defined)
+  "Proxy": "" # global (count: 3) (undefined)
+#  "Rank": "" # global (count: 6) (defined)
+  "Reorder bots": "重新排序机器人" # global (count: 3) (undefined)
+#  "Start": "" # global (count: 4) (defined)
+#  "Stop": "" # global (count: 5) (defined)
+  "Universe": "" # global (count: 4) (undefined)
 home:
-#  "Actions": "" # global (defined)
-#  "Are you sure?": "" # global (defined)
-#  "Bots": "" # global (defined)
-  "Compiled scripts": "" # global (undefined)
-  "Create script on all bots": "" # global (undefined)
+#  "Actions": "" # global (count: 12) (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+#  "Bots": "" # global (count: 5) (defined)
+  "Compiled scripts": "" # global (count: 2) (undefined)
+  "Create script on all bots": "" # global (count: 3) (undefined)
   "Domain": "域名"
-  "Download all scripts": "" # global (undefined)
-#  "Email": "" # global (defined)
+  "Download all scripts": "" # global (count: 2) (undefined)
+#  "Email": "" # global (count: 11) (defined)
   "Expires": "失效于"
-  "Export bots": "" # global (undefined)
+  "Export bots": "" # global (count: 2) (undefined)
   "Http proxy url:": ""
-  "ID": "" # global (undefined)
-  "Import bots": "" # global (undefined)
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我们的Slack服务器! 如果您从未使用过Slack：它免费、安全、且在电脑、行动装置皆可使用" # global (undefined)
-  "Join the server now": "现在加入服务器" # global (undefined)
+  "ID": "" # global (count: 2) (undefined)
+  "Import bots": "" # global (count: 2) (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我们的Slack服务器! 如果您从未使用过Slack：它免费、安全、且在电脑、行动装置皆可使用" # global (count: 2) (undefined)
+  "Join the server now": "现在加入服务器" # global (count: 2) (undefined)
   "My proxies": ""
   "My servers": "我的伺服器"
-  "New bot": "" # global (undefined)
-  "New password": "新密码" # global (undefined)
+  "New bot": "" # global (count: 4) (undefined)
+  "New password": "新密码" # global (count: 3) (undefined)
   "New proxy": ""
-  "New server": "新伺服器" # global (undefined)
-  "New username": "新使用者名称" # global (undefined)
+  "New server": "新伺服器" # global (count: 4) (undefined)
+  "New username": "新使用者名称" # global (count: 3) (undefined)
   "No proxy to display": ""
   "No servers to display": "没有可显示的伺服器"
-  "Other actions": "" # global (undefined)
-#  "Password": "" # global (defined)
-  "Player name": "" # global (undefined)
-#  "Points": "" # global (defined)
-#  "Rank": "" # global (defined)
-  "Region": "地区" # global (undefined)
-  "Reorder bots": "" # global (undefined)
-  "Universe": "" # global (undefined)
-#  "Username": "" # global (defined)
-  "Version": "版本" # global (undefined)
-  "You're invited to join our Slack server": "邀请您加入我们的Slack服务器" # global (undefined)
+  "Other actions": "" # global (count: 2) (undefined)
+#  "Password": "" # global (count: 8) (defined)
+  "Player name": "" # global (count: 4) (undefined)
+#  "Points": "" # global (count: 4) (defined)
+#  "Rank": "" # global (count: 6) (defined)
+  "Region": "地区" # global (count: 2) (undefined)
+  "Reorder bots": "" # global (count: 3) (undefined)
+  "Universe": "" # global (count: 4) (undefined)
+#  "Username": "" # global (count: 10) (defined)
+  "Version": "版本" # global (count: 2) (undefined)
+  "You're invited to join our Slack server": "邀请您加入我们的Slack服务器" # global (count: 2) (undefined)
 import:
   "Import bot": ""
-  "Upload": "" # global (undefined)
+  "Upload": "" # global (count: 3) (undefined)
 index:
-#  "Account": "" # global (defined)
-#  "Admin": "" # global (defined)
-  "Captchas": "" # global (undefined)
+#  "Account": "" # global (count: 2) (defined)
+#  "Admin": "" # global (count: 2) (defined)
+  "Captchas": "" # global (count: 2) (undefined)
   "Check again": ""
-#  "Download": "" # global (defined)
-  "FAQ": "常见问题" # global (defined)
-#  "Features": "" # global (defined)
-#  "Home": "" # global (defined)
-  "Login": "登入" # global (defined)
-  "My licenses": "" # global (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "FAQ": "常见问题" # global (count: 1) (defined)
+#  "Features": "" # global (count: 1) (defined)
+#  "Home": "" # global (count: 8) (defined)
+  "Login": "登入" # global (count: 1) (defined)
+  "My licenses": "" # global (count: 2) (undefined)
   "Please": ""
-#  "Pricing": "" # global (defined)
+#  "Pricing": "" # global (count: 3) (defined)
   "Proposals": "提案"
-#  "Register": "" # global (defined)
-#  "Servers": "" # global (defined)
-#  "Sign out": "" # global (defined)
+#  "Register": "" # global (count: 1) (defined)
+#  "Servers": "" # global (count: 1) (defined)
+#  "Sign out": "" # global (count: 1) (defined)
   "Support": "问题协助"
   "System clock is not synchronized": ""
   "Ticket support": "问题处理系统"
   "Translations": "翻译"
-  "Your Ninja software needs to be updated.": "您的忍者需要更新" # global (defined)
-  "download the latest version here": "于此处下载最新版本" # global (defined)
-#  "update your instance here": "" # global (defined)
+  "Your Ninja software needs to be updated.": "您的忍者需要更新" # global (count: 1) (defined)
+  "download the latest version here": "于此处下载最新版本" # global (count: 1) (defined)
+#  "update your instance here": "" # global (count: 1) (defined)
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": "正在初始化机器人，请稍等您将会被自动重新导向..."
 instance-actions:
-  "New password": "新密码" # global (undefined)
-  "New username": "新使用者" # global (undefined)
+  "New password": "新密码" # global (count: 3) (undefined)
+  "New username": "新使用者" # global (count: 3) (undefined)
 invoice:
-#  "Bots": "" # global (defined)
-  "Credit or debit card": "信用卡或借记卡" # global (undefined)
-  "New license": "新凭证" # global (undefined)
-  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (undefined)
-  "Pay with paypal": "使用Paypal付款" # global (undefined)
-  "Submit payment": "提交付款" # global (undefined)
+#  "Bots": "" # global (count: 5) (defined)
+  "Credit or debit card": "信用卡或借记卡" # global (count: 7) (undefined)
+  "New license": "新凭证" # global (count: 6) (undefined)
+  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (count: 7) (undefined)
+  "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Submit payment": "提交付款" # global (count: 2) (undefined)
   "Upgrade license": "升级凭证"
-  "Valid until": "有效直到" # global (undefined)
-  "we are using": "我们使用" # global (undefined)
+  "Valid until": "有效直到" # global (count: 2) (undefined)
+  "we are using": "我们使用" # global (count: 7) (undefined)
 landing:
-  "Combat simulator": "战斗模碍器" # global (undefined)
+  "Combat simulator": "战斗模碍器" # global (count: 2) (undefined)
   "Construction queue": "建造排程"
-#  "Defender": "" # global (defined)
-  "Empire view": "帝国总览" # global (undefined)
+#  "Defender": "" # global (count: 7) (defined)
+  "Empire view": "帝国总览" # global (count: 2) (undefined)
   "Farming": "耕作(刮I)"
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我们的Slack服务器! 如果您从未使用过Slack：它免费、安全、且在电脑、行动装置皆可使用" # global (undefined)
-  "Join the server now": "现在加入服务器" # global (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我们的Slack服务器! 如果您从未使用过Slack：它免费、安全、且在电脑、行动装置皆可使用" # global (count: 2) (undefined)
+  "Join the server now": "现在加入服务器" # global (count: 2) (undefined)
   "Learn more": "了解更多"
   "OGame Ninja": "OGame 忍者 (Ninja)"
   "The most advanced OGame toolkit ever created": "史上最先进的OGame工具"
-  "Universe map": "宇宙星图" # global (undefined)
+  "Universe map": "宇宙星图" # global (count: 2) (undefined)
   "View details": "查看细节"
-  "You're invited to join our Slack server": "邀请您加入我们的Slack服务器" # global (undefined)
-  "defender-desc": "" # global (undefined)
-  "empire-desc": "" # global (undefined)
+  "You're invited to join our Slack server": "邀请您加入我们的Slack服务器" # global (count: 2) (undefined)
+  "defender-desc": "" # global (count: 2) (undefined)
+  "empire-desc": "" # global (count: 2) (undefined)
   "farming-desc": ""
-  "map-desc": "" # global (undefined)
-  "meta-description": "" # global (undefined)
+  "map-desc": "" # global (count: 2) (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
   "queue-desc": ""
-  "simulator-desc": "" # global (undefined)
-  "title": "标题" # global (undefined)
+  "simulator-desc": "" # global (count: 2) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 license-view:
-  "Bots allowed": "可使用的机器人数量" # global (undefined)
-  "Created": "创建于" # global (undefined)
-#  "Download": "" # global (defined)
-#  "Email": "" # global (defined)
-  "Expired": "失效于" # global (undefined)
-#  "License": "" # global (defined)
-  "Owner": "所有者" # global (undefined)
-  "UUID": "" # global (undefined)
+  "Bots allowed": "可使用的机器人数量" # global (count: 2) (undefined)
+  "Created": "创建于" # global (count: 2) (undefined)
+#  "Download": "" # global (count: 12) (defined)
+#  "Email": "" # global (count: 11) (defined)
+  "Expired": "失效于" # global (count: 3) (undefined)
+#  "License": "" # global (count: 3) (defined)
+  "Owner": "所有者" # global (count: 2) (undefined)
+  "UUID": "" # global (count: 3) (undefined)
 license:
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "Click \"Renew license\" button": ""
   "License expired": "凭证已失效"
-  "Renew license": "更新凭证" # global (undefined)
+  "Renew license": "更新凭证" # global (count: 4) (undefined)
   "Stop all bots": "停止所有机器人"
-  "Upload": "上传" # global (undefined)
+  "Upload": "上传" # global (count: 3) (undefined)
   "Upload license file": "上传凭证"
 login:
-  "I forgot my password": "忘记密码" # global (undefined)
-#  "Password": "" # global (defined)
-  "Sign in": "登入" # global (undefined)
+  "I forgot my password": "忘记密码" # global (count: 2) (undefined)
+#  "Password": "" # global (count: 8) (defined)
+  "Sign in": "登入" # global (count: 2) (undefined)
   "Sign in to continue": "登入以继续"
-  "Username": "使用者名称" # global (defined)
-  "meta-description": "描述标籤" # global (undefined)
-  "title": "标题" # global (undefined)
+  "Username": "使用者名称" # global (count: 10) (defined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 login2:
-  "I forgot my password": "忘记密码" # global (undefined)
-#  "Password": "" # global (defined)
-  "Sign in": "登入" # global (undefined)
-  "Username": "使用者名称" # global (defined)
+  "I forgot my password": "忘记密码" # global (count: 2) (undefined)
+#  "Password": "" # global (count: 8) (defined)
+  "Sign in": "登入" # global (count: 2) (undefined)
+  "Username": "使用者名称" # global (count: 10) (defined)
 must-contact:
   "Please contact admins": "请联击管理员"
   "Please contact ogame.ninja admins": "请联击ogame.ninja忍者的管理员"
 must-update:
   "Please update": "请更新"
   "Software is too old": "软体过于老旧"
-  "Update to latest": "" # global (undefined)
+  "Update to latest": "" # global (count: 2) (undefined)
   "You must update your software.": "您必须得更新软体"
 new-bot:
   "Add account to lobby ?": ""
-  "Create": "创建" # global (undefined)
+  "Create": "创建" # global (count: 3) (undefined)
   "Create lobby ?": ""
-  "Gameforge email": "Gameforge的电子信箱" # global (undefined)
-  "Gameforge password": "Gameforge的密码" # global (undefined)
-  "New bot": "新机器人" # global (undefined)
-  "OTP secret": "" # global (undefined)
-  "Player ID": "玩家ID" # global (undefined)
-  "Proxy password": "代理伺服器密码" # global (undefined)
-  "Proxy username": "代理伺服器帐号" # global (undefined)
-  "Redeem code": "兑换代码" # global (undefined)
-  "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (若您无把握请留空白)" # global (undefined)
-  "proxy login requests only": "" # global (undefined)
+  "Gameforge email": "Gameforge的电子信箱" # global (count: 2) (undefined)
+  "Gameforge password": "Gameforge的密码" # global (count: 2) (undefined)
+  "New bot": "新机器人" # global (count: 4) (undefined)
+  "OTP secret": "" # global (count: 3) (undefined)
+  "Player ID": "玩家ID" # global (count: 2) (undefined)
+  "Proxy password": "代理伺服器密码" # global (count: 3) (undefined)
+  "Proxy username": "代理伺服器帐号" # global (count: 3) (undefined)
+  "Redeem code": "兑换代码" # global (count: 2) (undefined)
+  "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (若您无把握请留空白)" # global (count: 2) (undefined)
+  "proxy login requests only": "" # global (count: 2) (undefined)
 new-fingerprint:
   "AudioCtxHash": ""
   "AudioHash": ""
@@ -1778,7 +1778,7 @@ new-fingerprint:
   "CalcDeltaMs": ""
   "Canvas2dInfo": ""
   "Constant version": ""
-  "Create": "" # global (undefined)
+  "Create": "" # global (count: 3) (undefined)
   "DateISO": ""
   "Fingerprint name": ""
   "FontsHash": ""
@@ -1789,7 +1789,7 @@ new-fingerprint:
   "Memory": ""
   "Navigator vendor": ""
   "NavigatorDoNotTrack": ""
-  "New fingerprint": "" # global (undefined)
+  "New fingerprint": "" # global (count: 2) (undefined)
   "OfflineAudioCtx": ""
   "Os name": ""
   "PermissionsStatesHash": ""
@@ -1798,102 +1798,102 @@ new-fingerprint:
   "Screen height": ""
   "Screen width": ""
   "Timezone": ""
-#  "Update": "" # global (defined)
-  "User-agent": "" # global (undefined)
-  "Version": "" # global (undefined)
+#  "Update": "" # global (count: 3) (defined)
+  "User-agent": "" # global (count: 2) (undefined)
+  "Version": "" # global (count: 2) (undefined)
   "VideoHash": ""
   "Webgl info": ""
   "WebglRenderHash": ""
   "XGame": ""
 new-license-paypal-subscribe:
-#  "Download": "" # global (defined)
-  "New license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "New license": "" # global (count: 6) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-license-subscribe:
-#  "Download": "" # global (defined)
-  "New license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "New license": "" # global (count: 6) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-license:
-  "Buy license": "购买凭证" # global (undefined)
-  "Credit or debit card": "信用卡或借记卡" # global (undefined)
-#  "Download": "" # global (defined)
-  "Get trial license": "取得试用凭证" # global (undefined)
-  "New license": "新凭证" # global (undefined)
-  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (undefined)
-  "Pay with paypal": "使用Paypal付款" # global (undefined)
-  "Self hosting license parameters": "自我托管主机凭证的参数" # global (undefined)
-  "Submit payment for self-host license": "提交自我托管主机凭证的付款" # global (undefined)
-  "Total": "总额" # global (undefined)
-  "description1": "描述1" # global (undefined)
+  "Buy license": "购买凭证" # global (count: 2) (undefined)
+  "Credit or debit card": "信用卡或借记卡" # global (count: 7) (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "Get trial license": "取得试用凭证" # global (count: 2) (undefined)
+  "New license": "新凭证" # global (count: 6) (undefined)
+  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (count: 7) (undefined)
+  "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Self hosting license parameters": "自我托管主机凭证的参数" # global (count: 2) (undefined)
+  "Submit payment for self-host license": "提交自我托管主机凭证的付款" # global (count: 2) (undefined)
+  "Total": "总额" # global (count: 4) (undefined)
+  "description1": "描述1" # global (count: 2) (undefined)
   "description2": "描述2"
-  "we are using": "我们使用" # global (undefined)
+  "we are using": "我们使用" # global (count: 7) (undefined)
 new-ogamex-bot:
-  "Create": "" # global (undefined)
+  "Create": "" # global (count: 3) (undefined)
   "New ogamex bot": ""
   "OgameX email": ""
   "OgameX password": ""
 new-proposal:
-  "All suggestions": "所有的提案/建议" # global (undefined)
+  "All suggestions": "所有的提案/建议" # global (count: 2) (undefined)
   "New suggestion": "新提案/建议"
 new-proxies:
   "-- Select a country --": ""
   "Country": ""
-  "Credit or debit card": "" # global (undefined)
-#  "Download": "" # global (defined)
-  "New license": "" # global (undefined)
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
+  "Credit or debit card": "" # global (count: 7) (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "New license": "" # global (count: 6) (undefined)
+  "Pay with Credit/debit card": "" # global (count: 7) (undefined)
+  "Pay with paypal": "" # global (count: 7) (undefined)
   "Proxies parameters": ""
   "Submit payment for proxies": ""
-  "Total": "" # global (undefined)
-  "we are using": "" # global (undefined)
+  "Total": "" # global (count: 4) (undefined)
+  "we are using": "" # global (count: 7) (undefined)
 new-script:
   "<b>Warning:</b> This will override existing scripts that have the same name.": "<b>警告:</b>将会复盖同名的脚本"
   "All bots that I have access to": "所有我有权限的机器人们"
-  "Create script on all bots": "于所有机器人上生成脚本" # global (undefined)
-#  "Home": "" # global (defined)
+  "Create script on all bots": "于所有机器人上生成脚本" # global (count: 3) (undefined)
+#  "Home": "" # global (count: 8) (defined)
   "My bots": "我的机器人"
   "New script": "新脚本"
   "Place script here": "将脚本放于此"
-  "Run at start": "(于开启时)自动执行" # global (undefined)
+  "Run at start": "(于开启时)自动执行" # global (count: 2) (undefined)
   "Script file name": "脚本档案名称"
   "Where to create the script": "于何处创建脚本"
 new-server-paypal-subscribe:
-#  "Download": "" # global (defined)
-  "New server": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "New server": "" # global (count: 4) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-server-subscribe:
-  "New server": "" # global (undefined)
-#  "Pricing": "" # global (defined)
-  "Subscribe": "" # global (undefined)
+  "New server": "" # global (count: 4) (undefined)
+#  "Pricing": "" # global (count: 3) (defined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": "3到20位字母/数字/下划线。比如："
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
-  "Credit or debit card": "信用卡或借记卡" # global (undefined)
-#  "Home": "" # global (defined)
-  "New server": "新伺服器" # global (undefined)
-  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (undefined)
-  "Pay with paypal": "使用Paypal付款" # global (undefined)
-  "Region": "地区" # global (undefined)
+  "Credit or debit card": "信用卡或借记卡" # global (count: 7) (undefined)
+#  "Home": "" # global (count: 8) (defined)
+  "New server": "新伺服器" # global (count: 4) (undefined)
+  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (count: 7) (undefined)
+  "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Region": "地区" # global (count: 2) (undefined)
   "Select one": "选择一项"
-#  "Settings": "" # global (defined)
+#  "Settings": "" # global (count: 7) (defined)
   "Subdomain": "子域名"
   "Submit Payment for cloud hosting": "提交云端伺服器的付款"
-  "Total": "总额" # global (undefined)
+  "Total": "总额" # global (count: 4) (undefined)
   "You will access your app using this URL": "使用下列网址进入您的应用"
   "the bots will use IP from that region": "机器人们将会使用该地区的IP"
-  "we are using": "我们使用" # global (undefined)
+  "we are using": "我们使用" # global (count: 7) (undefined)
 new-trial-license:
-  "Buy license": "购买凭证" # global (undefined)
-#  "Download": "" # global (defined)
-  "Get trial license": "取得试用凭证" # global (undefined)
+  "Buy license": "购买凭证" # global (count: 2) (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "Get trial license": "取得试用凭证" # global (count: 2) (undefined)
   "New trial license": "新凭证"
-  "description1": "描述" # global (undefined)
+  "description1": "描述" # global (count: 2) (undefined)
 notifications:
-  "Created at": "创建于" # global (undefined)
-  "Message": "讯息" # global (undefined)
+  "Created at": "创建于" # global (count: 6) (undefined)
+  "Message": "讯息" # global (count: 3) (undefined)
   "No notifications": "没有通知"
-  "Notifications": "通知" # global (undefined)
+  "Notifications": "通知" # global (count: 4) (undefined)
 pricing:
   "1 bot": "1隻机器人"
   "2 days one-time trial": "(一次性)两日试用"
@@ -1901,7 +1901,7 @@ pricing:
   "Buy now": "现在购买"
   "Get started": "开始吧"
   "OGame proxy": ""
-#  "Pricing": "" # global (defined)
+#  "Pricing": "" # global (count: 3) (defined)
   "Priority Slack support": "优先协助(Slack)"
   "Proxies": ""
   "Self-host": "自我托管主机"
@@ -1912,72 +1912,72 @@ pricing:
   "User needs to run the software": "使用者需要自行执行此应用软体"
   "Vote for future features development": "未来新功能的投票权"
   "We host the bot for you 24/7": "全年无休由我们执行主机托管机器人"
-  "meta-description": "描述标籤" # global (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
   "month": "月"
-  "title": "标题" # global (undefined)
+  "title": "标题" # global (count: 13) (undefined)
   "upgradable": "可升级"
 proposal:
-  "All suggestions": "所有的提案/建议" # global (undefined)
+  "All suggestions": "所有的提案/建议" # global (count: 2) (undefined)
 proposals:
-#  "Next": "" # global (defined)
-#  "Prev": "" # global (defined)
-  "Search": "搜寻" # global (undefined)
+#  "Next": "" # global (count: 9) (defined)
+#  "Prev": "" # global (count: 9) (defined)
+  "Search": "搜寻" # global (count: 3) (undefined)
 redeem-code:
-  "Gameforge email": "Gameforge的电子信箱" # global (undefined)
-  "Gameforge password": "Gameforge的密码" # global (undefined)
-  "New bot": "新机器人" # global (undefined)
-  "OTP secret": "" # global (undefined)
-  "Proxy password": "代理伺服器密码" # global (undefined)
-  "Proxy username": "代理伺服器帐号" # global (undefined)
-  "Redeem code": "兑换代码" # global (undefined)
+  "Gameforge email": "Gameforge的电子信箱" # global (count: 2) (undefined)
+  "Gameforge password": "Gameforge的密码" # global (count: 2) (undefined)
+  "New bot": "新机器人" # global (count: 4) (undefined)
+  "OTP secret": "" # global (count: 3) (undefined)
+  "Proxy password": "代理伺服器密码" # global (count: 3) (undefined)
+  "Proxy username": "代理伺服器帐号" # global (count: 3) (undefined)
+  "Redeem code": "兑换代码" # global (count: 2) (undefined)
   "____-____-____-____-____": ""
-  "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (若您无把握请留空白)" # global (undefined)
+  "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (若您无把握请留空白)" # global (count: 2) (undefined)
 renew-instance-subscribe:
-#  "Download": "" # global (defined)
-  "Renew instance": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "Renew instance": "" # global (count: 2) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 renew-instance:
-  "Credit or debit card": "信用卡或借记卡" # global (undefined)
-  "Current license valid until": "当前凭证有效至" # global (undefined)
-  "Home": "主页" # global (defined)
-  "New license valid until": "新凭证有效至" # global (undefined)
-  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (undefined)
-  "Pay with paypal": "使用Paypal付款" # global (undefined)
-  "Renew instance": "更新物件(instance)" # global (undefined)
-#  "Settings": "" # global (defined)
+  "Credit or debit card": "信用卡或借记卡" # global (count: 7) (undefined)
+  "Current license valid until": "当前凭证有效至" # global (count: 2) (undefined)
+  "Home": "主页" # global (count: 8) (defined)
+  "New license valid until": "新凭证有效至" # global (count: 2) (undefined)
+  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (count: 7) (undefined)
+  "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Renew instance": "更新物件(instance)" # global (count: 2) (undefined)
+#  "Settings": "" # global (count: 7) (defined)
   "Submit payment to renew cloud license": "提交更新云端伺服器的付款"
-  "bot": "机器人" # global (undefined)
-  "we are using": "我们使用" # global (undefined)
+  "bot": "机器人" # global (count: 2) (undefined)
+  "we are using": "我们使用" # global (count: 7) (undefined)
 renew-license-subscribe:
-#  "Download": "" # global (defined)
-  "Renew license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "Renew license": "" # global (count: 4) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 renew-license:
-  "Credit or debit card": "信用卡或借记卡" # global (undefined)
-  "Current license valid until": "当前凭证有效至" # global (undefined)
-#  "Download": "" # global (defined)
-  "New license valid until": "新凭证有效至" # global (undefined)
-  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (undefined)
-  "Pay with paypal": "使用Paypal付款" # global (undefined)
-  "Renew license": "更新凭证" # global (undefined)
-  "Self hosting license parameters": "自我托管主机凭证的参数" # global (undefined)
-  "Submit payment for self-host license": "提交自我托管主机凭证的付款" # global (undefined)
-  "Total": "总额" # global (undefined)
-  "bot": "机器人" # global (undefined)
+  "Credit or debit card": "信用卡或借记卡" # global (count: 7) (undefined)
+  "Current license valid until": "当前凭证有效至" # global (count: 2) (undefined)
+#  "Download": "" # global (count: 12) (defined)
+  "New license valid until": "新凭证有效至" # global (count: 2) (undefined)
+  "Pay with Credit/debit card": "使用信用/借记卡付款" # global (count: 7) (undefined)
+  "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Renew license": "更新凭证" # global (count: 4) (undefined)
+  "Self hosting license parameters": "自我托管主机凭证的参数" # global (count: 2) (undefined)
+  "Submit payment for self-host license": "提交自我托管主机凭证的付款" # global (count: 2) (undefined)
+  "Total": "总额" # global (count: 4) (undefined)
+  "bot": "机器人" # global (count: 2) (undefined)
   "disclaimer": "声明"
-  "we are using": "我们使用" # global (undefined)
+  "we are using": "我们使用" # global (count: 7) (undefined)
 reorder-bots:
-  "Home": "主页" # global (defined)
-  "Reorder bots": "重新排序机器人" # global (undefined)
+  "Home": "主页" # global (count: 8) (defined)
+  "Reorder bots": "重新排序机器人" # global (count: 3) (undefined)
 sessions-two-factor-recovery:
   "Recovery code": "恢復代码"
   "Two-factor recovery": "两阶段恢復"
-  "Verify": "验证" # global (undefined)
+  "Verify": "验证" # global (count: 2) (undefined)
 sessions-two-factor:
   "6-digit code": "6位数代码"
   "Enter a two-factor recovery code": "输入双重认证(2FA)恢復代码"
   "Two-factor authentication": "双重认证(2FA)"
-  "Verify": "验证" # global (undefined)
+  "Verify": "验证" # global (count: 2) (undefined)
 settings.account:
   "0-15min": "0到15分钟"
   "16-40min": "16到40分钟"
@@ -1989,87 +1989,87 @@ settings.account:
   "Delete account": "删除帐号"
   "Delete your account": "删除您的帐号"
   "Disable two-factor authentication": "停用双重认证(2FA)"
-#  "Email": "" # global (defined)
+#  "Email": "" # global (count: 11) (defined)
   "Enable two-factor authentication": "启用双重认证(2FA)"
   "Hunter colors": "猎人颜色"
-  "Lang": "语言" # global (undefined)
-  "New password": "新密码" # global (undefined)
-  "New username": "新使用者名称" # global (undefined)
-  "No activity": "没有活动" # global (undefined)
+  "Lang": "语言" # global (count: 3) (undefined)
+  "New password": "新密码" # global (count: 3) (undefined)
+  "New username": "新使用者名称" # global (count: 3) (undefined)
+  "No activity": "没有活动" # global (count: 2) (undefined)
   "Old password": "旧密码"
   "Root admin cannot delete his account": "超级使用者(root)不可删除帐号"
-  "Save": "保存" # global (undefined)
-#  "Settings": "" # global (defined)
+  "Save": "保存" # global (count: 17) (undefined)
+#  "Settings": "" # global (count: 7) (defined)
   "Slack account": "Slack帐号"
-  "Theme": "主题" # global (undefined)
-  "Two-Factor Authentication": "双重认证(2FA)" # global (undefined)
+  "Theme": "主题" # global (count: 2) (undefined)
+  "Two-Factor Authentication": "双重认证(2FA)" # global (count: 2) (undefined)
   "Unlink slack account": "取消联结Slack帐号"
   "Update password": "更新密码"
-  "Vacation": "假期" # global (undefined)
+  "Vacation": "假期" # global (count: 3) (undefined)
 settings.api:
-  "API": "" # global (undefined)
+  "API": "" # global (count: 3) (undefined)
   "API key": ""
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
 settings.gift-cards:
   "Add credit to my account": ""
-  "Credit or debit card": "" # global (undefined)
-  "Gift cards": "礼物卡" # global (undefined)
+  "Credit or debit card": "" # global (count: 7) (undefined)
+  "Gift cards": "礼物卡" # global (count: 2) (undefined)
   "No gift card to show": "没有可显示的礼物卡"
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
-  "Submit payment": "" # global (undefined)
-  "we are using": "" # global (undefined)
+  "Pay with Credit/debit card": "" # global (count: 7) (undefined)
+  "Pay with paypal": "" # global (count: 7) (undefined)
+  "Submit payment": "" # global (count: 2) (undefined)
+  "we are using": "" # global (count: 7) (undefined)
 settings.index:
-  "API": "" # global (undefined)
-#  "Account": "" # global (defined)
-  "Gift cards": "礼物卡" # global (undefined)
-  "Sessions": "工作阶段" # global (defined)
-  "Subscriptions": "" # global (undefined)
+  "API": "" # global (count: 3) (undefined)
+#  "Account": "" # global (count: 2) (defined)
+  "Gift cards": "礼物卡" # global (count: 2) (undefined)
+  "Sessions": "工作阶段" # global (count: 1) (defined)
+  "Subscriptions": "" # global (count: 2) (undefined)
 settings.sessions:
-#  "Are you sure?": "" # global (defined)
-  "Expires at": "失效于" # global (undefined)
-  "IP": "" # global (undefined)
+#  "Are you sure?": "" # global (count: 19) (defined)
+  "Expires at": "失效于" # global (count: 2) (undefined)
+  "IP": "" # global (count: 2) (undefined)
   "Revoke": "撤销"
   "User agent": "使用者代理"
   "Your current session": "您当前的工作阶段"
   "on": "于"
 settings.subscriptions:
-#  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (count: 19) (defined)
   "No subscription to show": ""
-  "Subscriptions": "" # global (undefined)
+  "Subscriptions": "" # global (count: 2) (undefined)
 signup:
-#  "Email": "" # global (defined)
-  "Note": "註记" # global (undefined)
-#  "Password": "" # global (defined)
-  "Retype password": "重新输入密码" # global (undefined)
+#  "Email": "" # global (count: 11) (defined)
+  "Note": "註记" # global (count: 3) (undefined)
+#  "Password": "" # global (count: 8) (defined)
+  "Retype password": "重新输入密码" # global (count: 3) (undefined)
   "Sign up": "註册"
-  "Username": "使用者名称" # global (defined)
+  "Username": "使用者名称" # global (count: 10) (defined)
   "You will receive an email to validate your account": "您会收到一封验证的电子邮件"
-  "meta-description": "描述标籤" # global (undefined)
-  "title": "标题" # global (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
+  "title": "标题" # global (count: 13) (undefined)
 socks5:
-  "Arch": "" # global (undefined)
-  "Downloads": "" # global (undefined)
-  "File name": "" # global (undefined)
-  "No files to display": "" # global (undefined)
-  "OS": "" # global (undefined)
-  "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
+  "Arch": "" # global (count: 4) (undefined)
+  "Downloads": "" # global (count: 3) (undefined)
+  "File name": "" # global (count: 4) (undefined)
+  "No files to display": "" # global (count: 4) (undefined)
+  "OS": "" # global (count: 4) (undefined)
+  "SHA256 Checksum": "" # global (count: 4) (undefined)
+  "Size": "" # global (count: 4) (undefined)
   "Socks5 server": ""
-  "meta-description": "" # global (undefined)
-  "title": "" # global (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
+  "title": "" # global (count: 13) (undefined)
 support-new-ticket:
-  "New ticket": "新的问题单" # global (undefined)
-  "Tickets": "问题单" # global (undefined)
+  "New ticket": "新的问题单" # global (count: 2) (undefined)
+  "Tickets": "问题单" # global (count: 2) (undefined)
 support-ticket:
-  "Tickets": "问题单" # global (undefined)
+  "Tickets": "问题单" # global (count: 2) (undefined)
 support:
-  "New ticket": "新的问题单" # global (undefined)
+  "New ticket": "新的问题单" # global (count: 2) (undefined)
 ticketSupport.index:
-  "Home": "主页" # global (defined)
+  "Home": "主页" # global (count: 8) (defined)
 ticketSupport.new-invoice:
-#  "Bots": "" # global (defined)
-  "Valid until": "有效直到" # global (undefined)
+#  "Bots": "" # global (count: 5) (defined)
+  "Valid until": "有效直到" # global (count: 2) (undefined)
 two-factor-authentication-verify:
   "1- Recovery code": "1- 恢復代码"
   "2- Scan this barcode with your app.": "2- 用app应用扫描此条码"
@@ -2090,11 +2090,11 @@ two-factor:
   "If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": "若您不想使用Gameforge专利的app来使用双重认证(2FA)..."
   "In a terminal, execute": "于终端机(terminal)中执行"
   "List all your 2fa with": "使用此来列举您的双重认证(2FA)"
-  "Note": "註记" # global (undefined)
-  "Two-Factor Authentication": "双重认证(2FA)" # global (undefined)
+  "Note": "註记" # global (count: 3) (undefined)
+  "Two-Factor Authentication": "双重认证(2FA)" # global (count: 2) (undefined)
   "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
   "You can remove 2fa from your account with": "您可如此自帐户移除双重认证(2FA)"
   "You don't need to be a customer to use the following tools.": "您不需是客户才能使用以下的工具"
-  "meta-description": "描述标籤" # global (undefined)
+  "meta-description": "描述标籤" # global (count: 13) (undefined)
   "or the output of": "或其输出"
-  "title": "标题" # global (undefined)
+  "title": "标题" # global (count: 13) (undefined)

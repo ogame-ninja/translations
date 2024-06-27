@@ -1,133 +1,133 @@
 global:
   "Bots": "Бот"
 admin.bots:
-  "Are you sure?": "" # global (undefined)
+  "Are you sure?": "" # global (count: 19) (undefined)
 admin.index:
-#  "Bots": "" # global (defined)
-  "License": "Лицензия" # global (undefined)
+#  "Bots": "" # global (count: 5) (defined)
+  "License": "Лицензия" # global (count: 3) (undefined)
   "Login history": "Логин История"
-  "Settings": "Настройки" # global (undefined)
-  "Themes": "Темы" # global (undefined)
-  "Update": "Обновить" # global (undefined)
-  "Users": "Пользователь" # global (undefined)
+  "Settings": "Настройки" # global (count: 7) (undefined)
+  "Themes": "Темы" # global (count: 2) (undefined)
+  "Update": "Обновить" # global (count: 3) (undefined)
+  "Users": "Пользователь" # global (count: 2) (undefined)
 admin.license:
-  "Are you sure?": "Вы  Уверены?" # global (undefined)
-  "Bots allowed": "Бот включен" # global (undefined)
-  "Created": "Создать" # global (undefined)
-  "Email": "Емайл" # global (undefined)
-  "Expired": "Истекает" # global (undefined)
-  "License": "Лицензия" # global (undefined)
-  "Owner": "Владелец" # global (undefined)
+  "Are you sure?": "Вы  Уверены?" # global (count: 19) (undefined)
+  "Bots allowed": "Бот включен" # global (count: 2) (undefined)
+  "Created": "Создать" # global (count: 2) (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
+  "Expired": "Истекает" # global (count: 3) (undefined)
+  "License": "Лицензия" # global (count: 3) (undefined)
+  "Owner": "Владелец" # global (count: 2) (undefined)
   "Subscription": ""
-  "UUID": "Индификатор" # global (undefined)
-  "Upload": "" # global (undefined)
+  "UUID": "Индификатор" # global (count: 3) (undefined)
+  "Upload": "" # global (count: 3) (undefined)
   "Upload file": ""
-  "unlimited": "Без Ограничений" # global (undefined)
+  "unlimited": "Без Ограничений" # global (count: 2) (undefined)
 admin.login-history:
-  "Created at": "" # global (undefined)
+  "Created at": "" # global (count: 6) (undefined)
   "Deleted at": ""
-  "Expires at": "" # global (undefined)
-  "IP": "" # global (undefined)
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
+  "Expires at": "" # global (count: 2) (undefined)
+  "IP": "" # global (count: 2) (undefined)
+  "Next": "Следующий" # global (count: 9) (undefined)
+  "Prev": "Предыдущий" # global (count: 9) (undefined)
   "User": ""
-  "User-agent": "" # global (undefined)
+  "User-agent": "" # global (count: 2) (undefined)
 admin.settings:
-  "General": "Общие" # global (undefined)
+  "General": "Общие" # global (count: 5) (undefined)
   "Gives you access to your self-host server through": "Дает вам доступ к вашему самостоятельному хост-серверу через"
   "Host eg: smtp.gmail.com": "Хост eg: smtp.gmail.com"
   "Images URL": "URL-адрес изображений"
   "Logs retention (days)": "Хранение журналов (дней)"
   "Need application restart": ""
   "Open .ogame folder": "Открыть Ogame папку"
-  "Password": "Пароль" # global (undefined)
+  "Password": "Пароль" # global (count: 8) (undefined)
   "Port eg: 587": "Порт eg: 587"
   "Reverse tunnel": "Обратный туннель"
   "SMTP settings (email)": "Настройки SMTP (электронная почта)"
-  "Save": "Сохранить" # global (undefined)
-  "Settings": "Настройки" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
+  "Settings": "Настройки" # global (count: 7) (undefined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
   "Telegram bot api token": "Telegram bot api токен"
-  "Username": "Пользователь" # global (undefined)
+  "Username": "Пользователь" # global (count: 10) (undefined)
 admin.theme-new:
   "Create theme": "Создать Тему"
-  "Name": "Новая" # global (undefined)
+  "Name": "Новая" # global (count: 3) (undefined)
   "Update theme": "Обновить Тему"
 admin.themes:
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Delete theme": "Удалить Тему"
   "New theme": "Новая Тема"
   "No theme": "Нет Темы"
-  "Themes": "Темы" # global (undefined)
+  "Themes": "Темы" # global (count: 2) (undefined)
 admin.update:
-  "Update": "Обновить" # global (undefined)
-  "Update to latest": "Обновить до последней" # global (undefined)
+  "Update": "Обновить" # global (count: 3) (undefined)
+  "Update to latest": "Обновить до последней" # global (count: 2) (undefined)
 admin.updating:
   "You will be redirected soon": "Вы будете перенаправлены в ближайшее время"
 admin.user-edit:
   "Create user": "Создать Пользователя"
-  "Email": "Емайл" # global (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
   "Is admin": "Это Админ"
   "No": "Нет"
-  "Password": "Пароль" # global (undefined)
-  "Retype password": "Сбросить Пароль" # global (undefined)
+  "Password": "Пароль" # global (count: 8) (undefined)
+  "Retype password": "Сбросить Пароль" # global (count: 3) (undefined)
   "Update user": "Обновить Пользователя"
-  "Username": "Имя пользователя" # global (undefined)
+  "Username": "Имя пользователя" # global (count: 10) (undefined)
   "Yes": "Да"
 admin.users:
-  "Admin": "Админ" # global (undefined)
-  "Created at": "Создать " # global (undefined)
+  "Admin": "Админ" # global (count: 2) (undefined)
+  "Created at": "Создать " # global (count: 6) (undefined)
   "Delete user": "Удалить Пользователя"
   "New user": "Новый Пользователь"
-  "Username": "Имя пользователя" # global (undefined)
-  "Users": "Пользователи" # global (undefined)
+  "Username": "Имя пользователя" # global (count: 10) (undefined)
+  "Users": "Пользователи" # global (count: 2) (undefined)
   "Verified": "Проверенный"
 antigame:
-  "Arch": "Арка" # global (undefined)
-  "Downloads": "Загрузки" # global (undefined)
-  "File name": "Имя файла" # global (undefined)
-  "No files to display": "Нет файлов для отображения" # global (undefined)
-  "OS": "ОС" # global (undefined)
-  "SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
-  "Size": "Размер" # global (undefined)
-  "meta-description": "метаописание" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "Arch": "Арка" # global (count: 4) (undefined)
+  "Downloads": "Загрузки" # global (count: 3) (undefined)
+  "File name": "Имя файла" # global (count: 4) (undefined)
+  "No files to display": "Нет файлов для отображения" # global (count: 4) (undefined)
+  "OS": "ОС" # global (count: 4) (undefined)
+  "SHA256 Checksum": "Контрольная сумма SHA256" # global (count: 4) (undefined)
+  "Size": "Размер" # global (count: 4) (undefined)
+  "meta-description": "метаописание" # global (count: 13) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 bot.browser:
   "Empire page": "Империя"
   "Fullscreen": "Во весь экран"
   "Toggle manual mode": "Ручной режим"
 bot.captcha:
-  "Captcha": "" # global (undefined)
+  "Captcha": "" # global (count: 2) (undefined)
   "Submit": ""
 bot.conqueror:
-  "Get spy reports": "Получить шпионские отчеты" # global (undefined)
+  "Get spy reports": "Получить шпионские отчеты" # global (count: 2) (undefined)
   "No espionage report to show": "Небольшой отчет о разведке показать"
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-  "Actions": "Действия" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
   "Advanced Recycling Plant": ""
-  "All": "" # global (undefined)
-  "Alliance Depot": "Склад Альянса" # global (undefined)
-  "Anti-Ballistic Missiles": "Противо-ракеты" # global (undefined)
+  "All": "" # global (count: 5) (undefined)
+  "Alliance Depot": "Склад Альянса" # global (count: 2) (undefined)
+  "Anti-Ballistic Missiles": "Противо-ракеты" # global (count: 2) (undefined)
   "Antimatter Condenser": ""
   "Antimatter Convector": ""
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-  "Armour Technology": "Броня Космический Кораблей" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Armour Technology": "Броня Космический Кораблей" # global (count: 2) (undefined)
   "Artificial Swarm Intelligence": ""
   "Assembly Line": ""
-  "Astrophysics": "Астрофизика" # global (undefined)
+  "Astrophysics": "Астрофизика" # global (count: 2) (undefined)
   "Automated Transport Lines": ""
   "Automatised Assembly Centre": ""
-  "Battlecruiser": "Линейный Крейсер" # global (undefined)
+  "Battlecruiser": "Линейный Крейсер" # global (count: 5) (undefined)
   "Battlecruiser MkII": ""
-  "Battleship": "Линкор" # global (undefined)
+  "Battleship": "Линкор" # global (count: 5) (undefined)
   "Bio Modifier": ""
   "Biosphere Farm": ""
   "BiotechLab": ""
-  "Bomber": "Бомбандировщик" # global (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
   "Bomber MkII": ""
   "Cargo Hold Expansion Civilian Ships": ""
   "Catalyser Technology": ""
@@ -135,41 +135,41 @@ bot.empire:
   "Chrysalis Accelerator": ""
   "Clear all construction queues": "Очистите все очереди строительства"
   "Cloning Laboratory": ""
-  "Colony Ship": "Колонизатор" # global (undefined)
-  "Combustion Drive": "Реактивный Двигатель" # global (undefined)
-  "Computer Technology": "Компьютерная Технология" # global (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Combustion Drive": "Реактивный Двигатель" # global (count: 2) (undefined)
+  "Computer Technology": "Компьютерная Технология" # global (count: 2) (undefined)
   "Crawl": "Обновить"
-  "Crawler": "Гусеничник" # global (undefined)
+  "Crawler": "Гусеничник" # global (count: 4) (undefined)
   "Crawler setting": "Настройки Гусеничника"
-  "Cruiser": "Крейсер" # global (undefined)
+  "Cruiser": "Крейсер" # global (count: 5) (undefined)
   "Cruiser MkII": ""
-  "Crystal": "Кристалл" # global (undefined)
+  "Crystal": "Кристалл" # global (count: 7) (undefined)
   "Crystal Farm": ""
-  "Crystal Mine": "Рудник по добыче кристалла" # global (undefined)
+  "Crystal Mine": "Рудник по добыче кристалла" # global (count: 2) (undefined)
   "Crystal Refinery": ""
-  "Crystal Storage": "Хранилище кристалла" # global (undefined)
+  "Crystal Storage": "Хранилище кристалла" # global (count: 2) (undefined)
   "Crystal setting": "Настройки кристалла"
-  "Deathstar": "Звезда Смерти" # global (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
   "Defenses": ""
   "Depot AI": ""
   "Depth Sounding": ""
-  "Destroyer": "Уничтожитель" # global (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
   "Destroyer MkII": ""
   "Deut synt setting": "Настройки Синтезатор дейтерия"
-  "Deuterium": "Дейтерий" # global (undefined)
+  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
   "Deuterium Synthesiser": ""
-  "Deuterium Synthesizer": "Синтезатор Дейтерия" # global (undefined)
-  "Deuterium Tank": "Ёмкость для Дейтерия" # global (undefined)
+  "Deuterium Synthesizer": "Синтезатор Дейтерия" # global (count: 2) (undefined)
+  "Deuterium Tank": "Ёмкость для Дейтерия" # global (count: 2) (undefined)
   "Diamond Energy Transmitter": ""
   "Disruption Chamber": ""
   "Efficiency Module": ""
   "Efficient Swarm Intelligence": ""
   "Energy": "Энергия"
-  "Energy Technology": "Энэргетическая технология" # global (undefined)
+  "Energy Technology": "Энэргетическая технология" # global (count: 2) (undefined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
-  "Espionage Probe": "Шпионский Зонд" # global (undefined)
-  "Espionage Technology": "Шпионаж" # global (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Espionage Technology": "Шпионаж" # global (count: 2) (undefined)
   "Experimental Recycling Technology": ""
   "Experimental Weapons Technology": ""
   "Facilities": ""
@@ -179,9 +179,9 @@ bot.empire:
   "Fusion Cell Factory": ""
   "Fusion Drives": ""
   "Fusion Powered Production": ""
-  "Fusion Reactor": "Термоядерный Электростанция" # global (undefined)
+  "Fusion Reactor": "Термоядерный Электростанция" # global (count: 2) (undefined)
   "Fusion reactor setting": "Термоядерная Электростанция Настройки"
-  "Gauss Cannon": "Пушка Гаусса" # global (undefined)
+  "Gauss Cannon": "Пушка Гаусса" # global (count: 3) (undefined)
   "General Overhaul Battlecruiser": ""
   "General Overhaul Battleship": ""
   "General Overhaul Bomber": ""
@@ -190,12 +190,12 @@ bot.empire:
   "General Overhaul Light Fighter": ""
   "Geothermal Power Plants": ""
   "Gravitation Sensors": ""
-  "Graviton Technology": "Гравитационная технология" # global (undefined)
+  "Graviton Technology": "Гравитационная технология" # global (count: 2) (undefined)
   "Halls Of Realisation": ""
   "Hardened Diamond Drill Heads": ""
   "Heat Recovery": ""
-  "Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
-  "Heavy Laser": "Тяжелый Лазер" # global (undefined)
+  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 5) (undefined)
+  "Heavy Laser": "Тяжелый Лазер" # global (count: 3) (undefined)
   "High Energy Pump Systems": ""
   "High Energy Smelting": ""
   "High Performance Extractors": ""
@@ -206,32 +206,32 @@ bot.empire:
   "Honour points": "Очки чести"
   "Humans buildings": ""
   "Humans researches": ""
-  "Hyperspace Drive": "Гиперпрастранственный Двигатель" # global (undefined)
-  "Hyperspace Technology": "Гиперпространственная технология" # global (undefined)
+  "Hyperspace Drive": "Гиперпрастранственный Двигатель" # global (count: 2) (undefined)
+  "Hyperspace Technology": "Гиперпространственная технология" # global (count: 2) (undefined)
   "Improved Drone AI": ""
   "Improved Lab Technology": ""
   "Improved Stellarator": ""
-  "Impulse Drive": "Импульсный двигатель" # global (undefined)
+  "Impulse Drive": "Импульсный двигатель" # global (count: 2) (undefined)
   "Intergalactic Envoys": ""
   "Intergalactic Research Network": "Межгалактическая исследовательская сеть"
   "Interplanetary Analysis Network": ""
-  "Interplanetary Missiles": "Межпланетные ракеты" # global (undefined)
-  "Ion Cannon": "Ионное Орудие" # global (undefined)
+  "Interplanetary Missiles": "Межпланетные ракеты" # global (count: 3) (undefined)
+  "Ion Cannon": "Ионное Орудие" # global (count: 3) (undefined)
   "Ion Crystal Enhancement Heavy Fighter": ""
   "Ion Crystal Modules": ""
-  "Ion Technology": "Ионная технология" # global (undefined)
-  "Jump Gate": "Звездные врата" # global (undefined)
+  "Ion Technology": "Ионная технология" # global (count: 2) (undefined)
+  "Jump Gate": "Звездные врата" # global (count: 2) (undefined)
   "Kaelesh Discoverer Enhancement": ""
   "Kaelesh buildings": ""
   "Kaelesh researches": ""
-  "Large Cargo": "Большой транспорт" # global (undefined)
-  "Large Shield Dome": "Большой шитовой купол" # global (undefined)
-  "Laser Technology": "Лазерная технология" # global (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (undefined)
+  "Large Cargo": "Большой транспорт" # global (count: 5) (undefined)
+  "Large Shield Dome": "Большой шитовой купол" # global (count: 3) (undefined)
+  "Laser Technology": "Лазерная технология" # global (count: 2) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
   "Light Fighter MkII": ""
-  "Light Laser": "Легкий лазер" # global (undefined)
+  "Light Laser": "Легкий лазер" # global (count: 3) (undefined)
   "Low Temperature Drives": ""
-  "Lunar Base": "Лунная База" # global (undefined)
+  "Lunar Base": "Лунная База" # global (count: 2) (undefined)
   "Magma Forge": ""
   "Magma Powered Production": ""
   "Magma Powered PumpSystems": ""
@@ -240,16 +240,16 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-  "Metal": "Металл" # global (undefined)
-  "Metal Mine": "Хранилище Металла" # global (undefined)
-  "Metal Storage": "Рудник по добыче металла" # global (undefined)
+  "Metal": "Металл" # global (count: 7) (undefined)
+  "Metal Mine": "Хранилище Металла" # global (count: 2) (undefined)
+  "Metal Storage": "Рудник по добыче металла" # global (count: 2) (undefined)
   "Metal setting": "Настройки Металла"
   "Metropolis": ""
   "Microchip Assembly Line": ""
   "Mineral Research Centre": ""
-  "Missile Silo": "Ракетная Шахта" # global (undefined)
+  "Missile Silo": "Ракетная Шахта" # global (count: 2) (undefined)
   "Moons": ""
-  "Nanite Factory": "Фабрика Нанитов" # global (undefined)
+  "Nanite Factory": "Фабрика Нанитов" # global (count: 2) (undefined)
   "Nano Repair Bots": ""
   "Neuro Calibration Centre": ""
   "Neuro Interface": ""
@@ -261,33 +261,33 @@ bot.empire:
   "Overclocking Battleship": ""
   "Overclocking Heavy Fighter": ""
   "Overclocking Large Cargo": ""
-  "Pathfinder": "Первопроходец" # global (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
-  "Plasma Technology": "Плазменная Технология" # global (undefined)
+  "Plasma Technology": "Плазменная Технология" # global (count: 2) (undefined)
   "Plasma Terraformer": ""
-  "Plasma Turret": "Плазменное Орудие" # global (undefined)
-  "Points": "Очки" # global (undefined)
+  "Plasma Turret": "Плазменное Орудие" # global (count: 3) (undefined)
+  "Points": "Очки" # global (count: 4) (undefined)
   "Production Assembly Hall": ""
   "Psionic Modulator": ""
   "Psionic Network": ""
   "Psionic Shield Matrix": ""
   "Psychoharmoniser": ""
   "Quantum Computer Centre": ""
-  "Rank": "Ранк" # global (undefined)
-  "Reaper": "Жнец" # global (undefined)
-  "Recycler": "Переработчик" # global (undefined)
-  "Reorder planets": "Порядок Планет" # global (undefined)
+  "Rank": "Ранк" # global (count: 6) (undefined)
+  "Reaper": "Жнец" # global (count: 4) (undefined)
+  "Recycler": "Переработчик" # global (count: 5) (undefined)
+  "Reorder planets": "Порядок Планет" # global (count: 2) (undefined)
   "Research AI": ""
   "Research Centre": ""
-  "Research Lab": "Исследовательская лаборатория" # global (undefined)
+  "Research Lab": "Исследовательская лаборатория" # global (count: 2) (undefined)
   "Residential Sector": ""
-  "Resources": "" # global (undefined)
+  "Resources": "" # global (count: 2) (undefined)
   "Robot Assistants": ""
-  "Robotics Factory": "Фабрика роботов" # global (undefined)
+  "Robotics Factory": "Фабрика роботов" # global (count: 2) (undefined)
   "Robotics Research Centre": ""
-  "Rocket Launcher": "Ракетная Установка" # global (undefined)
+  "Rocket Launcher": "Ракетная Установка" # global (count: 3) (undefined)
   "Rocktal Collector Enhancement": ""
   "Rocktal buildings": ""
   "Rocktal researches": ""
@@ -296,22 +296,22 @@ bot.empire:
   "Rune Technologium": ""
   "Sanctuary": ""
   "Seismic Mining Technology": ""
-  "Sensor Phalanx": "Сенсорная Фаланга" # global (undefined)
-  "Settings": "" # global (undefined)
-  "Shielding Technology": "Щитовая Технология" # global (undefined)
+  "Sensor Phalanx": "Сенсорная Фаланга" # global (count: 2) (undefined)
+  "Settings": "" # global (count: 7) (undefined)
+  "Shielding Technology": "Щитовая Технология" # global (count: 2) (undefined)
   "Ship Manufacturing Hall": ""
-  "Ships": "" # global (undefined)
-  "Shipyard": "Верфь" # global (undefined)
+  "Ships": "" # global (count: 4) (undefined)
+  "Shipyard": "Верфь" # global (count: 3) (undefined)
   "Sixth Sense": ""
   "Skyscraper": ""
   "Slingshot Autopilot": ""
-  "Small Cargo": "Малый Транспорт" # global (undefined)
-  "Small Shield Dome": "малый щитовой купол" # global (undefined)
-  "Solar Plant": "Солнечная Электростанция" # global (undefined)
-  "Solar Satellite": "Солнечный Спутник" # global (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
+  "Small Shield Dome": "малый щитовой купол" # global (count: 3) (undefined)
+  "Solar Plant": "Солнечная Электростанция" # global (count: 2) (undefined)
+  "Solar Satellite": "Солнечный Спутник" # global (count: 3) (undefined)
   "Solar plant setting": "Настройки Солнечной Электростанций"
   "Solar sat setting": "Настройки Солнечных Спутников"
-  "Space Dock": "Космический док" # global (undefined)
+  "Space Dock": "Космический док" # global (count: 2) (undefined)
   "Stealth Field Generator": ""
   "Sulphide Process": ""
   "Supercomputer": ""
@@ -319,82 +319,82 @@ bot.empire:
   "Supra Refractor": ""
   "Telekinetic Drive": ""
   "Telekinetic Tractor Beam": ""
-  "Terraformer": "Тераформер" # global (undefined)
+  "Terraformer": "Тераформер" # global (count: 2) (undefined)
   "Update Network": ""
   "Updated at": "Обновить по адресу"
   "Volcanic Batteries": ""
   "Vortex Chamber": ""
-  "Weapons Technology": "" # global (undefined)
+  "Weapons Technology": "" # global (count: 2) (undefined)
 bot.flights:
-  "Actions": "Действия" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
   "Activate all": "Активировать все"
-  "Active": "Активный" # global (undefined)
-  "All": "Все" # global (undefined)
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Active": "Активный" # global (count: 6) (undefined)
+  "All": "Все" # global (count: 5) (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Arrival": "Прибытие"
   "Arrive at": ""
-  "Arrive in": "Прибытие в" # global (undefined)
-  "Attack": "Атака" # global (undefined)
-  "Battlecruiser": "Линейный крейсер" # global (undefined)
-  "Battleship": "Линкор" # global (undefined)
-  "Bomber": "Бомбандировщик" # global (undefined)
-  "Cancel Fleet": "Отозвать" # global (undefined)
+  "Arrive in": "Прибытие в" # global (count: 2) (undefined)
+  "Attack": "Атака" # global (count: 4) (undefined)
+  "Battlecruiser": "Линейный крейсер" # global (count: 5) (undefined)
+  "Battleship": "Линкор" # global (count: 5) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Cancel Fleet": "Отозвать" # global (count: 2) (undefined)
   "Cancel scheduled flight": ""
   "Cargo": "Вместимость"
-  "Colonize": "Колонизировать" # global (undefined)
-  "Colony Ship": "Колонизатор" # global (undefined)
-  "Crawler": "Гусеничка" # global (undefined)
+  "Colonize": "Колонизировать" # global (count: 4) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Crawler": "Гусеничка" # global (count: 4) (undefined)
   "Cron jobs": "Задание работы"
-  "Cruiser": "Крейсер" # global (undefined)
-  "Crystal": "Кристалл" # global (undefined)
-  "Current fleets": "Текущие флоты" # global (undefined)
+  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Current fleets": "Текущие флоты" # global (count: 2) (undefined)
   "DS": "ЗС"
   "Deactivate all": "Деактивировать все"
-  "Deathstar": "Звезда Смерти" # global (undefined)
-  "Debris": "Поле Обломков" # global (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
+  "Debris": "Поле Обломков" # global (count: 2) (undefined)
   "Delete cron job": "Удалить Задание работы"
   "Delete flight": "Удалить Сохраненное задание флота"
   "Depart at": ""
-  "Destination": "Расстояние" # global (undefined)
-  "Destroy": "Уничтожить" # global (undefined)
-  "Destroyer": "Уничтожитель" # global (undefined)
-  "Deuterium": "Дейтерий" # global (undefined)
+  "Destination": "Расстояние" # global (count: 7) (undefined)
+  "Destroy": "Уничтожить" # global (count: 4) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
+  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
   "Dur": "Время полета"
   "Edit cron job": "Редактировать Задание работы"
-  "Espionage Probe": "Шпионский Зонд" # global (undefined)
-  "Exp": "Экспа" # global (undefined)
-  "Expedition": "Экспедиция" # global (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Exp": "Экспа" # global (count: 2) (undefined)
+  "Expedition": "Экспедиция" # global (count: 7) (undefined)
   "Flight": "Задание флота"
   "Fuel": "Топливо"
-  "Grouped Attack": "Групповая Атака" # global (undefined)
+  "Grouped Attack": "Групповая Атака" # global (count: 4) (undefined)
   "Grouped attack": ""
-  "Harvest": "Собрать" # global (undefined)
-  "Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
-  "Homeworld": "" # global (undefined)
+  "Harvest": "Собрать" # global (count: 4) (undefined)
+  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 5) (undefined)
+  "Homeworld": "" # global (count: 5) (undefined)
   "Jump gate": "Звездные врата"
   "LC": "БТ"
-  "Large Cargo": "Большой Транспорт" # global (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (undefined)
-  "Metal": "Металл" # global (undefined)
-  "Missile Attack": "Ракетная Атака" # global (undefined)
-  "Mission": "Миссия" # global (undefined)
-  "Moon": "Луна" # global (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
+  "Metal": "Металл" # global (count: 7) (undefined)
+  "Missile Attack": "Ракетная Атака" # global (count: 4) (undefined)
+  "Mission": "Миссия" # global (count: 5) (undefined)
+  "Moon": "Луна" # global (count: 3) (undefined)
   "No cron job at the moment": "На данный момент никакого задания работы  нет"
-  "No fleets": "Нет передвижения флотов" # global (undefined)
+  "No fleets": "Нет передвижения флотов" # global (count: 4) (undefined)
   "No saved flights": "Нет сохранены заданий флотов"
   "No scheduled flights": ""
-  "None": "Сбросить все корабли" # global (undefined)
-  "Note": "Примечание" # global (undefined)
-  "Origin": "Откуда" # global (undefined)
+  "None": "Сбросить все корабли" # global (count: 2) (undefined)
+  "Note": "Примечание" # global (count: 3) (undefined)
+  "Origin": "Откуда" # global (count: 6) (undefined)
   "PF": "ПП"
-  "Park": "Оставить" # global (undefined)
-  "Park In That Ally": "Держаться " # global (undefined)
-  "Pathfinder": "Первопроходец" # global (undefined)
-  "Planet": "Планета" # global (undefined)
+  "Park": "Оставить" # global (count: 4) (undefined)
+  "Park In That Ally": "Держаться " # global (count: 4) (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
+  "Planet": "Планета" # global (count: 6) (undefined)
   "R": ""
-  "Reaper": "Жнец" # global (undefined)
+  "Reaper": "Жнец" # global (count: 4) (undefined)
   "Recycle debris field": "Собрать поле обломков"
-  "Recycler": "Переработчик" # global (undefined)
+  "Recycler": "Переработчик" # global (count: 5) (undefined)
   "Resources to": ""
   "Return": "Возвращение"
   "SC": "МТ"
@@ -404,14 +404,14 @@ bot.flights:
   "Schedule fleet": ""
   "Scheduled flights": ""
   "Search for lifeforms": ""
-  "Select origin": "Выбирите Источник" # global (undefined)
-  "Send all resources": "" # global (undefined)
+  "Select origin": "Выбирите Источник" # global (count: 4) (undefined)
+  "Send all resources": "" # global (count: 2) (undefined)
   "Send fleet": "Отправить Флот"
   "Send flight": "Отправить Флот"
-  "Small Cargo": "Малый Транспорт" # global (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
   "Spec": "Спецификация"
-  "Spy": "Шпионаж" # global (undefined)
-  "Transport": "Транспорт" # global (undefined)
+  "Spy": "Шпионаж" # global (count: 4) (undefined)
+  "Transport": "Транспорт" # global (count: 4) (undefined)
   "from": "Откуда"
   "keep": ""
   "max": "Максимум"
@@ -419,97 +419,97 @@ bot.flights:
   "random delay 0-10min added": "добавлена случайная задержка 0-10мин"
   "send": ""
   "speed": "Скорость"
-  "to": "Куда" # global (undefined)
+  "to": "Куда" # global (count: 3) (undefined)
 bot.flightsEdit:
-  "Homeworld": "" # global (undefined)
-  "Send all resources": "" # global (undefined)
+  "Homeworld": "" # global (count: 5) (undefined)
+  "Send all resources": "" # global (count: 2) (undefined)
   "Send all ships": ""
 bot.galaxy.index:
   "Map": "Карта Галактики"
   "Table": "Галактика Обзор"
 bot.galaxy.map:
-  "Active": "Активный" # global (undefined)
+  "Active": "Активный" # global (count: 6) (undefined)
   "Coord": "Координаты"
-  "Inactive": "Не активный" # global (undefined)
-  "Vacation": "Отпуск" # global (undefined)
+  "Inactive": "Не активный" # global (count: 2) (undefined)
+  "Vacation": "Отпуск" # global (count: 3) (undefined)
 bot.galaxy.player:
-  "Actions": "Действия" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
   "Add to hunter list": "Добавить в Лист Охотника"
-  "Alliance": "Альянс" # global (undefined)
-  "Coords": "Координаты" # global (undefined)
-  "Crystal": "Кристалл" # global (undefined)
-  "Deuterium": "" # global (undefined)
-  "Espionage": "Шпионаж" # global (undefined)
-  "Espionage report": "Шпионский доклад" # global (undefined)
-  "Galaxy": "Галактика" # global (undefined)
-  "Members": "Число Игроков" # global (undefined)
-  "Metal": "Металл" # global (undefined)
-  "Moon": "Луна" # global (undefined)
-  "Planet name": "Имя Планеты" # global (undefined)
-  "Player name": "Имя Игрока" # global (undefined)
-  "Player profile": "Профиль Игрока" # global (undefined)
-  "RN": "Кол." # global (undefined)
-  "Rank": "Ранк" # global (undefined)
-  "Updated": "Последнее время обновления" # global (undefined)
+  "Alliance": "Альянс" # global (count: 4) (undefined)
+  "Coords": "Координаты" # global (count: 2) (undefined)
+  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Deuterium": "" # global (count: 7) (undefined)
+  "Espionage": "Шпионаж" # global (count: 2) (undefined)
+  "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
+  "Galaxy": "Галактика" # global (count: 4) (undefined)
+  "Members": "Число Игроков" # global (count: 2) (undefined)
+  "Metal": "Металл" # global (count: 7) (undefined)
+  "Moon": "Луна" # global (count: 3) (undefined)
+  "Planet name": "Имя Планеты" # global (count: 2) (undefined)
+  "Player name": "Имя Игрока" # global (count: 4) (undefined)
+  "Player profile": "Профиль Игрока" # global (count: 2) (undefined)
+  "RN": "Кол." # global (count: 2) (undefined)
+  "Rank": "Ранк" # global (count: 6) (undefined)
+  "Updated": "Последнее время обновления" # global (count: 2) (undefined)
 bot.galaxy.table:
-  "Actions": "Действия" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
   "Add alliance to ignore list": "Добавить Альянс в Игнорируемый Лист"
   "Add player to ignore list": "Добавить Игрока в Игнорируемый Лист"
-  "Alliance": "Альянс" # global (undefined)
-  "Coords": "Координаты" # global (undefined)
-  "Crystal": "Кристалл" # global (undefined)
+  "Alliance": "Альянс" # global (count: 4) (undefined)
+  "Coords": "Координаты" # global (count: 2) (undefined)
+  "Crystal": "Кристалл" # global (count: 7) (undefined)
   "Debris top 100": "Топ 100 Поле обломков"
-  "Deuterium": "" # global (undefined)
-  "Espionage": "Шпионаж" # global (undefined)
-  "Espionage report": "Шпионский доклад" # global (undefined)
-  "Get spy reports": "Вчитать шпионские доклады" # global (undefined)
+  "Deuterium": "" # global (count: 7) (undefined)
+  "Espionage": "Шпионаж" # global (count: 2) (undefined)
+  "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
+  "Get spy reports": "Вчитать шпионские доклады" # global (count: 2) (undefined)
   "Go": "Вперед"
-  "Members": "Число Игроков" # global (undefined)
-  "Metal": "Металл" # global (undefined)
-  "Moon": "Луна" # global (undefined)
+  "Members": "Число Игроков" # global (count: 2) (undefined)
+  "Metal": "Металл" # global (count: 7) (undefined)
+  "Moon": "Луна" # global (count: 3) (undefined)
   "Open in OGame browser": "Открыть Ogame в Браузере"
-  "Planet name": "Имя Планеты" # global (undefined)
-  "Player name": "Имя Игрока" # global (undefined)
-  "RN": "Кол." # global (undefined)
-  "Rank": "Ранк" # global (undefined)
+  "Planet name": "Имя Планеты" # global (count: 2) (undefined)
+  "Player name": "Имя Игрока" # global (count: 4) (undefined)
+  "RN": "Кол." # global (count: 2) (undefined)
+  "Rank": "Ранк" # global (count: 6) (undefined)
   "Scan this page": "Сканировать эту систему"
   "Scan universe": "Сканировать Всю галактику"
-  "Search": "Поиск" # global (undefined)
-  "Send recyclers": "Отправить переработчиков" # global (undefined)
+  "Search": "Поиск" # global (count: 3) (undefined)
+  "Send recyclers": "Отправить переработчиков" # global (count: 2) (undefined)
   "Stop scan universe": "Остановить сканирование всей галактики"
-  "Updated": "Последняя дата сканирования" # global (undefined)
+  "Updated": "Последняя дата сканирования" # global (count: 2) (undefined)
 bot.index:
   "Bot": "Бот"
   "Browser": "Браузер"
   "Conqueror": "Завоеватель"
-  "Empire": "Империя" # global (undefined)
+  "Empire": "Империя" # global (count: 2) (undefined)
   "Flights": "Передвижение флотов"
-  "Galaxy": "Галактика" # global (undefined)
-  "Home": "Дом" # global (undefined)
+  "Galaxy": "Галактика" # global (count: 4) (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
   "Scripts": "Скрипты"
   "Simulator": "Симулятор боя"
 bot.phalanxPlayer:
-  "Arrival time": "" # global (undefined)
-  "Attack": "" # global (undefined)
-  "Colonize": "" # global (undefined)
-  "Destination": "" # global (undefined)
-  "Destroy": "" # global (undefined)
-  "Expedition": "" # global (undefined)
-  "Galaxy": "" # global (undefined)
-  "Grouped Attack": "" # global (undefined)
-  "Harvest": "" # global (undefined)
-  "Missile Attack": "" # global (undefined)
-  "Mission": "" # global (undefined)
-  "No fleets": "" # global (undefined)
-  "Origin": "" # global (undefined)
-  "Park": "" # global (undefined)
-  "Park In That Ally": "" # global (undefined)
+  "Arrival time": "" # global (count: 2) (undefined)
+  "Attack": "" # global (count: 4) (undefined)
+  "Colonize": "" # global (count: 4) (undefined)
+  "Destination": "" # global (count: 7) (undefined)
+  "Destroy": "" # global (count: 4) (undefined)
+  "Expedition": "" # global (count: 7) (undefined)
+  "Galaxy": "" # global (count: 4) (undefined)
+  "Grouped Attack": "" # global (count: 4) (undefined)
+  "Harvest": "" # global (count: 4) (undefined)
+  "Missile Attack": "" # global (count: 4) (undefined)
+  "Mission": "" # global (count: 5) (undefined)
+  "No fleets": "" # global (count: 4) (undefined)
+  "Origin": "" # global (count: 6) (undefined)
+  "Park": "" # global (count: 4) (undefined)
+  "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx all": ""
-  "Player profile": "" # global (undefined)
-  "Ships": "" # global (undefined)
-  "Spy": "" # global (undefined)
-  "Transport": "" # global (undefined)
-  "Union ID": "" # global (undefined)
+  "Player profile": "" # global (count: 2) (undefined)
+  "Ships": "" # global (count: 4) (undefined)
+  "Spy": "" # global (count: 4) (undefined)
+  "Transport": "" # global (count: 4) (undefined)
+  "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
   "Add to queue": "Добавить в Очередь"
   "Build": "Строить"
@@ -517,7 +517,7 @@ bot.planet:
   "Cargo capacity": "Грузоподъёмность"
   "Current": "Текущее "
   "Current planet": "Текущая Планета"
-  "Fuel consumption": "Расход топлива" # global (undefined)
+  "Fuel consumption": "Расход топлива" # global (count: 2) (undefined)
   "Import resources & build": "Импорт ресурсов и постройка"
   "Is Collector": ""
   "Is Discoverer": ""
@@ -526,115 +526,115 @@ bot.planet:
   "Lifeform researches": ""
   "Main planet": "Главная Планета"
   "Price": "Количество ресурсов"
-  "Queue": "Очередь строительства" # global (undefined)
+  "Queue": "Очередь строительства" # global (count: 2) (undefined)
   "Queue tear down": "Очередь сноса"
   "Rapidfire against": "Скорострел по"
   "Rapidfire from": "Скорострел от"
   "Research": "Исследования"
   "Shield power": "Мощность Щита"
-  "Shipyard": "Верфь" # global (undefined)
-  "Speed": "Скорость" # global (undefined)
+  "Shipyard": "Верфь" # global (count: 3) (undefined)
+  "Speed": "Скорость" # global (count: 2) (undefined)
   "Structural integrity": "Структура"
   "Sum": "Сумма"
   "Weapon power": "Оценка Атаки"
   "no item in queue": "Нет заданий в очереди"
 bot.reorderPlanets:
-  "Empire": "Империя" # global (undefined)
-  "Reorder planets": "Расставить Порядок Планет" # global (undefined)
+  "Empire": "Империя" # global (count: 2) (undefined)
+  "Reorder planets": "Расставить Порядок Планет" # global (count: 2) (undefined)
 bot.report:
   "Alliance Class": ""
-  "Alliance Depot": "Склад Альянса" # global (undefined)
-  "Anti-Ballistic Missiles": "Ракета-перехватчик" # global (undefined)
-  "Armour Technology": "Броня космических кораблей" # global (undefined)
-  "Astrophysics": "Астрофизика" # global (undefined)
-  "Battlecruiser": "Линейный Крейсер" # global (undefined)
-  "Battleship": "Линкор" # global (undefined)
-  "Bomber": "Бомбандировщик" # global (undefined)
+  "Alliance Depot": "Склад Альянса" # global (count: 2) (undefined)
+  "Anti-Ballistic Missiles": "Ракета-перехватчик" # global (count: 2) (undefined)
+  "Armour Technology": "Броня космических кораблей" # global (count: 2) (undefined)
+  "Astrophysics": "Астрофизика" # global (count: 2) (undefined)
+  "Battlecruiser": "Линейный Крейсер" # global (count: 5) (undefined)
+  "Battleship": "Линкор" # global (count: 5) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
   "Character Class": ""
-  "Colony Ship": "Колонизатор" # global (undefined)
-  "Combustion Drive": "Реактивный Двигатель" # global (undefined)
-  "Computer Technology": "Компьютерная технология" # global (undefined)
-  "Cruiser": "Крейсер" # global (undefined)
-  "Crystal Mine": "Рудник по добыче Кристалла" # global (undefined)
-  "Crystal Storage": "Хранилище Кристалла" # global (undefined)
-  "Deathstar": "Звезда Смерти" # global (undefined)
-  "Destroyer": "Уничтожитель" # global (undefined)
-  "Deuterium Synthesizer": "Синтезатор Дейтерия" # global (undefined)
-  "Deuterium Tank": "Хранилище Дейтерия" # global (undefined)
-  "Energy Technology": "Энергетическая Технология" # global (undefined)
-  "Espionage Probe": "Шпионский Зонд" # global (undefined)
-  "Espionage Technology": "Шпионаж" # global (undefined)
-  "Fusion Reactor": "Термоядерная Электростанция" # global (undefined)
-  "Gauss Cannon": "Пушка Гаусса" # global (undefined)
-  "Graviton Technology": "Гравитационная Технология" # global (undefined)
-  "Heavy Fighter": "Тяжелый Итсребитель" # global (undefined)
-  "Heavy Laser": "Тяжелый Лазер" # global (undefined)
-  "Hyperspace Drive": "Гиперпространственный Двигатель" # global (undefined)
-  "Hyperspace Technology": "Гиперпространственная технология" # global (undefined)
-  "Impulse Drive": "Импульсный Двигатель" # global (undefined)
-  "Interplanetary Missiles": "Межпланетные Ракеты" # global (undefined)
-  "Ion Cannon": "Ионное орудие" # global (undefined)
-  "Ion Technology": "Ионная технология" # global (undefined)
-  "Jump Gate": "Звездные Врата" # global (undefined)
-  "Large Cargo": "Большой Транспорт" # global (undefined)
-  "Large Shield Dome": "Большой щитовой купол" # global (undefined)
-  "Laser Technology": "Лазерная Технология" # global (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (undefined)
-  "Light Laser": "Легкий Лазер" # global (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Combustion Drive": "Реактивный Двигатель" # global (count: 2) (undefined)
+  "Computer Technology": "Компьютерная технология" # global (count: 2) (undefined)
+  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Crystal Mine": "Рудник по добыче Кристалла" # global (count: 2) (undefined)
+  "Crystal Storage": "Хранилище Кристалла" # global (count: 2) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
+  "Deuterium Synthesizer": "Синтезатор Дейтерия" # global (count: 2) (undefined)
+  "Deuterium Tank": "Хранилище Дейтерия" # global (count: 2) (undefined)
+  "Energy Technology": "Энергетическая Технология" # global (count: 2) (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Espionage Technology": "Шпионаж" # global (count: 2) (undefined)
+  "Fusion Reactor": "Термоядерная Электростанция" # global (count: 2) (undefined)
+  "Gauss Cannon": "Пушка Гаусса" # global (count: 3) (undefined)
+  "Graviton Technology": "Гравитационная Технология" # global (count: 2) (undefined)
+  "Heavy Fighter": "Тяжелый Итсребитель" # global (count: 5) (undefined)
+  "Heavy Laser": "Тяжелый Лазер" # global (count: 3) (undefined)
+  "Hyperspace Drive": "Гиперпространственный Двигатель" # global (count: 2) (undefined)
+  "Hyperspace Technology": "Гиперпространственная технология" # global (count: 2) (undefined)
+  "Impulse Drive": "Импульсный Двигатель" # global (count: 2) (undefined)
+  "Interplanetary Missiles": "Межпланетные Ракеты" # global (count: 3) (undefined)
+  "Ion Cannon": "Ионное орудие" # global (count: 3) (undefined)
+  "Ion Technology": "Ионная технология" # global (count: 2) (undefined)
+  "Jump Gate": "Звездные Врата" # global (count: 2) (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
+  "Large Shield Dome": "Большой щитовой купол" # global (count: 3) (undefined)
+  "Laser Technology": "Лазерная Технология" # global (count: 2) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
+  "Light Laser": "Легкий Лазер" # global (count: 3) (undefined)
   "Load in simulator": "Загрузить в Симулятор боя"
-  "Lunar Base": "Лунная База" # global (undefined)
-  "Metal Mine": "Рудник по добыче Металла" # global (undefined)
-  "Metal Storage": "Хранилище Металла" # global (undefined)
-  "Missile Silo": "Ракетная Шахта" # global (undefined)
-  "Nanite Factory": "Фабрика Нанитов" # global (undefined)
-  "Plasma Technology": "Плазменная Технология" # global (undefined)
-  "Plasma Turret": "Плазменное Орудие" # global (undefined)
-  "Recycler": "Переработчик" # global (undefined)
+  "Lunar Base": "Лунная База" # global (count: 2) (undefined)
+  "Metal Mine": "Рудник по добыче Металла" # global (count: 2) (undefined)
+  "Metal Storage": "Хранилище Металла" # global (count: 2) (undefined)
+  "Missile Silo": "Ракетная Шахта" # global (count: 2) (undefined)
+  "Nanite Factory": "Фабрика Нанитов" # global (count: 2) (undefined)
+  "Plasma Technology": "Плазменная Технология" # global (count: 2) (undefined)
+  "Plasma Turret": "Плазменное Орудие" # global (count: 3) (undefined)
+  "Recycler": "Переработчик" # global (count: 5) (undefined)
   "Report": "Отчет"
-  "Research Lab": "Исследовательская Лаборатория" # global (undefined)
+  "Research Lab": "Исследовательская Лаборатория" # global (count: 2) (undefined)
   "Research Network": "Исследовательская сеть"
-  "Robotics Factory": "Фабрика Роботов" # global (undefined)
-  "Rocket Launcher": "Ракетная Установка" # global (undefined)
-  "Sensor Phalanx": "Сенсорная Фаланга" # global (undefined)
-  "Shielding Technology": "Щитовая Технология" # global (undefined)
-  "Shipyard": "Верфь" # global (undefined)
-  "Small Cargo": "Малый Транспорт" # global (undefined)
-  "Small Shield Dome": "Малый Щитовой Купол" # global (undefined)
-  "Solar Plant": "Солнечная Электростанция" # global (undefined)
-  "Solar Satellite": "Солнечный Спутник" # global (undefined)
-  "Space Dock": "Космический Док" # global (undefined)
-  "Terraformer": "Тераформер" # global (undefined)
-  "Weapons Technology": "Оружейная Технология" # global (undefined)
+  "Robotics Factory": "Фабрика Роботов" # global (count: 2) (undefined)
+  "Rocket Launcher": "Ракетная Установка" # global (count: 3) (undefined)
+  "Sensor Phalanx": "Сенсорная Фаланга" # global (count: 2) (undefined)
+  "Shielding Technology": "Щитовая Технология" # global (count: 2) (undefined)
+  "Shipyard": "Верфь" # global (count: 3) (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
+  "Small Shield Dome": "Малый Щитовой Купол" # global (count: 3) (undefined)
+  "Solar Plant": "Солнечная Электростанция" # global (count: 2) (undefined)
+  "Solar Satellite": "Солнечный Спутник" # global (count: 3) (undefined)
+  "Space Dock": "Космический Док" # global (count: 2) (undefined)
+  "Terraformer": "Тераформер" # global (count: 2) (undefined)
+  "Weapons Technology": "Оружейная Технология" # global (count: 2) (undefined)
 bot.scripts:
   "Edit file name": "Изменить Название файла"
   "Pause/unpause": "Пауза / Включить"
   "Run": "Запустить"
-  "Run at start": "Запуск при старте Бота" # global (undefined)
-  "Stop": "Стоп" # global (undefined)
+  "Run at start": "Запуск при старте Бота" # global (count: 2) (undefined)
+  "Stop": "Стоп" # global (count: 5) (undefined)
   "Upload scripts": ""
   "Validate Script": "Потвердить скрипт"
 bot.settings.activities:
-  "Created at": "Создать в" # global (undefined)
-  "Destination": "Расстояние" # global (undefined)
+  "Created at": "Создать в" # global (count: 6) (undefined)
+  "Destination": "Расстояние" # global (count: 7) (undefined)
   "Fleet log": "Лог флота"
   "Logins": ""
-  "Mission": "Задание" # global (undefined)
-  "Next": "Следующий" # global (undefined)
+  "Mission": "Задание" # global (count: 5) (undefined)
+  "Next": "Следующий" # global (count: 9) (undefined)
   "No fleet in the log": "В журнале нт флота"
-  "Origin": "Происхождение" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
+  "Origin": "Происхождение" # global (count: 6) (undefined)
+  "Prev": "Предыдущий" # global (count: 9) (undefined)
   "Sent fleets": ""
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-  "Crystal": "" # global (undefined)
-  "Deuterium": "" # global (undefined)
+  "Crystal": "" # global (count: 7) (undefined)
+  "Deuterium": "" # global (count: 7) (undefined)
   "Highest bid value": ""
-  "Homeworld": "" # global (undefined)
-  "Metal": "" # global (undefined)
-  "Save": "" # global (undefined)
+  "Homeworld": "" # global (count: 5) (undefined)
+  "Metal": "" # global (count: 7) (undefined)
+  "Save": "" # global (count: 17) (undefined)
 bot.settings.brain:
   "AI": "ИИ"
   "Batch update": ""
@@ -654,32 +654,32 @@ bot.settings.brain:
   "Individual": ""
   "Kaelesh": ""
   "Mechas": ""
-  "None": "Ничего" # global (undefined)
-  "Planet": "Планета" # global (undefined)
+  "None": "Ничего" # global (count: 2) (undefined)
+  "Planet": "Планета" # global (count: 6) (undefined)
   "Prevent importing if come back during sleep time": "Предотвратить импорт, если вернетесь во время сна"
   "Prioritize nanite factory": ""
-  "Queue": "Очередь" # global (undefined)
+  "Queue": "Очередь" # global (count: 2) (undefined)
   "Rocktal": ""
-  "Save": "Сохранить" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
   "Set all moons": ""
   "Set all planets": ""
   "Try to buy 'offer of the day' every 4h": ""
   "reset form": ""
-  "to": "в" # global (undefined)
+  "to": "в" # global (count: 3) (undefined)
 bot.settings.colonizer:
   "Colonize using": ""
   "Colonizer configs": ""
-  "Galaxy": "" # global (undefined)
-  "Max colonizer slots": "" # global (undefined)
+  "Galaxy": "" # global (count: 4) (undefined)
+  "Max colonizer slots": "" # global (count: 2) (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "Systems": ""
   "Unlimited": ""
   "colonizer active": ""
 bot.settings.debug:
   "HTTP client timeout": "Время ожидания клиента http"
-  "Save": "Сохранить" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
 bot.settings.defender:
   "--- Bot decision ---": "Бот решает"
   "2-steps (planets then moons)": "2-ступени (планеты, затем Луны)"
@@ -699,7 +699,7 @@ bot.settings.defender:
   "Never": "Никогда"
   "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": "Уведомлять об атаках малого флота (< 1/3 огневой мощи)"
-  "Planet": "Планета" # global (undefined)
+  "Planet": "Планета" # global (count: 6) (undefined)
   "Play sound when attacked": "Проиграть звук при атаке"
   "Preferred destination": "Предпочтительный пункт Эвакуаций"
   "Prevent if come back during sleep time": "Не Собирать ресурсы если флот возвращается во время сна"
@@ -711,34 +711,34 @@ bot.settings.defender:
   "Repatriate interval": "Интервал Сбора ресурсов"
   "Repatriate random order": "Сбор ресурсов в случайном порядке"
   "Repatriate resources": "Сбор ресурсов"
-  "Save": "Сохранить" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
   "Send message to attackers": "Отправить сообщение при Атаке"
   "activate for moon ?": "Использовать для Луны?"
-  "minutes": "Минуты" # global (undefined)
-  "next check in": "Следующая проверка в" # global (undefined)
-  "next in": "Следующая в" # global (undefined)
+  "minutes": "Минуты" # global (count: 3) (undefined)
+  "next check in": "Следующая проверка в" # global (count: 2) (undefined)
+  "next in": "Следующая в" # global (count: 3) (undefined)
   "sec": "сек"
-  "to": "в" # global (undefined)
+  "to": "в" # global (count: 3) (undefined)
 bot.settings.discovery:
   "Discovery configs": ""
   "Discovery using": ""
-  "Max discovery slots": "" # global (undefined)
-  "Save": "" # global (undefined)
+  "Max discovery slots": "" # global (count: 2) (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-  "Actions": "Отозвать" # global (undefined)
-  "All": "" # global (undefined)
-  "Category": "Категория" # global (undefined)
-  "Coordinate": "Координаты" # global (undefined)
-  "Espionage report": "Шпионский доклад" # global (undefined)
-  "Expedition": "Экспедиция" # global (undefined)
+  "Actions": "Отозвать" # global (count: 12) (undefined)
+  "All": "" # global (count: 5) (undefined)
+  "Category": "Категория" # global (count: 2) (undefined)
+  "Coordinate": "Координаты" # global (count: 2) (undefined)
+  "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
+  "Expedition": "Экспедиция" # global (count: 7) (undefined)
   "Extract expedition messages": "Обрабатываю экспедиционные доклады"
-  "InGame date": "Дата игры" # global (undefined)
-  "Message": "Сообщение" # global (undefined)
-  "Messages": "Сообщения" # global (undefined)
-  "Next": "Следующий" # global (undefined)
-  "No messages to show": "Нет сообщении для показа" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
+  "InGame date": "Дата игры" # global (count: 2) (undefined)
+  "Message": "Сообщение" # global (count: 3) (undefined)
+  "Messages": "Сообщения" # global (count: 3) (undefined)
+  "Next": "Следующий" # global (count: 9) (undefined)
+  "No messages to show": "Нет сообщении для показа" # global (count: 2) (undefined)
+  "Prev": "Предыдущий" # global (count: 9) (undefined)
   "Re-process existing messages": "Повторная обработка существующих сообщений"
   "alien": ""
   "delay": ""
@@ -753,103 +753,103 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-  "Actions": "Отозвать" # global (undefined)
-  "Active": "Активен" # global (undefined)
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-  "Arrive in": "Прибудет в" # global (undefined)
-  "Attack": "Атака" # global (undefined)
+  "Actions": "Отозвать" # global (count: 12) (undefined)
+  "Active": "Активен" # global (count: 6) (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Arrive in": "Прибудет в" # global (count: 2) (undefined)
+  "Attack": "Атака" # global (count: 4) (undefined)
   "Automatic fleet": ""
-  "Battlecruiser": "Линейный Кресйсер" # global (undefined)
-  "Battleship": "Линкор" # global (undefined)
-  "Bomber": "Бомбандировщик" # global (undefined)
-  "Cancel Fleet": "Отозвать Флот" # global (undefined)
+  "Battlecruiser": "Линейный Кресйсер" # global (count: 5) (undefined)
+  "Battleship": "Линкор" # global (count: 5) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Cancel Fleet": "Отозвать Флот" # global (count: 2) (undefined)
   "Click here to load current fleets": "Нажмите чтоб загрузить передвижение флотов"
-  "Colonize": "Колонизировать" # global (undefined)
-  "Colony Ship": "Колонизатор" # global (undefined)
-  "Cruiser": "Крейсер" # global (undefined)
-  "Current fleets": "Передвижение флотов" # global (undefined)
-  "Deathstar": "Звезда Смерти" # global (undefined)
+  "Colonize": "Колонизировать" # global (count: 4) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Current fleets": "Передвижение флотов" # global (count: 2) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
   "Delay between fleet (secs)": "Интервал между флотами (секунды)"
   "Delay between waves (secs)": "Задержка между волнами"
-  "Destination": "Место назначения" # global (undefined)
-  "Destroy": "Уничтожить" # global (undefined)
-  "Destroyer": "Уничтожитель" # global (undefined)
+  "Destination": "Место назначения" # global (count: 7) (undefined)
+  "Destroy": "Уничтожить" # global (count: 4) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
   "Duration": "Продолжительность"
-  "Espionage Probe": "Шпионский зонд" # global (undefined)
-  "Exp": "Экспа" # global (undefined)
-  "Expedition": "Экспедиция" # global (undefined)
+  "Espionage Probe": "Шпионский зонд" # global (count: 5) (undefined)
+  "Exp": "Экспа" # global (count: 2) (undefined)
+  "Expedition": "Экспедиция" # global (count: 7) (undefined)
   "Expedition speed": "Скорость Экспедиций"
   "Expeditions active": "Проверка Экспедиции"
   "Expeditions configs": "Настройка Экспедиции"
   "Expeditions origin": "Экспедиция отправляется из"
-  "Grouped Attack": "Групповая Атака" # global (undefined)
-  "Harvest": "Собрать" # global (undefined)
-  "Heavy Fighter": "Тяжелый истребитель" # global (undefined)
-  "Homeworld": "" # global (undefined)
+  "Grouped Attack": "Групповая Атака" # global (count: 4) (undefined)
+  "Harvest": "Собрать" # global (count: 4) (undefined)
+  "Heavy Fighter": "Тяжелый истребитель" # global (count: 5) (undefined)
+  "Homeworld": "" # global (count: 5) (undefined)
   "Ignore min deut": "Игнорировать минимальный порог дейтерия"
   "LC that will not be send with auto-split": "Количество БТ которое не будет учитываться в авто-разделений"
-  "Large Cargo": "Большой Транспорт" # global (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
   "Large Cargo to stay": "Оставить Больших Транспортов"
-  "Light Fighter": "Легкий Истребитель" # global (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
   "Minimum Pathfinders": ""
   "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": "Минимальная скорость"
   "Minimum speed for the early PF": "Минимальная скорость для ПП отправляемых заранее"
-  "Missile Attack": "Ракетный Удар" # global (undefined)
-  "Mission": "Задание" # global (undefined)
-  "Name": "Имя" # global (undefined)
+  "Missile Attack": "Ракетный Удар" # global (count: 4) (undefined)
+  "Mission": "Задание" # global (count: 5) (undefined)
+  "Name": "Имя" # global (count: 3) (undefined)
   "Never wait (100% getting ban)": "Не ждать (100% получение бана)"
-  "No fleets": "Нет флотов" # global (undefined)
+  "No fleets": "Нет флотов" # global (count: 4) (undefined)
   "Number to send": "Номер для отправки"
-  "Origin": "Место вылета" # global (undefined)
+  "Origin": "Место вылета" # global (count: 6) (undefined)
   "PF that will not be send with auto-split nor for recycle": "ПП Которые не будут отправлены ни с ПП заранее ни с ПП в экспедицию"
   "PF will be send to arrive at the same time as debris field is created (if any)": "ПП прибудут для  в то же время, когда будет создано поле обломков (если таковое будет или не будет)"
-  "Park": "Оставить" # global (undefined)
-  "Park In That Ally": "Держаться на орбите союзника" # global (undefined)
-  "Pathfinder": "Первопроходец" # global (undefined)
+  "Park": "Оставить" # global (count: 4) (undefined)
+  "Park In That Ally": "Держаться на орбите союзника" # global (count: 4) (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
   "Pathfinders to stay": "Оставить Первопроходцев"
-  "Reaper": "Жнец" # global (undefined)
+  "Reaper": "Жнец" # global (count: 4) (undefined)
   "Recycle debris": "Собрать Поле обломков"
-  "Recycler": "Переработчик" # global (undefined)
+  "Recycler": "Переработчик" # global (count: 5) (undefined)
   "SC that will not be send with auto-split": "Количество МТ которое не будет учитываться в авто-разделений"
   "Secs after expedition": "Секунды после экспедиции"
-  "Select origin": "Выбрать Место отправления" # global (undefined)
+  "Select origin": "Выбрать Место отправления" # global (count: 4) (undefined)
   "Ships per expedition": "Корабли для Экспедиции"
   "Slots allowed": "Разрешено слотов"
-  "Small Cargo": "Малый Транспорт" # global (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
   "Small Cargo to stay": "Оставить Малых Транспортов"
-  "Spy": "Шпионаж" # global (undefined)
+  "Spy": "Шпионаж" # global (count: 4) (undefined)
   "Statistics": "Статистика"
   "Strategy": "Стратегия"
   "Systems range": "Интервал Систем"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "Установите флажок для автоматического разделения доступных кораблей или введите номер для отправки определенного количества кораблей"
   "Time in seconds that early PF will arrive after the expedition": "Время в секундах, которое ранний ПП прибудет после экспедиции"
-  "Transport": "Транспорт" # global (undefined)
+  "Transport": "Транспорт" # global (count: 4) (undefined)
   "Wait for all expeditions slots": "Дождаться возвращения всех Экспедиционных слотов"
   "Wait for majority of expeditions slots": "Дождаться большинства Экспедиционных слотов"
   "expeditions": "Экспедиции"
-  "next check in": "Следующая проверка в" # global (undefined)
-  "unlimited": "Не ограничено" # global (undefined)
+  "next check in": "Следующая проверка в" # global (count: 2) (undefined)
+  "unlimited": "Не ограничено" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "Отменить все сессии"
-  "Actions": "Отозвать" # global (undefined)
-  "Active": "Активные" # global (undefined)
+  "Actions": "Отозвать" # global (count: 12) (undefined)
+  "Active": "Активные" # global (count: 6) (undefined)
   "Additional cargo": "Дополнительный груз"
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Attack from nearest moon": "Атака с ближаищей Луны"
   "Attack from nearest planet": "Атака с ближаищей Планеты"
   "Attack speed": "Скорость Атаки"
-  "Created at": "Создано в" # global (undefined)
-  "Crystal": "Кристалл" # global (undefined)
+  "Created at": "Создано в" # global (count: 6) (undefined)
+  "Crystal": "Кристалл" # global (count: 7) (undefined)
   "Delete combat reports": "Удалить боевые доклады"
-  "Deuterium": "Дейтерий" # global (undefined)
+  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
   "Espionage probe raids": "Шпионский Зонд Летит"
   "Farm sessions": "Сессия Сбора"
   "Farmer active": "Сбор активен"
   "Fast attacking": "Быстрая Атака"
   "Ignore targets with activity": "Игнорировать Актив цели"
-  "Inactive": "Не активна" # global (undefined)
-  "Metal": "Металл" # global (undefined)
+  "Inactive": "Не активна" # global (count: 2) (undefined)
+  "Metal": "Металл" # global (count: 7) (undefined)
   "Min. defenses to ignore": "Игнорировать порог минимального дейтерия"
   "Min. player rank": "Минимальный рани Игрока"
   "Min. resources to attack": "Минимальные ресурсы для Атаки"
@@ -857,13 +857,13 @@ bot.settings.farmer:
   "Nb probes": "Количество Зондов"
   "New session": "Новый Сбор"
   "No session": "Нет Сбора"
-  "Origin": "Место вылета" # global (undefined)
-  "Planet": "Планета" # global (undefined)
+  "Origin": "Место вылета" # global (count: 6) (undefined)
+  "Planet": "Планета" # global (count: 6) (undefined)
   "Priority calculation": "Расчет приоритета"
   "Range": "Интервал"
-  "Redo": "Повторить" # global (undefined)
-  "Save": "Сохранить" # global (undefined)
-  "Select origin": "Выбрать Место вылета" # global (undefined)
+  "Redo": "Повторить" # global (count: 2) (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
+  "Select origin": "Выбрать Место вылета" # global (count: 4) (undefined)
   "Start new session": "Старт Нового Сбора"
   "State": "Статус"
   "Total loot": "Общий Лут"
@@ -874,169 +874,169 @@ bot.settings.farmer:
   "ignored players": "Игнорируемые Игроки"
   "statistics": "Статистика"
 bot.settings.farmerIgnoredAlliances:
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-  "Remove all": "Очистить Все" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Remove all": "Очистить Все" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-  "Remove all": "Очистить Все" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Remove all": "Очистить Все" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-  "Remove all": "Очистить Все" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Remove all": "Очистить Все" # global (count: 3) (undefined)
 bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-  "Actions": "Действия" # global (undefined)
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Attack type": "Тип Атаки"
-  "Attacker": "Атакующий" # global (undefined)
+  "Attacker": "Атакующий" # global (count: 2) (undefined)
   "Brain activities": "ИИ Активация"
   "Cancel evacuation": "Отмена Эвакуации"
   "Check attacks": "Проверка Атаки"
   "Countdowns": "Обратный отсчет"
-  "Defender": "Защитник" # global (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
   "Defender activities": "Активация Защитника"
-  "Destination": "Место назначения" # global (undefined)
+  "Destination": "Место назначения" # global (count: 7) (undefined)
   "Donut galaxy": "Заколдованная Галактика"
   "Donut system": "Закольцованные системы"
-  "Email": "Емайл" # global (undefined)
-  "Expeditions": "Экспедиция" # global (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
+  "Expeditions": "Экспедиция" # global (count: 4) (undefined)
   "Fingerprint": ""
   "General info": "Общая Информация"
-  "Hunter": "Охотник" # global (undefined)
+  "Hunter": "Охотник" # global (count: 4) (undefined)
   "No evacuations": "Нет Эвакуации"
   "No plans": "Нет плана"
-  "Proxy": "Прокси" # global (undefined)
-  "Repatriate": "Сбор Ресурсов" # global (undefined)
+  "Proxy": "Прокси" # global (count: 3) (undefined)
+  "Repatriate": "Сбор Ресурсов" # global (count: 2) (undefined)
   "Repatriate now": "Собрать ресурсы сейчас"
   "Reschedule evacuation": "Перенести Сбор Ресурсов"
   "Research speed": "Скорость Исследования"
-  "Ships": "Корабли" # global (undefined)
+  "Ships": "Корабли" # global (count: 4) (undefined)
   "Skip sus login wait": ""
   "Times": "Темы"
-  "Universe": "Уня" # global (undefined)
+  "Universe": "Уня" # global (count: 4) (undefined)
   "Universe speed": "Скорость Уни"
   "Universe speed fleet": "Скорость флота Уни"
   "What is my IP?": "Каков мой IP-адрес?"
-  "scanner": "Сканер" # global (undefined)
+  "scanner": "Сканер" # global (count: 2) (undefined)
 bot.settings.hotkeys:
-  "General": "" # global (undefined)
-  "Hotkeys": "" # global (undefined)
-  "Notifications": "" # global (undefined)
+  "General": "" # global (count: 5) (undefined)
+  "Hotkeys": "" # global (count: 3) (undefined)
+  "Notifications": "" # global (count: 4) (undefined)
 bot.settings.hunter-target:
-  "Alliance": "Альянс" # global (undefined)
+  "Alliance": "Альянс" # global (count: 4) (undefined)
   "Color legend": "Цвета Легенды"
   "Notify when inactive for": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "Target": "Цель"
-  "minutes": "" # global (undefined)
+  "minutes": "" # global (count: 3) (undefined)
 bot.settings.hunter:
-  "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (undefined)
-  "Actions": "Действия" # global (undefined)
-  "Activities": "Деятельность" # global (undefined)
+  "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (count: 2) (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
+  "Activities": "Деятельность" # global (count: 3) (undefined)
   "Activity": "Активность"
-  "Alliance": "Альянс" # global (undefined)
+  "Alliance": "Альянс" # global (count: 4) (undefined)
   "Alliance rank": "Альянс Ранк"
   "Hunter configs": "Настройки Охотника"
-  "No activity": "оффлайн" # global (undefined)
+  "No activity": "оффлайн" # global (count: 2) (undefined)
   "No targets": "Нет Целей"
   "Player": "Игрок"
   "Player rank": "Ранк Игрока"
-  "Save": "Сохранить" # global (undefined)
-  "Scan frequency": "Частота сканирования" # global (undefined)
-  "Scan using": "Сканирование с помощью" # global (undefined)
-  "Vacation": "Отпуск" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
+  "Scan frequency": "Частота сканирования" # global (count: 2) (undefined)
+  "Scan using": "Сканирование с помощью" # global (count: 2) (undefined)
+  "Vacation": "Отпуск" # global (count: 3) (undefined)
   "View activities": "График Деятельности"
-  "minutes": "Минуты" # global (undefined)
-  "next in": "Следующий через" # global (undefined)
+  "minutes": "Минуты" # global (count: 3) (undefined)
+  "next in": "Следующий через" # global (count: 3) (undefined)
 bot.settings.index:
-  "Activities": "Мероприятия" # global (undefined)
+  "Activities": "Мероприятия" # global (count: 3) (undefined)
   "Auctioneer": ""
-  "Brain": "ИИ" # global (undefined)
-  "Colonizer": "" # global (undefined)
-  "Defender": "Защитник" # global (undefined)
+  "Brain": "ИИ" # global (count: 2) (undefined)
+  "Colonizer": "" # global (count: 2) (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
   "Discovery": ""
-  "Expeditions": "Экспедиции" # global (undefined)
-  "Farmer": "Сборщик ресурсов" # global (undefined)
-  "Hunter": "Охотник" # global (undefined)
+  "Expeditions": "Экспедиции" # global (count: 4) (undefined)
+  "Farmer": "Сборщик ресурсов" # global (count: 5) (undefined)
+  "Hunter": "Охотник" # global (count: 4) (undefined)
   "Logs": "Логи"
-  "Messages": "Сообщения" # global (undefined)
+  "Messages": "Сообщения" # global (count: 3) (undefined)
   "Overview": "Обзор"
-  "Phalanx": "Сенсорная Фаланга" # global (undefined)
+  "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
   "Scanner": "Сканер"
-  "Settings": "Настройки" # global (undefined)
+  "Settings": "Настройки" # global (count: 7) (undefined)
   "Sleep mode": "Режим Сна"
-  "Start": "Старт" # global (undefined)
-  "Stop": "Стоп" # global (undefined)
+  "Start": "Старт" # global (count: 4) (undefined)
+  "Stop": "Стоп" # global (count: 5) (undefined)
 bot.settings.logs:
-  "All": "Все" # global (undefined)
+  "All": "Все" # global (count: 5) (undefined)
   "Audit": "Аудит"
-  "Brain": "ИИ" # global (undefined)
-  "Category": "Категория" # global (undefined)
-  "Colonizer": "" # global (undefined)
-  "Crawler": "Гусеничка" # global (undefined)
-  "Created at": "Создать в" # global (undefined)
-  "Defender": "Защитник" # global (undefined)
+  "Brain": "ИИ" # global (count: 2) (undefined)
+  "Category": "Категория" # global (count: 2) (undefined)
+  "Colonizer": "" # global (count: 2) (undefined)
+  "Crawler": "Гусеничка" # global (count: 4) (undefined)
+  "Created at": "Создать в" # global (count: 6) (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
   "Download logs": "Скачать Логи"
-  "Expeditions": "" # global (undefined)
-  "Farmer": "Сборщик Ресурсов" # global (undefined)
+  "Expeditions": "" # global (count: 4) (undefined)
+  "Farmer": "Сборщик Ресурсов" # global (count: 5) (undefined)
   "Fleet save": ""
-  "General": "Общая" # global (undefined)
-  "Hunter": "Охотник" # global (undefined)
+  "General": "Общая" # global (count: 5) (undefined)
+  "Hunter": "Охотник" # global (count: 4) (undefined)
   "Level": "Уровень"
-  "Message": "Сообщение" # global (undefined)
-  "Next": "Следующии" # global (undefined)
+  "Message": "Сообщение" # global (count: 3) (undefined)
+  "Next": "Следующии" # global (count: 9) (undefined)
   "No logs to show": "Нет логов для показа"
-  "Phalanx": "Сенсорная Фаланга" # global (undefined)
-  "Prev": "Предыдущии" # global (undefined)
-  "Repatriate": "Собрать ресурсы" # global (undefined)
+  "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
+  "Prev": "Предыдущии" # global (count: 9) (undefined)
+  "Repatriate": "Собрать ресурсы" # global (count: 2) (undefined)
   "VM": "ВМ"
-  "scanner": "Сканер" # global (undefined)
+  "scanner": "Сканер" # global (count: 2) (undefined)
 bot.settings.messages:
-  "All": "Все" # global (undefined)
-  "Coordinate": "Координаты" # global (undefined)
-  "Espionage report": "Шпионский доклад" # global (undefined)
-  "Expedition": "Экспедиция" # global (undefined)
-  "Farmer": "Сборщик Ресурсов" # global (undefined)
+  "All": "Все" # global (count: 5) (undefined)
+  "Coordinate": "Координаты" # global (count: 2) (undefined)
+  "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
+  "Expedition": "Экспедиция" # global (count: 7) (undefined)
+  "Farmer": "Сборщик Ресурсов" # global (count: 5) (undefined)
   "Importer": "Импортер"
-  "InGame date": "Дата в Игре" # global (undefined)
+  "InGame date": "Дата в Игре" # global (count: 2) (undefined)
   "Loot": "Лут"
   "Manual": "Инструкция"
-  "Messages": "Сообщения" # global (undefined)
-  "Next": "Следующии" # global (undefined)
-  "No messages to show": "Нет сообщений для показа" # global (undefined)
-  "Prev": "Предыдущии" # global (undefined)
-  "Resources": "Ресурсы" # global (undefined)
+  "Messages": "Сообщения" # global (count: 3) (undefined)
+  "Next": "Следующии" # global (count: 9) (undefined)
+  "No messages to show": "Нет сообщений для показа" # global (count: 2) (undefined)
+  "Prev": "Предыдущии" # global (count: 9) (undefined)
+  "Resources": "Ресурсы" # global (count: 2) (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": "Бот Вышел режим сна"
   "Bot goes to sleep mode": "Бот переходит в спящий режим"
-  "Defender": "Защитник" # global (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
   "Discord": ""
   "Discord webhook for notifications": ""
-  "Email": "Емайл" # global (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
   "Email for notifications": "Емайл для уведомлений"
   "Evacuation fails": "Эвакуация не удалась"
   "Expedition loss": "Экспедиция в Дырке!"
-  "Expeditions": "Экспедиции" # global (undefined)
+  "Expeditions": "Экспедиции" # global (count: 4) (undefined)
   "Failed to fleet save": "Сейв флота не удался"
   "Farm session completed": "Сбор ресурсов сессия закончена"
   "Farm session started": "Сбор ресурсов сессия запущена"
-  "Farmer": "Сбор ресурсов" # global (undefined)
+  "Farmer": "Сбор ресурсов" # global (count: 5) (undefined)
   "Forward ingame chat from alliance": "Пересылать чат альянса"
   "Forward ingame chat from players": "Пересылать сообщения игроков"
-  "General": "Общая" # global (undefined)
+  "General": "Общая" # global (count: 5) (undefined)
   "Global": "Глобальный"
-  "Hotkeys": "" # global (undefined)
-  "Hunter": "Охотник" # global (undefined)
+  "Hotkeys": "" # global (count: 3) (undefined)
+  "Hunter": "Охотник" # global (count: 4) (undefined)
   "Login fails": "Авторизация не удалась"
   "New attack detected": "Обнаружена новая Атака"
   "New missiles attack detected": "Обнаружена новый Ракетный Удар"
-  "Notifications": "Уведомления" # global (undefined)
+  "Notifications": "Уведомления" # global (count: 4) (undefined)
   "Recall of fleets": ""
-  "Save": "Сохранить" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
   "Slack": "Сласк"
   "Slack username for notifications": "Имя пользователя Сладк для уведомлении"
-  "Sleep Mode": "Режим Сна" # global (undefined)
+  "Sleep Mode": "Режим Сна" # global (count: 2) (undefined)
   "Target become inactive": ""
   "Target dropped in military points": "Цель сброшена в военных точках"
   "Telegram": "Телеграм"
@@ -1045,69 +1045,69 @@ bot.settings.notifications:
   "test notif": "Тест уведомление"
   "test slack": "Тест Сласк"
 bot.settings.phalanx:
-  "Are you sure?": "" # global (undefined)
-  "Phalanx": "Сенсорная Фаланга" # global (undefined)
-  "Redo": "" # global (undefined)
-  "Start": "Старт" # global (undefined)
+  "Are you sure?": "" # global (count: 19) (undefined)
+  "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
+  "Redo": "" # global (count: 2) (undefined)
+  "Start": "Старт" # global (count: 4) (undefined)
 bot.settings.phalanxSession:
-  "Arrival time": "" # global (undefined)
-  "Attack": "" # global (undefined)
+  "Arrival time": "" # global (count: 2) (undefined)
+  "Attack": "" # global (count: 4) (undefined)
   "Click on a fleet to get timing details": ""
-  "Colonize": "" # global (undefined)
-  "Destination": "" # global (undefined)
-  "Destroy": "" # global (undefined)
-  "Expedition": "" # global (undefined)
-  "Grouped Attack": "" # global (undefined)
-  "Harvest": "" # global (undefined)
+  "Colonize": "" # global (count: 4) (undefined)
+  "Destination": "" # global (count: 7) (undefined)
+  "Destroy": "" # global (count: 4) (undefined)
+  "Expedition": "" # global (count: 7) (undefined)
+  "Grouped Attack": "" # global (count: 4) (undefined)
+  "Harvest": "" # global (count: 4) (undefined)
   "Is general?": ""
-  "Missile Attack": "" # global (undefined)
-  "Mission": "" # global (undefined)
-  "Next": "Следйющии" # global (undefined)
-  "No fleets": "Нет флотов" # global (undefined)
-  "Origin": "" # global (undefined)
-  "Park": "" # global (undefined)
-  "Park In That Ally": "" # global (undefined)
-  "Phalanx": "Сенсорная Фаланга" # global (undefined)
+  "Missile Attack": "" # global (count: 4) (undefined)
+  "Mission": "" # global (count: 5) (undefined)
+  "Next": "Следйющии" # global (count: 9) (undefined)
+  "No fleets": "Нет флотов" # global (count: 4) (undefined)
+  "Origin": "" # global (count: 6) (undefined)
+  "Park": "" # global (count: 4) (undefined)
+  "Park In That Ally": "" # global (count: 4) (undefined)
+  "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
   "Phalanx session": "Сессия Сенсорной Фаланги"
-  "Prev": "Предыдущии" # global (undefined)
+  "Prev": "Предыдущии" # global (count: 9) (undefined)
   "Recall back at": ""
   "Recall time": ""
   "Scheduled arrive time": ""
   "Session aborted": "Отменить Сессию"
-  "Ships": "" # global (undefined)
-  "Speed": "" # global (undefined)
-  "Spy": "" # global (undefined)
+  "Ships": "" # global (count: 4) (undefined)
+  "Speed": "" # global (count: 2) (undefined)
+  "Spy": "" # global (count: 4) (undefined)
   "Started at": ""
-  "Stop": "Стоп" # global (undefined)
+  "Stop": "Стоп" # global (count: 5) (undefined)
   "Target information": ""
-  "Transport": "" # global (undefined)
-  "Union ID": "" # global (undefined)
+  "Transport": "" # global (count: 4) (undefined)
+  "Union ID": "" # global (count: 2) (undefined)
 bot.settings.scanner:
-  "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (undefined)
+  "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (count: 2) (undefined)
   "Interval between system scan": "Интервал между сканированием системы"
-  "Save": "Сохранить" # global (undefined)
-  "Scan frequency": "Сканировать рав в" # global (undefined)
-  "Scan using": "Сканировать с помощью" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
+  "Scan frequency": "Сканировать рав в" # global (count: 2) (undefined)
+  "Scan using": "Сканировать с помощью" # global (count: 2) (undefined)
   "Scans the whole universe every set amount of hours.": "Сканирует всю Вселенную каждые установленные часы"
   "hours": "Часы"
   "milliseconds": "Милисекунды"
   "minimum": "Минимум"
-  "next in": "Следующии в" # global (undefined)
+  "next in": "Следующии в" # global (count: 3) (undefined)
   "scanner active": "Сканер активен"
   "scanner configs": "Настройки сканера"
 bot.settings.settings:
   "--- Default ---": "По умолчанию"
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "< strong>предупреждение:< / strong> это делается для изменения учетных данных, которые бот использует для входа в OGame, а не для изменения пароля лобби."
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Auto enable manual mode when using browser": "Автоматическое включение ручного режима при использовании браузера"
   "Backup this bot": ""
   "Bot timezone": "Бот Часовой пояс"
   "Browser augments": "Дополнения Браузера"
-  "Captcha": "" # global (undefined)
+  "Captcha": "" # global (count: 2) (undefined)
   "Change ogame credentials": "Изменение учетных данных ogame"
   "Change proxy": "Изменение Прокси"
   "Commander UI": "Интерфейс командира"
-  "Coordinates": "Координаты" # global (undefined)
+  "Coordinates": "Координаты" # global (count: 2) (undefined)
   "Default": "По умолчанию"
   "Delete bot": "Удалить Бота"
   "Delete expedition messages once imported": "Удалить отчеты экспедиции после внесения"
@@ -1124,36 +1124,36 @@ bot.settings.settings:
   "Enter your password": "Ввести пароль"
   "Espionage probe": "Шпионский Зонд"
   "Gameforge bearer token": ""
-  "General": "Обшее" # global (undefined)
+  "General": "Обшее" # global (count: 5) (undefined)
   "General options": "Общие Настройки"
-  "Homeworld": "Главная планета" # global (undefined)
+  "Homeworld": "Главная планета" # global (count: 5) (undefined)
   "Host machine Timezone": "Часов пояс Хост машины"
-  "Hotkeys": "" # global (undefined)
+  "Hotkeys": "" # global (count: 3) (undefined)
   "Large cargo": "Большой Транспорт"
   "Max brain slots": "Максимальное количество слотов для ИИ"
-  "Max colonizer slots": "" # global (undefined)
-  "Max discovery slots": "" # global (undefined)
+  "Max colonizer slots": "" # global (count: 2) (undefined)
+  "Max discovery slots": "" # global (count: 2) (undefined)
   "Max expeditions slots": "Максимальное количество слотов для Экспедиции"
   "Max farmer slots": "Максимальное количество слотов для Сборщика Ресурсов"
   "Max repatriate slots": "Максимальное количество слотов для Сбора ресурсов"
   "Max script slots": "Максимальное количество слотов для Скриптов"
-  "Name": "Имя" # global (undefined)
-  "Notifications": "Уведомления" # global (undefined)
+  "Name": "Имя" # global (count: 3) (undefined)
+  "Notifications": "Уведомления" # global (count: 4) (undefined)
   "OGT (OGame Timezone)": "OGT (Время Сервера)"
-  "OTP secret": "" # global (undefined)
+  "OTP secret": "" # global (count: 3) (undefined)
   "Ogame password": ""
   "Ogame universe": ""
   "Ogame username": ""
-  "Pathfinder": "Перевопроходец" # global (undefined)
-  "Player ID": "" # global (undefined)
+  "Pathfinder": "Перевопроходец" # global (count: 5) (undefined)
+  "Player ID": "" # global (count: 2) (undefined)
   "Preferred transport ships": "Предпочитаемые транспортные суда"
-  "Proxy password": "Пароль Прокси" # global (undefined)
-  "Proxy username": "Имя Прокси" # global (undefined)
+  "Proxy password": "Пароль Прокси" # global (count: 3) (undefined)
+  "Proxy username": "Имя Прокси" # global (count: 3) (undefined)
   "Remove ads": "Удалить Рекламу"
   "Remove banner": "Удалить Банер"
   "Round up resources": "Округление ресурсов"
   "Round up ships": "Округление кораблей"
-  "Save": "Сохранить" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
   "Save proxy": "Сохранить Прокси"
   "Share account": "Поделиться Аккаунтом"
   "Share with": "Поделиться"
@@ -1162,7 +1162,7 @@ bot.settings.settings:
   "Small cargo": "Малый Транспорт"
   "Solve captcha": ""
   "Sort planets in dropdowns by": "Сортировка планет в выпадающих списках по"
-  "Theme": "Тема" # global (undefined)
+  "Theme": "Тема" # global (count: 2) (undefined)
   "UTC+00:00": "UTC+00:00"
   "UTC+01:00": "UTC+01:00"
   "UTC+02:00": "UTC+02:00"
@@ -1201,23 +1201,23 @@ bot.settings.settings:
   "UTC-11:00": "UTC-11:00"
   "UTC-12:00": "UTC-12:00"
   "User-Agent": "Агент пользователя"
-  "Username": "Имя" # global (undefined)
+  "Username": "Имя" # global (count: 10) (undefined)
   "Validate": ""
   "Validate account": ""
-  "proxy login requests only": "только запросы на вход через прокси-сервер" # global (undefined)
+  "proxy login requests only": "только запросы на вход через прокси-сервер" # global (count: 2) (undefined)
 bot.settings.sleepMode:
   "--- Select a destination ---": ""
-  "Active": "Активен" # global (undefined)
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Active": "Активен" # global (count: 6) (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Awake bot now": "Проснись бот сейчас же"
-  "Destination": "" # global (undefined)
+  "Destination": "" # global (count: 7) (undefined)
   "Every day": "Каждый день"
-  "Expedition": "" # global (undefined)
+  "Expedition": "" # global (count: 7) (undefined)
   "Friday": "Пятница"
   "Manual fleet save": ""
   "Monday": "Понедельник"
   "Own debris field": ""
-  "Planet": "" # global (undefined)
+  "Planet": "" # global (count: 6) (undefined)
   "Put bot to sleep now": "Отправить Бота спать"
   "Random colonize": ""
   "Random debris field": ""
@@ -1225,8 +1225,8 @@ bot.settings.sleepMode:
   "Random delay before waking up (minutes)": ""
   "Recall saved fleet half way through the night": ""
   "Saturday": "Суббота"
-  "Save": "Сохранить" # global (undefined)
-  "Sleep Mode": "Режим Сна" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
+  "Sleep Mode": "Режим Сна" # global (count: 2) (undefined)
   "Spy deep space (position 16)": ""
   "Sunday": "Воскресенье"
   "Thursday": "Четверг"
@@ -1239,120 +1239,120 @@ bot.settings.sleepMode:
   "must save changes first": ""
 bot.simulator:
   "ACS planner": "Планировщик ACS"
-  "API": "API" # global (undefined)
+  "API": "API" # global (count: 3) (undefined)
   "Anti Ballistic Missiles": "Ракеты-Перехватчики"
   "Armour": "Броня"
-  "Attacker": "Атакующий" # global (undefined)
+  "Attacker": "Атакующий" # global (count: 2) (undefined)
   "Attacker win": "Атакующий Победил"
-  "Battlecruiser": "Линейный Крейсер" # global (undefined)
-  "Battleship": "Линкор" # global (undefined)
-  "Bomber": "Бомбандировщик" # global (undefined)
+  "Battlecruiser": "Линейный Крейсер" # global (count: 5) (undefined)
+  "Battleship": "Линкор" # global (count: 5) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
   "Captured": "Захваченный"
   "Cargo's needed": "Нужна Грузоподъемность"
   "Clear player data": "Очистить данные игрока"
-  "Colony Ship": "Колонизатор" # global (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
   "Combustion": ""
   "Configs": "Конфигурации"
-  "Coordinates": "" # global (undefined)
-  "Crawler": "Гусенички" # global (undefined)
-  "Cruiser": "Крейсер" # global (undefined)
-  "Crystal": "Кристалл" # global (undefined)
-  "Deathstar": "Звезда Смерти" # global (undefined)
-  "Debris": "Поле Обломков" # global (undefined)
+  "Coordinates": "" # global (count: 2) (undefined)
+  "Crawler": "Гусенички" # global (count: 4) (undefined)
+  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
+  "Debris": "Поле Обломков" # global (count: 2) (undefined)
   "Defence": "Защита"
   "Defence repair factor": "Фактор ремонта обороны"
   "Defence to debris": "Оборона в Обломки"
-  "Defender": "Защитник" # global (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
   "Defender win": "Обороняющийся Победил"
-  "Destroyer": "Уничтожитель" # global (undefined)
-  "Deuterium": "Дейтерий" # global (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
+  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
   "Deuterium save factor": ""
   "Draw": "Ничья"
-  "Espionage Probe": "Шпионский Зонд" # global (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
   "Fleet speed": ""
   "Fleet to debris": "Флот в Обломки"
   "Flight time": ""
-  "Fuel consumption": "" # global (undefined)
-  "Gauss Cannon": "Орудие Гаусса" # global (undefined)
-  "Heavy Fighter": "Тяжелый Истребитель" # global (undefined)
-  "Heavy Laser": "Тяжелый Лазер" # global (undefined)
+  "Fuel consumption": "" # global (count: 2) (undefined)
+  "Gauss Cannon": "Орудие Гаусса" # global (count: 3) (undefined)
+  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 5) (undefined)
+  "Heavy Laser": "Тяжелый Лазер" # global (count: 3) (undefined)
   "Hyperspace": ""
   "Hyperspace tech": "Гиперпространственная технология"
   "Impulse": ""
-  "Interplanetary Missiles": "Межпланетные Ракеты" # global (undefined)
-  "Ion Cannon": "Ионная Пушка" # global (undefined)
-  "Large Cargo": "Большой Транспорт" # global (undefined)
-  "Large Shield Dome": "Большой Шитовой Купол" # global (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (undefined)
-  "Light Laser": "Легкий Лазер" # global (undefined)
+  "Interplanetary Missiles": "Межпланетные Ракеты" # global (count: 3) (undefined)
+  "Ion Cannon": "Ионная Пушка" # global (count: 3) (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
+  "Large Shield Dome": "Большой Шитовой Купол" # global (count: 3) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
+  "Light Laser": "Легкий Лазер" # global (count: 3) (undefined)
   "Losses": "Потери"
-  "Metal": "Металл" # global (undefined)
+  "Metal": "Металл" # global (count: 7) (undefined)
   "Moonchance": "Шанс Образования Луны"
   "Open in TrashSim": "Открыть в  TrashSim"
-  "Pathfinder": "Первопроходец" # global (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
   "Pathfinders": "Первопроходцы"
-  "Planet": "Планета" # global (undefined)
+  "Planet": "Планета" # global (count: 6) (undefined)
   "Planet/Moon": "Планета/Луна"
-  "Plasma Turret": "Плазменное Орудие" # global (undefined)
+  "Plasma Turret": "Плазменное Орудие" # global (count: 3) (undefined)
   "Plunder": "Грабить"
   "Possible": "Возможный"
   "Profit": "Профит"
-  "Reaper": "Жнец" # global (undefined)
-  "Recycler": "Переработчик" # global (undefined)
+  "Reaper": "Жнец" # global (count: 4) (undefined)
+  "Recycler": "Переработчик" # global (count: 5) (undefined)
   "Result": "Результат"
-  "Rocket Launcher": "Ракетная Установка" # global (undefined)
+  "Rocket Launcher": "Ракетная Установка" # global (count: 3) (undefined)
   "Rounds": "Раунды"
-  "Select origin": "Выбрать место отправления" # global (undefined)
+  "Select origin": "Выбрать место отправления" # global (count: 4) (undefined)
   "Send attack": "Отправить в Атаку"
-  "Send recyclers": "Отправить переработчиков" # global (undefined)
+  "Send recyclers": "Отправить переработчиков" # global (count: 2) (undefined)
   "Shield": "Шит"
   "Simulate": "Симулировать"
   "Simulations": "Симуляции"
-  "Small Cargo": "Малый Транспорт" # global (undefined)
-  "Small Shield Dome": "Малый Шитовой Купол" # global (undefined)
-  "Solar Satellite": "Солнечный Спутник" # global (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
+  "Small Shield Dome": "Малый Шитовой Купол" # global (count: 3) (undefined)
+  "Solar Satellite": "Солнечный Спутник" # global (count: 3) (undefined)
   "Tactical retreat": "Тактическое Отступление"
   "Weapon": "Оружие"
 bot-card:
-  "Email": "Емайл" # global (undefined)
-  "Lang": "Язык" # global (undefined)
-  "Points": "Очки" # global (undefined)
-  "Proxy": "" # global (undefined)
-  "Rank": "Ранк" # global (undefined)
-  "Start": "Старт" # global (undefined)
-  "Stop": "Стоп" # global (undefined)
-  "Universe": "Вселенная" # global (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
+  "Lang": "Язык" # global (count: 3) (undefined)
+  "Points": "Очки" # global (count: 4) (undefined)
+  "Proxy": "" # global (count: 3) (undefined)
+  "Rank": "Ранк" # global (count: 6) (undefined)
+  "Start": "Старт" # global (count: 4) (undefined)
+  "Stop": "Стоп" # global (count: 5) (undefined)
+  "Universe": "Вселенная" # global (count: 4) (undefined)
 captchas-icon:
-  "Captchas": "" # global (undefined)
+  "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
 captchas-icons:
   "Icons": ""
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
+  "Next": "" # global (count: 9) (undefined)
+  "Prev": "" # global (count: 9) (undefined)
 captchas-service:
   "Service": ""
 captchas:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
+  "Next": "" # global (count: 9) (undefined)
+  "Prev": "" # global (count: 9) (undefined)
   "Questions": ""
 changelog:
-  "meta-description": "Метаописание" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "meta-description": "Метаописание" # global (count: 13) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 compiled-scripts:
   "Compile & download": ""
   "Delete project": ""
   "Files saved": ""
   "New project": ""
-  "Save": "" # global (undefined)
+  "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-  "Actions": "Действия" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
   "Delete all keys": "Удалить все ключи"
   "Key": "Ключ"
   "Key/value storage": "Ключ/Хранение ценностей"
   "No data to display": "Нет информации для отображения"
-  "Search": "Поиск" # global (undefined)
+  "Search": "Поиск" # global (count: 3) (undefined)
   "Stats": "Статистика"
   "Value": "Ценность"
 debug.i18n:
@@ -1366,168 +1366,168 @@ debug.index:
   "i18n": ""
 download-antigame:
   "AntiGame for Ninja": "AntiGame для Ninja"
-  "Antigame": "" # global (undefined)
-  "Arch": "Арка" # global (undefined)
-  "File name": "Имя Фаила" # global (undefined)
-  "Instructions how to install and run": "Инструкции по установке и запуску" # global (undefined)
-  "Licenses": "" # global (undefined)
-  "No files to display": "" # global (undefined)
-  "OS": "ОС" # global (undefined)
-  "SHA256 Checksum": "" # global (undefined)
-  "Size": "" # global (undefined)
-  "meta-description": "" # global (undefined)
-  "ogame Ninja": "" # global (undefined)
-  "title": "" # global (undefined)
+  "Antigame": "" # global (count: 3) (undefined)
+  "Arch": "Арка" # global (count: 4) (undefined)
+  "File name": "Имя Фаила" # global (count: 4) (undefined)
+  "Instructions how to install and run": "Инструкции по установке и запуску" # global (count: 2) (undefined)
+  "Licenses": "" # global (count: 3) (undefined)
+  "No files to display": "" # global (count: 4) (undefined)
+  "OS": "ОС" # global (count: 4) (undefined)
+  "SHA256 Checksum": "" # global (count: 4) (undefined)
+  "Size": "" # global (count: 4) (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
+  "ogame Ninja": "" # global (count: 3) (undefined)
+  "title": "" # global (count: 13) (undefined)
 download-licenses:
-  "Actions": "Действия" # global (undefined)
-  "Active": "Активен" # global (undefined)
-  "Antigame": "" # global (undefined)
-  "Download": "Загрузка" # global (undefined)
-  "Expired": "Истекший" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
+  "Active": "Активен" # global (count: 6) (undefined)
+  "Antigame": "" # global (count: 3) (undefined)
+  "Download": "Загрузка" # global (count: 12) (undefined)
+  "Expired": "Истекший" # global (count: 3) (undefined)
   "Expired at": "Заканчивается через"
   "Full license": "Полная Лицензия"
   "Is cloud": ""
-  "Licenses": "" # global (undefined)
-  "My licenses": "Моя Лицензия" # global (undefined)
-  "New license": "Новая Лицензия" # global (undefined)
+  "Licenses": "" # global (count: 3) (undefined)
+  "My licenses": "Моя Лицензия" # global (count: 2) (undefined)
+  "New license": "Новая Лицензия" # global (count: 6) (undefined)
   "No license to display": "Нет лицензии для отображения"
-  "Renew license": "Продлить Лицензию" # global (undefined)
-  "UUID": "идентификатор UUID" # global (undefined)
+  "Renew license": "Продлить Лицензию" # global (count: 4) (undefined)
+  "UUID": "идентификатор UUID" # global (count: 3) (undefined)
   "You must be authenticated": ""
-  "meta-description": "" # global (undefined)
-  "ogame Ninja": "" # global (undefined)
-  "title": "" # global (undefined)
+  "meta-description": "" # global (count: 13) (undefined)
+  "ogame Ninja": "" # global (count: 3) (undefined)
+  "title": "" # global (count: 13) (undefined)
 download:
-  "Antigame": "" # global (undefined)
-  "Arch": "Арка" # global (undefined)
+  "Antigame": "" # global (count: 3) (undefined)
+  "Arch": "Арка" # global (count: 4) (undefined)
   "Changelog": "Список Изменений"
-  "Downloads": "Загрузки" # global (undefined)
-  "File name": "Имя Фаила" # global (undefined)
-  "Instructions how to install and run": "Инструкции по установке и запуску" # global (undefined)
-  "Licenses": "" # global (undefined)
-  "No files to display": "Нет фаилов для отображения" # global (undefined)
-  "OS": "ОС" # global (undefined)
-  "SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
-  "Size": "Размер" # global (undefined)
-  "meta-description": "Метаописание" # global (undefined)
-  "ogame Ninja": "" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "Downloads": "Загрузки" # global (count: 3) (undefined)
+  "File name": "Имя Фаила" # global (count: 4) (undefined)
+  "Instructions how to install and run": "Инструкции по установке и запуску" # global (count: 2) (undefined)
+  "Licenses": "" # global (count: 3) (undefined)
+  "No files to display": "Нет фаилов для отображения" # global (count: 4) (undefined)
+  "OS": "ОС" # global (count: 4) (undefined)
+  "SHA256 Checksum": "Контрольная сумма SHA256" # global (count: 4) (undefined)
+  "Size": "Размер" # global (count: 4) (undefined)
+  "meta-description": "Метаописание" # global (count: 13) (undefined)
+  "ogame Ninja": "" # global (count: 3) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 features:
-  "Activities": "Действия" # global (undefined)
+  "Activities": "Действия" # global (count: 3) (undefined)
   "Augmented browsing experience": "Расширенные возможности просмотра"
-  "Combat simulator": "Боевой Симулятор" # global (undefined)
-  "Defender": "Защитник" # global (undefined)
-  "Empire view": "Вид Империи" # global (undefined)
-  "Farmer": "Сборщик Ресурсов" # global (undefined)
-  "Universe map": "Карта Галактики" # global (undefined)
+  "Combat simulator": "Боевой Симулятор" # global (count: 2) (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
+  "Empire view": "Вид Империи" # global (count: 2) (undefined)
+  "Farmer": "Сборщик Ресурсов" # global (count: 5) (undefined)
+  "Universe map": "Карта Галактики" # global (count: 2) (undefined)
   "activities-desc": "Деятельность по убыванию"
   "augments-desc": "Увеличение по убыванию"
-  "defender-desc": "Защитник по убыванию" # global (undefined)
-  "empire-desc": "Империя по убыванию" # global (undefined)
+  "defender-desc": "Защитник по убыванию" # global (count: 2) (undefined)
+  "empire-desc": "Империя по убыванию" # global (count: 2) (undefined)
   "farmer-desc": "Сборщик ресурсов по убыванию"
-  "map-desc": "Карта по убыванию" # global (undefined)
-  "meta-description": "Метаописание" # global (undefined)
-  "simulator-desc": "Симулятор по убыванию" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "map-desc": "Карта по убыванию" # global (count: 2) (undefined)
+  "meta-description": "Метаописание" # global (count: 13) (undefined)
+  "simulator-desc": "Симулятор по убыванию" # global (count: 2) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 fingerprints:
   "Delete fingerprint": ""
   "Fingerprints": ""
-  "New fingerprint": "" # global (undefined)
+  "New fingerprint": "" # global (count: 2) (undefined)
 first-use:
   "Admin account": "Аккаунт Администратора"
   "Confirm password": "Подтвердите пароль"
   "Create admin account": "Создать Аккаунт Администратора"
-  "Email": "Емайл" # global (undefined)
-  "Password": "Пароль" # global (undefined)
-  "Username": "Имя Пользователя" # global (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
+  "Password": "Пароль" # global (count: 8) (undefined)
+  "Username": "Имя Пользователя" # global (count: 10) (undefined)
 forgot-password-reset:
-  "Password": "Пароль" # global (undefined)
+  "Password": "Пароль" # global (count: 8) (undefined)
   "Reset password": "Сбросить пароль"
-  "Retype password": "Повторите ввод пароля" # global (undefined)
-  "Username": "Пользователь" # global (undefined)
+  "Retype password": "Повторите ввод пароля" # global (count: 3) (undefined)
+  "Username": "Пользователь" # global (count: 10) (undefined)
 forgot-password:
   "Email Address": "Емайл адресс"
   "Enter your email address to retrieve your password": "Введите свой адрес электронной почты, чтобы получить пароль"
   "Password recovery": "Восстановление пароля"
   "Retrieve Password": "Восстановить Пароль"
-  "meta-description": "Метаописание" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "meta-description": "Метаописание" # global (count: 13) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 get-trial-key:
   "Get free trial key": "Получите бесплатный пробный ключ"
   "Get trial key": "Получите пробный ключ"
-  "Home": "Дом" # global (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
 home-slave:
-  "Bots": "Боты" # global (defined)
-  "Compiled scripts": "" # global (undefined)
-  "Create script on all bots": "Создать скрипт на всех ботах" # global (undefined)
-  "Download all scripts": "" # global (undefined)
-  "Email": "" # global (undefined)
-  "Export bots": "" # global (undefined)
-  "ID": "" # global (undefined)
-  "Import bots": "" # global (undefined)
-  "Lang": "" # global (undefined)
-  "New bot": "Новый Бот" # global (undefined)
-  "Other actions": "Прочие Действия" # global (undefined)
-  "Player name": "" # global (undefined)
-  "Points": "" # global (undefined)
-  "Proxy": "" # global (undefined)
-  "Rank": "" # global (undefined)
-  "Reorder bots": "Расставить очередность ботов" # global (undefined)
-  "Start": "" # global (undefined)
-  "Stop": "" # global (undefined)
-  "Universe": "" # global (undefined)
+  "Bots": "Боты" # global (count: 5) (defined)
+  "Compiled scripts": "" # global (count: 2) (undefined)
+  "Create script on all bots": "Создать скрипт на всех ботах" # global (count: 3) (undefined)
+  "Download all scripts": "" # global (count: 2) (undefined)
+  "Email": "" # global (count: 11) (undefined)
+  "Export bots": "" # global (count: 2) (undefined)
+  "ID": "" # global (count: 2) (undefined)
+  "Import bots": "" # global (count: 2) (undefined)
+  "Lang": "" # global (count: 3) (undefined)
+  "New bot": "Новый Бот" # global (count: 4) (undefined)
+  "Other actions": "Прочие Действия" # global (count: 2) (undefined)
+  "Player name": "" # global (count: 4) (undefined)
+  "Points": "" # global (count: 4) (undefined)
+  "Proxy": "" # global (count: 3) (undefined)
+  "Rank": "" # global (count: 6) (undefined)
+  "Reorder bots": "Расставить очередность ботов" # global (count: 3) (undefined)
+  "Start": "" # global (count: 4) (undefined)
+  "Stop": "" # global (count: 5) (undefined)
+  "Universe": "" # global (count: 4) (undefined)
 home:
-  "Actions": "Действия" # global (undefined)
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-#  "Bots": "" # global (defined)
-  "Compiled scripts": "" # global (undefined)
-  "Create script on all bots": "" # global (undefined)
+  "Actions": "Действия" # global (count: 12) (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+#  "Bots": "" # global (count: 5) (defined)
+  "Compiled scripts": "" # global (count: 2) (undefined)
+  "Create script on all bots": "" # global (count: 3) (undefined)
   "Domain": "Домен"
-  "Download all scripts": "" # global (undefined)
-  "Email": "" # global (undefined)
+  "Download all scripts": "" # global (count: 2) (undefined)
+  "Email": "" # global (count: 11) (undefined)
   "Expires": "Истекает"
-  "Export bots": "" # global (undefined)
+  "Export bots": "" # global (count: 2) (undefined)
   "Http proxy url:": ""
-  "ID": "" # global (undefined)
-  "Import bots": "" # global (undefined)
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (undefined)
-  "Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (undefined)
+  "ID": "" # global (count: 2) (undefined)
+  "Import bots": "" # global (count: 2) (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (count: 2) (undefined)
+  "Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (count: 2) (undefined)
   "My proxies": ""
   "My servers": "Мой Сервер"
-  "New bot": "" # global (undefined)
-  "New password": "Новый Пароль" # global (undefined)
+  "New bot": "" # global (count: 4) (undefined)
+  "New password": "Новый Пароль" # global (count: 3) (undefined)
   "New proxy": ""
-  "New server": "Новый Сервер" # global (undefined)
-  "New username": "Новое Имя" # global (undefined)
+  "New server": "Новый Сервер" # global (count: 4) (undefined)
+  "New username": "Новое Имя" # global (count: 3) (undefined)
   "No proxy to display": ""
   "No servers to display": "Нет серверов для отображения"
-  "Other actions": "" # global (undefined)
-  "Password": "" # global (undefined)
-  "Player name": "" # global (undefined)
-  "Points": "" # global (undefined)
-  "Rank": "" # global (undefined)
-  "Region": "Регион" # global (undefined)
-  "Reorder bots": "" # global (undefined)
-  "Universe": "" # global (undefined)
-  "Username": "" # global (undefined)
-  "Version": "Версия" # global (undefined)
-  "You're invited to join our Slack server": "Мы приглашаем Вас присоединиться к нашему серверу Slack" # global (undefined)
+  "Other actions": "" # global (count: 2) (undefined)
+  "Password": "" # global (count: 8) (undefined)
+  "Player name": "" # global (count: 4) (undefined)
+  "Points": "" # global (count: 4) (undefined)
+  "Rank": "" # global (count: 6) (undefined)
+  "Region": "Регион" # global (count: 2) (undefined)
+  "Reorder bots": "" # global (count: 3) (undefined)
+  "Universe": "" # global (count: 4) (undefined)
+  "Username": "" # global (count: 10) (undefined)
+  "Version": "Версия" # global (count: 2) (undefined)
+  "You're invited to join our Slack server": "Мы приглашаем Вас присоединиться к нашему серверу Slack" # global (count: 2) (undefined)
 import:
   "Import bot": ""
-  "Upload": "" # global (undefined)
+  "Upload": "" # global (count: 3) (undefined)
 index:
-  "Account": "Аккаунт" # global (undefined)
-  "Admin": "Админ" # global (undefined)
-  "Captchas": "" # global (undefined)
+  "Account": "Аккаунт" # global (count: 2) (undefined)
+  "Admin": "Админ" # global (count: 2) (undefined)
+  "Captchas": "" # global (count: 2) (undefined)
   "Check again": ""
-  "Download": "Загрузки" # global (undefined)
+  "Download": "Загрузки" # global (count: 12) (undefined)
   "FAQ": "Инструкция"
   "Features": "Особенности"
-  "Home": "Дом" # global (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
   "Login": "Логин"
-  "My licenses": "" # global (undefined)
+  "My licenses": "" # global (count: 2) (undefined)
   "Please": "Пожалуйста"
-  "Pricing": "Цена" # global (undefined)
+  "Pricing": "Цена" # global (count: 3) (undefined)
   "Proposals": "Предложения"
   "Register": "Зарегистрироваться"
   "Servers": "Сервера"
@@ -1542,92 +1542,92 @@ index:
 initialization:
   "Bot is being initialized, please wait until you get automatically redirected...": "Бот инициализируется, пожалуйста, подождите, пока вы не получите автоматическое перенаправление..."
 instance-actions:
-  "New password": "Новый пароль" # global (undefined)
-  "New username": "Новое Имя" # global (undefined)
+  "New password": "Новый пароль" # global (count: 3) (undefined)
+  "New username": "Новое Имя" # global (count: 3) (undefined)
 invoice:
-  "Bots": "Боты" # global (defined)
-  "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
-  "New license": "Новая Лицензия" # global (undefined)
-  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
-  "Pay with paypal": "Оплата через paypal" # global (undefined)
-  "Submit payment": "Отправить платеж" # global (undefined)
+  "Bots": "Боты" # global (count: 5) (defined)
+  "Credit or debit card": "Кредитная или дебетовая карта" # global (count: 7) (undefined)
+  "New license": "Новая Лицензия" # global (count: 6) (undefined)
+  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
+  "Pay with paypal": "Оплата через paypal" # global (count: 7) (undefined)
+  "Submit payment": "Отправить платеж" # global (count: 2) (undefined)
   "Upgrade license": "Обновить Лицензию"
-  "Valid until": "Действителен до" # global (undefined)
-  "we are using": "мы используем" # global (undefined)
+  "Valid until": "Действителен до" # global (count: 2) (undefined)
+  "we are using": "мы используем" # global (count: 7) (undefined)
 landing:
-  "Combat simulator": "Боевой Симулятор" # global (undefined)
+  "Combat simulator": "Боевой Симулятор" # global (count: 2) (undefined)
   "Construction queue": "Очередь на строительство"
-  "Defender": "Защитник" # global (undefined)
-  "Empire view": "Обзор Империи" # global (undefined)
+  "Defender": "Защитник" # global (count: 7) (undefined)
+  "Empire view": "Обзор Империи" # global (count: 2) (undefined)
   "Farming": "Сборщик ресурсов"
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (undefined)
-  "Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (count: 2) (undefined)
+  "Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (count: 2) (undefined)
   "Learn more": "Узнать подробнее"
   "OGame Ninja": "Огейм Ninja"
   "The most advanced OGame toolkit ever created": "Самый продвинутый инструментарий OGame, когда-либо созданный"
-  "Universe map": "Карта Галактики" # global (undefined)
+  "Universe map": "Карта Галактики" # global (count: 2) (undefined)
   "View details": "Посмотреть подробнее"
-  "You're invited to join our Slack server": "Мы приглашаем Вас присоединиться к нашему серверу Slack" # global (undefined)
-  "defender-desc": "Защита по убыванию" # global (undefined)
-  "empire-desc": "Империя по убыванию" # global (undefined)
+  "You're invited to join our Slack server": "Мы приглашаем Вас присоединиться к нашему серверу Slack" # global (count: 2) (undefined)
+  "defender-desc": "Защита по убыванию" # global (count: 2) (undefined)
+  "empire-desc": "Империя по убыванию" # global (count: 2) (undefined)
   "farming-desc": "Сбор ресурсов по убыванию"
-  "map-desc": "карта по убыванию" # global (undefined)
-  "meta-description": "метаописание" # global (undefined)
+  "map-desc": "карта по убыванию" # global (count: 2) (undefined)
+  "meta-description": "метаописание" # global (count: 13) (undefined)
   "queue-desc": "очередь по убыванию"
-  "simulator-desc": "симуляция по убыванию" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "simulator-desc": "симуляция по убыванию" # global (count: 2) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 license-view:
-  "Bots allowed": "Боты разрешены" # global (undefined)
-  "Created": "Создать" # global (undefined)
-  "Download": "Загрузки" # global (undefined)
-  "Email": "Емайл" # global (undefined)
-  "Expired": "Истекает" # global (undefined)
-  "License": "Лицензия" # global (undefined)
-  "Owner": "Владелец" # global (undefined)
-  "UUID": "идентификатор UUID" # global (undefined)
+  "Bots allowed": "Боты разрешены" # global (count: 2) (undefined)
+  "Created": "Создать" # global (count: 2) (undefined)
+  "Download": "Загрузки" # global (count: 12) (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
+  "Expired": "Истекает" # global (count: 3) (undefined)
+  "License": "Лицензия" # global (count: 3) (undefined)
+  "Owner": "Владелец" # global (count: 2) (undefined)
+  "UUID": "идентификатор UUID" # global (count: 3) (undefined)
 license:
-  "Are you sure?": "" # global (undefined)
+  "Are you sure?": "" # global (count: 19) (undefined)
   "Click \"Renew license\" button": ""
   "License expired": ""
-  "Renew license": "Вы Уверены?" # global (undefined)
+  "Renew license": "Вы Уверены?" # global (count: 4) (undefined)
   "Stop all bots": "Стоп все Боты"
-  "Upload": "Загрузить" # global (undefined)
+  "Upload": "Загрузить" # global (count: 3) (undefined)
   "Upload license file": "Загрузить фаил Лицензии"
 login:
-  "I forgot my password": "Я Забыл мой пароль" # global (undefined)
-  "Password": "Пароль" # global (undefined)
-  "Sign in": "Воити в систему" # global (undefined)
+  "I forgot my password": "Я Забыл мой пароль" # global (count: 2) (undefined)
+  "Password": "Пароль" # global (count: 8) (undefined)
+  "Sign in": "Воити в систему" # global (count: 2) (undefined)
   "Sign in to continue": "Войдите в систему, чтобы продолжить"
-  "Username": "Имя" # global (undefined)
-  "meta-description": "Метаописание" # global (undefined)
-  "title": "Заглавие" # global (undefined)
+  "Username": "Имя" # global (count: 10) (undefined)
+  "meta-description": "Метаописание" # global (count: 13) (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
 login2:
-  "I forgot my password": "я забыл свой пароль" # global (undefined)
-  "Password": "пароль" # global (undefined)
-  "Sign in": "воити в систему" # global (undefined)
-  "Username": "Имя" # global (undefined)
+  "I forgot my password": "я забыл свой пароль" # global (count: 2) (undefined)
+  "Password": "пароль" # global (count: 8) (undefined)
+  "Sign in": "воити в систему" # global (count: 2) (undefined)
+  "Username": "Имя" # global (count: 10) (undefined)
 must-contact:
   "Please contact admins": "Пожалуйста, свяжитесь с администраторами"
   "Please contact ogame.ninja admins": "Пожалуйста, свяжитесь с администраторами ogame.ninja"
 must-update:
   "Please update": "Пожалйста обовитесь"
   "Software is too old": "Программное обеспечение слишком старое"
-  "Update to latest": "" # global (undefined)
+  "Update to latest": "" # global (count: 2) (undefined)
   "You must update your software.": "Вы должны обновить свое программное обеспечение."
 new-bot:
   "Add account to lobby ?": ""
-  "Create": "Создать" # global (undefined)
+  "Create": "Создать" # global (count: 3) (undefined)
   "Create lobby ?": ""
-  "Gameforge email": "Gameforge Емайл" # global (undefined)
-  "Gameforge password": "Gameforge пароль" # global (undefined)
-  "New bot": "Новый Бот" # global (undefined)
-  "OTP secret": "Секрет ОТП" # global (undefined)
-  "Player ID": "ID Игрока" # global (undefined)
-  "Proxy password": "Пароль прокси" # global (undefined)
-  "Proxy username": "Имя прокси" # global (undefined)
-  "Redeem code": "Активировать код" # global (undefined)
-  "http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (undefined)
-  "proxy login requests only": "" # global (undefined)
+  "Gameforge email": "Gameforge Емайл" # global (count: 2) (undefined)
+  "Gameforge password": "Gameforge пароль" # global (count: 2) (undefined)
+  "New bot": "Новый Бот" # global (count: 4) (undefined)
+  "OTP secret": "Секрет ОТП" # global (count: 3) (undefined)
+  "Player ID": "ID Игрока" # global (count: 2) (undefined)
+  "Proxy password": "Пароль прокси" # global (count: 3) (undefined)
+  "Proxy username": "Имя прокси" # global (count: 3) (undefined)
+  "Redeem code": "Активировать код" # global (count: 2) (undefined)
+  "http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (count: 2) (undefined)
+  "proxy login requests only": "" # global (count: 2) (undefined)
 new-fingerprint:
   "AudioCtxHash": ""
   "AudioHash": ""
@@ -1636,7 +1636,7 @@ new-fingerprint:
   "CalcDeltaMs": ""
   "Canvas2dInfo": ""
   "Constant version": ""
-  "Create": "" # global (undefined)
+  "Create": "" # global (count: 3) (undefined)
   "DateISO": ""
   "Fingerprint name": ""
   "FontsHash": ""
@@ -1647,7 +1647,7 @@ new-fingerprint:
   "Memory": ""
   "Navigator vendor": ""
   "NavigatorDoNotTrack": ""
-  "New fingerprint": "" # global (undefined)
+  "New fingerprint": "" # global (count: 2) (undefined)
   "OfflineAudioCtx": ""
   "Os name": ""
   "PermissionsStatesHash": ""
@@ -1656,102 +1656,102 @@ new-fingerprint:
   "Screen height": ""
   "Screen width": ""
   "Timezone": ""
-  "Update": "" # global (undefined)
-  "User-agent": "" # global (undefined)
-  "Version": "" # global (undefined)
+  "Update": "" # global (count: 3) (undefined)
+  "User-agent": "" # global (count: 2) (undefined)
+  "Version": "" # global (count: 2) (undefined)
   "VideoHash": ""
   "Webgl info": ""
   "WebglRenderHash": ""
   "XGame": ""
 new-license-paypal-subscribe:
-  "Download": "" # global (undefined)
-  "New license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+  "Download": "" # global (count: 12) (undefined)
+  "New license": "" # global (count: 6) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-license-subscribe:
-  "Download": "" # global (undefined)
-  "New license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+  "Download": "" # global (count: 12) (undefined)
+  "New license": "" # global (count: 6) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-license:
-  "Buy license": "Купить Лиценцию" # global (undefined)
-  "Credit or debit card": "Добавить Кредитную ,дебетовую карту" # global (undefined)
-  "Download": "Загруки" # global (undefined)
-  "Get trial license": "Получить пробную лицензию" # global (undefined)
-  "New license": "Новая Лицензия" # global (undefined)
-  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
-  "Pay with paypal": "Оплатить через paypal" # global (undefined)
-  "Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (undefined)
-  "Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (undefined)
-  "Total": "Весь" # global (undefined)
-  "description1": "Описание 1" # global (undefined)
+  "Buy license": "Купить Лиценцию" # global (count: 2) (undefined)
+  "Credit or debit card": "Добавить Кредитную ,дебетовую карту" # global (count: 7) (undefined)
+  "Download": "Загруки" # global (count: 12) (undefined)
+  "Get trial license": "Получить пробную лицензию" # global (count: 2) (undefined)
+  "New license": "Новая Лицензия" # global (count: 6) (undefined)
+  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
+  "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
+  "Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (count: 2) (undefined)
+  "Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (count: 2) (undefined)
+  "Total": "Весь" # global (count: 4) (undefined)
+  "description1": "Описание 1" # global (count: 2) (undefined)
   "description2": "Описание 2"
-  "we are using": "Мы используем" # global (undefined)
+  "we are using": "Мы используем" # global (count: 7) (undefined)
 new-ogamex-bot:
-  "Create": "" # global (undefined)
+  "Create": "" # global (count: 3) (undefined)
   "New ogamex bot": ""
   "OgameX email": ""
   "OgameX password": ""
 new-proposal:
-  "All suggestions": "Все предложения" # global (undefined)
+  "All suggestions": "Все предложения" # global (count: 2) (undefined)
   "New suggestion": "Новое предложение"
 new-proxies:
   "-- Select a country --": ""
   "Country": ""
-  "Credit or debit card": "" # global (undefined)
-  "Download": "" # global (undefined)
-  "New license": "" # global (undefined)
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
+  "Credit or debit card": "" # global (count: 7) (undefined)
+  "Download": "" # global (count: 12) (undefined)
+  "New license": "" # global (count: 6) (undefined)
+  "Pay with Credit/debit card": "" # global (count: 7) (undefined)
+  "Pay with paypal": "" # global (count: 7) (undefined)
   "Proxies parameters": ""
   "Submit payment for proxies": ""
-  "Total": "" # global (undefined)
-  "we are using": "" # global (undefined)
+  "Total": "" # global (count: 4) (undefined)
+  "we are using": "" # global (count: 7) (undefined)
 new-script:
   "<b>Warning:</b> This will override existing scripts that have the same name.": "< b>предупреждение:< / b> это переопределит существующие сценарии с тем же именем."
   "All bots that I have access to": "Все боты, к которым у меня есть доступ"
-  "Create script on all bots": "Создать скрипт для всех ботов" # global (undefined)
-  "Home": "Дом" # global (undefined)
+  "Create script on all bots": "Создать скрипт для всех ботов" # global (count: 3) (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
   "My bots": "Мой Боты"
   "New script": "Новый Скрипт"
   "Place script here": "Разместите скрипт здесь"
-  "Run at start": "Запустить при старте" # global (undefined)
+  "Run at start": "Запустить при старте" # global (count: 2) (undefined)
   "Script file name": "Имя фала скрипта"
   "Where to create the script": "Где создать скрипт"
 new-server-paypal-subscribe:
-  "Download": "" # global (undefined)
-  "New server": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+  "Download": "" # global (count: 12) (undefined)
+  "New server": "" # global (count: 4) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-server-subscribe:
-  "New server": "" # global (undefined)
-  "Pricing": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+  "New server": "" # global (count: 4) (undefined)
+  "Pricing": "" # global (count: 3) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": "3-20 букв/цифр / подчеркивание. напр.:"
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
-  "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
-  "Home": "Дом" # global (undefined)
-  "New server": "Новый Сервер" # global (undefined)
-  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
-  "Pay with paypal": "Оплатить через paypal" # global (undefined)
-  "Region": "Регион" # global (undefined)
+  "Credit or debit card": "Кредитная или дебетовая карта" # global (count: 7) (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
+  "New server": "Новый Сервер" # global (count: 4) (undefined)
+  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
+  "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
+  "Region": "Регион" # global (count: 2) (undefined)
   "Select one": "Выбрать один"
-  "Settings": "Настройки" # global (undefined)
+  "Settings": "Настройки" # global (count: 7) (undefined)
   "Subdomain": "Дочерний Домен"
   "Submit Payment for cloud hosting": "Отправить платеж за облачный хостинг"
-  "Total": "Весь" # global (undefined)
+  "Total": "Весь" # global (count: 4) (undefined)
   "You will access your app using this URL": "Вы получите доступ к своему приложению, используя этот URL-адрес"
   "the bots will use IP from that region": "боты будут использовать IP из этого региона"
-  "we are using": "мы используем" # global (undefined)
+  "we are using": "мы используем" # global (count: 7) (undefined)
 new-trial-license:
-  "Buy license": "Купить лицензию" # global (undefined)
-  "Download": "загрузить" # global (undefined)
-  "Get trial license": "получить пробную лицензию" # global (undefined)
+  "Buy license": "Купить лицензию" # global (count: 2) (undefined)
+  "Download": "загрузить" # global (count: 12) (undefined)
+  "Get trial license": "получить пробную лицензию" # global (count: 2) (undefined)
   "New trial license": "Новая пробная лицензия"
-  "description1": "Описание 1" # global (undefined)
+  "description1": "Описание 1" # global (count: 2) (undefined)
 notifications:
-  "Created at": "Создать в" # global (undefined)
-  "Message": "Сообщение" # global (undefined)
+  "Created at": "Создать в" # global (count: 6) (undefined)
+  "Message": "Сообщение" # global (count: 3) (undefined)
   "No notifications": "Нет уведомлений"
-  "Notifications": "Уведомления" # global (undefined)
+  "Notifications": "Уведомления" # global (count: 4) (undefined)
 pricing:
   "1 bot": "1 бот"
   "2 days one-time trial": "2-дневная одноразовая пробная версия"
@@ -1759,7 +1759,7 @@ pricing:
   "Buy now": "купить новую"
   "Get started": "получить стартовую"
   "OGame proxy": ""
-  "Pricing": "цена" # global (undefined)
+  "Pricing": "цена" # global (count: 3) (undefined)
   "Priority Slack support": "Приоритетная Slack поддержка"
   "Proxies": ""
   "Self-host": "Сам - Хост"
@@ -1770,72 +1770,72 @@ pricing:
   "User needs to run the software": "Пользователь должен запустить программное обеспечение"
   "Vote for future features development": "Голосуйте за развитие будущих функций"
   "We host the bot for you 24/7": "Мы размещаем бота для вас 24/7"
-  "meta-description": "метаописание" # global (undefined)
+  "meta-description": "метаописание" # global (count: 13) (undefined)
   "month": "месяц"
-  "title": "Заглавие" # global (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
   "upgradable": "Модернизируемый"
 proposal:
-  "All suggestions": "Все предложения" # global (undefined)
+  "All suggestions": "Все предложения" # global (count: 2) (undefined)
 proposals:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-  "Search": "Поиск" # global (undefined)
+  "Next": "Следующий" # global (count: 9) (undefined)
+  "Prev": "Предыдущий" # global (count: 9) (undefined)
+  "Search": "Поиск" # global (count: 3) (undefined)
 redeem-code:
-  "Gameforge email": "Gameforge Емайл" # global (undefined)
-  "Gameforge password": "Gameforge пароль" # global (undefined)
-  "New bot": "Новый бот" # global (undefined)
-  "OTP secret": "OTP секрет" # global (undefined)
-  "Proxy password": "Пароль прокси" # global (undefined)
-  "Proxy username": "имя прокси" # global (undefined)
-  "Redeem code": "Активировать код" # global (undefined)
+  "Gameforge email": "Gameforge Емайл" # global (count: 2) (undefined)
+  "Gameforge password": "Gameforge пароль" # global (count: 2) (undefined)
+  "New bot": "Новый бот" # global (count: 4) (undefined)
+  "OTP secret": "OTP секрет" # global (count: 3) (undefined)
+  "Proxy password": "Пароль прокси" # global (count: 3) (undefined)
+  "Proxy username": "имя прокси" # global (count: 3) (undefined)
+  "Redeem code": "Активировать код" # global (count: 2) (undefined)
   "____-____-____-____-____": "____-____-____-____-____"
-  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (undefined)
+  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (count: 2) (undefined)
 renew-instance-subscribe:
-  "Download": "" # global (undefined)
-  "Renew instance": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+  "Download": "" # global (count: 12) (undefined)
+  "Renew instance": "" # global (count: 2) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 renew-instance:
-  "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
-  "Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (undefined)
-  "Home": "Дом" # global (undefined)
-  "New license valid until": "Новая лицензия действительна до тех пор, пока" # global (undefined)
-  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
-  "Pay with paypal": "Оплатить через paypal" # global (undefined)
-  "Renew instance": "Обновить экземпляр" # global (undefined)
-  "Settings": "Настройки" # global (undefined)
+  "Credit or debit card": "Кредитная или дебетовая карта" # global (count: 7) (undefined)
+  "Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (count: 2) (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
+  "New license valid until": "Новая лицензия действительна до тех пор, пока" # global (count: 2) (undefined)
+  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
+  "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
+  "Renew instance": "Обновить экземпляр" # global (count: 2) (undefined)
+  "Settings": "Настройки" # global (count: 7) (undefined)
   "Submit payment to renew cloud license": "Отправить платеж для продления облачной лицензии"
-  "bot": "Бот" # global (undefined)
-  "we are using": "мы используем" # global (undefined)
+  "bot": "Бот" # global (count: 2) (undefined)
+  "we are using": "мы используем" # global (count: 7) (undefined)
 renew-license-subscribe:
-  "Download": "" # global (undefined)
-  "Renew license": "" # global (undefined)
-  "Subscribe": "" # global (undefined)
+  "Download": "" # global (count: 12) (undefined)
+  "Renew license": "" # global (count: 4) (undefined)
+  "Subscribe": "" # global (count: 6) (undefined)
 renew-license:
-  "Credit or debit card": "Кредитная или дебетовая карта" # global (undefined)
-  "Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (undefined)
-  "Download": "Загрузка" # global (undefined)
-  "New license valid until": "Новая лицензия действительна до тех пор, пока" # global (undefined)
-  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (undefined)
-  "Pay with paypal": "Оплатить через paypal" # global (undefined)
-  "Renew license": "Продлить Лицензию" # global (undefined)
-  "Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (undefined)
-  "Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (undefined)
-  "Total": "Весь" # global (undefined)
-  "bot": "Бот" # global (undefined)
+  "Credit or debit card": "Кредитная или дебетовая карта" # global (count: 7) (undefined)
+  "Current license valid until": "Действующая лицензия действительна до тех пор, пока" # global (count: 2) (undefined)
+  "Download": "Загрузка" # global (count: 12) (undefined)
+  "New license valid until": "Новая лицензия действительна до тех пор, пока" # global (count: 2) (undefined)
+  "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
+  "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
+  "Renew license": "Продлить Лицензию" # global (count: 4) (undefined)
+  "Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (count: 2) (undefined)
+  "Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (count: 2) (undefined)
+  "Total": "Весь" # global (count: 4) (undefined)
+  "bot": "Бот" # global (count: 2) (undefined)
   "disclaimer": "оговорка"
-  "we are using": "мы используем" # global (undefined)
+  "we are using": "мы используем" # global (count: 7) (undefined)
 reorder-bots:
-  "Home": "Дом" # global (undefined)
-  "Reorder bots": "Расставить порядок ботов" # global (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
+  "Reorder bots": "Расставить порядок ботов" # global (count: 3) (undefined)
 sessions-two-factor-recovery:
   "Recovery code": "восстановить код"
   "Two-factor recovery": "двух-фактурная восстановить"
-  "Verify": "проверка" # global (undefined)
+  "Verify": "проверка" # global (count: 2) (undefined)
 sessions-two-factor:
   "6-digit code": "6-значный код"
   "Enter a two-factor recovery code": "введите двух-факторный код восстановления"
   "Two-factor authentication": "двух-фактурная аунтификация"
-  "Verify": "Проверка" # global (undefined)
+  "Verify": "Проверка" # global (count: 2) (undefined)
 settings.account:
   "0-15min": "0-15 минут"
   "16-40min": "16-40 минут"
@@ -1847,87 +1847,87 @@ settings.account:
   "Delete account": "удалить аккаунт"
   "Delete your account": "Удалить свой аккаунт"
   "Disable two-factor authentication": ""
-  "Email": "" # global (undefined)
+  "Email": "" # global (count: 11) (undefined)
   "Enable two-factor authentication": ""
   "Hunter colors": ""
-  "Lang": "Язык" # global (undefined)
-  "New password": "Новый пароль" # global (undefined)
-  "New username": "Новое имя" # global (undefined)
-  "No activity": "" # global (undefined)
+  "Lang": "Язык" # global (count: 3) (undefined)
+  "New password": "Новый пароль" # global (count: 3) (undefined)
+  "New username": "Новое имя" # global (count: 3) (undefined)
+  "No activity": "" # global (count: 2) (undefined)
   "Old password": "старый пароль"
   "Root admin cannot delete his account": "Администратор Root не может удалить свою учетную запись"
-  "Save": "Сохранить" # global (undefined)
-  "Settings": "Настройки" # global (undefined)
+  "Save": "Сохранить" # global (count: 17) (undefined)
+  "Settings": "Настройки" # global (count: 7) (undefined)
   "Slack account": "Slack аккаунт"
-  "Theme": "Тема" # global (undefined)
-  "Two-Factor Authentication": "двух-факторная аунтификация" # global (undefined)
+  "Theme": "Тема" # global (count: 2) (undefined)
+  "Two-Factor Authentication": "двух-факторная аунтификация" # global (count: 2) (undefined)
   "Unlink slack account": "отсоеденить slack аккаунт"
   "Update password": "Обновить пароль"
-  "Vacation": "ПО" # global (undefined)
+  "Vacation": "ПО" # global (count: 3) (undefined)
 settings.api:
-  "API": "API" # global (undefined)
+  "API": "API" # global (count: 3) (undefined)
   "API key": "API ключ"
-  "Are you sure?": "Вы Уверены?" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
 settings.gift-cards:
   "Add credit to my account": ""
-  "Credit or debit card": "" # global (undefined)
-  "Gift cards": "Подарочная карта" # global (undefined)
+  "Credit or debit card": "" # global (count: 7) (undefined)
+  "Gift cards": "Подарочная карта" # global (count: 2) (undefined)
   "No gift card to show": "Нет подарочной карты, чтобы показать"
-  "Pay with Credit/debit card": "" # global (undefined)
-  "Pay with paypal": "" # global (undefined)
-  "Submit payment": "" # global (undefined)
-  "we are using": "" # global (undefined)
+  "Pay with Credit/debit card": "" # global (count: 7) (undefined)
+  "Pay with paypal": "" # global (count: 7) (undefined)
+  "Submit payment": "" # global (count: 2) (undefined)
+  "we are using": "" # global (count: 7) (undefined)
 settings.index:
-  "API": "API" # global (undefined)
-  "Account": "Аккаунт" # global (undefined)
-  "Gift cards": "Подарочная карта" # global (undefined)
+  "API": "API" # global (count: 3) (undefined)
+  "Account": "Аккаунт" # global (count: 2) (undefined)
+  "Gift cards": "Подарочная карта" # global (count: 2) (undefined)
   "Sessions": "Сессия"
-  "Subscriptions": "" # global (undefined)
+  "Subscriptions": "" # global (count: 2) (undefined)
 settings.sessions:
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-  "Expires at": "Истекает в" # global (undefined)
-  "IP": "IP" # global (undefined)
+  "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Expires at": "Истекает в" # global (count: 2) (undefined)
+  "IP": "IP" # global (count: 2) (undefined)
   "Revoke": "Отменять"
   "User agent": "Пользовательский агент"
   "Your current session": "Ваша текущая сессия"
   "on": "ВКЛ"
 settings.subscriptions:
-  "Are you sure?": "" # global (undefined)
+  "Are you sure?": "" # global (count: 19) (undefined)
   "No subscription to show": ""
-  "Subscriptions": "" # global (undefined)
+  "Subscriptions": "" # global (count: 2) (undefined)
 signup:
-  "Email": "Емайл" # global (undefined)
-  "Note": "Запись" # global (undefined)
-  "Password": "Пароль" # global (undefined)
-  "Retype password": "Сбросить пароль" # global (undefined)
+  "Email": "Емайл" # global (count: 11) (undefined)
+  "Note": "Запись" # global (count: 3) (undefined)
+  "Password": "Пароль" # global (count: 8) (undefined)
+  "Retype password": "Сбросить пароль" # global (count: 3) (undefined)
   "Sign up": "воити в ситему"
-  "Username": "Имя" # global (undefined)
+  "Username": "Имя" # global (count: 10) (undefined)
   "You will receive an email to validate your account": "Вы получите электронное письмо для подтверждения своей учетной записи"
-  "meta-description": "метаописание" # global (undefined)
-  "title": "заглавие" # global (undefined)
+  "meta-description": "метаописание" # global (count: 13) (undefined)
+  "title": "заглавие" # global (count: 13) (undefined)
 socks5:
-  "Arch": "Арка" # global (undefined)
-  "Downloads": "Загрузки" # global (undefined)
-  "File name": "Имя фаила" # global (undefined)
-  "No files to display": "Нет флотов для отображения" # global (undefined)
-  "OS": "ОС" # global (undefined)
-  "SHA256 Checksum": "Контрольная сумма SHA256" # global (undefined)
-  "Size": "размер" # global (undefined)
+  "Arch": "Арка" # global (count: 4) (undefined)
+  "Downloads": "Загрузки" # global (count: 3) (undefined)
+  "File name": "Имя фаила" # global (count: 4) (undefined)
+  "No files to display": "Нет флотов для отображения" # global (count: 4) (undefined)
+  "OS": "ОС" # global (count: 4) (undefined)
+  "SHA256 Checksum": "Контрольная сумма SHA256" # global (count: 4) (undefined)
+  "Size": "размер" # global (count: 4) (undefined)
   "Socks5 server": "Socks5 сервер"
-  "meta-description": "метаописание" # global (undefined)
-  "title": "заглавие" # global (undefined)
+  "meta-description": "метаописание" # global (count: 13) (undefined)
+  "title": "заглавие" # global (count: 13) (undefined)
 support-new-ticket:
-  "New ticket": "Новое обращение" # global (undefined)
-  "Tickets": "Обращения" # global (undefined)
+  "New ticket": "Новое обращение" # global (count: 2) (undefined)
+  "Tickets": "Обращения" # global (count: 2) (undefined)
 support-ticket:
-  "Tickets": "Обращения" # global (undefined)
+  "Tickets": "Обращения" # global (count: 2) (undefined)
 support:
-  "New ticket": "Новое обращение" # global (undefined)
+  "New ticket": "Новое обращение" # global (count: 2) (undefined)
 ticketSupport.index:
-  "Home": "Дом" # global (undefined)
+  "Home": "Дом" # global (count: 8) (undefined)
 ticketSupport.new-invoice:
-  "Bots": "Боты" # global (defined)
-  "Valid until": "Действителен до" # global (undefined)
+  "Bots": "Боты" # global (count: 5) (defined)
+  "Valid until": "Действителен до" # global (count: 2) (undefined)
 two-factor-authentication-verify:
   "1- Recovery code": "код восстановления"
   "2- Scan this barcode with your app.": "Сканируйте этот штрих-код с помощью вашего приложения."
@@ -1948,11 +1948,11 @@ two-factor:
   "If you wish to use the two-factor authentication on your gameforge account without having to use the proprietary app made by gameforge...": "Если вы хотите использовать двухфакторную аутентификацию в своей учетной записи gameforge без необходимости использовать проприетарное приложение, созданное компанией gameforge..."
   "In a terminal, execute": "В терминале выполните команду"
   "List all your 2fa with": "Перечислите все ваши 2fa с помощью"
-  "Note": "запись" # global (undefined)
-  "Two-Factor Authentication": "Двух-фактурная аунтификация" # global (undefined)
+  "Note": "запись" # global (count: 3) (undefined)
+  "Two-Factor Authentication": "Двух-фактурная аунтификация" # global (count: 2) (undefined)
   "You can now use <a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US\" rel=\"noopener noreferrer\" target=\"_blank\">Google Authenticator</a> instead of gameforge app.": ""
   "You can remove 2fa from your account with": "Вы можете удалить 2fa из своей учетной записи с помощью"
   "You don't need to be a customer to use the following tools.": "Вам не нужно быть клиентом, чтобы использовать следующие инструменты"
-  "meta-description": "метаописание" # global (undefined)
+  "meta-description": "метаописание" # global (count: 13) (undefined)
   "or the output of": "или выход из него"
-  "title": "Заглавие" # global (undefined)
+  "title": "Заглавие" # global (count: 13) (undefined)
