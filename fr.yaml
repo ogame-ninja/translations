@@ -58,9 +58,11 @@ global:
   "Heavy Laser": "Artillerie laser lourde"
   "Home": "Accueil"
   "Honour points": "Points honorifiques"
+  "Hotkeys": "Raccourcis clavier"
   "Hunter": "Hunter"
   "Hyperspace Drive": "Propulsion hyperespace"
   "Hyperspace Technology": "Technologie hyperespace"
+  "I forgot my password": "J'ai oublié mon mot de passe"
   "Impulse Drive": "Réacteur à impulsion"
   "Intergalactic Research Network": "Réseau de recherche intergalactique"
   "Interplanetary Missiles": "Missile interplanétaire"
@@ -83,7 +85,9 @@ global:
   "Missile Attack": "Attaque de missile"
   "Missile Silo": "Silo de missiles"
   "Mission": "Mission"
+  "My licenses": "Mes licences"
   "Nanite Factory": "Usine de nanites"
+  "New license": "Nouvelle licence"
   "Next": "Suivant"
   "No": "Non"
   "Origin": "Origine"
@@ -103,6 +107,7 @@ global:
   "Rapidfire from": "Rapidfire de"
   "Recycle debris field": "Recycler le champ de débris"
   "Recycler": "Recycleur"
+  "Redo": "Refaire"
   "Register": "S'inscrire"
   "Reorder bots": "Réorganiser les robots"
   "Research Lab": "Laboratoire de recherche"
@@ -119,6 +124,7 @@ global:
   "Shield power": "Puissance du bouclier"
   "Shielding Technology": "Technologie Bouclier"
   "Shipyard": "Chantier spatial"
+  "Sign in": "Se connecter"
   "Sign out": "Déconnexion"
   "Simulator": "Simulateur"
   "Small Cargo": "Petit transporteur"
@@ -781,36 +787,36 @@ bot.settings.auctioneer:
 #  "Metal": "" # global (defined)
 #  "Save": "" # global (defined)
 bot.settings.brain:
-  "AI": ""
-  "Batch update": ""
+  "AI": "AI"
+  "Batch update": "Mise à jour par lots"
   "Brain active": "Brain active"
   "Brain configs": "Brain configs"
-  "Build fusion reactor": ""
-  "Build jump gate": ""
-  "Build lifeform buildings": ""
-  "Build lifeform researches": ""
-  "Build solar satellites": ""
-  "Buildings": ""
-  "Delay after exporting resources": ""
-  "Export within same galaxy only": ""
-  "Exporter?": ""
-  "Humans": ""
-  "Importer?": ""
-  "Individual": ""
-  "Kaelesh": ""
-  "Mechas": ""
-  "None": "" # global (undefined)
-  "Planet": "" # global (undefined)
-  "Prevent importing if come back during sleep time": ""
-  "Prioritize nanite factory": ""
-  "Queue": "" # global (undefined)
-  "Rocktal": ""
+  "Build fusion reactor": "Construire réacteur à fusion"
+  "Build jump gate": "Construire porte de saut"
+  "Build lifeform buildings": "Construisre des bâtiments de formes de vie"
+  "Build lifeform researches": "Construire des recherches sur les formes de vie"
+  "Build solar satellites": "Construire des satellites solaires"
+  "Buildings": "Bâtiments"
+  "Delay after exporting resources": "Délai après l'exportation des ressources"
+  "Export within same galaxy only": "Exporter dans la même galaxie uniquement"
+  "Exporter?": "Exportateur?"
+  "Humans": "Humains"
+  "Importer?": "Importateur?"
+  "Individual": "Individuel"
+  "Kaelesh": "Kaelesh"
+  "Mechas": "Mechas"
+  "None": "Aucun" # global (undefined)
+  "Planet": "Planète" # global (undefined)
+  "Prevent importing if come back during sleep time": "Empêcher l'importation si vous revenez pendant le temps de sommeil"
+  "Prioritize nanite factory": "Donner la priorité à l’usine de nanites"
+  "Queue": "Queue" # global (undefined)
+  "Rocktal": "Rocktal"
   "Save": "Sauvegarder" # global (defined)
-  "Set all moons": ""
-  "Set all planets": ""
-  "Try to buy 'offer of the day' every 4h": ""
-  "reset form": ""
-  "to": "" # global (undefined)
+  "Set all moons": "Réglez toutes les lunes"
+  "Set all planets": "Réglez toutes les planètes"
+  "Try to buy 'offer of the day' every 4h": "Essayez d'acheter 'l'offre du jour' toutes les 4 heures"
+  "reset form": "réinitialiser le formulaire"
+  "to": "à" # global (undefined)
 bot.settings.colonizer:
   "Colonize using": ""
   "Colonizer configs": ""
@@ -1005,7 +1011,7 @@ bot.settings.farmer:
   "Planet": "Planète" # global (undefined)
   "Priority calculation": "Calcul de priorité"
   "Range": "portée"
-  "Redo": "Refaire" # global (undefined)
+  "Redo": "Refaire" # global (defined)
   "Save": "Sauvegarder" # global (defined)
   "Select origin": "Sélectionnez l'origine" # global (undefined)
   "Start new session": "Commencer une nouvelle session"
@@ -1045,17 +1051,17 @@ bot.settings.home:
   "Donut system": "Système circulaire"
   "Email": "Email" # global (undefined)
   "Expeditions": "" # global (undefined)
-  "Fingerprint": ""
+  "Fingerprint": "Empreinte"
   "General info": "Informations générales"
 #  "Hunter": "" # global (defined)
-  "No evacuations": ""
+  "No evacuations": "Aucune évacuation"
   "No plans": "Aucun plans"
   "Proxy": "Proxy" # global (undefined)
-  "Repatriate": "" # global (undefined)
+  "Repatriate": "Rapatrier" # global (undefined)
   "Repatriate now": "Rapatrier maintenant"
   "Reschedule evacuation": "Reprogrammer l'évacuation"
-  "Research speed": ""
-  "Ships": "" # global (undefined)
+  "Research speed": "Vitesse de recherche"
+  "Ships": "Vaisseaux" # global (undefined)
   "Skip sus login wait": ""
   "Times": ""
   "Universe": "Univers" # global (undefined)
@@ -1065,7 +1071,7 @@ bot.settings.home:
   "scanner": "" # global (undefined)
 bot.settings.hotkeys:
   "General": "" # global (undefined)
-  "Hotkeys": "" # global (undefined)
+#  "Hotkeys": "" # global (defined)
   "Notifications": "" # global (undefined)
 bot.settings.hunter-target:
   "Alliance": "" # global (undefined)
@@ -1078,18 +1084,18 @@ bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (undefined)
 #  "Actions": "" # global (defined)
   "Activities": "Activités" # global (defined)
-  "Activity": ""
+  "Activity": "Activité"
   "Alliance": "Alliance" # global (undefined)
   "Alliance rank": "Classement de l'alliance"
   "Hunter configs": "Hunter configs"
-  "No activity": "" # global (undefined)
+  "No activity": "Aucune activité" # global (undefined)
   "No targets": "Aucune cible"
   "Player": "Joueur"
   "Player rank": "Classement du joueur"
   "Save": "Sauvegarder" # global (defined)
   "Scan frequency": "Fréquence de scan" # global (undefined)
-  "Scan using": "" # global (undefined)
-  "Vacation": "" # global (undefined)
+  "Scan using": "Scan en utilisant" # global (undefined)
+  "Vacation": "Vacance" # global (undefined)
   "View activities": "Voir les activités"
   "minutes": "minutes" # global (undefined)
   "next in": "prochain dans" # global (undefined)
@@ -1122,7 +1128,7 @@ bot.settings.logs:
   "Created at": "Créé à" # global (defined)
   "Defender": "Defender" # global (defined)
   "Download logs": "Télécharger les journaux"
-  "Expeditions": "" # global (undefined)
+  "Expeditions": "Expéditions" # global (undefined)
   "Farmer": "Farmer" # global (defined)
   "Fleet save": ""
   "General": "General" # global (undefined)
@@ -1134,64 +1140,64 @@ bot.settings.logs:
   "Phalanx": "" # global (undefined)
   "Prev": "Précédent" # global (defined)
   "Repatriate": "Repatriate" # global (undefined)
-  "VM": ""
+  "VM": "VM"
   "scanner": "" # global (undefined)
 bot.settings.messages:
   "All": "" # global (undefined)
-  "Coordinate": "" # global (undefined)
+  "Coordinate": "Coordonnée" # global (undefined)
   "Espionage report": "" # global (undefined)
 #  "Expedition": "" # global (defined)
 #  "Farmer": "" # global (defined)
-  "Importer": ""
+  "Importer": "Importateur"
   "InGame date": "" # global (undefined)
-  "Loot": ""
+  "Loot": "Butin"
   "Manual": ""
-  "Messages": "" # global (undefined)
+  "Messages": "Messages" # global (undefined)
 #  "Next": "" # global (defined)
-  "No messages to show": "" # global (undefined)
+  "No messages to show": "Aucun message à afficher" # global (undefined)
 #  "Prev": "" # global (defined)
-  "Resources": "" # global (undefined)
+  "Resources": "Ressources" # global (undefined)
 bot.settings.notifications:
-  "Bot exit sleep mode": ""
-  "Bot goes to sleep mode": ""
+  "Bot exit sleep mode": "Robot quitte le mode veille"
+  "Bot goes to sleep mode": "Robot passe en mode veille"
 #  "Defender": "" # global (defined)
-  "Discord": ""
-  "Discord webhook for notifications": ""
-  "Email": "" # global (undefined)
-  "Email for notifications": ""
-  "Evacuation fails": ""
-  "Expedition loss": ""
-  "Expeditions": "" # global (undefined)
-  "Failed to fleet save": ""
-  "Farm session completed": ""
-  "Farm session started": ""
+  "Discord": "Discord"
+  "Discord webhook for notifications": "Webhook Discord pour les notifications"
+  "Email": "Email" # global (undefined)
+  "Email for notifications": "Email pour les notifications"
+  "Evacuation fails": "Évacuation échoué"
+  "Expedition loss": "Expédition perdu"
+  "Expeditions": "Expéditions" # global (undefined)
+  "Failed to fleet save": "Échec de la sauvegarde de la flotte"
+  "Farm session completed": "Session de ferme terminée"
+  "Farm session started": "Session de ferme commencé"
 #  "Farmer": "" # global (defined)
-  "Forward ingame chat from alliance": ""
-  "Forward ingame chat from players": ""
-  "General": "" # global (undefined)
+  "Forward ingame chat from alliance": "Transférer le chat de l'alliance"
+  "Forward ingame chat from players": "Transférer le chat des joueurs"
+  "General": "Général" # global (undefined)
   "Global": ""
-  "Hotkeys": "" # global (undefined)
+#  "Hotkeys": "" # global (defined)
 #  "Hunter": "" # global (defined)
-  "Login fails": ""
-  "New attack detected": ""
-  "New missiles attack detected": ""
-  "Notifications": "" # global (undefined)
-  "Recall of fleets": ""
+  "Login fails": "Connexion échoue"
+  "New attack detected": "Nouvelle attaque détectée"
+  "New missiles attack detected": "Nouvelle attaque de missiles détectée"
+  "Notifications": "Notifications" # global (undefined)
+  "Recall of fleets": "Rappel de flottes"
 #  "Save": "" # global (defined)
-  "Slack": ""
-  "Slack username for notifications": ""
-  "Sleep Mode": "" # global (undefined)
-  "Target become inactive": ""
-  "Target dropped in military points": ""
-  "Telegram": ""
-  "Telegram chat id for notifications": ""
-  "test email": ""
-  "test notif": ""
-  "test slack": ""
+  "Slack": "Slack"
+  "Slack username for notifications": "Nom d'utilisateur Slack pour les notifications"
+  "Sleep Mode": "Mode veille" # global (undefined)
+  "Target become inactive": "La cible devient inactive"
+  "Target dropped in military points": "La cible perd des points militaires"
+  "Telegram": "Telegram"
+  "Telegram chat id for notifications": "Identifiant de chat Telegram pour les notifications"
+  "test email": "tester l'email"
+  "test notif": "tester notification"
+  "test slack": "tester slack"
 bot.settings.phalanx:
 #  "Are you sure?": "" # global (defined)
   "Phalanx": "" # global (undefined)
-  "Redo": "" # global (undefined)
+#  "Redo": "" # global (defined)
 #  "Start": "" # global (defined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (undefined)
@@ -1272,7 +1278,7 @@ bot.settings.settings:
   "General options": "Options générales"
   "Homeworld": "" # global (undefined)
   "Host machine Timezone": "Fuseau horaire de la machine hôte"
-  "Hotkeys": "Raccourcis clavier" # global (undefined)
+#  "Hotkeys": "" # global (defined)
   "Large cargo": ""
   "Max brain slots": ""
   "Max colonizer slots": "" # global (undefined)
@@ -1290,7 +1296,7 @@ bot.settings.settings:
   "Ogame username": ""
 #  "Pathfinder": "" # global (defined)
   "Player ID": "" # global (undefined)
-  "Preferred transport ships": "Navires de transport préférés"
+  "Preferred transport ships": "Vaisseaux de transport préférés"
   "Proxy password": "" # global (undefined)
   "Proxy username": "" # global (undefined)
   "Remove ads": "Supprimez la pub"
@@ -1532,8 +1538,8 @@ download-licenses:
   "Full license": "Licence complète"
   "Is cloud": ""
   "Licenses": "" # global (undefined)
-  "My licenses": "Mes licences" # global (undefined)
-  "New license": "Nouvelle licence" # global (undefined)
+#  "My licenses": "" # global (defined)
+  "New license": "Nouvelle licence" # global (defined)
   "No license to display": "Aucune licence à afficher"
   "Renew license": "Renouveler la licence" # global (undefined)
   "UUID": "" # global (undefined)
@@ -1665,7 +1671,7 @@ index:
   "Features": "Fonctionnalités"
 #  "Home": "" # global (defined)
   "Login": "Se connecter"
-  "My licenses": "" # global (undefined)
+#  "My licenses": "" # global (defined)
   "Please": ""
 #  "Pricing": "" # global (defined)
   "Proposals": ""
@@ -1687,7 +1693,7 @@ instance-actions:
 invoice:
 #  "Bots": "" # global (defined)
   "Credit or debit card": "" # global (undefined)
-  "New license": "" # global (undefined)
+#  "New license": "" # global (defined)
   "Pay with Credit/debit card": "" # global (undefined)
   "Pay with paypal": "" # global (undefined)
   "Submit payment": "" # global (undefined)
@@ -1730,21 +1736,21 @@ license:
   "Click \"Renew license\" button": ""
   "License expired": "Licence expirée"
   "Renew license": "Renouveler la licence" # global (undefined)
-  "Stop all bots": ""
+  "Stop all bots": "Arrêtez tous les robots"
   "Upload": "Téléverser" # global (undefined)
   "Upload license file": "Téléverser le fichier de licence"
 login:
-  "I forgot my password": "j'ai oublié mon mot de passe" # global (undefined)
+  "I forgot my password": "j'ai oublié mon mot de passe" # global (defined)
 #  "Password": "" # global (defined)
-  "Sign in": "Se connecter" # global (undefined)
+  "Sign in": "Se connecter" # global (defined)
   "Sign in to continue": "Connectez-vous pour continuer"
 #  "Username": "" # global (defined)
   "meta-description": "Connectez-vous à votre compte." # global (undefined)
   "title": "Connextion Ninja" # global (undefined)
 login2:
-  "I forgot my password": "" # global (undefined)
+  "I forgot my password": "J'ai oublié mon mot de passe" # global (defined)
 #  "Password": "" # global (defined)
-  "Sign in": "" # global (undefined)
+#  "Sign in": "" # global (defined)
 #  "Username": "" # global (defined)
 must-contact:
   "Please contact admins": "S'il vous plaît contacter les administrateurs"
@@ -1805,18 +1811,18 @@ new-fingerprint:
   "XGame": ""
 new-license-paypal-subscribe:
 #  "Download": "" # global (defined)
-  "New license": "" # global (undefined)
+#  "New license": "" # global (defined)
   "Subscribe": "" # global (undefined)
 new-license-subscribe:
 #  "Download": "" # global (defined)
-  "New license": "" # global (undefined)
+#  "New license": "" # global (defined)
   "Subscribe": "" # global (undefined)
 new-license:
   "Buy license": "Acheter une licence" # global (undefined)
   "Credit or debit card": "carte de crédit ou de débit" # global (undefined)
   "Download": "Télécharger" # global (defined)
   "Get trial license": "Obtenir une licence d'essai" # global (undefined)
-  "New license": "Nouvelle licence" # global (undefined)
+  "New license": "Nouvelle licence" # global (defined)
   "Pay with Credit/debit card": "Payer avec une carte de crédit/débit" # global (undefined)
   "Pay with paypal": "Payer avec PayPal" # global (undefined)
   "Self hosting license parameters": "Paramètres de licence d'auto-hébergement" # global (undefined)
@@ -1838,7 +1844,7 @@ new-proxies:
   "Country": ""
   "Credit or debit card": "" # global (undefined)
 #  "Download": "" # global (defined)
-  "New license": "" # global (undefined)
+#  "New license": "" # global (defined)
   "Pay with Credit/debit card": "" # global (undefined)
   "Pay with paypal": "" # global (undefined)
   "Proxies parameters": ""
