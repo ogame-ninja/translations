@@ -136,23 +136,23 @@ global:
   "download the latest version here": "download da última versão aqui"
   "max": "max"
   "update your instance here": "actualize a sua instância aqui"
-admin.bots:
-  "Are you sure?": "" # global (defined)
+#admin.bots:
+#  "Are you sure?": "" # global (defined)
 admin.index:
-  "Bots": "" # global (defined)
-  "License": "" # global (defined)
+#  "Bots": "" # global (defined)
+#  "License": "" # global (defined)
   "Login history": ""
-  "Settings": "" # global (defined)
+#  "Settings": "" # global (defined)
   "Themes": "" # global (undefined)
-  "Update": "" # global (defined)
-  "Users": "" # global (defined)
+#  "Update": "" # global (defined)
+#  "Users": "" # global (defined)
 admin.license:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Bots allowed": "Bots permitidos" # global (undefined)
   "Created": "Criado" # global (undefined)
   "Email": "Email" # global (undefined)
   "Expired": "Expirado" # global (undefined)
-  "License": "" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Proprietário" # global (undefined)
   "Subscription": ""
   "UUID": "UUID" # global (undefined)
@@ -170,29 +170,29 @@ admin.settings:
   "Logs retention (days)": "Manter histórico (dias)"
   "Need application restart": ""
   "Open .ogame folder": "Abrir pasta .ogame"
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Port eg: 587": "Porta ex: 587"
   "Reverse tunnel": "Reverse tunnel"
   "SMTP settings (email)": "Configurações de SMTP (e-mail)"
   "Save": "Guardar" # global (undefined)
-  "Settings": "" # global (defined)
+#  "Settings": "" # global (defined)
   "Start both http / https web servers": ""
   "Start http web server only": ""
   "Start https web server only": ""
   "Telegram bot api token": ""
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
 admin.theme-new:
   "Create theme": "Criar tema"
   "Name": "Nome" # global (undefined)
   "Update theme": "Actualizar tema"
 admin.themes:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Delete theme": "Apagar tema"
   "New theme": "Novo tema"
   "No theme": "Sem tema"
   "Themes": "Temas" # global (undefined)
 admin.update:
-  "Update": "" # global (defined)
+#  "Update": "" # global (defined)
   "Update to latest": "Actualize para o mais recente" # global (undefined)
 admin.updating:
   "You will be redirected soon": "Será redireccionado brevemente"
@@ -201,18 +201,18 @@ admin.user-edit:
   "Email": "Email" # global (undefined)
   "Is admin": "É administrador"
   "No": ""
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Retype password": "Redigite a palavra passe" # global (undefined)
   "Update user": "Actualizar utilizador"
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
   "Yes": ""
 admin.users:
-  "Admin": "" # global (defined)
+#  "Admin": "" # global (defined)
   "Created at": "Criado em" # global (undefined)
   "Delete user": "Apagar utilizador"
   "New user": "Novo utilizador"
-  "Username": "" # global (defined)
-  "Users": "" # global (defined)
+#  "Username": "" # global (defined)
+#  "Users": "" # global (defined)
   "Verified": "Verificado"
 antigame:
   "Arch": "Arch" # global (undefined)
@@ -237,27 +237,27 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Advanced Recycling Plant": ""
   "All": "" # global (undefined)
-  "Alliance Depot": "" # global (defined)
-  "Anti-Ballistic Missiles": "" # global (defined)
+#  "Alliance Depot": "" # global (defined)
+#  "Anti-Ballistic Missiles": "" # global (defined)
   "Antimatter Condenser": ""
   "Antimatter Convector": ""
-  "Are you sure?": "" # global (defined)
-  "Armour Technology": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
+#  "Armour Technology": "" # global (defined)
   "Artificial Swarm Intelligence": ""
   "Assembly Line": ""
-  "Astrophysics": "" # global (defined)
+#  "Astrophysics": "" # global (defined)
   "Automated Transport Lines": ""
   "Automatised Assembly Centre": ""
-  "Battlecruiser": "" # global (defined)
+#  "Battlecruiser": "" # global (defined)
   "Battlecruiser MkII": ""
-  "Battleship": "" # global (defined)
+#  "Battleship": "" # global (defined)
   "Bio Modifier": ""
   "Biosphere Farm": ""
   "BiotechLab": ""
-  "Bomber": "" # global (defined)
+#  "Bomber": "" # global (defined)
   "Bomber MkII": ""
   "Cargo Hold Expansion Civilian Ships": ""
   "Catalyser Technology": ""
@@ -265,41 +265,41 @@ bot.empire:
   "Chrysalis Accelerator": ""
   "Clear all construction queues": "Limpar filas de construção"
   "Cloning Laboratory": ""
-  "Colony Ship": "" # global (defined)
-  "Combustion Drive": "" # global (defined)
-  "Computer Technology": "" # global (defined)
+#  "Colony Ship": "" # global (defined)
+#  "Combustion Drive": "" # global (defined)
+#  "Computer Technology": "" # global (defined)
   "Crawl": "Obter dados conta"
   "Crawler": "Rastejador" # global (undefined)
   "Crawler setting": "Rastejador %"
-  "Cruiser": "" # global (defined)
+#  "Cruiser": "" # global (defined)
   "Cruiser MkII": ""
-  "Crystal": "" # global (defined)
+#  "Crystal": "" # global (defined)
   "Crystal Farm": ""
-  "Crystal Mine": "" # global (defined)
+#  "Crystal Mine": "" # global (defined)
   "Crystal Refinery": ""
-  "Crystal Storage": "" # global (defined)
+#  "Crystal Storage": "" # global (defined)
   "Crystal setting": "Mina de Cristal %"
-  "Deathstar": "" # global (defined)
+#  "Deathstar": "" # global (defined)
   "Defenses": ""
   "Depot AI": ""
   "Depth Sounding": ""
-  "Destroyer": "" # global (defined)
+#  "Destroyer": "" # global (defined)
   "Destroyer MkII": ""
   "Deut synt setting": "Sintetizador de Deutério %"
-  "Deuterium": "" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Deuterium Synthesiser": ""
-  "Deuterium Synthesizer": "" # global (defined)
-  "Deuterium Tank": "" # global (defined)
+#  "Deuterium Synthesizer": "" # global (defined)
+#  "Deuterium Tank": "" # global (defined)
   "Diamond Energy Transmitter": ""
   "Disruption Chamber": ""
   "Efficiency Module": ""
   "Efficient Swarm Intelligence": ""
   "Energy": "Energia"
-  "Energy Technology": "" # global (defined)
+#  "Energy Technology": "" # global (defined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
-  "Espionage Probe": "" # global (defined)
-  "Espionage Technology": "" # global (defined)
+#  "Espionage Probe": "" # global (defined)
+#  "Espionage Technology": "" # global (defined)
   "Experimental Recycling Technology": ""
   "Experimental Weapons Technology": ""
   "Facilities": ""
@@ -309,9 +309,9 @@ bot.empire:
   "Fusion Cell Factory": ""
   "Fusion Drives": ""
   "Fusion Powered Production": ""
-  "Fusion Reactor": "" # global (defined)
+#  "Fusion Reactor": "" # global (defined)
   "Fusion reactor setting": "Planta de Fusão %"
-  "Gauss Cannon": "" # global (defined)
+#  "Gauss Cannon": "" # global (defined)
   "General Overhaul Battlecruiser": ""
   "General Overhaul Battleship": ""
   "General Overhaul Bomber": ""
@@ -320,12 +320,12 @@ bot.empire:
   "General Overhaul Light Fighter": ""
   "Geothermal Power Plants": ""
   "Gravitation Sensors": ""
-  "Graviton Technology": "" # global (defined)
+#  "Graviton Technology": "" # global (defined)
   "Halls Of Realisation": ""
   "Hardened Diamond Drill Heads": ""
   "Heat Recovery": ""
-  "Heavy Fighter": "" # global (defined)
-  "Heavy Laser": "" # global (defined)
+#  "Heavy Fighter": "" # global (defined)
+#  "Heavy Laser": "" # global (defined)
   "High Energy Pump Systems": ""
   "High Energy Smelting": ""
   "High Performance Extractors": ""
@@ -336,32 +336,32 @@ bot.empire:
   "Honour points": "Pontos de honra"
   "Humans buildings": ""
   "Humans researches": ""
-  "Hyperspace Drive": "" # global (defined)
-  "Hyperspace Technology": "" # global (defined)
+#  "Hyperspace Drive": "" # global (defined)
+#  "Hyperspace Technology": "" # global (defined)
   "Improved Drone AI": ""
   "Improved Lab Technology": ""
   "Improved Stellarator": ""
-  "Impulse Drive": "" # global (defined)
+#  "Impulse Drive": "" # global (defined)
   "Intergalactic Envoys": ""
   "Intergalactic Research Network": "Rede Intergaláctica de Pesquisas"
   "Interplanetary Analysis Network": ""
-  "Interplanetary Missiles": "" # global (defined)
-  "Ion Cannon": "" # global (defined)
+#  "Interplanetary Missiles": "" # global (defined)
+#  "Ion Cannon": "" # global (defined)
   "Ion Crystal Enhancement Heavy Fighter": ""
   "Ion Crystal Modules": ""
-  "Ion Technology": "" # global (defined)
-  "Jump Gate": "" # global (defined)
+#  "Ion Technology": "" # global (defined)
+#  "Jump Gate": "" # global (defined)
   "Kaelesh Discoverer Enhancement": ""
   "Kaelesh buildings": ""
   "Kaelesh researches": ""
-  "Large Cargo": "" # global (defined)
-  "Large Shield Dome": "" # global (defined)
-  "Laser Technology": "" # global (defined)
-  "Light Fighter": "" # global (defined)
+#  "Large Cargo": "" # global (defined)
+#  "Large Shield Dome": "" # global (defined)
+#  "Laser Technology": "" # global (defined)
+#  "Light Fighter": "" # global (defined)
   "Light Fighter MkII": ""
-  "Light Laser": "" # global (defined)
+#  "Light Laser": "" # global (defined)
   "Low Temperature Drives": ""
-  "Lunar Base": "" # global (defined)
+#  "Lunar Base": "" # global (defined)
   "Magma Forge": ""
   "Magma Powered Production": ""
   "Magma Powered PumpSystems": ""
@@ -370,16 +370,16 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-  "Metal": "" # global (defined)
-  "Metal Mine": "" # global (defined)
-  "Metal Storage": "" # global (defined)
+#  "Metal": "" # global (defined)
+#  "Metal Mine": "" # global (defined)
+#  "Metal Storage": "" # global (defined)
   "Metal setting": "Mina de Metal %"
   "Metropolis": ""
   "Microchip Assembly Line": ""
   "Mineral Research Centre": ""
-  "Missile Silo": "" # global (defined)
+#  "Missile Silo": "" # global (defined)
   "Moons": ""
-  "Nanite Factory": "" # global (defined)
+#  "Nanite Factory": "" # global (defined)
   "Nano Repair Bots": ""
   "Neuro Calibration Centre": ""
   "Neuro Interface": ""
@@ -395,29 +395,29 @@ bot.empire:
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
-  "Plasma Technology": "" # global (defined)
+#  "Plasma Technology": "" # global (defined)
   "Plasma Terraformer": ""
-  "Plasma Turret": "" # global (defined)
-  "Points": "" # global (defined)
+#  "Plasma Turret": "" # global (defined)
+#  "Points": "" # global (defined)
   "Production Assembly Hall": ""
   "Psionic Modulator": ""
   "Psionic Network": ""
   "Psionic Shield Matrix": ""
   "Psychoharmoniser": ""
   "Quantum Computer Centre": ""
-  "Rank": "" # global (defined)
+#  "Rank": "" # global (defined)
   "Reaper": "" # global (undefined)
-  "Recycler": "" # global (defined)
+#  "Recycler": "" # global (defined)
   "Reorder planets": "" # global (undefined)
   "Research AI": ""
   "Research Centre": ""
-  "Research Lab": "" # global (defined)
+#  "Research Lab": "" # global (defined)
   "Residential Sector": ""
   "Resources": "" # global (undefined)
   "Robot Assistants": ""
-  "Robotics Factory": "" # global (defined)
+#  "Robotics Factory": "" # global (defined)
   "Robotics Research Centre": ""
-  "Rocket Launcher": "" # global (defined)
+#  "Rocket Launcher": "" # global (defined)
   "Rocktal Collector Enhancement": ""
   "Rocktal buildings": ""
   "Rocktal researches": ""
@@ -426,22 +426,22 @@ bot.empire:
   "Rune Technologium": ""
   "Sanctuary": ""
   "Seismic Mining Technology": ""
-  "Sensor Phalanx": "" # global (defined)
-  "Settings": "" # global (defined)
-  "Shielding Technology": "" # global (defined)
+#  "Sensor Phalanx": "" # global (defined)
+#  "Settings": "" # global (defined)
+#  "Shielding Technology": "" # global (defined)
   "Ship Manufacturing Hall": ""
   "Ships": "" # global (undefined)
-  "Shipyard": "" # global (defined)
+#  "Shipyard": "" # global (defined)
   "Sixth Sense": ""
   "Skyscraper": ""
   "Slingshot Autopilot": ""
-  "Small Cargo": "" # global (defined)
-  "Small Shield Dome": "" # global (defined)
-  "Solar Plant": "" # global (defined)
-  "Solar Satellite": "" # global (defined)
+#  "Small Cargo": "" # global (defined)
+#  "Small Shield Dome": "" # global (defined)
+#  "Solar Plant": "" # global (defined)
+#  "Solar Satellite": "" # global (defined)
   "Solar plant setting": "Planta Solar %"
   "Solar sat setting": "Satélites Solares %"
-  "Space Dock": "" # global (defined)
+#  "Space Dock": "" # global (defined)
   "Stealth Field Generator": ""
   "Sulphide Process": ""
   "Supercomputer": ""
@@ -449,65 +449,65 @@ bot.empire:
   "Supra Refractor": ""
   "Telekinetic Drive": ""
   "Telekinetic Tractor Beam": ""
-  "Terraformer": "" # global (defined)
+#  "Terraformer": "" # global (defined)
   "Update Network": ""
   "Updated at": "Actualizado em"
   "Volcanic Batteries": ""
   "Vortex Chamber": ""
-  "Weapons Technology": "" # global (defined)
+#  "Weapons Technology": "" # global (defined)
 bot.flights:
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Activate all": "Activar todos"
   "Active": "Activo" # global (undefined)
   "All": "Todos" # global (undefined)
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Arrival": "Chegada"
   "Arrive at": ""
-  "Arrive in": "" # global (defined)
-  "Attack": "" # global (defined)
-  "Battlecruiser": "" # global (defined)
-  "Battleship": "" # global (defined)
-  "Bomber": "" # global (defined)
+#  "Arrive in": "" # global (defined)
+#  "Attack": "" # global (defined)
+#  "Battlecruiser": "" # global (defined)
+#  "Battleship": "" # global (defined)
+#  "Bomber": "" # global (defined)
   "Cancel Fleet": "Regressar Frota" # global (undefined)
   "Cancel scheduled flight": ""
   "Cargo": "Capacidade"
-  "Colonize": "" # global (defined)
-  "Colony Ship": "" # global (defined)
+#  "Colonize": "" # global (defined)
+#  "Colony Ship": "" # global (defined)
   "Crawler": "Rastejador" # global (undefined)
   "Cron jobs": "Cron jobs"
-  "Cruiser": "" # global (defined)
-  "Crystal": "" # global (defined)
+#  "Cruiser": "" # global (defined)
+#  "Crystal": "" # global (defined)
   "Current fleets": "" # global (undefined)
   "DS": "EDM"
   "Deactivate all": "Desactivar todos"
-  "Deathstar": "" # global (defined)
+#  "Deathstar": "" # global (defined)
   "Debris": "Destroços" # global (undefined)
   "Delete cron job": "Apagar cron job"
   "Delete flight": "Apagar frota"
   "Depart at": ""
-  "Destination": "" # global (defined)
-  "Destroy": "" # global (defined)
-  "Destroyer": "" # global (defined)
-  "Deuterium": "" # global (defined)
+#  "Destination": "" # global (defined)
+#  "Destroy": "" # global (defined)
+#  "Destroyer": "" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Dur": "Dur"
   "Edit cron job": "Editar cron job"
-  "Espionage Probe": "" # global (defined)
+#  "Espionage Probe": "" # global (defined)
   "Exp": "" # global (undefined)
-  "Expedition": "" # global (defined)
+#  "Expedition": "" # global (defined)
   "Flight": "Frota"
   "Fuel": "Consumo"
-  "Grouped Attack": "" # global (defined)
+#  "Grouped Attack": "" # global (defined)
   "Grouped attack": ""
-  "Harvest": "" # global (defined)
-  "Heavy Fighter": "" # global (defined)
+#  "Harvest": "" # global (defined)
+#  "Heavy Fighter": "" # global (defined)
   "Homeworld": "" # global (undefined)
   "Jump gate": "Portal"
   "LC": "CG"
-  "Large Cargo": "" # global (defined)
-  "Light Fighter": "" # global (defined)
-  "Metal": "" # global (defined)
-  "Missile Attack": "" # global (defined)
-  "Mission": "" # global (defined)
+#  "Large Cargo": "" # global (defined)
+#  "Light Fighter": "" # global (defined)
+#  "Metal": "" # global (defined)
+#  "Missile Attack": "" # global (defined)
+#  "Mission": "" # global (defined)
   "Moon": "Lua" # global (undefined)
   "No cron job at the moment": "Sem cron jobs"
   "No fleets": "" # global (undefined)
@@ -515,16 +515,16 @@ bot.flights:
   "No scheduled flights": ""
   "None": "Nada" # global (undefined)
   "Note": "Nota" # global (undefined)
-  "Origin": "" # global (defined)
+#  "Origin": "" # global (defined)
   "PF": "EXP"
-  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (defined)
+#  "Park": "" # global (defined)
+#  "Park In That Ally": "" # global (defined)
   "Pathfinder": "Exploradora" # global (undefined)
   "Planet": "Planeta" # global (undefined)
   "R": ""
   "Reaper": "Ceifeira" # global (undefined)
   "Recycle debris field": "Reciclar campos destroço"
-  "Recycler": "" # global (defined)
+#  "Recycler": "" # global (defined)
   "Resources to": ""
   "Return": "Regresso"
   "SC": "CP"
@@ -538,10 +538,10 @@ bot.flights:
   "Send all resources": "" # global (undefined)
   "Send fleet": "Enviar frota"
   "Send flight": "Enviar movimento"
-  "Small Cargo": "" # global (defined)
+#  "Small Cargo": "" # global (defined)
   "Spec": ""
-  "Spy": "" # global (defined)
-  "Transport": "" # global (defined)
+#  "Spy": "" # global (defined)
+#  "Transport": "" # global (defined)
   "from": "de"
   "keep": ""
   "max": "máx"
@@ -567,41 +567,41 @@ bot.galaxy.player:
   "Add to hunter list": "Adicionar ao hunter"
   "Alliance": "Aliança" # global (undefined)
   "Coords": "Coords" # global (undefined)
-  "Crystal": "" # global (defined)
-  "Deuterium": "" # global (defined)
+#  "Crystal": "" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Espionage": "Espiar" # global (undefined)
   "Espionage report": "Relatório de espionagem" # global (undefined)
-  "Galaxy": "" # global (defined)
+#  "Galaxy": "" # global (defined)
   "Members": "Membros" # global (undefined)
-  "Metal": "" # global (defined)
+#  "Metal": "" # global (defined)
   "Moon": "Lua" # global (undefined)
   "Planet name": "Planeta" # global (undefined)
   "Player name": "Jogador" # global (undefined)
   "Player profile": "Perfil jogador" # global (undefined)
   "RN": "RN" # global (undefined)
-  "Rank": "" # global (defined)
+#  "Rank": "" # global (defined)
   "Updated": "Actualizado" # global (undefined)
 bot.galaxy.table:
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Add alliance to ignore list": "Ignorar aliança"
   "Add player to ignore list": "Ignorar jogador"
   "Alliance": "Aliança" # global (undefined)
   "Coords": "Coords" # global (undefined)
-  "Crystal": "" # global (defined)
+#  "Crystal": "" # global (defined)
   "Debris top 100": "Top 100 destroços"
-  "Deuterium": "" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Espionage": "Espiar" # global (undefined)
   "Espionage report": "Relatório de espionagem" # global (undefined)
   "Get spy reports": "Obter relatórios de espionagem" # global (undefined)
   "Go": "Ir"
   "Members": "Membros" # global (undefined)
-  "Metal": "" # global (defined)
+#  "Metal": "" # global (defined)
   "Moon": "Lua" # global (undefined)
   "Open in OGame browser": "Abrir no navegador"
   "Planet name": "Planeta" # global (undefined)
   "Player name": "Jogador" # global (undefined)
   "RN": "RN" # global (undefined)
-  "Rank": "" # global (defined)
+#  "Rank": "" # global (defined)
   "Scan this page": "Scannar sistema"
   "Scan universe": "Scannar universo"
   "Search": "Procura" # global (undefined)
@@ -612,33 +612,33 @@ bot.index:
   "Bot": "Bot"
   "Browser": "Navegador"
   "Conqueror": "Conqueror"
-  "Empire": "" # global (defined)
+#  "Empire": "" # global (defined)
   "Flights": "Movimentos"
-  "Galaxy": "" # global (defined)
-  "Home": "" # global (defined)
+#  "Galaxy": "" # global (defined)
+#  "Home": "" # global (defined)
   "Scripts": "Scripts"
   "Simulator": "Simulador"
 bot.phalanxPlayer:
   "Arrival time": "" # global (undefined)
-  "Attack": "" # global (defined)
-  "Colonize": "" # global (defined)
-  "Destination": "" # global (defined)
-  "Destroy": "" # global (defined)
-  "Expedition": "" # global (defined)
-  "Galaxy": "" # global (defined)
-  "Grouped Attack": "" # global (defined)
-  "Harvest": "" # global (defined)
-  "Missile Attack": "" # global (defined)
-  "Mission": "" # global (defined)
+#  "Attack": "" # global (defined)
+#  "Colonize": "" # global (defined)
+#  "Destination": "" # global (defined)
+#  "Destroy": "" # global (defined)
+#  "Expedition": "" # global (defined)
+#  "Galaxy": "" # global (defined)
+#  "Grouped Attack": "" # global (defined)
+#  "Harvest": "" # global (defined)
+#  "Missile Attack": "" # global (defined)
+#  "Mission": "" # global (defined)
   "No fleets": "" # global (undefined)
-  "Origin": "" # global (defined)
-  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (defined)
+#  "Origin": "" # global (defined)
+#  "Park": "" # global (defined)
+#  "Park In That Ally": "" # global (defined)
   "Phalanx all": ""
   "Player profile": "" # global (undefined)
   "Ships": "" # global (undefined)
-  "Spy": "" # global (defined)
-  "Transport": "" # global (defined)
+#  "Spy": "" # global (defined)
+#  "Transport": "" # global (defined)
   "Union ID": "" # global (undefined)
 bot.planet:
   "Add to queue": "Adicionar à fila"
@@ -662,85 +662,85 @@ bot.planet:
   "Rapidfire from": "Rapidfire de"
   "Research": "Pesquisa"
   "Shield power": "Poder de escudo"
-  "Shipyard": "" # global (defined)
-  "Speed": "" # global (defined)
+#  "Shipyard": "" # global (defined)
+#  "Speed": "" # global (defined)
   "Structural integrity": "Integridade estrutural"
   "Sum": "Soma"
   "Weapon power": "Poder de armas"
   "no item in queue": "nada na fila"
 bot.reorderPlanets:
-  "Empire": "" # global (defined)
+#  "Empire": "" # global (defined)
   "Reorder planets": "Ordenar planetas" # global (undefined)
 bot.report:
   "Alliance Class": ""
-  "Alliance Depot": "" # global (defined)
-  "Anti-Ballistic Missiles": "" # global (defined)
-  "Armour Technology": "" # global (defined)
-  "Astrophysics": "" # global (defined)
-  "Battlecruiser": "" # global (defined)
-  "Battleship": "" # global (defined)
-  "Bomber": "" # global (defined)
+#  "Alliance Depot": "" # global (defined)
+#  "Anti-Ballistic Missiles": "" # global (defined)
+#  "Armour Technology": "" # global (defined)
+#  "Astrophysics": "" # global (defined)
+#  "Battlecruiser": "" # global (defined)
+#  "Battleship": "" # global (defined)
+#  "Bomber": "" # global (defined)
   "Character Class": ""
-  "Colony Ship": "" # global (defined)
-  "Combustion Drive": "" # global (defined)
-  "Computer Technology": "" # global (defined)
-  "Cruiser": "" # global (defined)
-  "Crystal Mine": "" # global (defined)
-  "Crystal Storage": "" # global (defined)
-  "Deathstar": "" # global (defined)
-  "Destroyer": "" # global (defined)
-  "Deuterium Synthesizer": "" # global (defined)
-  "Deuterium Tank": "" # global (defined)
-  "Energy Technology": "" # global (defined)
-  "Espionage Probe": "" # global (defined)
-  "Espionage Technology": "" # global (defined)
-  "Fusion Reactor": "" # global (defined)
-  "Gauss Cannon": "" # global (defined)
-  "Graviton Technology": "" # global (defined)
-  "Heavy Fighter": "" # global (defined)
-  "Heavy Laser": "" # global (defined)
-  "Hyperspace Drive": "" # global (defined)
-  "Hyperspace Technology": "" # global (defined)
-  "Impulse Drive": "" # global (defined)
-  "Interplanetary Missiles": "" # global (defined)
-  "Ion Cannon": "" # global (defined)
-  "Ion Technology": "" # global (defined)
-  "Jump Gate": "" # global (defined)
-  "Large Cargo": "" # global (defined)
-  "Large Shield Dome": "" # global (defined)
-  "Laser Technology": "" # global (defined)
-  "Light Fighter": "" # global (defined)
-  "Light Laser": "" # global (defined)
+#  "Colony Ship": "" # global (defined)
+#  "Combustion Drive": "" # global (defined)
+#  "Computer Technology": "" # global (defined)
+#  "Cruiser": "" # global (defined)
+#  "Crystal Mine": "" # global (defined)
+#  "Crystal Storage": "" # global (defined)
+#  "Deathstar": "" # global (defined)
+#  "Destroyer": "" # global (defined)
+#  "Deuterium Synthesizer": "" # global (defined)
+#  "Deuterium Tank": "" # global (defined)
+#  "Energy Technology": "" # global (defined)
+#  "Espionage Probe": "" # global (defined)
+#  "Espionage Technology": "" # global (defined)
+#  "Fusion Reactor": "" # global (defined)
+#  "Gauss Cannon": "" # global (defined)
+#  "Graviton Technology": "" # global (defined)
+#  "Heavy Fighter": "" # global (defined)
+#  "Heavy Laser": "" # global (defined)
+#  "Hyperspace Drive": "" # global (defined)
+#  "Hyperspace Technology": "" # global (defined)
+#  "Impulse Drive": "" # global (defined)
+#  "Interplanetary Missiles": "" # global (defined)
+#  "Ion Cannon": "" # global (defined)
+#  "Ion Technology": "" # global (defined)
+#  "Jump Gate": "" # global (defined)
+#  "Large Cargo": "" # global (defined)
+#  "Large Shield Dome": "" # global (defined)
+#  "Laser Technology": "" # global (defined)
+#  "Light Fighter": "" # global (defined)
+#  "Light Laser": "" # global (defined)
   "Load in simulator": "Carregar no simulador"
-  "Lunar Base": "" # global (defined)
-  "Metal Mine": "" # global (defined)
-  "Metal Storage": "" # global (defined)
-  "Missile Silo": "" # global (defined)
-  "Nanite Factory": "" # global (defined)
-  "Plasma Technology": "" # global (defined)
-  "Plasma Turret": "" # global (defined)
-  "Recycler": "" # global (defined)
+#  "Lunar Base": "" # global (defined)
+#  "Metal Mine": "" # global (defined)
+#  "Metal Storage": "" # global (defined)
+#  "Missile Silo": "" # global (defined)
+#  "Nanite Factory": "" # global (defined)
+#  "Plasma Technology": "" # global (defined)
+#  "Plasma Turret": "" # global (defined)
+#  "Recycler": "" # global (defined)
   "Report": "Relatório"
-  "Research Lab": "" # global (defined)
+#  "Research Lab": "" # global (defined)
   "Research Network": "Rede Intergaláctica"
-  "Robotics Factory": "" # global (defined)
-  "Rocket Launcher": "" # global (defined)
-  "Sensor Phalanx": "" # global (defined)
-  "Shielding Technology": "" # global (defined)
-  "Shipyard": "" # global (defined)
-  "Small Cargo": "" # global (defined)
-  "Small Shield Dome": "" # global (defined)
-  "Solar Plant": "" # global (defined)
-  "Solar Satellite": "" # global (defined)
-  "Space Dock": "" # global (defined)
-  "Terraformer": "" # global (defined)
-  "Weapons Technology": "" # global (defined)
+#  "Robotics Factory": "" # global (defined)
+#  "Rocket Launcher": "" # global (defined)
+#  "Sensor Phalanx": "" # global (defined)
+#  "Shielding Technology": "" # global (defined)
+#  "Shipyard": "" # global (defined)
+#  "Small Cargo": "" # global (defined)
+#  "Small Shield Dome": "" # global (defined)
+#  "Solar Plant": "" # global (defined)
+#  "Solar Satellite": "" # global (defined)
+#  "Space Dock": "" # global (defined)
+#  "Terraformer": "" # global (defined)
+#  "Weapons Technology": "" # global (defined)
 bot.scripts:
   "Edit file name": "Editar ficheiro"
   "Pause/unpause": "Pausa/Recomeçar"
   "Run": "Executar"
   "Run at start": "Executar no início" # global (undefined)
-  "Stop": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Upload scripts": ""
   "Validate Script": "Validar Script"
 bot.settings.activities:
@@ -748,7 +748,7 @@ bot.settings.activities:
   "Destination": "Destino" # global (defined)
   "Fleet log": "Log de Frotas"
   "Logins": ""
-  "Mission": "" # global (defined)
+#  "Mission": "" # global (defined)
   "Next": "Seguinte" # global (undefined)
   "No fleet in the log": "Sem frotas no log"
   "Origin": "Origem" # global (defined)
@@ -759,11 +759,11 @@ bot.settings.auctioneer:
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-  "Crystal": "" # global (defined)
-  "Deuterium": "" # global (defined)
+#  "Crystal": "" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Highest bid value": ""
   "Homeworld": "" # global (undefined)
-  "Metal": "" # global (defined)
+#  "Metal": "" # global (defined)
   "Save": "" # global (undefined)
 bot.settings.brain:
   "AI": "AI"
@@ -799,7 +799,7 @@ bot.settings.brain:
 bot.settings.colonizer:
   "Colonize using": ""
   "Colonizer configs": ""
-  "Galaxy": "" # global (defined)
+#  "Galaxy": "" # global (defined)
   "Max colonizer slots": "" # global (undefined)
   "Minimum fields": ""
   "Minimum temperature": ""
@@ -855,12 +855,12 @@ bot.settings.discovery:
   "Save": "" # global (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "All": "" # global (undefined)
   "Category": "Categoria" # global (undefined)
   "Coordinate": "Coordenada" # global (undefined)
   "Espionage report": "Relatório de espionagem" # global (undefined)
-  "Expedition": "" # global (defined)
+#  "Expedition": "" # global (defined)
   "Extract expedition messages": "Extrair mensagens de expedição"
   "InGame date": "Data ingame" # global (undefined)
   "Message": "Mensagem" # global (undefined)
@@ -882,78 +882,78 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Active": "" # global (undefined)
-  "Are you sure?": "" # global (defined)
-  "Arrive in": "" # global (defined)
-  "Attack": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
+#  "Arrive in": "" # global (defined)
+#  "Attack": "" # global (defined)
   "Automatic fleet": ""
-  "Battlecruiser": "" # global (defined)
-  "Battleship": "" # global (defined)
-  "Bomber": "" # global (defined)
+#  "Battlecruiser": "" # global (defined)
+#  "Battleship": "" # global (defined)
+#  "Bomber": "" # global (defined)
   "Cancel Fleet": "Cancelar Frota" # global (undefined)
   "Click here to load current fleets": "Mostrar movimentos"
-  "Colonize": "" # global (defined)
-  "Colony Ship": "" # global (defined)
-  "Cruiser": "" # global (defined)
+#  "Colonize": "" # global (defined)
+#  "Colony Ship": "" # global (defined)
+#  "Cruiser": "" # global (defined)
   "Current fleets": "" # global (undefined)
-  "Deathstar": "" # global (defined)
+#  "Deathstar": "" # global (defined)
   "Delay between fleet (secs)": "Atraso entre vagas (segundos)"
   "Delay between waves (secs)": "Atraso entre sets (segundos)"
-  "Destination": "" # global (defined)
-  "Destroy": "" # global (defined)
-  "Destroyer": "" # global (defined)
+#  "Destination": "" # global (defined)
+#  "Destroy": "" # global (defined)
+#  "Destroyer": "" # global (defined)
   "Duration": ""
-  "Espionage Probe": "" # global (defined)
+#  "Espionage Probe": "" # global (defined)
   "Exp": "Exp" # global (undefined)
-  "Expedition": "" # global (defined)
+#  "Expedition": "" # global (defined)
   "Expedition speed": "Expedição velocidade"
   "Expeditions active": "Expedição activa"
   "Expeditions configs": "Expedição definições"
   "Expeditions origin": "Expedição origem"
-  "Grouped Attack": "" # global (defined)
-  "Harvest": "" # global (defined)
-  "Heavy Fighter": "" # global (defined)
+#  "Grouped Attack": "" # global (defined)
+#  "Harvest": "" # global (defined)
+#  "Heavy Fighter": "" # global (defined)
   "Homeworld": "" # global (undefined)
   "Ignore min deut": "Ignorar min deut"
   "LC that will not be send with auto-split": "CG não serão repartidos automaticamente"
-  "Large Cargo": "" # global (defined)
+#  "Large Cargo": "" # global (defined)
   "Large Cargo to stay": "Carg. Grande para ficar"
-  "Light Fighter": "" # global (defined)
+#  "Light Fighter": "" # global (defined)
   "Minimum Pathfinders": ""
   "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": "Velocidade mínima"
   "Minimum speed for the early PF": "Vel. mín para antecipar exploradora"
-  "Missile Attack": "" # global (defined)
-  "Mission": "" # global (defined)
+#  "Missile Attack": "" # global (defined)
+#  "Mission": "" # global (defined)
   "Name": "Nome" # global (undefined)
   "Never wait (100% getting ban)": "Nunca esperar (100% ban)"
   "No fleets": "Sem frota" # global (undefined)
   "Number to send": "Número a enviar"
-  "Origin": "" # global (defined)
+#  "Origin": "" # global (defined)
   "PF that will not be send with auto-split nor for recycle": "Exp. não será enviada com repartição automática nem para reciclar"
   "PF will be send to arrive at the same time as debris field is created (if any)": "Exp. será enviada para chegar ao mesmo tempo em que o campo de destroços for criado (se houver)"
-  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (defined)
+#  "Park": "" # global (defined)
+#  "Park In That Ally": "" # global (defined)
   "Pathfinder": "Exploradora" # global (undefined)
   "Pathfinders to stay": "Exploradoras para ficar"
   "Reaper": "Ceifeira" # global (undefined)
   "Recycle debris": "Reciclar destroços"
-  "Recycler": "" # global (defined)
+#  "Recycler": "" # global (defined)
   "SC that will not be send with auto-split": "CP não serão repartidos automaticamente"
   "Secs after expedition": "Segs depois da expedição"
   "Select origin": "Seleccionar origem" # global (undefined)
   "Ships per expedition": "Naves por expedição"
   "Slots allowed": "Slots permitidas"
-  "Small Cargo": "" # global (defined)
+#  "Small Cargo": "" # global (defined)
   "Small Cargo to stay": "Carg. Pequenos para ficar"
-  "Spy": "" # global (defined)
+#  "Spy": "" # global (defined)
   "Statistics": "Estatísticas"
   "Strategy": "Estratégia"
   "Systems range": "Intervalo de sistemas"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "Marque a caixa de seleção para dividir automaticamente as naves disponíveis OU insira um número para enviar uma quantidade específica de naves"
   "Time in seconds that early PF will arrive after the expedition": "Tempo em segundos que a Exp chegará após a expedição"
-  "Transport": "" # global (defined)
+#  "Transport": "" # global (defined)
   "Wait for all expeditions slots": "Esperar por todas as vagas (expedição)"
   "Wait for majority of expeditions slots": "Esperar pela maioria das vagas (expedição)"
   "expeditions": "expedições"
@@ -961,15 +961,15 @@ bot.settings.expeditions:
   "unlimited": "ilimitado" # global (undefined)
 bot.settings.farmer:
   "Abort all sessions": "Abortar todas as sessões"
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Active": "" # global (undefined)
   "Additional cargo": "Capacidade adicional"
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Attack from nearest moon": "Atacar da lua mais próxima"
   "Attack from nearest planet": "Atacar do planeta mais próximo"
   "Attack speed": "Velocidade de ataque"
   "Created at": "Criado em" # global (undefined)
-  "Crystal": "" # global (defined)
+#  "Crystal": "" # global (defined)
   "Delete combat reports": "Apagar relatórios de combate"
   "Deuterium": "Deutério" # global (defined)
   "Espionage probe raids": "Atacar com sondas de espionagem"
@@ -1003,36 +1003,36 @@ bot.settings.farmer:
   "ignored players": "jogadores ignorados"
   "statistics": "estatísticas"
 bot.settings.farmerIgnoredAlliances:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Remove all": "Remover todos" # global (undefined)
 bot.settings.farmerIgnoredPlanets:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Remove all": "Remover todos" # global (undefined)
 bot.settings.farmerIgnoredPlayers:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Remove all": "Remover todos" # global (undefined)
 bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-  "Actions": "" # global (defined)
-  "Are you sure?": "" # global (defined)
+#  "Actions": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Attack type": "Tipo de ataque"
   "Attacker": "Atacante" # global (undefined)
   "Brain activities": "Brain actividades"
   "Cancel evacuation": "Cancelar evacuação"
   "Check attacks": "Verificar ataques"
   "Countdowns": "Contagens"
-  "Defender": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Defender activities": "Defender actividades"
-  "Destination": "" # global (defined)
+#  "Destination": "" # global (defined)
   "Donut galaxy": "Galáxia Circular"
   "Donut system": "Sistema Circular"
   "Email": "Email" # global (undefined)
   "Expeditions": "Expedições" # global (undefined)
   "Fingerprint": ""
   "General info": "Informações gerais"
-  "Hunter": "" # global (defined)
+#  "Hunter": "" # global (defined)
   "No evacuations": "Sem evacuações"
   "No plans": "Sem planos"
   "Proxy": "Proxy" # global (undefined)
@@ -1061,7 +1061,7 @@ bot.settings.hunter-target:
   "minutes": "" # global (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- Planeta/Lua activa ---" # global (undefined)
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Activities": "Actividades" # global (defined)
   "Activity": "Actividade"
   "Alliance": "Aliança" # global (undefined)
@@ -1079,24 +1079,24 @@ bot.settings.hunter:
   "minutes": "minutos" # global (undefined)
   "next in": "nos próximos" # global (undefined)
 bot.settings.index:
-  "Activities": "" # global (defined)
+#  "Activities": "" # global (defined)
   "Auctioneer": ""
-  "Brain": "" # global (defined)
+#  "Brain": "" # global (defined)
   "Colonizer": "" # global (undefined)
-  "Defender": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Discovery": ""
   "Expeditions": "Expedições" # global (undefined)
-  "Farmer": "" # global (defined)
-  "Hunter": "" # global (defined)
+#  "Farmer": "" # global (defined)
+#  "Hunter": "" # global (defined)
   "Logs": "Logs"
   "Messages": "Mensagens" # global (undefined)
   "Overview": "Vista Geral"
   "Phalanx": "Phalanx" # global (undefined)
   "Scanner": "Scanner"
-  "Settings": "" # global (defined)
+#  "Settings": "" # global (defined)
   "Sleep mode": "Sleep mode"
-  "Start": "" # global (defined)
-  "Stop": "" # global (defined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
 bot.settings.logs:
   "All": "Tudo" # global (undefined)
   "Audit": "Audit"
@@ -1125,8 +1125,8 @@ bot.settings.messages:
   "All": "Tudo" # global (undefined)
   "Coordinate": "Coordenada" # global (undefined)
   "Espionage report": "Relatório de espionagem" # global (undefined)
-  "Expedition": "" # global (defined)
-  "Farmer": "" # global (defined)
+#  "Expedition": "" # global (defined)
+#  "Farmer": "" # global (defined)
   "Importer": "Importação"
   "InGame date": "Data ingame" # global (undefined)
   "Loot": "Pilhagem"
@@ -1139,7 +1139,7 @@ bot.settings.messages:
 bot.settings.notifications:
   "Bot exit sleep mode": "Bot sai do modo sleep"
   "Bot goes to sleep mode": "Bot entra em modo sleep"
-  "Defender": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Discord": ""
   "Discord webhook for notifications": ""
   "Email": "" # global (undefined)
@@ -1150,13 +1150,13 @@ bot.settings.notifications:
   "Failed to fleet save": "Falha no fleetsave"
   "Farm session completed": "Sessão de farm concluída"
   "Farm session started": "Sessão de farm iniciada"
-  "Farmer": "" # global (defined)
+#  "Farmer": "" # global (defined)
   "Forward ingame chat from alliance": "Reencaminhar chat da aliança"
   "Forward ingame chat from players": "Reencaminhar chat dos jogadores"
   "General": "Geral" # global (undefined)
   "Global": "Global"
   "Hotkeys": "" # global (undefined)
-  "Hunter": "" # global (defined)
+#  "Hunter": "" # global (defined)
   "Login fails": "Login falhou"
   "New attack detected": "Novo ataque detectado"
   "New missiles attack detected": "Ataque de misséis detectados"
@@ -1174,28 +1174,28 @@ bot.settings.notifications:
   "test notif": "testar notif"
   "test slack": "testar Slack"
 bot.settings.phalanx:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Phalanx": "Phalanx" # global (undefined)
   "Redo": "" # global (undefined)
-  "Start": "" # global (defined)
+#  "Start": "" # global (defined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (undefined)
-  "Attack": "" # global (defined)
+#  "Attack": "" # global (defined)
   "Click on a fleet to get timing details": ""
-  "Colonize": "" # global (defined)
-  "Destination": "" # global (defined)
-  "Destroy": "" # global (defined)
-  "Expedition": "" # global (defined)
-  "Grouped Attack": "" # global (defined)
-  "Harvest": "" # global (defined)
+#  "Colonize": "" # global (defined)
+#  "Destination": "" # global (defined)
+#  "Destroy": "" # global (defined)
+#  "Expedition": "" # global (defined)
+#  "Grouped Attack": "" # global (defined)
+#  "Harvest": "" # global (defined)
   "Is general?": ""
-  "Missile Attack": "" # global (defined)
-  "Mission": "" # global (defined)
+#  "Missile Attack": "" # global (defined)
+#  "Mission": "" # global (defined)
   "Next": "Seguinte" # global (undefined)
   "No fleets": "Sem movimentos" # global (undefined)
-  "Origin": "" # global (defined)
-  "Park": "" # global (defined)
-  "Park In That Ally": "" # global (defined)
+#  "Origin": "" # global (defined)
+#  "Park": "" # global (defined)
+#  "Park In That Ally": "" # global (defined)
   "Phalanx": "Phalanx" # global (undefined)
   "Phalanx session": "Sessão Phalanx"
   "Prev": "Anterior" # global (undefined)
@@ -1204,12 +1204,12 @@ bot.settings.phalanxSession:
   "Scheduled arrive time": ""
   "Session aborted": "Sessão abortada"
   "Ships": "" # global (undefined)
-  "Speed": "" # global (defined)
-  "Spy": "" # global (defined)
+#  "Speed": "" # global (defined)
+#  "Spy": "" # global (defined)
   "Started at": ""
-  "Stop": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Target information": ""
-  "Transport": "" # global (defined)
+#  "Transport": "" # global (defined)
   "Union ID": "" # global (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "--- Planeta/lua activo(a) ---" # global (undefined)
@@ -1227,7 +1227,7 @@ bot.settings.scanner:
 bot.settings.settings:
   "--- Default ---": "--- Padrão ---"
   "<strong>Warning:</strong> this is to change the credentials that the bot uses to log into OGame, not to change your lobby password.": "<strong> Aviso: </strong> isto é para alterar as credenciais que o bot usa para entrar no OGame, não para alterar a senha do lobby."
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Auto enable manual mode when using browser": "Habilitar modo manual automaticamente ao usar o navegador"
   "Backup this bot": ""
   "Bot timezone": "Fuso horário do bot"
@@ -1337,11 +1337,11 @@ bot.settings.settings:
 bot.settings.sleepMode:
   "--- Select a destination ---": ""
   "Active": "Activo" # global (undefined)
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Awake bot now": "Acordar bot agora"
-  "Destination": "" # global (defined)
+#  "Destination": "" # global (defined)
   "Every day": "Todos os dias"
-  "Expedition": "" # global (defined)
+#  "Expedition": "" # global (defined)
   "Friday": "Sexta"
   "Manual fleet save": ""
   "Monday": "Segunda"
@@ -1373,63 +1373,63 @@ bot.simulator:
   "Armour": "Blindagem"
   "Attacker": "Atacante" # global (undefined)
   "Attacker win": "Atacante vence"
-  "Battlecruiser": "" # global (defined)
-  "Battleship": "" # global (defined)
-  "Bomber": "" # global (defined)
+#  "Battlecruiser": "" # global (defined)
+#  "Battleship": "" # global (defined)
+#  "Bomber": "" # global (defined)
   "Captured": "Capturado"
   "Cargo's needed": "Cargueiros necessários"
   "Clear player data": "Apagar dados"
-  "Colony Ship": "" # global (defined)
+#  "Colony Ship": "" # global (defined)
   "Combustion": ""
   "Configs": "Definições"
   "Coordinates": "" # global (undefined)
   "Crawler": "Rastejador" # global (undefined)
-  "Cruiser": "" # global (defined)
-  "Crystal": "" # global (defined)
-  "Deathstar": "" # global (defined)
+#  "Cruiser": "" # global (defined)
+#  "Crystal": "" # global (defined)
+#  "Deathstar": "" # global (defined)
   "Debris": "Destroços" # global (undefined)
   "Defence": "Defensor"
   "Defence repair factor": "Factor de reparação de defesa"
   "Defence to debris": "Defesa para destroços"
-  "Defender": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Defender win": "Defensor vence"
-  "Destroyer": "" # global (defined)
-  "Deuterium": "" # global (defined)
+#  "Destroyer": "" # global (defined)
+#  "Deuterium": "" # global (defined)
   "Deuterium save factor": ""
   "Draw": "Empate"
-  "Espionage Probe": "" # global (defined)
+#  "Espionage Probe": "" # global (defined)
   "Fleet speed": ""
   "Fleet to debris": "Frota para destroços"
   "Flight time": ""
-  "Fuel consumption": "" # global (defined)
-  "Gauss Cannon": "" # global (defined)
-  "Heavy Fighter": "" # global (defined)
-  "Heavy Laser": "" # global (defined)
+#  "Fuel consumption": "" # global (defined)
+#  "Gauss Cannon": "" # global (defined)
+#  "Heavy Fighter": "" # global (defined)
+#  "Heavy Laser": "" # global (defined)
   "Hyperspace": ""
   "Hyperspace tech": "Tecnologia de Hiperespaço"
   "Impulse": ""
-  "Interplanetary Missiles": "" # global (defined)
-  "Ion Cannon": "" # global (defined)
-  "Large Cargo": "" # global (defined)
-  "Large Shield Dome": "" # global (defined)
-  "Light Fighter": "" # global (defined)
-  "Light Laser": "" # global (defined)
+#  "Interplanetary Missiles": "" # global (defined)
+#  "Ion Cannon": "" # global (defined)
+#  "Large Cargo": "" # global (defined)
+#  "Large Shield Dome": "" # global (defined)
+#  "Light Fighter": "" # global (defined)
+#  "Light Laser": "" # global (defined)
   "Losses": "Perdas"
-  "Metal": "" # global (defined)
+#  "Metal": "" # global (defined)
   "Moonchance": "Probabilidade de lua"
   "Open in TrashSim": "Abrir no TrashSim"
   "Pathfinder": "Exploradora" # global (undefined)
   "Pathfinders": "Exploradoras"
   "Planet": "Planeta" # global (undefined)
   "Planet/Moon": "Planeta/Lua"
-  "Plasma Turret": "" # global (defined)
+#  "Plasma Turret": "" # global (defined)
   "Plunder": "Pilhagem"
   "Possible": "Possível"
   "Profit": "Lucro"
   "Reaper": "Ceifeira" # global (undefined)
   "Recycler": "Reciclador" # global (defined)
   "Result": "Resultado"
-  "Rocket Launcher": "" # global (defined)
+#  "Rocket Launcher": "" # global (defined)
   "Rounds": "Rondas"
   "Select origin": "Seleccionar origem" # global (undefined)
   "Send attack": "Enviar ataque"
@@ -1437,19 +1437,19 @@ bot.simulator:
   "Shield": "Escudo"
   "Simulate": "Simular"
   "Simulations": "Simulações"
-  "Small Cargo": "" # global (defined)
-  "Small Shield Dome": "" # global (defined)
-  "Solar Satellite": "" # global (defined)
+#  "Small Cargo": "" # global (defined)
+#  "Small Shield Dome": "" # global (defined)
+#  "Solar Satellite": "" # global (defined)
   "Tactical retreat": "Retirada táctica"
   "Weapon": "Armas"
 bot-card:
   "Email": "Email" # global (undefined)
   "Lang": "País" # global (undefined)
-  "Points": "" # global (defined)
+#  "Points": "" # global (defined)
   "Proxy": "" # global (undefined)
-  "Rank": "" # global (defined)
-  "Start": "" # global (defined)
-  "Stop": "" # global (defined)
+#  "Rank": "" # global (defined)
+#  "Start": "" # global (defined)
+#  "Stop": "" # global (defined)
   "Universe": "Universo" # global (undefined)
 captchas-icon:
   "Captchas": "" # global (undefined)
@@ -1476,7 +1476,7 @@ compiled-scripts:
   "Save": "" # global (undefined)
   "failed to save script": ""
 database:
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Delete all keys": "Apagar todas as keys"
   "Key": "Key"
   "Key/value storage": "Key/value storage"
@@ -1508,10 +1508,10 @@ download-antigame:
   "ogame Ninja": "" # global (undefined)
   "title": "" # global (undefined)
 download-licenses:
-  "Actions": "" # global (defined)
+#  "Actions": "" # global (defined)
   "Active": "" # global (undefined)
   "Antigame": "" # global (undefined)
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "Expired": "Expirado" # global (undefined)
   "Expired at": "Expira em"
   "Full license": "Licença completa"
@@ -1542,12 +1542,12 @@ download:
   "ogame Ninja": "" # global (undefined)
   "title": "title" # global (undefined)
 features:
-  "Activities": "" # global (defined)
+#  "Activities": "" # global (defined)
   "Augmented browsing experience": ""
   "Combat simulator": "Simulador de combate" # global (undefined)
-  "Defender": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Vista império" # global (undefined)
-  "Farmer": "" # global (defined)
+#  "Farmer": "" # global (defined)
   "Universe map": "Mapa do universo" # global (undefined)
   "activities-desc": ""
   "augments-desc": ""
@@ -1567,13 +1567,13 @@ first-use:
   "Confirm password": "Confirmar palavra passe"
   "Create admin account": "Criar conta de administrador"
   "Email": "Email" # global (undefined)
-  "Password": "" # global (defined)
-  "Username": "" # global (defined)
+#  "Password": "" # global (defined)
+#  "Username": "" # global (defined)
 forgot-password-reset:
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Reset password": "Redefinir palavra passe"
   "Retype password": "Redigitar palavra passe" # global (undefined)
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
 forgot-password:
   "Email Address": "Endereço Email"
   "Enter your email address to retrieve your password": "Insira o seu email para recuperar a palavra passe"
@@ -1584,9 +1584,9 @@ forgot-password:
 get-trial-key:
   "Get free trial key": "Obtenha a chave de teste grátis"
   "Get trial key": "Obtenha a chave de teste"
-  "Home": "" # global (defined)
+#  "Home": "" # global (defined)
 home-slave:
-  "Bots": "" # global (defined)
+#  "Bots": "" # global (defined)
   "Compiled scripts": ""
   "Create script on all bots": "Criar script para todos os bots" # global (undefined)
   "Download all scripts": ""
@@ -1597,13 +1597,13 @@ home-slave:
   "New bot": "Novo bot" # global (undefined)
   "Other actions": "Outras acções"
   "Player name": "" # global (undefined)
-  "Points": "" # global (defined)
-  "Rank": "" # global (defined)
+#  "Points": "" # global (defined)
+#  "Rank": "" # global (defined)
   "Reorder bots": "Reordenar bots" # global (undefined)
   "Universe": "" # global (undefined)
 home:
-  "Actions": "" # global (defined)
-  "Are you sure?": "" # global (defined)
+#  "Actions": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Domain": "Domínio"
   "Expires": "Expira"
   "Http proxy url:": ""
@@ -1617,27 +1617,27 @@ home:
   "New username": "Novo utilizador" # global (undefined)
   "No proxy to display": ""
   "No servers to display": "Nenhum servidor para mostrar"
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Region": "Região" # global (undefined)
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
   "Version": "Versão" # global (undefined)
   "You're invited to join our Slack server": "Está convidado a juntar-se ao nosso servidor Slack" # global (undefined)
 import:
   "Import bot": ""
   "Upload": "" # global (undefined)
 index:
-  "Account": "" # global (defined)
-  "Admin": "" # global (defined)
+#  "Account": "" # global (defined)
+#  "Admin": "" # global (defined)
   "Captchas": "" # global (undefined)
   "Check again": ""
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "FAQ": "FAQ"
   "Features": "Funcionalidades"
-  "Home": "" # global (defined)
+#  "Home": "" # global (defined)
   "Login": "Login"
   "My licenses": "" # global (undefined)
   "Please": "Por favor"
-  "Pricing": "" # global (defined)
+#  "Pricing": "" # global (defined)
   "Proposals": "Propostas"
   "Register": "Registar"
   "Servers": "Servidores"
@@ -1655,7 +1655,7 @@ instance-actions:
   "New password": "Nova palavra passe" # global (undefined)
   "New username": "Novo utilizador" # global (undefined)
 invoice:
-  "Bots": "" # global (defined)
+#  "Bots": "" # global (defined)
   "Credit or debit card": "Cartão débito ou crédito" # global (undefined)
   "New license": "Nova licença" # global (undefined)
   "Pay with Credit/debit card": "Pague com cartão débito/crédito" # global (undefined)
@@ -1667,7 +1667,7 @@ invoice:
 landing:
   "Combat simulator": "Simulador de combate" # global (undefined)
   "Construction queue": "Fila de construção"
-  "Defender": "" # global (defined)
+#  "Defender": "" # global (defined)
   "Empire view": "Vista império" # global (undefined)
   "Farming": "Farming"
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Slack! Se nunca usou o Slack antes: é grátis, seguro e funciona tanto no desktop como no telefone." # global (undefined)
@@ -1689,14 +1689,14 @@ landing:
 license-view:
   "Bots allowed": "Bots permitidos" # global (undefined)
   "Created": "Criado" # global (undefined)
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "Email": "Email" # global (undefined)
   "Expired": "Expirado" # global (undefined)
-  "License": "" # global (defined)
+#  "License": "" # global (defined)
   "Owner": "Proprietário" # global (undefined)
   "UUID": "UUID" # global (undefined)
 license:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Click \"Renew license\" button": ""
   "License expired": "Licença expirada"
   "Renew license": "Renovar licença" # global (undefined)
@@ -1705,17 +1705,17 @@ license:
   "Upload license file": "Upload licença"
 login:
   "I forgot my password": "Esqueci da palavra passe" # global (undefined)
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Sign in": "Entrar" # global (undefined)
   "Sign in to continue": "Entrar para continuar"
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
 login2:
   "I forgot my password": "Esqueci da palavra passe" # global (undefined)
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Sign in": "Entrar" # global (undefined)
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
 must-contact:
   "Please contact admins": "Por favor contacte os administradores"
   "Please contact ogame.ninja admins": "Por favor contacte os administradores ogame.ninja"
@@ -1766,7 +1766,7 @@ new-fingerprint:
   "Screen height": ""
   "Screen width": ""
   "Timezone": ""
-  "Update": "" # global (defined)
+#  "Update": "" # global (defined)
   "User-agent": ""
   "Version": "" # global (undefined)
   "VideoHash": ""
@@ -1774,17 +1774,17 @@ new-fingerprint:
   "WebglRenderHash": ""
   "XGame": ""
 new-license-paypal-subscribe:
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "New license": "" # global (undefined)
   "Subscribe": "" # global (undefined)
 new-license-subscribe:
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "New license": "" # global (undefined)
   "Subscribe": "" # global (undefined)
 new-license:
   "Buy license": "Comprar licença" # global (undefined)
   "Credit or debit card": "Cartão de débito/crédito" # global (undefined)
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "Obter licença de teste" # global (undefined)
   "New license": "Nova licença" # global (undefined)
   "Pay with Credit/debit card": "Pague com cartão débito/crédito" # global (undefined)
@@ -1807,7 +1807,7 @@ new-proxies:
   "-- Select a country --": ""
   "Country": ""
   "Credit or debit card": "" # global (undefined)
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "New license": "" # global (undefined)
   "Pay with Credit/debit card": "" # global (undefined)
   "Pay with paypal": "" # global (undefined)
@@ -1819,7 +1819,7 @@ new-script:
   "<b>Warning:</b> This will override existing scripts that have the same name.": ""
   "All bots that I have access to": "Todos os bots a que tenho acesso"
   "Create script on all bots": "Criar script para todos os bots" # global (undefined)
-  "Home": "" # global (defined)
+#  "Home": "" # global (defined)
   "My bots": "Meus bots"
   "New script": "Novo script"
   "Place script here": "Coloque o script aqui"
@@ -1827,24 +1827,24 @@ new-script:
   "Script file name": "Nome do ficheiro de script"
   "Where to create the script": "Onde criar o script"
 new-server-paypal-subscribe:
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "New server": "" # global (undefined)
   "Subscribe": "" # global (undefined)
 new-server-subscribe:
   "New server": "" # global (undefined)
-  "Pricing": "" # global (defined)
+#  "Pricing": "" # global (defined)
   "Subscribe": "" # global (undefined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": "3 - 20 letras/números/sublinhado. ex:"
   "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
   "Credit or debit card": "Cartão de débito ou crédito" # global (undefined)
-  "Home": "" # global (defined)
+#  "Home": "" # global (defined)
   "New server": "" # global (undefined)
   "Pay with Credit/debit card": "Pague com cartão débito/crédito" # global (undefined)
   "Pay with paypal": "Pague com paypal" # global (undefined)
   "Region": "Região" # global (undefined)
   "Select one": "Seleccionar um"
-  "Settings": "" # global (defined)
+#  "Settings": "" # global (defined)
   "Subdomain": "Subdomínio"
   "Submit Payment for cloud hosting": "Submeter pagamento para cloud hosting"
   "Total": "Total" # global (undefined)
@@ -1853,7 +1853,7 @@ new-server:
   "we are using": "nós utilizamos" # global (undefined)
 new-trial-license:
   "Buy license": "Comprar licença" # global (undefined)
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "Get trial license": "Obter licença de teste" # global (undefined)
   "New trial license": "Nova licença de teste"
   "description1": "" # global (undefined)
@@ -1869,7 +1869,7 @@ pricing:
   "Buy now": "Comprar agora"
   "Get started": "Comece agora"
   "OGame proxy": ""
-  "Pricing": "" # global (defined)
+#  "Pricing": "" # global (defined)
   "Priority Slack support": "Suporte prioritário pelo Slack"
   "Proxies": ""
   "Self-host": "Self-host"
@@ -1901,29 +1901,29 @@ redeem-code:
   "____-____-____-____-____": ""
   "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (deixe em branco se não souber o que é)" # global (undefined)
 renew-instance-subscribe:
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "Renew instance": "" # global (undefined)
   "Subscribe": "" # global (undefined)
 renew-instance:
   "Credit or debit card": "Cartão de débito ou crédito" # global (undefined)
   "Current license valid until": "Licença actual válida até" # global (undefined)
-  "Home": "" # global (defined)
+#  "Home": "" # global (defined)
   "New license valid until": "Nova licença válida até" # global (undefined)
   "Pay with Credit/debit card": "Pague com cartão débito/crédito" # global (undefined)
   "Pay with paypal": "Pague com paypal" # global (undefined)
   "Renew instance": "Renovar instância" # global (undefined)
-  "Settings": "" # global (defined)
+#  "Settings": "" # global (defined)
   "Submit payment to renew cloud license": "Submeter pagamento para renovar licença cloud"
   "bot": "bot" # global (undefined)
   "we are using": "nós utilizamos" # global (undefined)
 renew-license-subscribe:
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "Renew license": "" # global (undefined)
   "Subscribe": "" # global (undefined)
 renew-license:
   "Credit or debit card": "Cartão de débito ou crédito" # global (undefined)
   "Current license valid until": "Licença actual válida até" # global (undefined)
-  "Download": "" # global (defined)
+#  "Download": "" # global (defined)
   "New license valid until": "Nova licença válida até" # global (undefined)
   "Pay with Credit/debit card": "Pague com cartão débito/crédito" # global (undefined)
   "Pay with paypal": "Pague com paypal" # global (undefined)
@@ -1935,7 +1935,7 @@ renew-license:
   "disclaimer": "aviso legal"
   "we are using": "nós utilizamos" # global (undefined)
 reorder-bots:
-  "Home": "" # global (defined)
+#  "Home": "" # global (defined)
   "Reorder bots": "Reordenar bots" # global (undefined)
 sessions-two-factor-recovery:
   "Recovery code": "Recuperar código"
@@ -1967,7 +1967,7 @@ settings.account:
   "Old password": "Antiga palavra passe"
   "Root admin cannot delete his account": "O administrador não consegue apagar a sua conta"
   "Save": "Guardar" # global (undefined)
-  "Settings": "" # global (defined)
+#  "Settings": "" # global (defined)
   "Slack account": "Conta Slack"
   "Theme": "Tema" # global (undefined)
   "Two-Factor Authentication": "Autenticação de dois factores" # global (undefined)
@@ -1977,7 +1977,7 @@ settings.account:
 settings.api:
   "API": "" # global (undefined)
   "API key": "API key"
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
 settings.gift-cards:
   "Add credit to my account": ""
   "Credit or debit card": "" # global (undefined)
@@ -1994,7 +1994,7 @@ settings.index:
   "Sessions": "Sessões"
   "Subscriptions": "" # global (undefined)
 settings.sessions:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "Expires at": "Expira em"
   "IP": "IP"
   "Revoke": "Revogar"
@@ -2002,16 +2002,16 @@ settings.sessions:
   "Your current session": "Sessão actual"
   "on": "em"
 settings.subscriptions:
-  "Are you sure?": "" # global (defined)
+#  "Are you sure?": "" # global (defined)
   "No subscription to show": ""
   "Subscriptions": "" # global (undefined)
 signup:
   "Email": "Email" # global (undefined)
   "Note": "Nota" # global (undefined)
-  "Password": "" # global (defined)
+#  "Password": "" # global (defined)
   "Retype password": "Redigitar palavra passe" # global (undefined)
   "Sign up": "Entrar"
-  "Username": "" # global (defined)
+#  "Username": "" # global (defined)
   "You will receive an email to validate your account": "Receberá um email para validar a sua conta"
   "meta-description": "" # global (undefined)
   "title": "" # global (undefined)
@@ -2033,10 +2033,10 @@ support-ticket:
   "Tickets": "Tickets" # global (undefined)
 support:
   "New ticket": "Novo ticket" # global (undefined)
-ticketSupport.index:
-  "Home": "" # global (defined)
+#ticketSupport.index:
+#  "Home": "" # global (defined)
 ticketSupport.new-invoice:
-  "Bots": "" # global (defined)
+#  "Bots": "" # global (defined)
   "Valid until": "Válido até" # global (undefined)
 two-factor-authentication-verify:
   "1- Recovery code": "1- Código de recuperação"

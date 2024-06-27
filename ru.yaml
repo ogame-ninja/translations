@@ -3,7 +3,7 @@ global:
 admin.bots:
   "Are you sure?": "" # global (undefined)
 admin.index:
-  "Bots": "" # global (defined)
+#  "Bots": "" # global (defined)
   "License": "Лицензия" # global (undefined)
   "Login history": "Логин История"
   "Settings": "Настройки" # global (undefined)
