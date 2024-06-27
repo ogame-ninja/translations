@@ -166,8 +166,14 @@ admin.license:
   "Upload file": ""
   "unlimited": "無限制" # global (undefined)
 admin.login-history:
+  "Created at": "" # global (undefined)
+  "Deleted at": ""
+  "Expires at": "" # global (undefined)
+  "IP": "" # global (undefined)
   "Next": "下頁" # global (defined)
   "Prev": "前頁" # global (defined)
+  "User": ""
+  "User-agent": "" # global (undefined)
 admin.settings:
   "General": "一般" # global (undefined)
   "Gives you access to your self-host server through": "通過以下給予自行託管主機權限"
@@ -1593,15 +1599,15 @@ get-trial-key:
   "Home": "主頁" # global (defined)
 home-slave:
   "Bots": "機器人們" # global (defined)
-  "Compiled scripts": ""
+  "Compiled scripts": "" # global (undefined)
   "Create script on all bots": "於所有機器人上生成腳本" # global (undefined)
-  "Download all scripts": ""
+  "Download all scripts": "" # global (undefined)
 #  "Email": "" # global (defined)
-  "Export bots": ""
-  "ID": ""
-  "Import bots": ""
+  "Export bots": "" # global (undefined)
+  "ID": "" # global (undefined)
+  "Import bots": "" # global (undefined)
   "New bot": "新機器人" # global (undefined)
-  "Other actions": "其他動作"
+  "Other actions": "其他動作" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
 #  "Rank": "" # global (defined)
@@ -1610,21 +1616,36 @@ home-slave:
 home:
   "Actions": "動作" # global (defined)
   "Are you sure?": "您確定嗎?" # global (defined)
+#  "Bots": "" # global (defined)
+  "Compiled scripts": "" # global (undefined)
+  "Create script on all bots": "" # global (undefined)
   "Domain": "域名"
+  "Download all scripts": "" # global (undefined)
+#  "Email": "" # global (defined)
   "Expires": "失效於"
+  "Export bots": "" # global (undefined)
   "Http proxy url:": ""
+  "ID": "" # global (undefined)
+  "Import bots": "" # global (undefined)
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我們的Slack服務器! 如果您從未使用過Slack：它免費、安全、且在電腦、行動裝置皆可使用" # global (undefined)
   "Join the server now": "現在加入服務器" # global (undefined)
   "My proxies": ""
   "My servers": "我的伺服器"
+  "New bot": "" # global (undefined)
   "New password": "新密碼" # global (undefined)
   "New proxy": ""
   "New server": "新伺服器" # global (undefined)
   "New username": "新使用者名稱" # global (undefined)
   "No proxy to display": ""
   "No servers to display": "沒有可顯示的伺服器"
+  "Other actions": "" # global (undefined)
 #  "Password": "" # global (defined)
+  "Player name": "" # global (undefined)
+#  "Points": "" # global (defined)
+#  "Rank": "" # global (defined)
   "Region": "地區" # global (undefined)
+  "Reorder bots": "" # global (undefined)
+  "Universe": "" # global (undefined)
 #  "Username": "" # global (defined)
   "Version": "版本" # global (undefined)
   "You're invited to join our Slack server": "邀請您加入我們的Slack服務器" # global (undefined)
@@ -1773,7 +1794,7 @@ new-fingerprint:
   "Screen width": ""
   "Timezone": ""
 #  "Update": "" # global (defined)
-  "User-agent": ""
+  "User-agent": "" # global (undefined)
   "Version": "" # global (undefined)
   "VideoHash": ""
   "Webgl info": ""
@@ -2001,8 +2022,8 @@ settings.index:
   "Subscriptions": "" # global (undefined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)
-  "Expires at": "失效於"
-  "IP": ""
+  "Expires at": "失效於" # global (undefined)
+  "IP": "" # global (undefined)
   "Revoke": "撤銷"
   "User agent": "使用者代理"
   "Your current session": "您當前的工作階段"

@@ -160,8 +160,14 @@ admin.license:
   "Upload file": ""
   "unlimited": "ilimitado" # global (undefined)
 admin.login-history:
+  "Created at": "" # global (undefined)
+  "Deleted at": ""
+  "Expires at": "" # global (undefined)
+  "IP": "" # global (undefined)
   "Next": "Seguinte" # global (undefined)
   "Prev": "Anterior" # global (undefined)
+  "User": ""
+  "User-agent": "" # global (undefined)
 admin.settings:
   "General": "Geral" # global (undefined)
   "Gives you access to your self-host server through": "Dá-lhe acesso ao seu servidor self-host através de"
@@ -1587,15 +1593,15 @@ get-trial-key:
 #  "Home": "" # global (defined)
 home-slave:
 #  "Bots": "" # global (defined)
-  "Compiled scripts": ""
+  "Compiled scripts": "" # global (undefined)
   "Create script on all bots": "Criar script para todos os bots" # global (undefined)
-  "Download all scripts": ""
+  "Download all scripts": "" # global (undefined)
   "Email": "" # global (undefined)
-  "Export bots": ""
-  "ID": ""
-  "Import bots": ""
+  "Export bots": "" # global (undefined)
+  "ID": "" # global (undefined)
+  "Import bots": "" # global (undefined)
   "New bot": "Novo bot" # global (undefined)
-  "Other actions": "Outras acções"
+  "Other actions": "Outras acções" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
 #  "Rank": "" # global (defined)
@@ -1604,21 +1610,36 @@ home-slave:
 home:
 #  "Actions": "" # global (defined)
 #  "Are you sure?": "" # global (defined)
+#  "Bots": "" # global (defined)
+  "Compiled scripts": "" # global (undefined)
+  "Create script on all bots": "" # global (undefined)
   "Domain": "Domínio"
+  "Download all scripts": "" # global (undefined)
+  "Email": "" # global (undefined)
   "Expires": "Expira"
+  "Export bots": "" # global (undefined)
   "Http proxy url:": ""
+  "ID": "" # global (undefined)
+  "Import bots": "" # global (undefined)
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Junte-se ao nosso servidor Slack! Se você nunca usou o Slack antes: é grátis, seguro e funciona tanto no desktop como no telefone." # global (undefined)
   "Join the server now": "Junte-se ao servidor agora" # global (undefined)
   "My proxies": ""
   "My servers": "Meus Servidores"
+  "New bot": "" # global (undefined)
   "New password": "Nova palavra passe" # global (undefined)
   "New proxy": ""
   "New server": "Novo Servidor" # global (undefined)
   "New username": "Novo utilizador" # global (undefined)
   "No proxy to display": ""
   "No servers to display": "Nenhum servidor para mostrar"
+  "Other actions": "" # global (undefined)
 #  "Password": "" # global (defined)
+  "Player name": "" # global (undefined)
+#  "Points": "" # global (defined)
+#  "Rank": "" # global (defined)
   "Region": "Região" # global (undefined)
+  "Reorder bots": "" # global (undefined)
+  "Universe": "" # global (undefined)
 #  "Username": "" # global (defined)
   "Version": "Versão" # global (undefined)
   "You're invited to join our Slack server": "Está convidado a juntar-se ao nosso servidor Slack" # global (undefined)
@@ -1767,7 +1788,7 @@ new-fingerprint:
   "Screen width": ""
   "Timezone": ""
 #  "Update": "" # global (defined)
-  "User-agent": ""
+  "User-agent": "" # global (undefined)
   "Version": "" # global (undefined)
   "VideoHash": ""
   "Webgl info": ""
@@ -1995,8 +2016,8 @@ settings.index:
   "Subscriptions": "" # global (undefined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)
-  "Expires at": "Expira em"
-  "IP": "IP"
+  "Expires at": "Expira em" # global (undefined)
+  "IP": "IP" # global (undefined)
   "Revoke": "Revogar"
   "User agent": "User agent"
   "Your current session": "Sessão actual"

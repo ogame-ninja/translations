@@ -23,6 +23,7 @@ global:
   "Combustion Drive": "Réacteur à combustion"
   "Computer Technology": "Technologie Ordinateur"
   "Crawl": "Crawl"
+  "Created at": "Créé le"
   "Cruiser": "Croiseur"
   "Crystal": "Cristal"
   "Crystal Mine": "Mine de cristal"
@@ -41,6 +42,7 @@ global:
   "Espionage Probe": "Sonde d'espionnage"
   "Espionage Technology": "Technologie Espionnage"
   "Expedition": "Expédition"
+  "Expires at": "Expire à"
   "FAQ": "FAQ"
   "Farmer": "Farmer"
   "Features": "Fonctionnalités"
@@ -102,6 +104,7 @@ global:
   "Recycle debris field": "Recycler le champ de débris"
   "Recycler": "Recycleur"
   "Register": "S'inscrire"
+  "Reorder bots": "Réorganiser les robots"
   "Research Lab": "Laboratoire de recherche"
   "Research Network": "Réseau de recherche intergalactique"
   "Robotics Factory": "Usine de robots"
@@ -147,7 +150,7 @@ global:
 admin.index:
 #  "Bots": "" # global (defined)
 #  "License": "" # global (defined)
-  "Login history": ""
+  "Login history": "Historique de connexion"
 #  "Settings": "" # global (defined)
   "Themes": "" # global (undefined)
 #  "Update": "" # global (defined)
@@ -163,11 +166,17 @@ admin.license:
   "Subscription": "Abonnement"
   "UUID": "" # global (undefined)
   "Upload": "" # global (undefined)
-  "Upload file": ""
+  "Upload file": "Téléverser un fichier"
   "unlimited": "illimitée" # global (undefined)
-#admin.login-history:
+admin.login-history:
+#  "Created at": "" # global (defined)
+  "Deleted at": "Supprimé le"
+#  "Expires at": "" # global (defined)
+  "IP": "" # global (undefined)
 #  "Next": "" # global (defined)
 #  "Prev": "" # global (defined)
+  "User": "Utilisateur"
+  "User-agent": "" # global (undefined)
 admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": "Vous donne accès à votre serveur self-host via"
@@ -175,7 +184,7 @@ admin.settings:
   "Images URL": ""
   "Logs retention (days)": "Conservation des journaux (jours)"
   "Need application restart": "Besoin de redémarrer l'application"
-  "Open .ogame folder": "Ouvrez le dossier .ogame"
+  "Open .ogame folder": "Ouvrir le dossier .ogame"
 #  "Password": "" # global (defined)
   "Port eg: 587": "Port eg: 587"
   "Reverse tunnel": "Tunnel inverse"
@@ -188,15 +197,15 @@ admin.settings:
   "Telegram bot api token": "Telegram bot api token"
 #  "Username": "" # global (defined)
 admin.theme-new:
-  "Create theme": ""
-  "Name": "" # global (undefined)
-  "Update theme": ""
+  "Create theme": "Créer un thème"
+  "Name": "Nom" # global (undefined)
+  "Update theme": "Mettre à jour le thème"
 admin.themes:
 #  "Are you sure?": "" # global (defined)
-  "Delete theme": ""
-  "New theme": ""
-  "No theme": ""
-  "Themes": "" # global (undefined)
+  "Delete theme": "Supprimer le thème"
+  "New theme": "Nouveau thème"
+  "No theme": "Aucun thème"
+  "Themes": "Thèmes" # global (undefined)
 admin.update:
   "Update": "Mettre à jour" # global (defined)
   "Update to latest": "Mise à jour vers la dernière version" # global (undefined)
@@ -214,7 +223,7 @@ admin.user-edit:
   "Yes": "Oui"
 admin.users:
   "Admin": "Administrateur" # global (defined)
-  "Created at": "Créé le" # global (undefined)
+  "Created at": "Créé le" # global (defined)
   "Delete user": "Supprimer l'utilisateur"
   "New user": "Nouvel utilisateur"
 #  "Username": "" # global (defined)
@@ -750,7 +759,7 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": ""
 bot.settings.activities:
-  "Created at": "Créé à" # global (undefined)
+  "Created at": "Créé à" # global (defined)
   "Destination": "Destination" # global (defined)
   "Fleet log": "Journal des flottes"
   "Logins": ""
@@ -974,7 +983,7 @@ bot.settings.farmer:
   "Attack from nearest moon": ""
   "Attack from nearest planet": "Attaque de la planète la plus proche"
   "Attack speed": "Vitesse d'attaque"
-  "Created at": "Créé à" # global (undefined)
+  "Created at": "Créé à" # global (defined)
   "Crystal": "Cristal" # global (defined)
   "Delete combat reports": ""
   "Deuterium": "Deutérium" # global (defined)
@@ -1110,7 +1119,7 @@ bot.settings.logs:
   "Category": "Catégorie" # global (undefined)
   "Colonizer": "" # global (undefined)
   "Crawler": "Crawler" # global (undefined)
-  "Created at": "Créé à" # global (undefined)
+  "Created at": "Créé à" # global (defined)
   "Defender": "Defender" # global (defined)
   "Download logs": "Télécharger les journaux"
   "Expeditions": "" # global (undefined)
@@ -1593,41 +1602,56 @@ get-trial-key:
 #  "Home": "" # global (defined)
 home-slave:
 #  "Bots": "" # global (defined)
-  "Compiled scripts": ""
+  "Compiled scripts": "" # global (undefined)
   "Create script on all bots": "" # global (undefined)
-  "Download all scripts": ""
+  "Download all scripts": "" # global (undefined)
   "Email": "" # global (undefined)
-  "Export bots": ""
-  "ID": ""
-  "Import bots": ""
+  "Export bots": "" # global (undefined)
+  "ID": "" # global (undefined)
+  "Import bots": "" # global (undefined)
   "New bot": "" # global (undefined)
-  "Other actions": ""
+  "Other actions": "" # global (undefined)
   "Player name": "" # global (undefined)
 #  "Points": "" # global (defined)
 #  "Rank": "" # global (defined)
-  "Reorder bots": "" # global (undefined)
+#  "Reorder bots": "" # global (defined)
   "Universe": "" # global (undefined)
 home:
 #  "Actions": "" # global (defined)
 #  "Are you sure?": "" # global (defined)
+#  "Bots": "" # global (defined)
+  "Compiled scripts": "Scripts compilés" # global (undefined)
+  "Create script on all bots": "Créer un script sur tous les robots" # global (undefined)
   "Domain": "Domaine"
+  "Download all scripts": "Téléchargez tous les scripts" # global (undefined)
+  "Email": "Email" # global (undefined)
   "Expires": ""
-  "Http proxy url:": ""
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (undefined)
+  "Export bots": "Exporter des robots" # global (undefined)
+  "Http proxy url:": "URL du proxy HTTP"
+  "ID": "ID" # global (undefined)
+  "Import bots": "Importer des robots" # global (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Rejoignez notre serveur Slack ! Si vous n'avez jamais utilisé Slack auparavant : il est gratuit, sécurisé et fonctionne à la fois sur votre ordinateur et sur votre téléphone." # global (undefined)
   "Join the server now": "Rejoignez le serveur maintenant" # global (undefined)
   "My proxies": "Mes proxies"
   "My servers": "Mes serveurs"
-  "New password": "" # global (undefined)
+  "New bot": "Nouveau robot" # global (undefined)
+  "New password": "Nouveau mot de passe" # global (undefined)
   "New proxy": "Nouveau proxy"
   "New server": "Nouveau serveur" # global (undefined)
-  "New username": "" # global (undefined)
+  "New username": "Nouveau nom d'utilisateur" # global (undefined)
   "No proxy to display": "Aucun proxy à afficher"
   "No servers to display": "Aucun serveur à afficher"
+  "Other actions": "Autres actions" # global (undefined)
 #  "Password": "" # global (defined)
-  "Region": "" # global (undefined)
+  "Player name": "Nom du joueur" # global (undefined)
+#  "Points": "" # global (defined)
+#  "Rank": "" # global (defined)
+  "Region": "Région" # global (undefined)
+#  "Reorder bots": "" # global (defined)
+  "Universe": "Univers" # global (undefined)
 #  "Username": "" # global (defined)
-  "Version": "" # global (undefined)
-  "You're invited to join our Slack server": "" # global (undefined)
+  "Version": "Version" # global (undefined)
+  "You're invited to join our Slack server": "Vous êtes invité à rejoindre notre serveur Slack" # global (undefined)
 import:
   "Import bot": ""
   "Upload": "" # global (undefined)
@@ -1773,7 +1797,7 @@ new-fingerprint:
   "Screen width": ""
   "Timezone": ""
 #  "Update": "" # global (defined)
-  "User-agent": ""
+  "User-agent": "" # global (undefined)
   "Version": "" # global (undefined)
   "VideoHash": ""
   "Webgl info": ""
@@ -1864,7 +1888,7 @@ new-trial-license:
   "New trial license": "Nouvelle licence d'essai"
   "description1": "La licence d'évaluation ne fonctionne que pour <strong>1 compte ogame</strong>.<br /> Vous devez indiquer le compte pour lequel la licence est utilisée.<br /> La licence est <strong>valable 48 heures</strong> et ne peut être renouvelée.<br /> Les 48h commencent au moment où vous soumettez ce formulaire." # global (undefined)
 notifications:
-  "Created at": "Créé le" # global (undefined)
+  "Created at": "Créé le" # global (defined)
   "Message": "Message" # global (undefined)
   "No notifications": "Aucune notification"
   "Notifications": "Notifications" # global (undefined)
@@ -1940,9 +1964,9 @@ renew-license:
   "bot": "" # global (undefined)
   "disclaimer": "<strong>AVERTISSEMENT:</strong> Cette licence est pour vous d'auto-héberger, ce qui signifie que vous devrez exécuter le programme sur votre ordinateur pour que le bot fonctionne.<br /> Si vous souhaitez <a href=\"/servers/new\">utiliser notre option cloud</a>, ce qui signifie que nous allons exécuter le bot pour vous sur votre propre serveur dédié privé, veuillez cliquer <a href=\"/servers/new\">ici</a>."
   "we are using": "nous utilisons" # global (undefined)
-reorder-bots:
+#reorder-bots:
 #  "Home": "" # global (defined)
-  "Reorder bots": "Réorganiser les robots" # global (undefined)
+#  "Reorder bots": "" # global (defined)
 sessions-two-factor-recovery:
   "Recovery code": ""
   "Two-factor recovery": ""
@@ -2001,8 +2025,8 @@ settings.index:
 #  "Subscriptions": "" # global (defined)
 settings.sessions:
 #  "Are you sure?": "" # global (defined)
-  "Expires at": "Expire à"
-  "IP": "IP"
+#  "Expires at": "" # global (defined)
+  "IP": "IP" # global (undefined)
   "Revoke": "Révoquer"
   "User agent": "Agent utilisateur"
   "Your current session": "Session en cours"
