@@ -168,68 +168,6 @@ admin.license:
 admin.login-history:
   "Next": "下頁" # global (defined)
   "Prev": "前頁" # global (defined)
-admin.masterAdmin.audits:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.captcha:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.downloads:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.gift-cards:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.invoices:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.license:
-  "Save": "保存" # global (undefined)
-admin.masterAdmin.licenses:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.lum-zone-edit:
-  "Create zone": ""
-  "Nb gIP": ""
-  "Update zone": ""
-  "User ID": ""
-admin.masterAdmin.lum-zone:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.lum-zones:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.machines:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.new-invoice:
-  "Bots": "機器人們" # global (defined)
-  "Valid until": "有效直到" # global (undefined)
-admin.masterAdmin.payments:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.slaves-server:
-  "Are you sure?": "您確定嗎?" # global (defined)
-admin.masterAdmin.tags:
-  "New tag": "新標籤"
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
-admin.masterAdmin.user-edit:
-  "Create user": "新增使用者" # global (undefined)
-  "Email": "電子信箱" # global (defined)
-  "Is admin": "為管理者" # global (undefined)
-  "No": "否" # global (defined)
-  "Password": "密碼" # global (defined)
-  "Retype password": "再次輸入密碼" # global (undefined)
-  "Slack ID": ""
-  "Update user": "更新使用者" # global (undefined)
-  "Username": "使用者名稱" # global (defined)
-  "Yes": "是" # global (defined)
-admin.masterAdmin.user:
-  "New note": "新註記"
-admin.masterAdmin.users:
-  "Next": "下頁" # global (defined)
-  "Prev": "前頁" # global (defined)
 admin.settings:
   "General": "一般" # global (undefined)
   "Gives you access to your self-host server through": "通過以下給予自行託管主機權限"
@@ -265,15 +203,15 @@ admin.update:
 admin.updating:
   "You will be redirected soon": "將馬上重新定向"
 admin.user-edit:
-  "Create user": "新增使用者" # global (undefined)
+  "Create user": "新增使用者"
   "Email": "電子信箱" # global (defined)
-  "Is admin": "為管理者" # global (undefined)
-  "No": "否" # global (defined)
+  "Is admin": "為管理者"
+  "No": "否"
   "Password": "密碼" # global (defined)
   "Retype password": "再次輸入密碼" # global (undefined)
-  "Update user": "更新使用者" # global (undefined)
+  "Update user": "更新使用者"
   "Username": "使用者名稱" # global (defined)
-  "Yes": "是" # global (defined)
+  "Yes": "是"
 admin.users:
   "Admin": "管理員" # global (defined)
   "Created at": "創造於" # global (undefined)

@@ -207,68 +207,6 @@ admin.license:
 admin.login-history:
   "Next": "" # global (defined)
   "Prev": "" # global (defined)
-admin.masterAdmin.audits:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.captcha:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.downloads:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.gift-cards:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.invoices:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.license:
-  "Save": "" # global (undefined)
-admin.masterAdmin.licenses:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.lum-zone-edit:
-  "Create zone": ""
-  "Nb gIP": ""
-  "Update zone": ""
-  "User ID": ""
-admin.masterAdmin.lum-zone:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.lum-zones:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.machines:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.new-invoice:
-  "Bots": "" # global (defined)
-  "Valid until": "" # global (defined)
-admin.masterAdmin.payments:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.slaves-server:
-  "Are you sure?": "" # global (defined)
-admin.masterAdmin.tags:
-  "New tag": ""
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
-admin.masterAdmin.user-edit:
-  "Create user": "Benutzer erstellen" # global (undefined)
-  "Email": "Email" # global (defined)
-  "Is admin": "Ist Admin" # global (undefined)
-  "No": "" # global (defined)
-  "Password": "" # global (defined)
-  "Retype password": "Passwort wiederholen" # global (undefined)
-  "Slack ID": ""
-  "Update user": "Benutzter aktualisieren" # global (undefined)
-  "Username": "" # global (defined)
-  "Yes": "" # global (defined)
-admin.masterAdmin.user:
-  "New note": ""
-admin.masterAdmin.users:
-  "Next": "" # global (defined)
-  "Prev": "" # global (defined)
 admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": "Zugriff auf den selbst gehosteten Server durch"
@@ -304,15 +242,15 @@ admin.update:
 admin.updating:
   "You will be redirected soon": "Sie werden gleich weitergeleitet"
 admin.user-edit:
-  "Create user": "Benutzer erstellen" # global (undefined)
+  "Create user": "Benutzer erstellen"
   "Email": "Email" # global (defined)
-  "Is admin": "Ist Admin" # global (undefined)
-  "No": "" # global (defined)
+  "Is admin": "Ist Admin"
+  "No": ""
   "Password": "" # global (defined)
   "Retype password": "Passwort wiederholen" # global (undefined)
-  "Update user": "Benutzer aktualisieren" # global (undefined)
+  "Update user": "Benutzer aktualisieren"
   "Username": "" # global (defined)
-  "Yes": "" # global (defined)
+  "Yes": ""
 admin.users:
   "Admin": "Admin" # global (defined)
   "Created at": "Erstellt am" # global (defined)

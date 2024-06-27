@@ -25,68 +25,6 @@ admin.license:
 admin.login-history:
   "Next": "" # global (undefined)
   "Prev": "" # global (undefined)
-admin.masterAdmin.audits:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.captcha:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.downloads:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.gift-cards:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.invoices:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.license:
-  "Save": "" # global (undefined)
-admin.masterAdmin.licenses:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.lum-zone-edit:
-  "Create zone": ""
-  "Nb gIP": ""
-  "Update zone": ""
-  "User ID": ""
-admin.masterAdmin.lum-zone:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.lum-zones:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.machines:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.new-invoice:
-  "Bots": "" # global (undefined)
-  "Valid until": "" # global (undefined)
-admin.masterAdmin.payments:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.slaves-server:
-  "Are you sure?": "" # global (undefined)
-admin.masterAdmin.tags:
-  "New tag": ""
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.user-edit:
-  "Create user": "" # global (undefined)
-  "Email": "" # global (undefined)
-  "Is admin": "" # global (undefined)
-  "No": "" # global (undefined)
-  "Password": "" # global (undefined)
-  "Retype password": "" # global (undefined)
-  "Slack ID": ""
-  "Update user": "" # global (undefined)
-  "Username": "" # global (undefined)
-  "Yes": "" # global (undefined)
-admin.masterAdmin.user:
-  "New note": ""
-admin.masterAdmin.users:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
 admin.settings:
   "General": "" # global (undefined)
   "Gives you access to your self-host server through": ""
@@ -122,15 +60,15 @@ admin.update:
 admin.updating:
   "You will be redirected soon": ""
 admin.user-edit:
-  "Create user": "" # global (undefined)
+  "Create user": ""
   "Email": "" # global (undefined)
-  "Is admin": "" # global (undefined)
-  "No": "" # global (undefined)
+  "Is admin": ""
+  "No": ""
   "Password": "" # global (undefined)
   "Retype password": "" # global (undefined)
-  "Update user": "" # global (undefined)
+  "Update user": ""
   "Username": "" # global (undefined)
-  "Yes": "" # global (undefined)
+  "Yes": ""
 admin.users:
   "Admin": "" # global (undefined)
   "Created at": "" # global (undefined)

@@ -26,68 +26,6 @@ admin.license:
 admin.login-history:
   "Next": "Следующий" # global (undefined)
   "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.audits:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.captcha:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.downloads:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.gift-cards:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.invoices:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.license:
-  "Save": "Сохранить" # global (undefined)
-admin.masterAdmin.licenses:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.lum-zone-edit:
-  "Create zone": ""
-  "Nb gIP": ""
-  "Update zone": ""
-  "User ID": ""
-admin.masterAdmin.lum-zone:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.lum-zones:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.machines:
-  "Next": "" # global (undefined)
-  "Prev": "" # global (undefined)
-admin.masterAdmin.new-invoice:
-  "Bots": "Боты" # global (defined)
-  "Valid until": "Действует до тех пор пока" # global (undefined)
-admin.masterAdmin.payments:
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.slaves-server:
-  "Are you sure?": "Вы Уверены?" # global (undefined)
-admin.masterAdmin.tags:
-  "New tag": "Новый #Тэг"
-  "Next": "Следующий" # global (undefined)
-  "Prev": "Предыдущий" # global (undefined)
-admin.masterAdmin.user-edit:
-  "Create user": "Новый Пользователь" # global (undefined)
-  "Email": "Емал" # global (undefined)
-  "Is admin": "Это Админ" # global (undefined)
-  "No": "Нет" # global (undefined)
-  "Password": "Пароль" # global (undefined)
-  "Retype password": "Сбросить Пароль" # global (undefined)
-  "Slack ID": "Slask Индификатор"
-  "Update user": "Обновить Пользователя" # global (undefined)
-  "Username": "Имя Пользователя" # global (undefined)
-  "Yes": "Да" # global (undefined)
-admin.masterAdmin.user:
-  "New note": "Новая Запись"
-admin.masterAdmin.users:
-  "Next": "Следующая" # global (undefined)
-  "Prev": "Предыдущая" # global (undefined)
 admin.settings:
   "General": "Общие" # global (undefined)
   "Gives you access to your self-host server through": "Дает вам доступ к вашему самостоятельному хост-серверу через"
@@ -123,15 +61,15 @@ admin.update:
 admin.updating:
   "You will be redirected soon": "Вы будете перенаправлены в ближайшее время"
 admin.user-edit:
-  "Create user": "Создать Пользователя" # global (undefined)
+  "Create user": "Создать Пользователя"
   "Email": "Емайл" # global (undefined)
-  "Is admin": "Это Админ" # global (undefined)
-  "No": "Нет" # global (undefined)
+  "Is admin": "Это Админ"
+  "No": "Нет"
   "Password": "Пароль" # global (undefined)
   "Retype password": "Сбросить Пароль" # global (undefined)
-  "Update user": "Обновить Пользователя" # global (undefined)
+  "Update user": "Обновить Пользователя"
   "Username": "Имя пользователя" # global (undefined)
-  "Yes": "Да" # global (undefined)
+  "Yes": "Да"
 admin.users:
   "Admin": "Админ" # global (undefined)
   "Created at": "Создать " # global (undefined)
