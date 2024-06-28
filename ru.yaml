@@ -374,7 +374,6 @@ bot.flights:
   "Jump gate": "Звездные врата"
   "LC": "БТ"
   "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
-  "Large cargo": "" # global (count: 2) (undefined)
   "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
   "Metal": "Металл" # global (count: 7) (undefined)
   "Missile Attack": "Ракетная Атака" # global (count: 4) (undefined)
@@ -411,7 +410,6 @@ bot.flights:
   "Send flight": "Отправить Флот"
   "Ships to": ""
   "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
-  "Small cargo": "" # global (count: 2) (undefined)
   "Spec": "Спецификация"
   "Spy": "Шпионаж" # global (count: 4) (undefined)
   "Transport": "Транспорт" # global (count: 4) (undefined)
@@ -1133,7 +1131,7 @@ bot.settings.settings:
   "Homeworld": "Главная планета" # global (count: 5) (undefined)
   "Host machine Timezone": "Часов пояс Хост машины"
   "Hotkeys": "" # global (count: 3) (undefined)
-  "Large cargo": "Большой Транспорт" # global (count: 2) (undefined)
+  "Large cargo": "Большой Транспорт"
   "Max brain slots": "Максимальное количество слотов для ИИ"
   "Max colonizer slots": "" # global (count: 2) (undefined)
   "Max discovery slots": "" # global (count: 2) (undefined)
@@ -1163,7 +1161,7 @@ bot.settings.settings:
   "Share with": "Поделиться"
   "Show credentials": "Показать Учетные данные"
   "Slots reserved for player": "Резервировать слотов для игрока"
-  "Small cargo": "Малый Транспорт" # global (count: 2) (undefined)
+  "Small cargo": "Малый Транспорт"
   "Solve captcha": ""
   "Sort planets in dropdowns by": "Сортировка планет в выпадающих списках по"
   "Theme": "Тема" # global (count: 2) (undefined)
