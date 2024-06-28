@@ -500,6 +500,7 @@ bot.empire:
   "Vortex Chamber": ""
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
+  "ACS Attack": ""
 #  "Actions": "" # global (count: 12) (defined)
   "Activate all": ""
   "Active": "Activo" # global (count: 6) (undefined)
@@ -515,6 +516,7 @@ bot.flights:
   "Cancel Fleet": "Cancelar flota" # global (count: 2) (undefined)
   "Cancel scheduled flight": ""
   "Cargo": ""
+  "Colonisation": ""
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Colony Ship": "" # global (count: 6) (defined)
   "Crawler": "" # global (count: 5) (undefined)
@@ -529,12 +531,14 @@ bot.flights:
   "Delete cron job": "Borrar Tarea CRON"
   "Delete flight": "Borrar flota"
   "Depart at": ""
+  "Deployment": ""
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
 #  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Dur": "Duración"
   "Edit cron job": "Editar Tarea CRON"
+  "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
   "Exp": "Exp" # global (count: 2) (undefined)
 #  "Expedition": "" # global (count: 7) (defined)
@@ -553,6 +557,7 @@ bot.flights:
 #  "Missile Attack": "" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
   "Moon": "Luna" # global (count: 3) (undefined)
+  "Moon Destruction": ""
   "No cron job at the moment": "(sin tareas CRON)"
   "No fleets": "(sin flotas en vuelo)" # global (count: 4) (undefined)
   "No saved flights": "(sin flotas salvadas)"
@@ -615,7 +620,7 @@ bot.galaxy.player:
   "Coords": "Coordenadas" # global (count: 2) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "" # global (count: 3) (undefined)
   "Espionage report": "Informe de espionaje" # global (count: 4) (undefined)
 #  "Galaxy": "" # global (count: 4) (defined)
   "Members": "Miembros" # global (count: 2) (undefined)
@@ -636,7 +641,7 @@ bot.galaxy.table:
 #  "Crystal": "" # global (count: 8) (defined)
   "Debris top 100": "Top 100 campos de escombros"
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "" # global (count: 3) (undefined)
   "Espionage report": "Informe de espionaje" # global (count: 4) (undefined)
   "Get spy reports": "Obtener informes de espionaje" # global (count: 2) (undefined)
   "Go": "Ir"
@@ -1222,6 +1227,7 @@ bot.settings.notifications:
   "test notif": ""
   "test slack": ""
 bot.settings.phalanx:
+  "--- Select origin moon ---": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Phalanx": "" # global (count: 4) (undefined)
   "Redo": "" # global (count: 2) (undefined)

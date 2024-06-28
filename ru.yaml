@@ -364,6 +364,7 @@ bot.empire:
   "Vortex Chamber": ""
   "Weapons Technology": "" # global (count: 2) (undefined)
 bot.flights:
+  "ACS Attack": ""
   "Actions": "Действия" # global (count: 12) (undefined)
   "Activate all": "Активировать все"
   "Active": "Активный" # global (count: 6) (undefined)
@@ -379,6 +380,7 @@ bot.flights:
   "Cancel Fleet": "Отозвать" # global (count: 2) (undefined)
   "Cancel scheduled flight": ""
   "Cargo": "Вместимость"
+  "Colonisation": ""
   "Colonize": "Колонизировать" # global (count: 4) (undefined)
   "Colony Ship": "Колонизатор" # global (count: 6) (undefined)
   "Crawler": "Гусеничка" # global (count: 5) (undefined)
@@ -393,12 +395,14 @@ bot.flights:
   "Delete cron job": "Удалить Задание работы"
   "Delete flight": "Удалить Сохраненное задание флота"
   "Depart at": ""
+  "Deployment": ""
   "Destination": "Расстояние" # global (count: 7) (undefined)
   "Destroy": "Уничтожить" # global (count: 4) (undefined)
   "Destroyer": "Уничтожитель" # global (count: 6) (undefined)
   "Deuterium": "Дейтерий" # global (count: 8) (undefined)
   "Dur": "Время полета"
   "Edit cron job": "Редактировать Задание работы"
+  "Espionage": "" # global (count: 3) (undefined)
   "Espionage Probe": "Шпионский Зонд" # global (count: 6) (undefined)
   "Exp": "Экспа" # global (count: 2) (undefined)
   "Expedition": "Экспедиция" # global (count: 7) (undefined)
@@ -417,6 +421,7 @@ bot.flights:
   "Missile Attack": "Ракетная Атака" # global (count: 4) (undefined)
   "Mission": "Миссия" # global (count: 5) (undefined)
   "Moon": "Луна" # global (count: 3) (undefined)
+  "Moon Destruction": ""
   "No cron job at the moment": "На данный момент никакого задания работы  нет"
   "No fleets": "Нет передвижения флотов" # global (count: 4) (undefined)
   "No saved flights": "Нет сохранены заданий флотов"
@@ -479,7 +484,7 @@ bot.galaxy.player:
   "Coords": "Координаты" # global (count: 2) (undefined)
   "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Deuterium": "" # global (count: 8) (undefined)
-  "Espionage": "Шпионаж" # global (count: 2) (undefined)
+  "Espionage": "Шпионаж" # global (count: 3) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
   "Galaxy": "Галактика" # global (count: 4) (undefined)
   "Members": "Число Игроков" # global (count: 2) (undefined)
@@ -500,7 +505,7 @@ bot.galaxy.table:
   "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Debris top 100": "Топ 100 Поле обломков"
   "Deuterium": "" # global (count: 8) (undefined)
-  "Espionage": "Шпионаж" # global (count: 2) (undefined)
+  "Espionage": "Шпионаж" # global (count: 3) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
   "Get spy reports": "Вчитать шпионские доклады" # global (count: 2) (undefined)
   "Go": "Вперед"
@@ -1086,6 +1091,7 @@ bot.settings.notifications:
   "test notif": "Тест уведомление"
   "test slack": "Тест Сласк"
 bot.settings.phalanx:
+  "--- Select origin moon ---": ""
   "Are you sure?": "" # global (count: 19) (undefined)
   "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
   "Redo": "" # global (count: 2) (undefined)

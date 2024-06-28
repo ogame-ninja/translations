@@ -506,6 +506,7 @@ bot.empire:
   "Vortex Chamber": ""
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
+  "ACS Attack": ""
 #  "Actions": "" # global (count: 12) (defined)
   "Activate all": "激活所有"
   "Active": "活動中" # global (count: 6) (undefined)
@@ -521,6 +522,7 @@ bot.flights:
   "Cancel Fleet": "取消艦隊" # global (count: 2) (undefined)
   "Cancel scheduled flight": "取消預定艦隊"
   "Cargo": "容量"
+  "Colonisation": ""
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Colony Ship": "" # global (count: 6) (defined)
 #  "Crawler": "" # global (count: 5) (defined)
@@ -535,12 +537,14 @@ bot.flights:
   "Delete cron job": "刪除任務"
   "Delete flight": "刪除飛行任務"
   "Depart at": "啟航於"
+  "Deployment": ""
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
 #  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Dur": "持續時間"
   "Edit cron job": "編輯任務"
+  "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
   "Exp": "探" # global (count: 2) (undefined)
 #  "Expedition": "" # global (count: 7) (defined)
@@ -559,6 +563,7 @@ bot.flights:
   "Missile Attack": "導彈攻擊彈" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
 #  "Moon": "" # global (count: 3) (defined)
+  "Moon Destruction": ""
   "No cron job at the moment": "當前並無任務時間表"
   "No fleets": "沒有艦船" # global (count: 4) (undefined)
   "No saved flights": "沒有保存的艦隊"
@@ -621,7 +626,7 @@ bot.galaxy.player:
   "Coords": "座標" # global (count: 2) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "" # global (count: 3) (undefined)
   "Espionage report": "間諜報告" # global (count: 4) (undefined)
 #  "Galaxy": "" # global (count: 4) (defined)
   "Members": "成員" # global (count: 2) (undefined)
@@ -642,7 +647,7 @@ bot.galaxy.table:
 #  "Crystal": "" # global (count: 8) (defined)
   "Debris top 100": "前100廢墟量"
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage": "間諜" # global (count: 2) (undefined)
+  "Espionage": "間諜" # global (count: 3) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
   "Get spy reports": "" # global (count: 2) (undefined)
   "Go": "前往"
@@ -1228,6 +1233,7 @@ bot.settings.notifications:
   "test notif": "測試通知"
   "test slack": "測試Slack"
 bot.settings.phalanx:
+  "--- Select origin moon ---": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Phalanx": "感應陣列" # global (count: 4) (undefined)
   "Redo": "" # global (count: 2) (undefined)

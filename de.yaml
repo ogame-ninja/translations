@@ -545,6 +545,7 @@ bot.empire:
   "Vortex Chamber": ""
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
+  "ACS Attack": ""
 #  "Actions": "" # global (count: 12) (defined)
   "Activate all": "Alle aktivieren"
 #  "Active": "" # global (count: 6) (defined)
@@ -560,6 +561,7 @@ bot.flights:
 #  "Cancel Fleet": "" # global (count: 2) (defined)
   "Cancel scheduled flight": ""
   "Cargo": "Laderaum"
+  "Colonisation": ""
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Colony Ship": "" # global (count: 6) (defined)
   "Crawler": "" # global (count: 5) (undefined)
@@ -574,12 +576,14 @@ bot.flights:
   "Delete cron job": "Cronjob löschen"
   "Delete flight": "Flug löschen"
   "Depart at": ""
+  "Deployment": ""
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
 #  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Dur": "Dauer"
   "Edit cron job": "Cronjob bearbeiten"
+  "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
 #  "Exp": "" # global (count: 2) (defined)
 #  "Expedition": "" # global (count: 7) (defined)
@@ -598,6 +602,7 @@ bot.flights:
 #  "Missile Attack": "" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
 #  "Moon": "" # global (count: 3) (defined)
+  "Moon Destruction": ""
   "No cron job at the moment": "Derzeit kein Cronjob eingerichtet"
 #  "No fleets": "" # global (count: 4) (defined)
   "No saved flights": "Keine gespeicherten Flüge"
@@ -660,7 +665,7 @@ bot.galaxy.player:
 #  "Coords": "" # global (count: 2) (defined)
 #  "Crystal": "" # global (count: 8) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Members": "" # global (count: 2) (defined)
@@ -681,7 +686,7 @@ bot.galaxy.table:
 #  "Crystal": "" # global (count: 8) (defined)
   "Debris top 100": "Top100 Trümmerfelder"
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
 #  "Get spy reports": "" # global (count: 2) (defined)
   "Go": "Los"
@@ -1267,6 +1272,7 @@ bot.settings.notifications:
   "test notif": ""
   "test slack": ""
 bot.settings.phalanx:
+  "--- Select origin moon ---": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Phalanx": "" # global (count: 4) (undefined)
   "Redo": "" # global (count: 2) (undefined)
