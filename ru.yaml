@@ -1440,6 +1440,8 @@ first-use:
   "Email": "Емайл" # global (count: 11) (undefined)
   "Password": "Пароль" # global (count: 8) (undefined)
   "Username": "Имя Пользователя" # global (count: 10) (undefined)
+flash:
+  "I don't want to wait": ""
 forgot-password-reset:
   "Password": "Пароль" # global (count: 8) (undefined)
   "Reset password": "Сбросить пароль"

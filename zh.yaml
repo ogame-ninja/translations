@@ -1582,6 +1582,8 @@ first-use:
 #  "Email": "" # global (count: 11) (defined)
 #  "Password": "" # global (count: 8) (defined)
   "Username": "使用者名稱" # global (count: 10) (defined)
+flash:
+  "I don't want to wait": ""
 forgot-password-reset:
 #  "Password": "" # global (count: 8) (defined)
   "Reset password": "重設密碼"

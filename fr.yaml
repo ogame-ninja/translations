@@ -1652,6 +1652,8 @@ first-use:
 #  "Email": "" # global (count: 11) (defined)
 #  "Password": "" # global (count: 8) (defined)
 #  "Username": "" # global (count: 10) (defined)
+flash:
+  "I don't want to wait": "Je ne veux pas attendre"
 forgot-password-reset:
 #  "Password": "" # global (count: 8) (defined)
   "Reset password": "Réinitialiser le mot de passe"

@@ -1439,6 +1439,8 @@ first-use:
   "Email": "" # global (count: 11) (undefined)
   "Password": "" # global (count: 8) (undefined)
   "Username": "" # global (count: 10) (undefined)
+flash:
+  "I don't want to wait": ""
 forgot-password-reset:
   "Password": "" # global (count: 8) (undefined)
   "Reset password": ""
