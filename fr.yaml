@@ -697,7 +697,7 @@ bot.galaxy.table:
 bot.index:
 #  "Bot": "" # global (count: 1) (defined)
 #  "Browser": "" # global (count: 1) (defined)
-  "Conqueror": "Conquérant"
+  "Conqueror": "Conquéreur"
 #  "Empire": "" # global (count: 2) (defined)
 #  "Flights": "" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
