@@ -614,6 +614,7 @@ bot.galaxy.table:
   "Player name": "玩家名称" # global (count: 4) (undefined)
   "RN": "所需回收船" # global (count: 2) (undefined)
 #  "Rank": "" # global (count: 6) (defined)
+  "Recyclers Needed": ""
   "Scan this page": "扫描此页"
   "Scan universe": "扫描宇宙"
   "Search": "寻找" # global (count: 3) (undefined)
@@ -2100,3 +2101,17 @@ two-factor:
   "meta-description": "描述标籤" # global (count: 13) (undefined)
   "or the output of": "或其输出"
   "title": "标题" # global (count: 13) (undefined)
+server:
+  "Bye!": ""
+  "Settings changed successfully": ""
+  "account defender started: (%d-%d) (%d-%d), recall %s (%d-%d)": ""
+  "applied %d migrations": ""
+  "colonizer started": ""
+  "database using %s": ""
+  "defender feature needs to be started": ""
+  "done checking attacks": ""
+  "graceful shutdown": ""
+  "graceful shutdown failed: %s": ""
+  "running migrations": ""
+  "slotsManager started": ""
+  "webserver started on": ""

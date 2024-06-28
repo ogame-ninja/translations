@@ -653,6 +653,7 @@ bot.galaxy.table:
 #  "Player name": "" # global (count: 4) (defined)
   "RN": "Anzahl Recycler" # global (count: 2) (undefined)
   "Rank": "Rang" # global (count: 6) (defined)
+  "Recyclers Needed": ""
   "Scan this page": "Diese Seite scannen"
   "Scan universe": "Scane Universum"
   "Search": "Suche" # global (count: 3) (undefined)
@@ -2139,3 +2140,17 @@ two-factor:
   "meta-description": "Zwei Faktoren Authentifizierung" # global (count: 13) (undefined)
   "or the output of": "oder die Ausgabe von"
   "title": "Zwei Faktoren Authentifizierung" # global (count: 13) (undefined)
+server:
+  "Bye!": ""
+  "Settings changed successfully": ""
+  "account defender started: (%d-%d) (%d-%d), recall %s (%d-%d)": ""
+  "applied %d migrations": ""
+  "colonizer started": ""
+  "database using %s": ""
+  "defender feature needs to be started": ""
+  "done checking attacks": ""
+  "graceful shutdown": ""
+  "graceful shutdown failed: %s": ""
+  "running migrations": ""
+  "slotsManager started": ""
+  "webserver started on": ""

@@ -472,6 +472,7 @@ bot.galaxy.table:
   "Player name": "Имя Игрока" # global (count: 4) (undefined)
   "RN": "Кол." # global (count: 2) (undefined)
   "Rank": "Ранк" # global (count: 6) (undefined)
+  "Recyclers Needed": ""
   "Scan this page": "Сканировать эту систему"
   "Scan universe": "Сканировать Всю галактику"
   "Search": "Поиск" # global (count: 3) (undefined)
@@ -1958,3 +1959,17 @@ two-factor:
   "meta-description": "метаописание" # global (count: 13) (undefined)
   "or the output of": "или выход из него"
   "title": "Заглавие" # global (count: 13) (undefined)
+server:
+  "Bye!": ""
+  "Settings changed successfully": ""
+  "account defender started: (%d-%d) (%d-%d), recall %s (%d-%d)": ""
+  "applied %d migrations": ""
+  "colonizer started": ""
+  "database using %s": ""
+  "defender feature needs to be started": ""
+  "done checking attacks": ""
+  "graceful shutdown": ""
+  "graceful shutdown failed: %s": ""
+  "running migrations": ""
+  "slotsManager started": ""
+  "webserver started on": ""
