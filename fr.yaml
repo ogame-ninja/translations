@@ -1,4 +1,5 @@
 global:
+  "--- Currently active planet/moon ---": "--- Planète/lune actuellement active ---"
   "Account": "Compte"
   "Actions": "Actions"
   "Active": "Actif"
@@ -10,6 +11,7 @@ global:
   "Arch": "Arch"
   "Are you sure?": "Êtes-vous sûr?"
   "Armour Technology": "Technologie Protection des vaisseaux spatiaux"
+  "Arrival time": "Heure d'arrivée"
   "Arrive in": "Arrive dans"
   "Astrophysics": "Astrophysique"
   "Attack": "Attaque"
@@ -217,7 +219,7 @@ admin.index:
 #  "License": "" # global (count: 3) (defined)
   "Login history": "Historique de connexion"
 #  "Settings": "" # global (count: 7) (defined)
-  "Themes": "" # global (count: 2) (undefined)
+  "Themes": "Thèmes" # global (count: 2) (undefined)
 #  "Update": "" # global (count: 3) (defined)
 #  "Users": "" # global (count: 2) (defined)
 admin.license:
@@ -237,16 +239,16 @@ admin.login-history:
 #  "Created at": "" # global (count: 6) (defined)
   "Deleted at": "Supprimé le"
 #  "Expires at": "" # global (count: 2) (defined)
-  "IP": "" # global (count: 2) (undefined)
+  "IP": "IP" # global (count: 2) (undefined)
 #  "Next": "" # global (count: 9) (defined)
 #  "Prev": "" # global (count: 9) (defined)
   "User": "Utilisateur"
-  "User-agent": "" # global (count: 2) (undefined)
+  "User-agent": "User-agent" # global (count: 2) (undefined)
 admin.settings:
-  "General": "" # global (count: 5) (undefined)
+  "General": "Général" # global (count: 5) (undefined)
   "Gives you access to your self-host server through": "Vous donne accès à votre serveur self-host via"
   "Host eg: smtp.gmail.com": "Hôte eg: smtp.gmail.com"
-  "Images URL": ""
+  "Images URL": "URL d'images"
   "Logs retention (days)": "Conservation des journaux (jours)"
   "Need application restart": "Besoin de redémarrer l'application"
   "Open .ogame folder": "Ouvrir le dossier .ogame"
@@ -537,34 +539,34 @@ bot.empire:
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
 #  "Actions": "" # global (count: 12) (defined)
-  "Activate all": ""
+  "Activate all": "Activer tout"
 #  "Active": "" # global (count: 6) (defined)
   "All": "Toute" # global (count: 5) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
-  "Arrival": ""
-  "Arrive at": ""
+  "Arrival": "Arrivée"
+  "Arrive at": "Arrive à"
 #  "Arrive in": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 4) (defined)
 #  "Battlecruiser": "" # global (count: 5) (defined)
 #  "Battleship": "" # global (count: 5) (defined)
 #  "Bomber": "" # global (count: 5) (defined)
   "Cancel Fleet": "Annuler la flotte" # global (count: 2) (undefined)
-  "Cancel scheduled flight": ""
-  "Cargo": ""
+  "Cancel scheduled flight": "Annuler un vol programmé"
+  "Cargo": "Cargaison"
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Colony Ship": "" # global (count: 5) (defined)
-  "Crawler": "" # global (count: 4) (undefined)
+  "Crawler": "Foreuse" # global (count: 4) (undefined)
   "Cron jobs": "Cron jobs"
 #  "Cruiser": "" # global (count: 5) (defined)
 #  "Crystal": "" # global (count: 7) (defined)
   "Current fleets": "Flottes actuelles" # global (count: 2) (undefined)
-  "DS": ""
-  "Deactivate all": ""
+  "DS": "EDLM"
+  "Deactivate all": "Désactiver tout"
 #  "Deathstar": "" # global (count: 5) (defined)
   "Debris": "Débris" # global (count: 2) (undefined)
   "Delete cron job": "Supprimer la cron job"
   "Delete flight": "Supprimer le vol"
-  "Depart at": ""
+  "Depart at": "Départ à"
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
 #  "Destroyer": "" # global (count: 5) (defined)
@@ -592,30 +594,30 @@ bot.flights:
   "No cron job at the moment": "Pas de job cron pour le moment"
 #  "No fleets": "" # global (count: 4) (defined)
   "No saved flights": "Aucun vol enregistré"
-  "No scheduled flights": ""
+  "No scheduled flights": "Aucun vol programmé"
   "None": "Aucun" # global (count: 2) (undefined)
   "Note": "Note" # global (count: 3) (undefined)
 #  "Origin": "" # global (count: 6) (defined)
-  "PF": ""
+  "PF": "É"
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
 #  "Pathfinder": "" # global (count: 5) (defined)
 #  "Planet": "" # global (count: 6) (defined)
-  "R": ""
+  "R": "R"
 #  "Reaper": "" # global (count: 4) (defined)
 #  "Recycle debris field": "" # global (count: 1) (defined)
 #  "Recycler": "" # global (count: 5) (defined)
-  "Resources to": ""
-  "Return": ""
+  "Resources to": "Ressources pour"
+  "Return": "Retour"
   "SC": "PT"
   "Save fleet": "Enregistrer la flotte"
   "Saved fleets": "Flottes enregistrées"
-  "Schedule": ""
-  "Schedule fleet": ""
-  "Scheduled flights": ""
+  "Schedule": "Programmer"
+  "Schedule fleet": "Planifier la flotte"
+  "Scheduled flights": "Vols programmés"
   "Search for lifeforms": "Rechercher des formes de vie"
 #  "Select origin": "" # global (count: 4) (defined)
-  "Send all resources": "" # global (count: 2) (undefined)
+  "Send all resources": "Envoyer toutes les ressources" # global (count: 2) (undefined)
   "Send fleet": "Envoyer la flotte"
   "Send flight": "Envoyer un vol"
 #  "Small Cargo": "" # global (count: 5) (defined)
@@ -649,7 +651,7 @@ bot.galaxy.player:
   "Coords": "Coords" # global (count: 2) (undefined)
 #  "Crystal": "" # global (count: 7) (defined)
 #  "Deuterium": "" # global (count: 7) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "Espionage" # global (count: 2) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
   "Members": "Membres" # global (count: 2) (undefined)
@@ -670,7 +672,7 @@ bot.galaxy.table:
 #  "Crystal": "" # global (count: 7) (defined)
   "Debris top 100": "Top 100 des débris"
 #  "Deuterium": "" # global (count: 7) (defined)
-  "Espionage": "" # global (count: 2) (undefined)
+  "Espionage": "Espionage" # global (count: 2) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
   "Get spy reports": "Obtenir des rapports d'espionnage" # global (count: 2) (undefined)
   "Go": "Go"
@@ -685,7 +687,7 @@ bot.galaxy.table:
   "Scan this page": "Scannez cette page"
   "Scan universe": "Scanner l'univers"
   "Search": "Chercher" # global (count: 3) (defined)
-  "Send recyclers": "" # global (count: 2) (undefined)
+  "Send recyclers": "Envoyer des recycleurs" # global (count: 2) (undefined)
   "Stop scan universe": "Arrêter le scan de l'univers"
   "Updated": "Mis à jour" # global (count: 2) (undefined)
 bot.index:
@@ -699,7 +701,7 @@ bot.index:
 #  "Scripts": "" # global (count: 1) (defined)
 #  "Simulator": "" # global (count: 1) (defined)
 bot.phalanxPlayer:
-  "Arrival time": "" # global (count: 2) (undefined)
+#  "Arrival time": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 4) (defined)
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
@@ -714,12 +716,12 @@ bot.phalanxPlayer:
 #  "Origin": "" # global (count: 6) (defined)
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
-  "Phalanx all": ""
-  "Player profile": "" # global (count: 2) (undefined)
+  "Phalanx all": "Phalanx tout"
+  "Player profile": "Profile du joueur" # global (count: 2) (undefined)
 #  "Ships": "" # global (count: 4) (defined)
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
-  "Union ID": "" # global (count: 2) (undefined)
+  "Union ID": "ID union" # global (count: 2) (undefined)
 bot.planet:
   "Add to queue": "Ajouter à la liste"
   "Build": "Construire"
@@ -880,7 +882,7 @@ bot.settings.colonizer:
   "Colonize using": "Coloniser en utilisant"
   "Colonizer configs": "Configurations du colonisateur"
 #  "Galaxy": "" # global (count: 4) (defined)
-  "Max colonizer slots": "" # global (count: 2) (undefined)
+  "Max colonizer slots": "Max slots colonisateur" # global (count: 2) (undefined)
   "Minimum fields": "Champs minimaux"
   "Minimum temperature": "Température minimale"
 #  "Save": "" # global (count: 17) (defined)
@@ -932,7 +934,7 @@ bot.settings.defender:
 bot.settings.discovery:
   "Discovery configs": "Configuration du découvreur"
   "Discovery using": "Découvrir en utilisant"
-  "Max discovery slots": "" # global (count: 2) (undefined)
+  "Max discovery slots": "Max slots découverte" # global (count: 2) (undefined)
 #  "Save": "" # global (count: 17) (defined)
   "discovery active": "Découvreur actif"
 bot.settings.expeditionMessages:
@@ -1058,7 +1060,7 @@ bot.settings.farmer:
   "Farmer active": "Farmer active"
   "Fast attacking": "Attaque rapide"
   "Ignore targets with activity": "Ignorer les cibles avec activité"
-  "Inactive": "" # global (count: 2) (undefined)
+  "Inactive": "Inactif" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 7) (defined)
   "Min. defenses to ignore": "Défenses minimales pour ignorer"
   "Min. player rank": "Classement du joueur minimale"
@@ -1078,7 +1080,7 @@ bot.settings.farmer:
   "State": "Etat"
   "Total loot": "Butin total"
   "Use pathfinders": "Utiliser des éclaireurs"
-  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
+  "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Vous devez désactiver \"Masquer les images dans les rapports\" dans les options du jeu pour que le Farmer fonctionne correctement."
   "ignored alliances": "alliances ignorées"
   "ignored planets": "planètes ignorées"
   "ignored players": "joueurs ignorés"
@@ -1103,7 +1105,7 @@ bot.settings.home:
   "Brain activities": "Brain activités"
   "Cancel evacuation": "Annuler l'évacuation"
   "Check attacks": "Vérifier les attaques"
-  "Countdowns": ""
+  "Countdowns": "Comptes à rebours"
 #  "Defender": "" # global (count: 7) (defined)
   "Defender activities": "Defender activités"
 #  "Destination": "" # global (count: 7) (defined)
@@ -1122,15 +1124,15 @@ bot.settings.home:
   "Reschedule evacuation": "Reprogrammer l'évacuation"
   "Research speed": "Vitesse de recherche"
 #  "Ships": "" # global (count: 4) (defined)
-  "Skip sus login wait": ""
-  "Times": ""
+  "Skip sus login wait": "Skip sus login wait"
+  "Times": "Temps"
 #  "Universe": "" # global (count: 4) (defined)
   "Universe speed": "Vitesse de l'univers"
   "Universe speed fleet": "Vitesse de flotte de l'univers"
   "What is my IP?": "Quel est mon ip?"
-  "scanner": "" # global (count: 2) (undefined)
+  "scanner": "scanner" # global (count: 2) (undefined)
 bot.settings.hotkeys:
-  "General": "" # global (count: 5) (undefined)
+  "General": "Général" # global (count: 5) (undefined)
 #  "Hotkeys": "" # global (count: 3) (defined)
 #  "Notifications": "" # global (count: 4) (defined)
 bot.settings.hunter-target:
@@ -1141,7 +1143,7 @@ bot.settings.hunter-target:
   "Target": "Cible"
   "minutes": "minutes" # global (count: 3) (undefined)
 bot.settings.hunter:
-  "--- Currently active planet/moon ---": "" # global (count: 2) (undefined)
+#  "--- Currently active planet/moon ---": "" # global (count: 2) (defined)
 #  "Actions": "" # global (count: 12) (defined)
 #  "Activities": "" # global (count: 3) (defined)
   "Activity": "Activité"
@@ -1165,12 +1167,12 @@ bot.settings.index:
 #  "Brain": "" # global (count: 2) (defined)
 #  "Colonizer": "" # global (count: 2) (defined)
 #  "Defender": "" # global (count: 7) (defined)
-  "Discovery": ""
+  "Discovery": "Découverte"
 #  "Expeditions": "" # global (count: 4) (defined)
 #  "Farmer": "" # global (count: 5) (defined)
 #  "Hunter": "" # global (count: 4) (defined)
 #  "Logs": "" # global (count: 1) (defined)
-  "Messages": "" # global (count: 3) (undefined)
+  "Messages": "Messages" # global (count: 3) (undefined)
 #  "Overview": "" # global (count: 1) (defined)
 #  "Phalanx": "" # global (count: 4) (defined)
 #  "Scanner": "" # global (count: 1) (defined)
@@ -1190,8 +1192,8 @@ bot.settings.logs:
   "Download logs": "Télécharger les journaux"
 #  "Expeditions": "" # global (count: 4) (defined)
 #  "Farmer": "" # global (count: 5) (defined)
-  "Fleet save": ""
-  "General": "General" # global (count: 5) (undefined)
+  "Fleet save": "Fleet save"
+  "General": "Général" # global (count: 5) (undefined)
 #  "Hunter": "" # global (count: 4) (defined)
   "Level": "Niveau"
   "Message": "Message" # global (count: 3) (undefined)
@@ -1201,7 +1203,7 @@ bot.settings.logs:
 #  "Prev": "" # global (count: 9) (defined)
   "Repatriate": "Repatriate" # global (count: 2) (undefined)
   "VM": "VM"
-  "scanner": "" # global (count: 2) (undefined)
+  "scanner": "scanner" # global (count: 2) (undefined)
 bot.settings.messages:
 #  "All": "" # global (count: 5) (defined)
 #  "Coordinate": "" # global (count: 2) (defined)
@@ -1209,9 +1211,9 @@ bot.settings.messages:
 #  "Expedition": "" # global (count: 7) (defined)
 #  "Farmer": "" # global (count: 5) (defined)
   "Importer": "Importateur"
-  "InGame date": "" # global (count: 2) (undefined)
+  "InGame date": "Date du jeu" # global (count: 2) (undefined)
   "Loot": "Butin"
-  "Manual": ""
+  "Manual": "Manuel"
   "Messages": "Messages" # global (count: 3) (undefined)
 #  "Next": "" # global (count: 9) (defined)
 #  "No messages to show": "" # global (count: 2) (defined)
@@ -1235,7 +1237,7 @@ bot.settings.notifications:
   "Forward ingame chat from alliance": "Transférer le chat de l'alliance"
   "Forward ingame chat from players": "Transférer le chat des joueurs"
   "General": "Général" # global (count: 5) (undefined)
-  "Global": ""
+  "Global": "Global"
 #  "Hotkeys": "" # global (count: 3) (defined)
 #  "Hunter": "" # global (count: 4) (defined)
   "Login fails": "Connexion échoue"
@@ -1260,7 +1262,7 @@ bot.settings.notifications:
 #  "Redo": "" # global (count: 2) (defined)
 #  "Start": "" # global (count: 4) (defined)
 bot.settings.phalanxSession:
-  "Arrival time": "Heure d'arrivée" # global (count: 2) (undefined)
+#  "Arrival time": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 4) (defined)
   "Click on a fleet to get timing details": "Cliquez sur une flotte pour obtenir des détails sur les horaires"
 #  "Colonize": "" # global (count: 4) (defined)
@@ -1291,9 +1293,9 @@ bot.settings.phalanxSession:
 #  "Stop": "" # global (count: 5) (defined)
   "Target information": "Informations sur la cible"
 #  "Transport": "" # global (count: 4) (defined)
-  "Union ID": "" # global (count: 2) (undefined)
+  "Union ID": "ID union" # global (count: 2) (undefined)
 bot.settings.scanner:
-  "--- Currently active planet/moon ---": "--- Planète/lune actuellement active ---" # global (count: 2) (undefined)
+#  "--- Currently active planet/moon ---": "" # global (count: 2) (defined)
   "Interval between system scan": "Intervalle entre les scan de système"
 #  "Save": "" # global (count: 17) (defined)
   "Scan frequency": "Fréquence de scan" # global (count: 2) (undefined)
@@ -1333,8 +1335,8 @@ bot.settings.settings:
   "Enable galaxy browser augments": "Activer les augmentations du navigateur Galaxy"
   "Enter your password": "Tapez votre mot de passe"
   "Espionage probe": "Sonde d'espionnage"
-  "Gameforge bearer token": ""
-  "General": "" # global (count: 5) (undefined)
+  "Gameforge bearer token": "Gameforge bearer token"
+  "General": "Général" # global (count: 5) (undefined)
   "General options": "Options générales"
 #  "Homeworld": "" # global (count: 5) (defined)
   "Host machine Timezone": "Fuseau horaire de la machine hôte"
@@ -1342,15 +1344,15 @@ bot.settings.settings:
   "Large cargo": "Grand transporteur"
   "Max brain slots": "Max brain slots"
   "Max colonizer slots": "Max colonisateur slots" # global (count: 2) (undefined)
-  "Max discovery slots": "" # global (count: 2) (undefined)
-  "Max expeditions slots": ""
-  "Max farmer slots": ""
-  "Max repatriate slots": ""
-  "Max script slots": ""
+  "Max discovery slots": "Max slots découverte" # global (count: 2) (undefined)
+  "Max expeditions slots": "Max slots expédition"
+  "Max farmer slots": "Max slots farmer"
+  "Max repatriate slots": "Max slots rapatriment"
+  "Max script slots": "Max slots scripts"
   "Name": "Nom" # global (count: 3) (undefined)
 #  "Notifications": "" # global (count: 4) (defined)
-  "OGT (OGame Timezone)": ""
-  "OTP secret": "" # global (count: 3) (undefined)
+  "OGT (OGame Timezone)": "OGT (fuseau horaire OGame)"
+  "OTP secret": "Secret OTP" # global (count: 3) (undefined)
   "Ogame password": "Mot de passe Ogame"
   "Ogame universe": "Univers Ogame"
   "Ogame username": "Nom d'utilisateur Ogame"
@@ -1372,7 +1374,7 @@ bot.settings.settings:
   "Small cargo": "Petit transporteur"
   "Solve captcha": "Résoudre le captcha"
   "Sort planets in dropdowns by": "Trier les planètes dans les listes déroulantes par"
-  "Theme": "" # global (count: 2) (undefined)
+  "Theme": "Thème" # global (count: 2) (undefined)
   "UTC+00:00": "UTC+00:00"
   "UTC+01:00": "UTC+01:00"
   "UTC+02:00": "UTC+02:00"
@@ -1410,7 +1412,7 @@ bot.settings.settings:
   "UTC-10:00": "UTC-10:00"
   "UTC-11:00": "UTC-11:00"
   "UTC-12:00": "UTC-12:00"
-  "User-Agent": ""
+  "User-Agent": "User-Agent"
 #  "Username": "" # global (count: 10) (defined)
   "Validate": "Valider"
   "Validate account": "Valider le compte"
@@ -1464,19 +1466,19 @@ bot.simulator:
   "Combustion": "Combustion"
   "Configs": "Configs"
 #  "Coordinates": "" # global (count: 2) (defined)
-  "Crawler": "" # global (count: 4) (undefined)
+  "Crawler": "Foreuse" # global (count: 4) (undefined)
 #  "Cruiser": "" # global (count: 5) (defined)
 #  "Crystal": "" # global (count: 7) (defined)
 #  "Deathstar": "" # global (count: 5) (defined)
   "Debris": "Débris" # global (count: 2) (undefined)
   "Defence": "Défense"
-  "Defence repair factor": ""
-  "Defence to debris": ""
+  "Defence repair factor": "Facteur de réparation de défense"
+  "Defence to debris": "Défense -> débris"
   "Defender": "Défenseur" # global (count: 7) (defined)
   "Defender win": "Défenseur gagne"
 #  "Destroyer": "" # global (count: 5) (defined)
 #  "Deuterium": "" # global (count: 7) (defined)
-  "Deuterium save factor": ""
+  "Deuterium save factor": "Facteur de sauvegarde du deutérium"
   "Draw": "Match nul"
 #  "Espionage Probe": "" # global (count: 5) (defined)
   "Fleet speed": "Vitesse de la flotte"
@@ -1797,7 +1799,7 @@ license-view:
 #  "UUID": "" # global (count: 3) (defined)
 license:
 #  "Are you sure?": "" # global (count: 19) (defined)
-  "Click \"Renew license\" button": "Cliquez sur le bouton \"Renouveler la licence\""
+  "Click \"Renew license\" button": "Cliquez sur le bouton «Renouveler la licence»"
   "License expired": "Licence expirée"
 #  "Renew license": "" # global (count: 4) (defined)
   "Stop all bots": "Arrêtez tous les robots"
@@ -1893,7 +1895,7 @@ new-license:
   "Submit payment for self-host license": "Soumettre le paiement pour la licence auto-hébergement" # global (count: 2) (undefined)
   "Total": "Totale" # global (count: 4) (undefined)
   "description1": "Une licence est valable 1 mois. Après cette période, vous devrez la renouveler.<br /> Si vous souhaitez vous abonner pour une période plus longue afin d'éviter les tracas, n'hésitez pas à nous contacter.<br />" # global (count: 2) (undefined)
-  "description2": ""
+  "description2": "<strong>AVERTISSEMENT :</strong> Cette licence vous permet de vous auto-héberger, ce qui signifie que vous devrez exécuter le programme sur votre ordinateur pour que le bot fonctionne.<br /> Si vous souhaitez <a href=\"/servers/new\">utilisez notre option cloud</a>, ce qui signifie que nous exécuterons le bot pour vous sur votre propre serveur dédié privé, veuillez cliquer <a href=\"/servers/new\">ici. </a>"
 #  "we are using": "" # global (count: 7) (defined)
 new-ogamex-bot:
   "Create": "Créer" # global (count: 3) (undefined)
@@ -1913,19 +1915,19 @@ new-proxies:
 #  "Pay with paypal": "" # global (count: 7) (defined)
   "Proxies parameters": "Paramètres proxy"
   "Submit payment for proxies": "Soumettre le paiement pour les proxys"
-  "Total": "" # global (count: 4) (undefined)
+  "Total": "Total" # global (count: 4) (undefined)
 #  "we are using": "" # global (count: 7) (defined)
 new-script:
-  "<b>Warning:</b> This will override existing scripts that have the same name.": ""
-  "All bots that I have access to": ""
-  "Create script on all bots": "" # global (count: 3) (undefined)
+  "<b>Warning:</b> This will override existing scripts that have the same name.": "<b>Avertissement :</b> Cela remplacera les scripts existants portant le même nom."
+  "All bots that I have access to": "Tous les robots auxquels j'ai accès"
+  "Create script on all bots": "Créer un script sur tous les robots" # global (count: 3) (undefined)
 #  "Home": "" # global (count: 8) (defined)
-  "My bots": ""
-  "New script": ""
-  "Place script here": ""
-  "Run at start": "" # global (count: 2) (undefined)
-  "Script file name": ""
-  "Where to create the script": ""
+  "My bots": "Mes robots"
+  "New script": "Nouveau script"
+  "Place script here": "Placer le script ici"
+  "Run at start": "Exécuter au démarrage" # global (count: 2) (undefined)
+  "Script file name": "Nom du fichier de script"
+  "Where to create the script": "Où créer le script"
 #new-server-paypal-subscribe:
 #  "Download": "" # global (count: 12) (defined)
 #  "New server": "" # global (count: 4) (defined)
@@ -1936,7 +1938,7 @@ new-script:
 #  "Subscribe": "" # global (count: 6) (defined)
 new-server:
   "3 - 20 letter/number/underscore. eg: ": "3 - 20 letter/nombre/underscore. ie: "
-  "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": ""
+  "<b>DISCLAIMER:</b> IP address will change at login. Do not use important accounts on cloud unless you understand what you are doing.": "<b>AVERTISSEMENT:</b> L'adresse IP changera lors de la connexion. N'utilisez pas de comptes importants sur le cloud à moins de comprendre ce que vous faites."
 #  "Credit or debit card": "" # global (count: 7) (defined)
 #  "Home": "" # global (count: 8) (defined)
 #  "New server": "" # global (count: 4) (defined)
@@ -1947,7 +1949,7 @@ new-server:
 #  "Settings": "" # global (count: 7) (defined)
   "Subdomain": "Sous-domaine"
   "Submit Payment for cloud hosting": "Soumettre le paiement pour l'hébergement cloud"
-  "Total": "Totale" # global (count: 4) (undefined)
+  "Total": "Total" # global (count: 4) (undefined)
   "You will access your app using this URL": "Vous accéderez à votre application en utilisant cette URL"
   "the bots will use IP from that region": "les bots utiliseront des IP de cette région"
 #  "we are using": "" # global (count: 7) (defined)
@@ -2039,7 +2041,7 @@ renew-license:
 #  "Reorder bots": "" # global (count: 3) (defined)
 sessions-two-factor-recovery:
   "Recovery code": "Code de récupération"
-  "Two-factor recovery": ""
+  "Two-factor recovery": "Récupération deux-facteurs"
 #  "Verify": "" # global (count: 2) (defined)
 sessions-two-factor:
   "6-digit code": "Code à 6 chiffres"
@@ -2059,8 +2061,8 @@ settings.account:
   "Disable two-factor authentication": "Désactiver l'authentification à deux facteurs"
 #  "Email": "" # global (count: 11) (defined)
   "Enable two-factor authentication": "Activer l'authentification à deux facteurs"
-  "Hunter colors": ""
-  "Lang": "" # global (count: 3) (undefined)
+  "Hunter colors": "Couleurs du Hunter"
+  "Lang": "Lang" # global (count: 3) (undefined)
   "New password": "Nouveau mot de passe" # global (count: 3) (undefined)
   "New username": "Nouveau nom d'utilisateur" # global (count: 3) (undefined)
   "No activity": "Aucune activité" # global (count: 2) (undefined)
@@ -2124,8 +2126,8 @@ socks5:
 #  "SHA256 Checksum": "" # global (count: 4) (defined)
 #  "Size": "" # global (count: 4) (defined)
   "Socks5 server": "Serveur Socks5"
-  "meta-description": "" # global (count: 13) (undefined)
-  "title": "" # global (count: 13) (undefined)
+  "meta-description": "Simple serveur socks5 avec authentification." # global (count: 13) (undefined)
+  "title": "Téléchargement serveur socks5" # global (count: 13) (undefined)
 support-new-ticket:
   "New ticket": "Nouveau billet" # global (count: 2) (undefined)
   "Tickets": "Billets" # global (count: 2) (undefined)
