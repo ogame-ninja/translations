@@ -1321,7 +1321,7 @@ bot.settings.notifications:
   "test notif": "tester notification"
   "test slack": "tester slack"
 bot.settings.phalanx:
-  "--- Select origin moon ---": ""
+  "--- Select origin moon ---": "--- Sélectionnez une lune ---"
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Phalanx": "" # global (count: 4) (defined)
 #  "Redo": "" # global (count: 2) (defined)
