@@ -408,6 +408,7 @@ bot.flights:
   "Send all resources": "" # global (count: 2) (undefined)
   "Send fleet": "Отправить Флот"
   "Send flight": "Отправить Флот"
+  "Ships to": ""
   "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
   "Spec": "Спецификация"
   "Spy": "Шпионаж" # global (count: 4) (undefined)

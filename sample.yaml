@@ -407,6 +407,7 @@ bot.flights:
   "Send all resources": "" # global (count: 2) (undefined)
   "Send fleet": ""
   "Send flight": ""
+  "Ships to": ""
   "Small Cargo": "" # global (count: 5) (undefined)
   "Spec": ""
   "Spy": "" # global (count: 4) (undefined)

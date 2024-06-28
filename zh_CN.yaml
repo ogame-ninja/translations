@@ -550,6 +550,7 @@ bot.flights:
   "Send all resources": "运送所有资源" # global (count: 2) (undefined)
   "Send fleet": "派出舰队"
   "Send flight": "派出舰船"
+  "Ships to": ""
 #  "Small Cargo": "" # global (count: 5) (defined)
   "Spec": ""
 #  "Spy": "" # global (count: 4) (defined)

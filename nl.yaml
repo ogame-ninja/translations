@@ -544,6 +544,7 @@ bot.flights:
   "Send all resources": "" # global (count: 2) (undefined)
   "Send fleet": "Verstuur vloot"
   "Send flight": "Verstuur vloot"
+  "Ships to": ""
 #  "Small Cargo": "" # global (count: 5) (defined)
   "Spec": "Specificatie"
 #  "Spy": "" # global (count: 4) (defined)

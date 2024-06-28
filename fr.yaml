@@ -541,7 +541,7 @@ bot.flights:
 #  "Actions": "" # global (count: 12) (defined)
   "Activate all": "Activer tout"
 #  "Active": "" # global (count: 6) (defined)
-  "All": "Toute" # global (count: 5) (defined)
+  "All": "Tous" # global (count: 5) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrival": "Arrivée"
   "Arrive at": "Arrive à"
@@ -620,6 +620,7 @@ bot.flights:
   "Send all resources": "Envoyer toutes les ressources" # global (count: 2) (undefined)
   "Send fleet": "Envoyer la flotte"
   "Send flight": "Envoyer un vol"
+  "Ships to": "Vaisseaux à"
 #  "Small Cargo": "" # global (count: 5) (defined)
   "Spec": "Spec"
 #  "Spy": "" # global (count: 4) (defined)
