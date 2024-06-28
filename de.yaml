@@ -555,6 +555,7 @@ bot.flights:
   "Jump gate": "Sprungtor nutzen"
   "LC": "GT"
 #  "Large Cargo": "" # global (count: 5) (defined)
+  "Large cargo": "" # global (count: 2) (undefined)
 #  "Light Fighter": "" # global (count: 5) (defined)
 #  "Metal": "" # global (count: 7) (defined)
 #  "Missile Attack": "" # global (count: 4) (defined)
@@ -591,6 +592,7 @@ bot.flights:
   "Send flight": "Flug losschicken"
   "Ships to": ""
 #  "Small Cargo": "" # global (count: 5) (defined)
+  "Small cargo": "" # global (count: 2) (undefined)
   "Spec": "Spec"
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
@@ -1312,7 +1314,7 @@ bot.settings.settings:
   "Homeworld": "Heimatwelt" # global (count: 5) (undefined)
   "Host machine Timezone": "Host Maschinen Zeitzone"
   "Hotkeys": "" # global (count: 3) (undefined)
-  "Large cargo": "Große Transporter"
+  "Large cargo": "Große Transporter" # global (count: 2) (undefined)
   "Max brain slots": "Max Bauplaner Slots"
   "Max colonizer slots": "" # global (count: 2) (undefined)
   "Max discovery slots": "" # global (count: 2) (undefined)
@@ -1342,7 +1344,7 @@ bot.settings.settings:
   "Share with": "Teilen mit"
   "Show credentials": ""
   "Slots reserved for player": "Für Spieler reservierte Slots"
-  "Small cargo": "Kleine Transporter"
+  "Small cargo": "Kleine Transporter" # global (count: 2) (undefined)
   "Solve captcha": ""
   "Sort planets in dropdowns by": "Sortiere Planeten in DropDown-Listen nach"
   "Theme": "" # global (count: 2) (undefined)

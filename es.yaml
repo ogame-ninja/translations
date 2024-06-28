@@ -510,6 +510,7 @@ bot.flights:
   "Jump gate": "Salto cuántico"
   "LC": "LC"
 #  "Large Cargo": "" # global (count: 5) (defined)
+  "Large cargo": "" # global (count: 2) (undefined)
 #  "Light Fighter": "" # global (count: 5) (defined)
 #  "Metal": "" # global (count: 7) (defined)
 #  "Missile Attack": "" # global (count: 4) (defined)
@@ -546,6 +547,7 @@ bot.flights:
   "Send flight": "Enviar flota"
   "Ships to": ""
 #  "Small Cargo": "" # global (count: 5) (defined)
+  "Small cargo": "" # global (count: 2) (undefined)
   "Spec": "Especificación"
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
@@ -1267,7 +1269,7 @@ bot.settings.settings:
   "Homeworld": "" # global (count: 5) (undefined)
   "Host machine Timezone": ""
   "Hotkeys": "" # global (count: 3) (undefined)
-  "Large cargo": ""
+  "Large cargo": "" # global (count: 2) (undefined)
   "Max brain slots": ""
   "Max colonizer slots": "" # global (count: 2) (undefined)
   "Max discovery slots": "" # global (count: 2) (undefined)
@@ -1297,7 +1299,7 @@ bot.settings.settings:
   "Share with": "Compartir con"
   "Show credentials": ""
   "Slots reserved for player": "Nº de flotas reservadas para ti"
-  "Small cargo": ""
+  "Small cargo": "" # global (count: 2) (undefined)
   "Solve captcha": ""
   "Sort planets in dropdowns by": ""
   "Theme": "" # global (count: 2) (undefined)

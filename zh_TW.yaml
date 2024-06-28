@@ -516,6 +516,7 @@ bot.flights:
   "Jump gate": ""
   "LC": ""
 #  "Large Cargo": "" # global (count: 5) (defined)
+  "Large cargo": "" # global (count: 2) (undefined)
 #  "Light Fighter": "" # global (count: 5) (defined)
 #  "Metal": "" # global (count: 7) (defined)
   "Missile Attack": "導彈攻擊彈" # global (count: 4) (defined)
@@ -552,6 +553,7 @@ bot.flights:
   "Send flight": "派出艦船"
   "Ships to": ""
 #  "Small Cargo": "" # global (count: 5) (defined)
+  "Small cargo": "" # global (count: 2) (undefined)
   "Spec": ""
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
@@ -1273,7 +1275,7 @@ bot.settings.settings:
   "Homeworld": "母星" # global (count: 5) (undefined)
   "Host machine Timezone": "主機所在時區"
   "Hotkeys": "熱鍵" # global (count: 3) (undefined)
-  "Large cargo": "大型運輸艦"
+  "Large cargo": "大型運輸艦" # global (count: 2) (undefined)
   "Max brain slots": "最多允許大腦(建設)使用的航線"
   "Max colonizer slots": "" # global (count: 2) (undefined)
   "Max discovery slots": "" # global (count: 2) (undefined)
@@ -1303,7 +1305,7 @@ bot.settings.settings:
   "Share with": "共享對象"
   "Show credentials": "顯示帳密"
   "Slots reserved for player": "給玩家(您)保留的航線"
-  "Small cargo": "小型運輸艦"
+  "Small cargo": "小型運輸艦" # global (count: 2) (undefined)
   "Solve captcha": ""
   "Sort planets in dropdowns by": "星球排序方法(下拉式選單)"
   "Theme": "主題" # global (count: 2) (undefined)

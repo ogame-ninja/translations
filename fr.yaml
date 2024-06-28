@@ -92,6 +92,7 @@ global:
   "Jump Gate": "Jump Gate"
   "Large Cargo": "Grand transporteur"
   "Large Shield Dome": "Grand bouclier"
+  "Large cargo": "Grand transporteur"
   "Laser Technology": "Technologie Laser"
   "License": "License"
   "Licenses": "Licences"
@@ -180,6 +181,7 @@ global:
   "Sleep Mode": "Mode veille"
   "Small Cargo": "Petit transporteur"
   "Small Shield Dome": "Petit bouclier"
+  "Small cargo": "Petit transporteur"
   "Solar Plant": "Centrale électrique solaire"
   "Solar Satellite": "Satellite solaire"
   "Space Dock": "Dock spatial"
@@ -586,6 +588,7 @@ bot.flights:
   "Jump gate": "Porte de saut"
   "LC": "GT"
 #  "Large Cargo": "" # global (count: 5) (defined)
+#  "Large cargo": "" # global (count: 2) (defined)
 #  "Light Fighter": "" # global (count: 5) (defined)
 #  "Metal": "" # global (count: 7) (defined)
 #  "Missile Attack": "" # global (count: 4) (defined)
@@ -622,6 +625,7 @@ bot.flights:
   "Send flight": "Envoyer un vol"
   "Ships to": "Vaisseaux à"
 #  "Small Cargo": "" # global (count: 5) (defined)
+#  "Small cargo": "" # global (count: 2) (defined)
   "Spec": "Spec"
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
@@ -1343,7 +1347,7 @@ bot.settings.settings:
 #  "Homeworld": "" # global (count: 5) (defined)
   "Host machine Timezone": "Fuseau horaire de la machine hôte"
 #  "Hotkeys": "" # global (count: 3) (defined)
-  "Large cargo": "Grand transporteur"
+#  "Large cargo": "" # global (count: 2) (defined)
   "Max brain slots": "Max brain slots"
   "Max colonizer slots": "Max colonisateur slots" # global (count: 2) (undefined)
   "Max discovery slots": "Max slots découverte" # global (count: 2) (undefined)
@@ -1373,7 +1377,7 @@ bot.settings.settings:
   "Share with": "Partager avec"
   "Show credentials": "Afficher les informations d'identification"
   "Slots reserved for player": "Places réservées au joueur"
-  "Small cargo": "Petit transporteur"
+#  "Small cargo": "" # global (count: 2) (defined)
   "Solve captcha": "Résoudre le captcha"
   "Sort planets in dropdowns by": "Trier les planètes dans les listes déroulantes par"
   "Theme": "Thème" # global (count: 2) (undefined)
