@@ -247,7 +247,7 @@ admin.license:
   "Upload file": "Téléverser un fichier"
 #  "unlimited": "" # global (count: 2) (defined)
 admin.login-history:
-#  "Created at": "" # global (count: 6) (defined)
+#  "Created at": "" # global (count: 7) (defined)
   "Deleted at": "Supprimé le"
 #  "Expires at": "" # global (count: 2) (defined)
   "IP": "IP" # global (count: 2) (undefined)
@@ -301,7 +301,7 @@ admin.user-edit:
   "Yes": "Oui" # global (count: 1) (defined)
 admin.users:
   "Admin": "Administrateur" # global (count: 2) (defined)
-#  "Created at": "" # global (count: 6) (defined)
+#  "Created at": "" # global (count: 7) (defined)
   "Delete user": "Supprimer l'utilisateur"
   "New user": "Nouvel utilisateur"
 #  "Username": "" # global (count: 10) (defined)
@@ -368,7 +368,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": "Académie des sciences"
   "Acoustic Scanning": "Sondage acoustique"
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Advanced Recycling Plant": "Usine de traitement à haut rendement"
 #  "All": "" # global (count: 5) (defined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
@@ -588,7 +588,7 @@ bot.empire:
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
   "ACS Attack": "Attaque groupée"
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Activate all": "Activer tout"
 #  "Active": "" # global (count: 6) (defined)
   "All": "Tous" # global (count: 5) (defined)
@@ -651,7 +651,7 @@ bot.flights:
   "No scheduled flights": "Aucun vol programmé"
   "None": "Aucun" # global (count: 2) (undefined)
   "Note": "Note" # global (count: 3) (undefined)
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
   "PF": "É"
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
@@ -701,7 +701,7 @@ bot.galaxy.map:
   "Inactive": "Inactif" # global (count: 2) (undefined)
   "Vacation": "Vacances" # global (count: 3) (undefined)
 bot.galaxy.player:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Add to hunter list": "Ajouter à la liste du Hunter"
   "Alliance": "Alliance" # global (count: 4) (undefined)
   "Coords": "Coords" # global (count: 2) (undefined)
@@ -720,7 +720,7 @@ bot.galaxy.player:
   "Rank": "Rang" # global (count: 6) (defined)
   "Updated": "Mis à jour" # global (count: 2) (undefined)
 bot.galaxy.table:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Add alliance to ignore list": "Ajouter une alliance à la liste des ignorés"
   "Add player to ignore list": "Ajouter un joueur à la liste des ignorés"
   "Alliance": "Alliance" # global (count: 4) (undefined)
@@ -770,7 +770,7 @@ bot.phalanxPlayer:
 #  "Missile Attack": "" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
 #  "No fleets": "" # global (count: 4) (defined)
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
   "Phalanx all": "Phalanx tout"
@@ -890,14 +890,14 @@ bot.scripts:
   "Upload scripts": "Téléverser des scripts"
   "Validate Script": "Valider le script"
 bot.settings.activities:
-#  "Created at": "" # global (count: 6) (defined)
+#  "Created at": "" # global (count: 7) (defined)
 #  "Destination": "" # global (count: 7) (defined)
   "Fleet log": "Journal des flottes"
   "Logins": "Connexions"
 #  "Mission": "" # global (count: 5) (defined)
 #  "Next": "" # global (count: 9) (defined)
   "No fleet in the log": "Pas de flotte dans le journal"
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Prev": "" # global (count: 9) (defined)
   "Sent fleets": "Flottes envoyées"
 bot.settings.auctioneer:
@@ -1002,7 +1002,7 @@ bot.settings.discovery:
 #  "Save": "" # global (count: 17) (defined)
   "discovery active": "Découvreur actif"
 bot.settings.expeditionMessages:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "All": "" # global (count: 5) (defined)
 #  "Category": "" # global (count: 2) (defined)
 #  "Coordinate": "" # global (count: 2) (defined)
@@ -1029,7 +1029,7 @@ bot.settings.expeditionMessages:
   "speedup": "accélérer"
   "unknown": "inconnu"
 bot.settings.expeditions:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Active": "" # global (count: 6) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Arrive in": "" # global (count: 2) (defined)
@@ -1077,7 +1077,7 @@ bot.settings.expeditions:
   "Never wait (100% getting ban)": "Ne jamais attendre (100% tu sera banni)"
 #  "No fleets": "" # global (count: 4) (defined)
   "Number to send": "Nombre à envoyer"
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
   "PF that will not be send with auto-split nor for recycle": "Éclaireurs qui ne seront pas envoyé avec auto-split ni pour recyclage"
   "PF will be send to arrive at the same time as debris field is created (if any)": "Éclaireurs seront envoyé pour arriver en même temps que le champ de débris est créé (le cas échéant)"
 #  "Park": "" # global (count: 4) (defined)
@@ -1108,14 +1108,14 @@ bot.settings.expeditions:
 #  "unlimited": "" # global (count: 2) (defined)
 bot.settings.farmer:
   "Abort all sessions": "Abandonner toutes les sessions"
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Active": "" # global (count: 6) (defined)
   "Additional cargo": "Cargaison supplémentaire"
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack from nearest moon": "Attaque depuis la lune la plus proche"
   "Attack from nearest planet": "Attaque depuis la planète la plus proche"
   "Attack speed": "Vitesse d'attaque"
-  "Created at": "Créé à" # global (count: 6) (defined)
+  "Created at": "Créé à" # global (count: 7) (defined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "Supprimer les rapports de combat"
 #  "Deuterium": "" # global (count: 8) (defined)
@@ -1133,7 +1133,7 @@ bot.settings.farmer:
   "Nb probes": "Nb sondes"
   "New session": "Nouvelle session"
   "No session": "Pas de session"
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Planet": "" # global (count: 6) (defined)
   "Priority calculation": "Calcul de priorité"
   "Range": "portée"
@@ -1162,7 +1162,7 @@ bot.settings.farmerSession:
   "Attack target with preferred cargo ships": "Attaquez une cible avec les cargos préférés"
   "Attack target with spy probes": "Attaquez une cible avec des sondes d'espionnage"
 bot.settings.home:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack type": "Type d'attaque"
   "Attacker": "Attaquant" # global (count: 2) (undefined)
@@ -1204,11 +1204,11 @@ bot.settings.hunter-target:
   "Color legend": "Légende des couleurs"
   "Notify when inactive for": "Avertir en cas d'inactivité pendant"
 #  "Save": "" # global (count: 17) (defined)
-  "Target": "Cible"
+  "Target": "Cible" # global (count: 2) (undefined)
   "minutes": "minutes" # global (count: 3) (undefined)
 bot.settings.hunter:
 #  "--- Currently active planet/moon ---": "" # global (count: 2) (defined)
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Activities": "" # global (count: 3) (defined)
 #  "Activity": "" # global (count: 2) (defined)
   "Alliance": "Alliance" # global (count: 4) (undefined)
@@ -1251,7 +1251,7 @@ bot.settings.logs:
 #  "Category": "" # global (count: 2) (defined)
 #  "Colonizer": "" # global (count: 2) (defined)
   "Crawler": "Crawler" # global (count: 5) (defined)
-  "Created at": "Créé à" # global (count: 6) (defined)
+  "Created at": "Créé à" # global (count: 7) (defined)
 #  "Defender": "" # global (count: 7) (defined)
   "Download logs": "Télécharger les journaux"
 #  "Expeditions": "" # global (count: 4) (defined)
@@ -1322,10 +1322,17 @@ bot.settings.notifications:
   "test slack": "tester slack"
 bot.settings.phalanx:
   "--- Select origin moon ---": "--- Sélectionnez une lune ---"
+#  "Actions": "" # global (count: 13) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Check interval (seconds)": "Intervalle de vérification (secondes)"
+#  "Created at": "" # global (count: 7) (defined)
+  "ID": "ID" # global (count: 3) (undefined)
+  "No session to display": "Aucune session à afficher"
+#  "Origin": "" # global (count: 7) (defined)
 #  "Phalanx": "" # global (count: 4) (defined)
 #  "Redo": "" # global (count: 2) (defined)
 #  "Start": "" # global (count: 4) (defined)
+  "Target": "Cible" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
 #  "Arrival time": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 4) (defined)
@@ -1341,7 +1348,7 @@ bot.settings.phalanxSession:
 #  "Mission": "" # global (count: 5) (defined)
 #  "Next": "" # global (count: 9) (defined)
 #  "No fleets": "" # global (count: 4) (defined)
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
 #  "Phalanx": "" # global (count: 4) (defined)
@@ -1624,7 +1631,7 @@ compiled-scripts:
 #  "Save": "" # global (count: 17) (defined)
   "failed to save script": "échec de l'enregistrement du script"
 database:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Delete all keys": "Supprimer toutes les clés"
   "Key": "Clé"
 #  "Key/value storage": "" # global (count: 2) (defined)
@@ -1656,7 +1663,7 @@ download-antigame:
   "ogame Ninja": "ogame Ninja" # global (count: 3) (undefined)
   "title": "Téléchargement antigame" # global (count: 13) (undefined)
 download-licenses:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Active": "" # global (count: 6) (defined)
   "Antigame": "Antigame" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
@@ -1742,7 +1749,7 @@ home-slave:
   "Download all scripts": "Téléchargez tous les scripts" # global (count: 2) (undefined)
 #  "Email": "" # global (count: 11) (defined)
   "Export bots": "Exporter des robots" # global (count: 2) (undefined)
-  "ID": "ID" # global (count: 2) (undefined)
+  "ID": "ID" # global (count: 3) (undefined)
   "Import bots": "Importer des robots" # global (count: 2) (undefined)
   "Lang": "Lang" # global (count: 3) (undefined)
 #  "New bot": "" # global (count: 4) (defined)
@@ -1756,7 +1763,7 @@ home-slave:
 #  "Stop": "" # global (count: 5) (defined)
 #  "Universe": "" # global (count: 4) (defined)
 home:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "Scripts compilés" # global (count: 2) (undefined)
@@ -1767,7 +1774,7 @@ home:
   "Expires": "Expire le"
   "Export bots": "Exporter des robots" # global (count: 2) (undefined)
   "Http proxy url:": "URL du proxy HTTP"
-  "ID": "ID" # global (count: 2) (undefined)
+  "ID": "ID" # global (count: 3) (undefined)
   "Import bots": "Importer des robots" # global (count: 2) (undefined)
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Rejoignez notre serveur Slack ! Si vous n'avez jamais utilisé Slack auparavant : il est gratuit, sécurisé et fonctionne à la fois sur votre ordinateur et sur votre téléphone." # global (count: 2) (undefined)
   "Join the server now": "Rejoignez le serveur maintenant" # global (count: 2) (undefined)
@@ -2027,7 +2034,7 @@ new-trial-license:
   "New trial license": "Nouvelle licence d'essai"
   "description1": "La licence d'évaluation ne fonctionne que pour <strong>1 compte ogame</strong>.<br /> Vous devez indiquer le compte pour lequel la licence est utilisée.<br /> La licence est <strong>valable 48 heures</strong> et ne peut être renouvelée.<br /> Les 48h commencent au moment où vous soumettez ce formulaire." # global (count: 2) (undefined)
 notifications:
-#  "Created at": "" # global (count: 6) (defined)
+#  "Created at": "" # global (count: 7) (defined)
   "Message": "Message" # global (count: 3) (undefined)
   "No notifications": "Aucune notification"
 #  "Notifications": "" # global (count: 4) (defined)

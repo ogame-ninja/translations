@@ -166,7 +166,7 @@ admin.license:
   "Upload file": ""
   "unlimited": "无限制" # global (count: 2) (undefined)
 admin.login-history:
-  "Created at": "" # global (count: 6) (undefined)
+  "Created at": "" # global (count: 7) (undefined)
   "Deleted at": ""
   "Expires at": "" # global (count: 2) (undefined)
   "IP": "" # global (count: 2) (undefined)
@@ -220,7 +220,7 @@ admin.user-edit:
   "Yes": "是" # global (count: 1) (defined)
 admin.users:
 #  "Admin": "" # global (count: 2) (defined)
-  "Created at": "创造于" # global (count: 6) (undefined)
+  "Created at": "创造于" # global (count: 7) (undefined)
   "Delete user": "删除使用者"
   "New user": "新使用者"
   "Username": "使用者名称" # global (count: 10) (defined)
@@ -287,7 +287,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 5) (undefined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
@@ -507,7 +507,7 @@ bot.empire:
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
   "ACS Attack": ""
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Activate all": "激活所有"
   "Active": "活动中" # global (count: 6) (undefined)
   "All": "全部" # global (count: 5) (undefined)
@@ -570,7 +570,7 @@ bot.flights:
   "No scheduled flights": "没有预定的舰队"
   "None": "全无" # global (count: 2) (undefined)
   "Note": "註记" # global (count: 3) (undefined)
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
   "PF": ""
 #  "Park": "" # global (count: 4) (defined)
   "Park In That Ally": "派遣至友军" # global (count: 4) (undefined)
@@ -620,7 +620,7 @@ bot.galaxy.map:
   "Inactive": "不活跃" # global (count: 2) (undefined)
   "Vacation": "假期" # global (count: 3) (undefined)
 bot.galaxy.player:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Add to hunter list": "加入猎人列表"
   "Alliance": "联盟" # global (count: 4) (undefined)
   "Coords": "座标" # global (count: 2) (undefined)
@@ -639,7 +639,7 @@ bot.galaxy.player:
 #  "Rank": "" # global (count: 6) (defined)
   "Updated": "更新于" # global (count: 2) (undefined)
 bot.galaxy.table:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Add alliance to ignore list": "将联盟加入忽略名单"
   "Add player to ignore list": "将玩家加入忽略名单"
   "Alliance": "联盟" # global (count: 4) (undefined)
@@ -689,7 +689,7 @@ bot.phalanxPlayer:
 #  "Missile Attack": "" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
   "No fleets": "" # global (count: 4) (undefined)
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Park": "" # global (count: 4) (defined)
   "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx all": ""
@@ -809,14 +809,14 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "验证脚本"
 bot.settings.activities:
-  "Created at": "创建于" # global (count: 6) (undefined)
+  "Created at": "创建于" # global (count: 7) (undefined)
 #  "Destination": "" # global (count: 7) (defined)
   "Fleet log": "舰队纪录"
   "Logins": ""
 #  "Mission": "" # global (count: 5) (defined)
 #  "Next": "" # global (count: 9) (defined)
   "No fleet in the log": "纪录中无舰队资料"
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Prev": "" # global (count: 9) (defined)
   "Sent fleets": ""
 bot.settings.auctioneer:
@@ -921,7 +921,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "All": "" # global (count: 5) (undefined)
   "Category": "分类" # global (count: 2) (undefined)
   "Coordinate": "座标" # global (count: 2) (undefined)
@@ -948,7 +948,7 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Active": "启用" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrive in": "抵达于" # global (count: 2) (defined)
@@ -996,7 +996,7 @@ bot.settings.expeditions:
   "Never wait (100% getting ban)": "不要等 (百分百被会抓)"
   "No fleets": "没有舰队" # global (count: 4) (undefined)
   "Number to send": "派出数量"
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
   "PF that will not be send with auto-split nor for recycle": "不被自动分派的探路者数量"
   "PF will be send to arrive at the same time as debris field is created (if any)": "于废墟生成时间同时到达的探路者数量"
 #  "Park": "" # global (count: 4) (defined)
@@ -1027,14 +1027,14 @@ bot.settings.expeditions:
   "unlimited": "无限制" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "放弃所有工作阶段"
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Active": "活跃中" # global (count: 6) (undefined)
   "Additional cargo": "额外货舱容量"
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack from nearest moon": "由最近月球攻击"
   "Attack from nearest planet": "由最近行星攻击"
   "Attack speed": "攻击速度"
-  "Created at": "创建于" # global (count: 6) (undefined)
+  "Created at": "创建于" # global (count: 7) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "删除战斗报告"
 #  "Deuterium": "" # global (count: 8) (defined)
@@ -1052,7 +1052,7 @@ bot.settings.farmer:
   "Nb probes": "间谍数量"
   "New session": "新工作阶段"
   "No session": "无工作阶段"
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
   "Planet": "行星" # global (count: 6) (undefined)
   "Priority calculation": "优先考量计算"
   "Range": "范围"
@@ -1081,7 +1081,7 @@ bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack type": "攻击种类"
   "Attacker": "攻击者" # global (count: 2) (undefined)
@@ -1123,11 +1123,11 @@ bot.settings.hunter-target:
   "Color legend": "颜色标记"
   "Notify when inactive for": "不活跃多久时通知"
   "Save": "保存" # global (count: 17) (undefined)
-  "Target": "目标"
+  "Target": "目标" # global (count: 2) (undefined)
   "minutes": "分" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- 当前有活动的星/月 ---" # global (count: 2) (undefined)
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Activities": "" # global (count: 3) (defined)
   "Activity": "活动" # global (count: 2) (undefined)
   "Alliance": "" # global (count: 4) (undefined)
@@ -1170,7 +1170,7 @@ bot.settings.logs:
   "Category": "分类" # global (count: 2) (undefined)
   "Colonizer": "" # global (count: 2) (undefined)
   "Crawler": "爬虫(抓取资料)" # global (count: 5) (defined)
-  "Created at": "创建于" # global (count: 6) (undefined)
+  "Created at": "创建于" # global (count: 7) (undefined)
 #  "Defender": "" # global (count: 7) (defined)
   "Download logs": "下载纪录"
 #  "Expeditions": "" # global (count: 4) (defined)
@@ -1241,10 +1241,17 @@ bot.settings.notifications:
   "test slack": "测试Slack"
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
+#  "Actions": "" # global (count: 13) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Check interval (seconds)": ""
+  "Created at": "" # global (count: 7) (undefined)
+  "ID": "" # global (count: 3) (undefined)
+  "No session to display": ""
+#  "Origin": "" # global (count: 7) (defined)
   "Phalanx": "感应阵列" # global (count: 4) (undefined)
   "Redo": "" # global (count: 2) (undefined)
 #  "Start": "" # global (count: 4) (defined)
+  "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
 #  "Attack": "" # global (count: 4) (defined)
@@ -1260,7 +1267,7 @@ bot.settings.phalanxSession:
 #  "Mission": "" # global (count: 5) (defined)
 #  "Next": "" # global (count: 9) (defined)
   "No fleets": "没有舰队活动" # global (count: 4) (undefined)
-#  "Origin": "" # global (count: 6) (defined)
+#  "Origin": "" # global (count: 7) (defined)
 #  "Park": "" # global (count: 4) (defined)
   "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx": "感应阵列" # global (count: 4) (undefined)
@@ -1543,7 +1550,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Delete all keys": ""
   "Key": ""
   "Key/value storage": "" # global (count: 2) (undefined)
@@ -1575,7 +1582,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "" # global (count: 13) (undefined)
 download-licenses:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
   "Active": "使用/活跃中" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
@@ -1661,7 +1668,7 @@ home-slave:
   "Download all scripts": "" # global (count: 2) (undefined)
 #  "Email": "" # global (count: 11) (defined)
   "Export bots": "" # global (count: 2) (undefined)
-  "ID": "" # global (count: 2) (undefined)
+  "ID": "" # global (count: 3) (undefined)
   "Import bots": "" # global (count: 2) (undefined)
   "Lang": "" # global (count: 3) (undefined)
   "New bot": "新机器人" # global (count: 4) (undefined)
@@ -1675,7 +1682,7 @@ home-slave:
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-#  "Actions": "" # global (count: 12) (defined)
+#  "Actions": "" # global (count: 13) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -1686,7 +1693,7 @@ home:
   "Expires": "失效于"
   "Export bots": "" # global (count: 2) (undefined)
   "Http proxy url:": ""
-  "ID": "" # global (count: 2) (undefined)
+  "ID": "" # global (count: 3) (undefined)
   "Import bots": "" # global (count: 2) (undefined)
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "加入我们的Slack服务器! 如果您从未使用过Slack：它免费、安全、且在电脑、行动装置皆可使用" # global (count: 2) (undefined)
   "Join the server now": "现在加入服务器" # global (count: 2) (undefined)
@@ -1946,7 +1953,7 @@ new-trial-license:
   "New trial license": "新凭证"
   "description1": "描述" # global (count: 2) (undefined)
 notifications:
-  "Created at": "创建于" # global (count: 6) (undefined)
+  "Created at": "创建于" # global (count: 7) (undefined)
   "Message": "讯息" # global (count: 3) (undefined)
   "No notifications": "没有通知"
   "Notifications": "通知" # global (count: 4) (undefined)

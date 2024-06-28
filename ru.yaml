@@ -24,7 +24,7 @@ admin.license:
   "Upload file": ""
   "unlimited": "Без Ограничений" # global (count: 2) (undefined)
 admin.login-history:
-  "Created at": "" # global (count: 6) (undefined)
+  "Created at": "" # global (count: 7) (undefined)
   "Deleted at": ""
   "Expires at": "" # global (count: 2) (undefined)
   "IP": "" # global (count: 2) (undefined)
@@ -78,7 +78,7 @@ admin.user-edit:
   "Yes": "Да"
 admin.users:
   "Admin": "Админ" # global (count: 2) (undefined)
-  "Created at": "Создать " # global (count: 6) (undefined)
+  "Created at": "Создать " # global (count: 7) (undefined)
   "Delete user": "Удалить Пользователя"
   "New user": "Новый Пользователь"
   "Username": "Имя пользователя" # global (count: 10) (undefined)
@@ -145,7 +145,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 5) (undefined)
   "Alliance Depot": "Склад Альянса" # global (count: 2) (undefined)
@@ -365,7 +365,7 @@ bot.empire:
   "Weapons Technology": "" # global (count: 2) (undefined)
 bot.flights:
   "ACS Attack": ""
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Activate all": "Активировать все"
   "Active": "Активный" # global (count: 6) (undefined)
   "All": "Все" # global (count: 5) (undefined)
@@ -428,7 +428,7 @@ bot.flights:
   "No scheduled flights": ""
   "None": "Сбросить все корабли" # global (count: 2) (undefined)
   "Note": "Примечание" # global (count: 3) (undefined)
-  "Origin": "Откуда" # global (count: 6) (undefined)
+  "Origin": "Откуда" # global (count: 7) (undefined)
   "PF": "ПП"
   "Park": "Оставить" # global (count: 4) (undefined)
   "Park In That Ally": "Держаться " # global (count: 4) (undefined)
@@ -478,7 +478,7 @@ bot.galaxy.map:
   "Inactive": "Не активный" # global (count: 2) (undefined)
   "Vacation": "Отпуск" # global (count: 3) (undefined)
 bot.galaxy.player:
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Add to hunter list": "Добавить в Лист Охотника"
   "Alliance": "Альянс" # global (count: 4) (undefined)
   "Coords": "Координаты" # global (count: 2) (undefined)
@@ -497,7 +497,7 @@ bot.galaxy.player:
   "Rank": "Ранк" # global (count: 6) (undefined)
   "Updated": "Последнее время обновления" # global (count: 2) (undefined)
 bot.galaxy.table:
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Add alliance to ignore list": "Добавить Альянс в Игнорируемый Лист"
   "Add player to ignore list": "Добавить Игрока в Игнорируемый Лист"
   "Alliance": "Альянс" # global (count: 4) (undefined)
@@ -547,7 +547,7 @@ bot.phalanxPlayer:
   "Missile Attack": "" # global (count: 4) (undefined)
   "Mission": "" # global (count: 5) (undefined)
   "No fleets": "" # global (count: 4) (undefined)
-  "Origin": "" # global (count: 6) (undefined)
+  "Origin": "" # global (count: 7) (undefined)
   "Park": "" # global (count: 4) (undefined)
   "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx all": ""
@@ -667,14 +667,14 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "Потвердить скрипт"
 bot.settings.activities:
-  "Created at": "Создать в" # global (count: 6) (undefined)
+  "Created at": "Создать в" # global (count: 7) (undefined)
   "Destination": "Расстояние" # global (count: 7) (undefined)
   "Fleet log": "Лог флота"
   "Logins": ""
   "Mission": "Задание" # global (count: 5) (undefined)
   "Next": "Следующий" # global (count: 9) (undefined)
   "No fleet in the log": "В журнале нт флота"
-  "Origin": "Происхождение" # global (count: 6) (undefined)
+  "Origin": "Происхождение" # global (count: 7) (undefined)
   "Prev": "Предыдущий" # global (count: 9) (undefined)
   "Sent fleets": ""
 bot.settings.auctioneer:
@@ -779,7 +779,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-  "Actions": "Отозвать" # global (count: 12) (undefined)
+  "Actions": "Отозвать" # global (count: 13) (undefined)
   "All": "" # global (count: 5) (undefined)
   "Category": "Категория" # global (count: 2) (undefined)
   "Coordinate": "Координаты" # global (count: 2) (undefined)
@@ -806,7 +806,7 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-  "Actions": "Отозвать" # global (count: 12) (undefined)
+  "Actions": "Отозвать" # global (count: 13) (undefined)
   "Active": "Активен" # global (count: 6) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Arrive in": "Прибудет в" # global (count: 2) (undefined)
@@ -854,7 +854,7 @@ bot.settings.expeditions:
   "Never wait (100% getting ban)": "Не ждать (100% получение бана)"
   "No fleets": "Нет флотов" # global (count: 4) (undefined)
   "Number to send": "Номер для отправки"
-  "Origin": "Место вылета" # global (count: 6) (undefined)
+  "Origin": "Место вылета" # global (count: 7) (undefined)
   "PF that will not be send with auto-split nor for recycle": "ПП Которые не будут отправлены ни с ПП заранее ни с ПП в экспедицию"
   "PF will be send to arrive at the same time as debris field is created (if any)": "ПП прибудут для  в то же время, когда будет создано поле обломков (если таковое будет или не будет)"
   "Park": "Оставить" # global (count: 4) (undefined)
@@ -885,14 +885,14 @@ bot.settings.expeditions:
   "unlimited": "Не ограничено" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "Отменить все сессии"
-  "Actions": "Отозвать" # global (count: 12) (undefined)
+  "Actions": "Отозвать" # global (count: 13) (undefined)
   "Active": "Активные" # global (count: 6) (undefined)
   "Additional cargo": "Дополнительный груз"
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Attack from nearest moon": "Атака с ближаищей Луны"
   "Attack from nearest planet": "Атака с ближаищей Планеты"
   "Attack speed": "Скорость Атаки"
-  "Created at": "Создано в" # global (count: 6) (undefined)
+  "Created at": "Создано в" # global (count: 7) (undefined)
   "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Delete combat reports": "Удалить боевые доклады"
   "Deuterium": "Дейтерий" # global (count: 8) (undefined)
@@ -910,7 +910,7 @@ bot.settings.farmer:
   "Nb probes": "Количество Зондов"
   "New session": "Новый Сбор"
   "No session": "Нет Сбора"
-  "Origin": "Место вылета" # global (count: 6) (undefined)
+  "Origin": "Место вылета" # global (count: 7) (undefined)
   "Planet": "Планета" # global (count: 6) (undefined)
   "Priority calculation": "Расчет приоритета"
   "Range": "Интервал"
@@ -939,7 +939,7 @@ bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Attack type": "Тип Атаки"
   "Attacker": "Атакующий" # global (count: 2) (undefined)
@@ -981,11 +981,11 @@ bot.settings.hunter-target:
   "Color legend": "Цвета Легенды"
   "Notify when inactive for": ""
   "Save": "" # global (count: 17) (undefined)
-  "Target": "Цель"
+  "Target": "Цель" # global (count: 2) (undefined)
   "minutes": "" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (count: 2) (undefined)
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Activities": "Деятельность" # global (count: 3) (undefined)
   "Activity": "Активность" # global (count: 2) (undefined)
   "Alliance": "Альянс" # global (count: 4) (undefined)
@@ -1028,7 +1028,7 @@ bot.settings.logs:
   "Category": "Категория" # global (count: 2) (undefined)
   "Colonizer": "" # global (count: 2) (undefined)
   "Crawler": "Гусеничка" # global (count: 5) (undefined)
-  "Created at": "Создать в" # global (count: 6) (undefined)
+  "Created at": "Создать в" # global (count: 7) (undefined)
   "Defender": "Защитник" # global (count: 7) (undefined)
   "Download logs": "Скачать Логи"
   "Expeditions": "" # global (count: 4) (undefined)
@@ -1099,10 +1099,17 @@ bot.settings.notifications:
   "test slack": "Тест Сласк"
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
+  "Actions": "" # global (count: 13) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
+  "Check interval (seconds)": ""
+  "Created at": "" # global (count: 7) (undefined)
+  "ID": "" # global (count: 3) (undefined)
+  "No session to display": ""
+  "Origin": "" # global (count: 7) (undefined)
   "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
   "Redo": "" # global (count: 2) (undefined)
   "Start": "Старт" # global (count: 4) (undefined)
+  "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
   "Attack": "" # global (count: 4) (undefined)
@@ -1118,7 +1125,7 @@ bot.settings.phalanxSession:
   "Mission": "" # global (count: 5) (undefined)
   "Next": "Следйющии" # global (count: 9) (undefined)
   "No fleets": "Нет флотов" # global (count: 4) (undefined)
-  "Origin": "" # global (count: 6) (undefined)
+  "Origin": "" # global (count: 7) (undefined)
   "Park": "" # global (count: 4) (undefined)
   "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx": "Сенсорная Фаланга" # global (count: 4) (undefined)
@@ -1401,7 +1408,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Delete all keys": "Удалить все ключи"
   "Key": "Ключ"
   "Key/value storage": "Ключ/Хранение ценностей" # global (count: 2) (undefined)
@@ -1433,7 +1440,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "" # global (count: 13) (undefined)
 download-licenses:
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Active": "Активен" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
   "Download": "Загрузка" # global (count: 12) (undefined)
@@ -1519,7 +1526,7 @@ home-slave:
   "Download all scripts": "" # global (count: 2) (undefined)
   "Email": "" # global (count: 11) (undefined)
   "Export bots": "" # global (count: 2) (undefined)
-  "ID": "" # global (count: 2) (undefined)
+  "ID": "" # global (count: 3) (undefined)
   "Import bots": "" # global (count: 2) (undefined)
   "Lang": "" # global (count: 3) (undefined)
   "New bot": "Новый Бот" # global (count: 4) (undefined)
@@ -1533,7 +1540,7 @@ home-slave:
   "Stop": "" # global (count: 5) (undefined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-  "Actions": "Действия" # global (count: 12) (undefined)
+  "Actions": "Действия" # global (count: 13) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -1544,7 +1551,7 @@ home:
   "Expires": "Истекает"
   "Export bots": "" # global (count: 2) (undefined)
   "Http proxy url:": ""
-  "ID": "" # global (count: 2) (undefined)
+  "ID": "" # global (count: 3) (undefined)
   "Import bots": "" # global (count: 2) (undefined)
   "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Присоединяйтесь к нашему серверу! Если вы раньше не использовали Slack: он бесплатный, безопасный и работает как на вашем компьютере, так и на смартфоне." # global (count: 2) (undefined)
   "Join the server now": "Присоединяйтесь к серверу прямо сейчас" # global (count: 2) (undefined)
@@ -1804,7 +1811,7 @@ new-trial-license:
   "New trial license": "Новая пробная лицензия"
   "description1": "Описание 1" # global (count: 2) (undefined)
 notifications:
-  "Created at": "Создать в" # global (count: 6) (undefined)
+  "Created at": "Создать в" # global (count: 7) (undefined)
   "Message": "Сообщение" # global (count: 3) (undefined)
   "No notifications": "Нет уведомлений"
   "Notifications": "Уведомления" # global (count: 4) (undefined)
