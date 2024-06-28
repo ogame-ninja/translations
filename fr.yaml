@@ -18,6 +18,7 @@ global:
   "Bomber": "Bombardier"
   "Bot": "Bot"
   "Bots": "Bots"
+  "Bots allowed": "Robots autorisés"
   "Brain": "Brain"
   "Browser": "Navigateur"
   "Captcha": "Captcha"
@@ -107,6 +108,7 @@ global:
   "My licenses": "Mes licences"
   "Nanite Factory": "Usine de nanites"
   "New bot": "Nouveau robot"
+  "New fingerprint": "Nouvelle empreinte"
   "New license": "Nouvelle licence"
   "New license valid until": "Nouvelle licence valable jusqu'au"
   "New server": "Nouveau serveur"
@@ -154,6 +156,7 @@ global:
   "Retype password": "Retaper le mot de passe"
   "Robotics Factory": "Usine de robots"
   "Rocket Launcher": "Lanceur de missiles"
+  "SHA256 Checksum": "Somme de contrôle SHA256"
   "Save": "Sauvegarder"
   "Scan using": "Scan en utilisant"
   "Scanner": "Scanner"
@@ -192,6 +195,7 @@ global:
   "Universe": "Univers"
   "Unlimited": "Illimitée"
   "Update": "Mettre à jour"
+  "Upload": "Téléverser"
   "Username": "Nom d'utilisateur"
   "Users": "Utilisateurs"
   "Verify": "Vérifier"
@@ -218,7 +222,7 @@ admin.index:
 #  "Users": "" # global (count: 2) (defined)
 admin.license:
 #  "Are you sure?": "" # global (count: 19) (defined)
-  "Bots allowed": "" # global (count: 2) (undefined)
+#  "Bots allowed": "" # global (count: 2) (defined)
   "Created": "Créé" # global (count: 2) (undefined)
 #  "Email": "" # global (count: 11) (defined)
   "Expired": "Expiré" # global (count: 3) (undefined)
@@ -226,7 +230,7 @@ admin.license:
   "Owner": "Propriétaire" # global (count: 2) (undefined)
   "Subscription": "Abonnement"
 #  "UUID": "" # global (count: 3) (defined)
-  "Upload": "" # global (count: 3) (undefined)
+#  "Upload": "" # global (count: 3) (defined)
   "Upload file": "Téléverser un fichier"
 #  "unlimited": "" # global (count: 2) (defined)
 admin.login-history:
@@ -296,37 +300,37 @@ antigame:
 #  "File name": "" # global (count: 4) (defined)
 #  "No files to display": "" # global (count: 4) (defined)
 #  "OS": "" # global (count: 4) (defined)
-  "SHA256 Checksum": "" # global (count: 4) (undefined)
+#  "SHA256 Checksum": "" # global (count: 4) (defined)
 #  "Size": "" # global (count: 4) (defined)
-  "meta-description": "" # global (count: 13) (undefined)
-  "title": "" # global (count: 13) (undefined)
+  "meta-description": "Antigame pour ogame Ninja" # global (count: 13) (undefined)
+  "title": "Antigame" # global (count: 13) (undefined)
 bot.browser:
   "Empire page": "Page empire"
   "Fullscreen": "Plein écran"
   "Toggle manual mode": "Basculer en mode manuel"
 bot.captcha:
 #  "Captcha": "" # global (count: 2) (defined)
-  "Submit": ""
+  "Submit": "Envoyer"
 bot.conqueror:
   "Get spy reports": "Obtenez les rapports d'espionnage" # global (count: 2) (undefined)
   "No espionage report to show": "Aucun rapport d'espionnage à afficher"
 bot.empire:
-  "Academy Of Sciences": ""
-  "Acoustic Scanning": ""
+  "Academy Of Sciences": "Académie des sciences"
+  "Acoustic Scanning": "Sondage acoustique"
 #  "Actions": "" # global (count: 12) (defined)
-  "Advanced Recycling Plant": ""
+  "Advanced Recycling Plant": "Usine de traitement à haut rendement"
 #  "All": "" # global (count: 5) (defined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
 #  "Anti-Ballistic Missiles": "" # global (count: 2) (defined)
-  "Antimatter Condenser": ""
-  "Antimatter Convector": ""
+  "Antimatter Condenser": "Condensateur d’antimatière"
+  "Antimatter Convector": "Convecteur d’antimatière"
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Armour Technology": "" # global (count: 2) (defined)
-  "Artificial Swarm Intelligence": ""
-  "Assembly Line": ""
+  "Artificial Swarm Intelligence": "Intelligence artificielle collective"
+  "Assembly Line": "Centre d’assemblage automatisé"
 #  "Astrophysics": "" # global (count: 2) (defined)
   "Automated Transport Lines": ""
-  "Automatised Assembly Centre": ""
+  "Automatised Assembly Centre": "Centre d’assemblage automatisé"
 #  "Battlecruiser": "" # global (count: 5) (defined)
   "Battlecruiser MkII": ""
 #  "Battleship": "" # global (count: 5) (defined)
@@ -334,13 +338,13 @@ bot.empire:
   "Biosphere Farm": ""
   "BiotechLab": ""
 #  "Bomber": "" # global (count: 5) (defined)
-  "Bomber MkII": ""
+  "Bomber MkII": "Bombardier MkII"
   "Cargo Hold Expansion Civilian Ships": ""
-  "Catalyser Technology": ""
-  "Chip Mass Production": ""
-  "Chrysalis Accelerator": ""
-  "Clear all construction queues": ""
-  "Cloning Laboratory": ""
+  "Catalyser Technology": "Technique de catalyse"
+  "Chip Mass Production": "Production de masse de puces"
+  "Chrysalis Accelerator": "Accélérateur par chrysalide"
+  "Clear all construction queues": "Effacer toutes les files d'attente de construction"
+  "Cloning Laboratory": "Laboratoire de clonage"
 #  "Colony Ship": "" # global (count: 5) (defined)
 #  "Combustion Drive": "" # global (count: 2) (defined)
 #  "Computer Technology": "" # global (count: 2) (defined)
@@ -348,75 +352,75 @@ bot.empire:
   "Crawler": "" # global (count: 4) (undefined)
   "Crawler setting": ""
 #  "Cruiser": "" # global (count: 5) (defined)
-  "Cruiser MkII": ""
+  "Cruiser MkII": "Croiseur MkII"
 #  "Crystal": "" # global (count: 7) (defined)
-  "Crystal Farm": ""
+  "Crystal Farm": "Culture du cristal"
 #  "Crystal Mine": "" # global (count: 2) (defined)
-  "Crystal Refinery": ""
+  "Crystal Refinery": "Raffinerie de cristaux"
 #  "Crystal Storage": "" # global (count: 2) (defined)
   "Crystal setting": ""
 #  "Deathstar": "" # global (count: 5) (defined)
-  "Defenses": ""
-  "Depot AI": ""
-  "Depth Sounding": ""
+  "Defenses": "Défenses"
+  "Depot AI": "IA du dépôt"
+  "Depth Sounding": "Sondage en profondeur"
 #  "Destroyer": "" # global (count: 5) (defined)
-  "Destroyer MkII": ""
+  "Destroyer MkII": "Destructeur MkII"
   "Deut synt setting": ""
 #  "Deuterium": "" # global (count: 7) (defined)
-  "Deuterium Synthesiser": ""
+  "Deuterium Synthesiser": "Synthétiseur de deutérium"
 #  "Deuterium Synthesizer": "" # global (count: 2) (defined)
 #  "Deuterium Tank": "" # global (count: 2) (defined)
-  "Diamond Energy Transmitter": ""
-  "Disruption Chamber": ""
-  "Efficiency Module": ""
-  "Efficient Swarm Intelligence": ""
-  "Energy": ""
+  "Diamond Energy Transmitter": "Émetteur d'énergie à diamants"
+  "Disruption Chamber": "Chambre de disruption"
+  "Efficiency Module": "Module d'optimisation"
+  "Efficient Swarm Intelligence": "Intelligence collective optimisée"
+  "Energy": "Énergie"
 #  "Energy Technology": "" # global (count: 2) (defined)
   "Enhanced Production Technologies": ""
-  "Enhanced Sensor Technology": ""
+  "Enhanced Sensor Technology": "Technologie de détection améliorée"
 #  "Espionage Probe": "" # global (count: 5) (defined)
 #  "Espionage Technology": "" # global (count: 2) (defined)
-  "Experimental Recycling Technology": ""
-  "Experimental Weapons Technology": ""
-  "Facilities": ""
-  "Fields": ""
-  "Food Silo": ""
-  "Forum Of Transcendence": ""
-  "Fusion Cell Factory": ""
-  "Fusion Drives": ""
-  "Fusion Powered Production": ""
+  "Experimental Recycling Technology": "Technique de recyclage expérimental"
+  "Experimental Weapons Technology": "Technique d'armement expérimental"
+  "Facilities": "Installations"
+  "Fields": "Champs"
+  "Food Silo": "Réserve alimentaire"
+  "Forum Of Transcendence": "Forum de la transcendance"
+  "Fusion Cell Factory": "Usine de fusion de cellules"
+  "Fusion Drives": "Moteur à fusion"
+  "Fusion Powered Production": "Extraction par fusion"
 #  "Fusion Reactor": "" # global (count: 2) (defined)
   "Fusion reactor setting": ""
 #  "Gauss Cannon": "" # global (count: 3) (defined)
-  "General Overhaul Battlecruiser": ""
-  "General Overhaul Battleship": ""
-  "General Overhaul Bomber": ""
-  "General Overhaul Cruiser": ""
-  "General Overhaul Destroyer": ""
-  "General Overhaul Light Fighter": ""
-  "Geothermal Power Plants": ""
-  "Gravitation Sensors": ""
+  "General Overhaul Battlecruiser": "Révision général traqueur"
+  "General Overhaul Battleship": "Révision général vaisseau de bataille"
+  "General Overhaul Bomber": "Révision général bombardier"
+  "General Overhaul Cruiser": "Révision général croiseur"
+  "General Overhaul Destroyer": "Révision général destructeur"
+  "General Overhaul Light Fighter": "Révision général chasseur léger"
+  "Geothermal Power Plants": "Centrales géothermiques"
+  "Gravitation Sensors": "Capteurs gravitationnels"
 #  "Graviton Technology": "" # global (count: 2) (defined)
-  "Halls Of Realisation": ""
-  "Hardened Diamond Drill Heads": ""
-  "Heat Recovery": ""
+  "Halls Of Realisation": "Maison du savoir"
+  "Hardened Diamond Drill Heads": "Module à cristaux ioniques"
+  "Heat Recovery": "Récupération de chaleur"
 #  "Heavy Fighter": "" # global (count: 5) (defined)
 #  "Heavy Laser": "" # global (count: 3) (defined)
-  "High Energy Pump Systems": ""
-  "High Energy Smelting": ""
-  "High Performance Extractors": ""
-  "High Performance Synthesiser": ""
-  "High Performance Terraformer": ""
-  "High Performance Transformer": ""
-  "High Temperature Superconductors": ""
+  "High Energy Pump Systems": "Système de pompage à haute énergie"
+  "High Energy Smelting": "Fusion à haute énergie"
+  "High Performance Extractors": "Extracteurs à haute performance"
+  "High Performance Synthesiser": "Synthétiseur à haut rendement"
+  "High Performance Terraformer": "Terraformeur à haute performance"
+  "High Performance Transformer": "Transformateur hyperpuissant"
+  "High Temperature Superconductors": "Supraconducteur à haute température"
 #  "Honour points": "" # global (count: 1) (defined)
-  "Humans buildings": ""
-  "Humans researches": ""
+  "Humans buildings": "Bâtiments des humains"
+  "Humans researches": "Recherches des humains"
 #  "Hyperspace Drive": "" # global (count: 2) (defined)
 #  "Hyperspace Technology": "" # global (count: 2) (defined)
-  "Improved Drone AI": ""
+  "Improved Drone AI": "IA de drone améliorée"
   "Improved Lab Technology": ""
-  "Improved Stellarator": ""
+  "Improved Stellarator": "Stellarator amélioré"
 #  "Impulse Drive": "" # global (count: 2) (defined)
   "Intergalactic Envoys": ""
 #  "Intergalactic Research Network": "" # global (count: 1) (defined)
@@ -428,107 +432,107 @@ bot.empire:
 #  "Ion Technology": "" # global (count: 2) (defined)
 #  "Jump Gate": "" # global (count: 2) (defined)
   "Kaelesh Discoverer Enhancement": ""
-  "Kaelesh buildings": ""
-  "Kaelesh researches": ""
+  "Kaelesh buildings": "Bâtiments Kaelesh"
+  "Kaelesh researches": "Recherches Kaelesh"
 #  "Large Cargo": "" # global (count: 5) (defined)
 #  "Large Shield Dome": "" # global (count: 3) (defined)
 #  "Laser Technology": "" # global (count: 2) (defined)
 #  "Light Fighter": "" # global (count: 5) (defined)
-  "Light Fighter MkII": ""
+  "Light Fighter MkII": "Chasseur léger MkII"
 #  "Light Laser": "" # global (count: 3) (defined)
   "Low Temperature Drives": ""
 #  "Lunar Base": "" # global (count: 2) (defined)
-  "Magma Forge": ""
+  "Magma Forge": "Fusion magmatique"
   "Magma Powered Production": ""
   "Magma Powered PumpSystems": ""
   "MechanGeneral Enhancement": ""
-  "Mechas buildings": ""
-  "Mechas researches": ""
-  "Meditation Enclave": ""
-  "Megalith": ""
+  "Mechas buildings": "Bâtiments Mechas"
+  "Mechas researches": "Recherches Mechas"
+  "Meditation Enclave": "Enclave stoïque"
+  "Megalith": "Monument rocheux"
 #  "Metal": "" # global (count: 7) (defined)
 #  "Metal Mine": "" # global (count: 2) (defined)
 #  "Metal Storage": "" # global (count: 2) (defined)
-  "Metal setting": ""
-  "Metropolis": ""
-  "Microchip Assembly Line": ""
-  "Mineral Research Centre": ""
+  "Metal setting": "Paramètre metal"
+  "Metropolis": "Metropolis"
+  "Microchip Assembly Line": "Chaîne de production de micropuces"
+  "Mineral Research Centre": "Centre de recherche sur les minéraux"
 #  "Missile Silo": "" # global (count: 2) (defined)
-  "Moons": ""
+  "Moons": "Lunes"
 #  "Nanite Factory": "" # global (count: 2) (defined)
-  "Nano Repair Bots": ""
-  "Neuro Calibration Centre": ""
-  "Neuro Interface": ""
-  "Neuromodal Compressor": ""
-  "Obsidian Shield Reinforcement": ""
-  "Optimised Silo Construction Method": ""
-  "Orbital Den": ""
-  "Oriktorium": ""
-  "Overclocking Battleship": ""
-  "Overclocking Heavy Fighter": ""
-  "Overclocking Large Cargo": ""
+  "Nano Repair Bots": "Nanorobots réparateurs"
+  "Neuro Calibration Centre": "Centre de neurocalibrage"
+  "Neuro Interface": "Neuro-interface"
+  "Neuromodal Compressor": "Compresseur neuromodal"
+  "Obsidian Shield Reinforcement": "Intensification du bouclier à l'obsidienne"
+  "Optimised Silo Construction Method": "Construction optimisée de silos"
+  "Orbital Den": "Planque orbitale"
+  "Oriktorium": "Orictorium"
+  "Overclocking Battleship": "Surcadençage vaisseau de bataille"
+  "Overclocking Heavy Fighter": "Surcadençage (chasseur lourd)"
+  "Overclocking Large Cargo": "Surcadençage grand transporteur"
 #  "Pathfinder": "" # global (count: 5) (defined)
-  "Planetary Shield": ""
-  "Planets": ""
-  "Plasma Drive": ""
+  "Planetary Shield": "Bouclier planétaire"
+  "Planets": "Planètes"
+  "Plasma Drive": "Moteur à plasma"
 #  "Plasma Technology": "" # global (count: 2) (defined)
-  "Plasma Terraformer": ""
+  "Plasma Terraformer": "Terraformeur à plasma"
 #  "Plasma Turret": "" # global (count: 3) (defined)
 #  "Points": "" # global (count: 4) (defined)
-  "Production Assembly Hall": ""
-  "Psionic Modulator": ""
-  "Psionic Network": ""
-  "Psionic Shield Matrix": ""
-  "Psychoharmoniser": ""
-  "Quantum Computer Centre": ""
+  "Production Assembly Hall": "Centre d’assemblage automatisé"
+  "Psionic Modulator": "Modulateur psionique"
+  "Psionic Network": "Réseau psionique"
+  "Psionic Shield Matrix": "Matrice de protection psionique"
+  "Psychoharmoniser": "Harmonisateur psychique"
+  "Quantum Computer Centre": "Centre d’informatique quantique"
 #  "Rank": "" # global (count: 6) (defined)
 #  "Reaper": "" # global (count: 4) (defined)
 #  "Recycler": "" # global (count: 5) (defined)
 #  "Reorder planets": "" # global (count: 2) (defined)
-  "Research AI": ""
-  "Research Centre": ""
+  "Research AI": "IA de recherche"
+  "Research Centre": "Centre de recherche"
 #  "Research Lab": "" # global (count: 2) (defined)
-  "Residential Sector": ""
-  "Resources": "" # global (count: 2) (undefined)
-  "Robot Assistants": ""
+  "Residential Sector": "Secteur résidentiel"
+  "Resources": "Ressources" # global (count: 2) (undefined)
+  "Robot Assistants": "Assistants robotiques"
 #  "Robotics Factory": "" # global (count: 2) (defined)
-  "Robotics Research Centre": ""
+  "Robotics Research Centre": "Centre de recherche en robotique"
 #  "Rocket Launcher": "" # global (count: 3) (defined)
-  "Rocktal Collector Enhancement": ""
-  "Rocktal buildings": ""
-  "Rocktal researches": ""
-  "Rune Forge": ""
-  "Rune Shields": ""
-  "Rune Technologium": ""
-  "Sanctuary": ""
-  "Seismic Mining Technology": ""
+  "Rocktal Collector Enhancement": "Renfort du collecteur Rocta"
+  "Rocktal buildings": "Bâtiments Rocktal"
+  "Rocktal researches": "Recherches Rocktal"
+  "Rune Forge": "Forge runique"
+  "Rune Shields": "Boucliers runiques"
+  "Rune Technologium": "Centre technologique runique"
+  "Sanctuary": "Refugium"
+  "Seismic Mining Technology": "Technologie d'extraction sismique"
 #  "Sensor Phalanx": "" # global (count: 2) (defined)
 #  "Settings": "" # global (count: 7) (defined)
 #  "Shielding Technology": "" # global (count: 2) (defined)
-  "Ship Manufacturing Hall": ""
+  "Ship Manufacturing Hall": "Hangar de construction de vaisseau"
 #  "Ships": "" # global (count: 4) (defined)
 #  "Shipyard": "" # global (count: 3) (defined)
-  "Sixth Sense": ""
-  "Skyscraper": ""
-  "Slingshot Autopilot": ""
+  "Sixth Sense": "Sixième sens"
+  "Skyscraper": "Tour d’habitation"
+  "Slingshot Autopilot": "Pilote automatique Slingshot"
 #  "Small Cargo": "" # global (count: 5) (defined)
 #  "Small Shield Dome": "" # global (count: 3) (defined)
 #  "Solar Plant": "" # global (count: 2) (defined)
 #  "Solar Satellite": "" # global (count: 3) (defined)
-  "Solar plant setting": ""
-  "Solar sat setting": ""
+  "Solar plant setting": "Paramètre central électrique solaire"
+  "Solar sat setting": "Paramètre satellite solaire"
 #  "Space Dock": "" # global (count: 2) (defined)
-  "Stealth Field Generator": ""
-  "Sulphide Process": ""
-  "Supercomputer": ""
+  "Stealth Field Generator": "Générateur de champ de camouflage"
+  "Sulphide Process": "Traitement au sulfure"
+  "Supercomputer": "Superordinateur"
   "Supplies": ""
-  "Supra Refractor": ""
+  "Supra Refractor": "Supraréfracteur"
   "Telekinetic Drive": ""
-  "Telekinetic Tractor Beam": ""
+  "Telekinetic Tractor Beam": "Faisceau de traction télékinésique"
 #  "Terraformer": "" # global (count: 2) (defined)
   "Update Network": ""
-  "Updated at": ""
-  "Volcanic Batteries": ""
+  "Updated at": "Mis à jour le"
+  "Volcanic Batteries": "Batteries volcaniques"
   "Vortex Chamber": ""
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
@@ -687,7 +691,7 @@ bot.galaxy.table:
 bot.index:
 #  "Bot": "" # global (count: 1) (defined)
 #  "Browser": "" # global (count: 1) (defined)
-  "Conqueror": ""
+  "Conqueror": "Conquérant"
 #  "Empire": "" # global (count: 2) (defined)
 #  "Flights": "" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
@@ -1579,7 +1583,7 @@ download-antigame:
 #  "Licenses": "" # global (count: 3) (defined)
 #  "No files to display": "" # global (count: 4) (defined)
 #  "OS": "" # global (count: 4) (defined)
-  "SHA256 Checksum": "" # global (count: 4) (undefined)
+#  "SHA256 Checksum": "" # global (count: 4) (defined)
 #  "Size": "" # global (count: 4) (defined)
   "meta-description": "Téléchargement d'antigame" # global (count: 13) (undefined)
   "ogame Ninja": "ogame Ninja" # global (count: 3) (undefined)
@@ -1589,10 +1593,10 @@ download-licenses:
 #  "Active": "" # global (count: 6) (defined)
   "Antigame": "Antigame" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
-  "Expired": "" # global (count: 3) (undefined)
+  "Expired": "Expiré" # global (count: 3) (undefined)
   "Expired at": "Expiré le"
   "Full license": "Licence complète"
-  "Is cloud": ""
+  "Is cloud": "Est cloud"
 #  "Licenses": "" # global (count: 3) (defined)
 #  "My licenses": "" # global (count: 2) (defined)
 #  "New license": "" # global (count: 6) (defined)
@@ -1613,10 +1617,10 @@ download:
 #  "Licenses": "" # global (count: 3) (defined)
 #  "No files to display": "" # global (count: 4) (defined)
 #  "OS": "" # global (count: 4) (defined)
-  "SHA256 Checksum": "Somme de contrôle SHA256" # global (count: 4) (undefined)
+#  "SHA256 Checksum": "" # global (count: 4) (defined)
 #  "Size": "" # global (count: 4) (defined)
   "meta-description": "Téléchargez les versions de Ninja pour Windows, Linux, Mac OSX." # global (count: 13) (undefined)
-  "ogame Ninja": "" # global (count: 3) (undefined)
+  "ogame Ninja": "ogame Ninja" # global (count: 3) (undefined)
   "title": "Téléchargements" # global (count: 13) (undefined)
 features:
 #  "Activities": "" # global (count: 3) (defined)
@@ -1638,7 +1642,7 @@ features:
 fingerprints:
   "Delete fingerprint": "Supprimer l'empreinte"
   "Fingerprints": "Empreintes"
-  "New fingerprint": "Nouvelle empreinte" # global (count: 2) (undefined)
+#  "New fingerprint": "" # global (count: 2) (defined)
 first-use:
   "Admin account": "Compte administrateur"
   "Confirm password": "Confirmez le mot de passe"
@@ -1691,7 +1695,7 @@ home:
   "Domain": "Domaine"
   "Download all scripts": "Téléchargez tous les scripts" # global (count: 2) (undefined)
 #  "Email": "" # global (count: 11) (defined)
-  "Expires": ""
+  "Expires": "Expire le"
   "Export bots": "Exporter des robots" # global (count: 2) (undefined)
   "Http proxy url:": "URL du proxy HTTP"
   "ID": "ID" # global (count: 2) (undefined)
@@ -1719,8 +1723,8 @@ home:
   "Version": "Version" # global (count: 2) (undefined)
   "You're invited to join our Slack server": "Vous êtes invité à rejoindre notre serveur Slack" # global (count: 2) (undefined)
 import:
-  "Import bot": ""
-  "Upload": "" # global (count: 3) (undefined)
+  "Import bot": "Importer un robot"
+#  "Upload": "" # global (count: 3) (defined)
 index:
 #  "Account": "" # global (count: 2) (defined)
 #  "Admin": "" # global (count: 2) (defined)
@@ -1732,7 +1736,7 @@ index:
 #  "Home": "" # global (count: 8) (defined)
   "Login": "Se connecter" # global (count: 1) (defined)
 #  "My licenses": "" # global (count: 2) (defined)
-  "Please": ""
+  "Please": "Merci de"
 #  "Pricing": "" # global (count: 3) (defined)
 #  "Proposals": "" # global (count: 1) (defined)
   "Register": "S'enregistrer" # global (count: 1) (defined)
@@ -1766,14 +1770,14 @@ landing:
 #  "Defender": "" # global (count: 7) (defined)
   "Empire view": "Vue de l'empire" # global (count: 2) (undefined)
   "Farming": "Farming"
-  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "" # global (count: 2) (undefined)
+  "Join our Slack server! If you haven't used Slack before: it's free, secure, and works on both your desktop and phone.": "Rejoignez notre serveur Slack ! Si vous n'avez jamais utilisé Slack auparavant : il est gratuit, sécurisé et fonctionne à la fois sur votre ordinateur et sur votre téléphone." # global (count: 2) (undefined)
   "Join the server now": "Rejoignez le serveur maintenant" # global (count: 2) (undefined)
   "Learn more": "Apprendre plus"
   "OGame Ninja": "OGame Ninja"
   "The most advanced OGame toolkit ever created": "La boîte à outils OGame la plus avancée jamais créée"
   "Universe map": "Carte de l'univers" # global (count: 2) (undefined)
   "View details": "Voir les détails"
-  "You're invited to join our Slack server": "" # global (count: 2) (undefined)
+  "You're invited to join our Slack server": "Vous êtes invité à rejoindre notre serveur Slack" # global (count: 2) (undefined)
   "defender-desc": "Surveillera toutes les attaques sur vos planètes et vos flottes, évacuez vos navires et vos ressources avant que les attaques n'arrivent, et rappelez ensuite la flotte. Facultativement, vous pouvez être averti par courrier électronique ou par télégramme lorsque vous êtes attaqué." # global (count: 2) (undefined)
   "empire-desc": "Vue récapitulative de toutes vos planètes et lunes sur une seule page." # global (count: 2) (undefined)
   "farming-desc": "Espionner et attaquer automatiquement les joueurs inactifs. Egalement compatible avec les univers où la sonde espion a une capacité de charge!"
@@ -1783,7 +1787,7 @@ landing:
   "simulator-desc": "Simulez rapidement un combat en utilisant les paramètres de votre planète et un rapport d’espionnage avec notre simulateur intégré." # global (count: 2) (undefined)
   "title": "Ninja OGame Bot" # global (count: 13) (undefined)
 license-view:
-  "Bots allowed": "" # global (count: 2) (undefined)
+#  "Bots allowed": "" # global (count: 2) (defined)
   "Created": "Créé" # global (count: 2) (undefined)
 #  "Download": "" # global (count: 12) (defined)
 #  "Email": "" # global (count: 11) (defined)
@@ -1793,11 +1797,11 @@ license-view:
 #  "UUID": "" # global (count: 3) (defined)
 license:
 #  "Are you sure?": "" # global (count: 19) (defined)
-  "Click \"Renew license\" button": ""
+  "Click \"Renew license\" button": "Cliquez sur le bouton \"Renouveler la licence\""
   "License expired": "Licence expirée"
 #  "Renew license": "" # global (count: 4) (defined)
   "Stop all bots": "Arrêtez tous les robots"
-  "Upload": "Téléverser" # global (count: 3) (undefined)
+#  "Upload": "" # global (count: 3) (defined)
   "Upload license file": "Téléverser le fichier de licence"
 login:
 #  "I forgot my password": "" # global (count: 2) (defined)
@@ -1831,7 +1835,7 @@ new-bot:
 #  "Player ID": "" # global (count: 2) (defined)
 #  "Proxy password": "" # global (count: 3) (defined)
 #  "Proxy username": "" # global (count: 3) (defined)
-  "Redeem code": "" # global (count: 2) (undefined)
+  "Redeem code": "Saisir un code" # global (count: 2) (undefined)
 #  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (count: 2) (defined)
 #  "proxy login requests only": "" # global (count: 2) (defined)
 new-fingerprint:
@@ -1853,7 +1857,7 @@ new-fingerprint:
   "Memory": "Mémoire"
   "Navigator vendor": "Fournisseur de navigateur"
   "NavigatorDoNotTrack": "Nouvelle empreinte"
-  "New fingerprint": "" # global (count: 2) (undefined)
+#  "New fingerprint": "" # global (count: 2) (defined)
   "OfflineAudioCtx": "OfflineAudioCtx"
   "Os name": "Nom du système d'exploitation"
   "PermissionsStatesHash": "PermissionsStatesHash"
@@ -1993,7 +1997,7 @@ redeem-code:
   "OTP secret": "secret OTP" # global (count: 3) (undefined)
 #  "Proxy password": "" # global (count: 3) (defined)
 #  "Proxy username": "" # global (count: 3) (defined)
-  "Redeem code": "" # global (count: 2) (undefined)
+  "Redeem code": "Saisir un code" # global (count: 2) (undefined)
   "____-____-____-____-____": "____-____-____-____-____"
 #  "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (count: 2) (defined)
 #renew-instance-subscribe:
@@ -2117,7 +2121,7 @@ socks5:
 #  "File name": "" # global (count: 4) (defined)
 #  "No files to display": "" # global (count: 4) (defined)
 #  "OS": "" # global (count: 4) (defined)
-  "SHA256 Checksum": "" # global (count: 4) (undefined)
+#  "SHA256 Checksum": "" # global (count: 4) (defined)
 #  "Size": "" # global (count: 4) (defined)
   "Socks5 server": "Serveur Socks5"
   "meta-description": "" # global (count: 13) (undefined)
