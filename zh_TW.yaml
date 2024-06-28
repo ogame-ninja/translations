@@ -586,6 +586,7 @@ bot.flights:
   "Search for lifeforms": ""
   "Select origin": "選擇出發地" # global (count: 4) (undefined)
   "Send all resources": "運送所有資源" # global (count: 2) (undefined)
+  "Send all ships": "" # global (count: 2) (undefined)
   "Send fleet": "派出艦隊"
   "Send flight": "派出艦船"
   "Ships to": ""
@@ -604,7 +605,7 @@ bot.flights:
 bot.flightsEdit:
   "Homeworld": "" # global (count: 5) (undefined)
   "Send all resources": "運送所有資源" # global (count: 2) (undefined)
-  "Send all ships": "派出所有艦船"
+  "Send all ships": "派出所有艦船" # global (count: 2) (undefined)
 bot.galaxy.index:
   "Map": "圖" # global (count: 1) (defined)
   "Table": "表"

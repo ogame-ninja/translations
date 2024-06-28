@@ -580,6 +580,7 @@ bot.flights:
   "Search for lifeforms": ""
   "Select origin": "Selecciona origen" # global (count: 4) (undefined)
   "Send all resources": "" # global (count: 2) (undefined)
+  "Send all ships": "" # global (count: 2) (undefined)
   "Send fleet": "Enviar flota"
   "Send flight": "Enviar flota"
   "Ships to": ""
@@ -598,7 +599,7 @@ bot.flights:
 bot.flightsEdit:
   "Homeworld": "" # global (count: 5) (undefined)
   "Send all resources": "" # global (count: 2) (undefined)
-  "Send all ships": ""
+  "Send all ships": "" # global (count: 2) (undefined)
 #bot.galaxy.index:
 #  "Map": "" # global (count: 1) (defined)
 #  "Table": "" # global (count: 1) (defined)

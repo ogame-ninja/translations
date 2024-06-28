@@ -172,6 +172,7 @@ global:
   "Scripts": "Scripts"
   "Search": "Recherche"
   "Select origin": "Sélectionnez l'origine"
+  "Send all ships": "Envoyez tous les vaisseaux"
   "Sensor Phalanx": "Sensor Phalanx"
   "Servers": "Serveurs"
   "Sessions": "Sessions"
@@ -664,6 +665,7 @@ bot.flights:
   "Search for lifeforms": "Rechercher des formes de vie"
 #  "Select origin": "" # global (count: 4) (defined)
   "Send all resources": "Envoyer toutes les ressources" # global (count: 2) (undefined)
+#  "Send all ships": "" # global (count: 2) (defined)
   "Send fleet": "Envoyer la flotte"
   "Send flight": "Envoyer un vol"
   "Ships to": "Vaisseaux à"
@@ -682,7 +684,7 @@ bot.flights:
 bot.flightsEdit:
 #  "Homeworld": "" # global (count: 5) (defined)
   "Send all resources": "Envoyer toutes les ressources" # global (count: 2) (undefined)
-  "Send all ships": "Envoyez tous les vaisseaux"
+#  "Send all ships": "" # global (count: 2) (defined)
 bot.galaxy.index:
   "Map": "Carte" # global (count: 1) (defined)
   "Table": "Tableau" # global (count: 1) (defined)
