@@ -102,8 +102,46 @@ bot.captcha:
   "Captcha": "" # global (count: 2) (undefined)
   "Submit": ""
 bot.conqueror:
+  "Activity": "" # global (count: 2) (undefined)
+  "Anti Ballistic Missiles": "" # global (count: 2) (undefined)
+  "Battlecruiser": "" # global (count: 6) (undefined)
+  "Battleship": "" # global (count: 6) (undefined)
+  "Bomber": "" # global (count: 6) (undefined)
+  "Colony Ship": "" # global (count: 6) (undefined)
+  "Coord": "" # global (count: 2) (undefined)
+  "Crawler": "" # global (count: 5) (undefined)
+  "Cruiser": "" # global (count: 6) (undefined)
+  "Crystal": "" # global (count: 8) (undefined)
+  "Date": ""
+  "Deathstar": "" # global (count: 6) (undefined)
+  "Defenses": "" # global (count: 2) (undefined)
+  "Destroyer": "" # global (count: 6) (undefined)
+  "Deuterium": "" # global (count: 8) (undefined)
+  "Espionage Probe": "" # global (count: 6) (undefined)
+  "Gauss Cannon": "" # global (count: 4) (undefined)
   "Get spy reports": "Получить шпионские отчеты" # global (count: 2) (undefined)
+  "Heavy Fighter": "" # global (count: 6) (undefined)
+  "Heavy Laser": "" # global (count: 4) (undefined)
+  "Interplanetary Missiles": "" # global (count: 4) (undefined)
+  "Ion Cannon": "" # global (count: 4) (undefined)
+  "Large Cargo": "" # global (count: 6) (undefined)
+  "Large Shield Dome": "" # global (count: 4) (undefined)
+  "Light Fighter": "" # global (count: 6) (undefined)
+  "Light Laser": "" # global (count: 4) (undefined)
+  "Loot": "" # global (count: 2) (undefined)
+  "Metal": "" # global (count: 8) (undefined)
   "No espionage report to show": "Небольшой отчет о разведке показать"
+  "Pathfinder": "" # global (count: 6) (undefined)
+  "Plasma Turret": "" # global (count: 4) (undefined)
+  "Player": "" # global (count: 2) (undefined)
+  "Reaper": "" # global (count: 5) (undefined)
+  "Recycler": "" # global (count: 6) (undefined)
+  "Resources": "" # global (count: 3) (undefined)
+  "Rocket Launcher": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
+  "Small Cargo": "" # global (count: 6) (undefined)
+  "Small Shield Dome": "" # global (count: 4) (undefined)
+  "Solar Satellite": "" # global (count: 4) (undefined)
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
@@ -121,13 +159,13 @@ bot.empire:
   "Astrophysics": "Астрофизика" # global (count: 2) (undefined)
   "Automated Transport Lines": ""
   "Automatised Assembly Centre": ""
-  "Battlecruiser": "Линейный Крейсер" # global (count: 5) (undefined)
+  "Battlecruiser": "Линейный Крейсер" # global (count: 6) (undefined)
   "Battlecruiser MkII": ""
-  "Battleship": "Линкор" # global (count: 5) (undefined)
+  "Battleship": "Линкор" # global (count: 6) (undefined)
   "Bio Modifier": ""
   "Biosphere Farm": ""
   "BiotechLab": ""
-  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 6) (undefined)
   "Bomber MkII": ""
   "Cargo Hold Expansion Civilian Ships": ""
   "Catalyser Technology": ""
@@ -135,28 +173,28 @@ bot.empire:
   "Chrysalis Accelerator": ""
   "Clear all construction queues": "Очистите все очереди строительства"
   "Cloning Laboratory": ""
-  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 6) (undefined)
   "Combustion Drive": "Реактивный Двигатель" # global (count: 2) (undefined)
   "Computer Technology": "Компьютерная Технология" # global (count: 2) (undefined)
   "Crawl": "Обновить"
-  "Crawler": "Гусеничник" # global (count: 4) (undefined)
+  "Crawler": "Гусеничник" # global (count: 5) (undefined)
   "Crawler setting": "Настройки Гусеничника"
-  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Cruiser": "Крейсер" # global (count: 6) (undefined)
   "Cruiser MkII": ""
-  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Crystal Farm": ""
   "Crystal Mine": "Рудник по добыче кристалла" # global (count: 2) (undefined)
   "Crystal Refinery": ""
   "Crystal Storage": "Хранилище кристалла" # global (count: 2) (undefined)
   "Crystal setting": "Настройки кристалла"
-  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
-  "Defenses": ""
+  "Deathstar": "Звезда Смерти" # global (count: 6) (undefined)
+  "Defenses": "" # global (count: 2) (undefined)
   "Depot AI": ""
   "Depth Sounding": ""
-  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 6) (undefined)
   "Destroyer MkII": ""
   "Deut synt setting": "Настройки Синтезатор дейтерия"
-  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
+  "Deuterium": "Дейтерий" # global (count: 8) (undefined)
   "Deuterium Synthesiser": ""
   "Deuterium Synthesizer": "Синтезатор Дейтерия" # global (count: 2) (undefined)
   "Deuterium Tank": "Ёмкость для Дейтерия" # global (count: 2) (undefined)
@@ -168,7 +206,7 @@ bot.empire:
   "Energy Technology": "Энэргетическая технология" # global (count: 2) (undefined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
-  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 6) (undefined)
   "Espionage Technology": "Шпионаж" # global (count: 2) (undefined)
   "Experimental Recycling Technology": ""
   "Experimental Weapons Technology": ""
@@ -181,7 +219,7 @@ bot.empire:
   "Fusion Powered Production": ""
   "Fusion Reactor": "Термоядерный Электростанция" # global (count: 2) (undefined)
   "Fusion reactor setting": "Термоядерная Электростанция Настройки"
-  "Gauss Cannon": "Пушка Гаусса" # global (count: 3) (undefined)
+  "Gauss Cannon": "Пушка Гаусса" # global (count: 4) (undefined)
   "General Overhaul Battlecruiser": ""
   "General Overhaul Battleship": ""
   "General Overhaul Bomber": ""
@@ -194,8 +232,8 @@ bot.empire:
   "Halls Of Realisation": ""
   "Hardened Diamond Drill Heads": ""
   "Heat Recovery": ""
-  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 5) (undefined)
-  "Heavy Laser": "Тяжелый Лазер" # global (count: 3) (undefined)
+  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 6) (undefined)
+  "Heavy Laser": "Тяжелый Лазер" # global (count: 4) (undefined)
   "High Energy Pump Systems": ""
   "High Energy Smelting": ""
   "High Performance Extractors": ""
@@ -215,8 +253,8 @@ bot.empire:
   "Intergalactic Envoys": ""
   "Intergalactic Research Network": "Межгалактическая исследовательская сеть"
   "Interplanetary Analysis Network": ""
-  "Interplanetary Missiles": "Межпланетные ракеты" # global (count: 3) (undefined)
-  "Ion Cannon": "Ионное Орудие" # global (count: 3) (undefined)
+  "Interplanetary Missiles": "Межпланетные ракеты" # global (count: 4) (undefined)
+  "Ion Cannon": "Ионное Орудие" # global (count: 4) (undefined)
   "Ion Crystal Enhancement Heavy Fighter": ""
   "Ion Crystal Modules": ""
   "Ion Technology": "Ионная технология" # global (count: 2) (undefined)
@@ -224,12 +262,12 @@ bot.empire:
   "Kaelesh Discoverer Enhancement": ""
   "Kaelesh buildings": ""
   "Kaelesh researches": ""
-  "Large Cargo": "Большой транспорт" # global (count: 5) (undefined)
-  "Large Shield Dome": "Большой шитовой купол" # global (count: 3) (undefined)
+  "Large Cargo": "Большой транспорт" # global (count: 6) (undefined)
+  "Large Shield Dome": "Большой шитовой купол" # global (count: 4) (undefined)
   "Laser Technology": "Лазерная технология" # global (count: 2) (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 6) (undefined)
   "Light Fighter MkII": ""
-  "Light Laser": "Легкий лазер" # global (count: 3) (undefined)
+  "Light Laser": "Легкий лазер" # global (count: 4) (undefined)
   "Low Temperature Drives": ""
   "Lunar Base": "Лунная База" # global (count: 2) (undefined)
   "Magma Forge": ""
@@ -240,7 +278,7 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-  "Metal": "Металл" # global (count: 7) (undefined)
+  "Metal": "Металл" # global (count: 8) (undefined)
   "Metal Mine": "Хранилище Металла" # global (count: 2) (undefined)
   "Metal Storage": "Рудник по добыче металла" # global (count: 2) (undefined)
   "Metal setting": "Настройки Металла"
@@ -261,13 +299,13 @@ bot.empire:
   "Overclocking Battleship": ""
   "Overclocking Heavy Fighter": ""
   "Overclocking Large Cargo": ""
-  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 6) (undefined)
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
   "Plasma Technology": "Плазменная Технология" # global (count: 2) (undefined)
   "Plasma Terraformer": ""
-  "Plasma Turret": "Плазменное Орудие" # global (count: 3) (undefined)
+  "Plasma Turret": "Плазменное Орудие" # global (count: 4) (undefined)
   "Points": "Очки" # global (count: 4) (undefined)
   "Production Assembly Hall": ""
   "Psionic Modulator": ""
@@ -276,18 +314,18 @@ bot.empire:
   "Psychoharmoniser": ""
   "Quantum Computer Centre": ""
   "Rank": "Ранк" # global (count: 6) (undefined)
-  "Reaper": "Жнец" # global (count: 4) (undefined)
-  "Recycler": "Переработчик" # global (count: 5) (undefined)
+  "Reaper": "Жнец" # global (count: 5) (undefined)
+  "Recycler": "Переработчик" # global (count: 6) (undefined)
   "Reorder planets": "Порядок Планет" # global (count: 2) (undefined)
   "Research AI": ""
   "Research Centre": ""
   "Research Lab": "Исследовательская лаборатория" # global (count: 2) (undefined)
   "Residential Sector": ""
-  "Resources": "" # global (count: 2) (undefined)
+  "Resources": "" # global (count: 3) (undefined)
   "Robot Assistants": ""
   "Robotics Factory": "Фабрика роботов" # global (count: 2) (undefined)
   "Robotics Research Centre": ""
-  "Rocket Launcher": "Ракетная Установка" # global (count: 3) (undefined)
+  "Rocket Launcher": "Ракетная Установка" # global (count: 4) (undefined)
   "Rocktal Collector Enhancement": ""
   "Rocktal buildings": ""
   "Rocktal researches": ""
@@ -300,15 +338,15 @@ bot.empire:
   "Settings": "" # global (count: 7) (undefined)
   "Shielding Technology": "Щитовая Технология" # global (count: 2) (undefined)
   "Ship Manufacturing Hall": ""
-  "Ships": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
   "Shipyard": "Верфь" # global (count: 3) (undefined)
   "Sixth Sense": ""
   "Skyscraper": ""
   "Slingshot Autopilot": ""
-  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
-  "Small Shield Dome": "малый щитовой купол" # global (count: 3) (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
+  "Small Shield Dome": "малый щитовой купол" # global (count: 4) (undefined)
   "Solar Plant": "Солнечная Электростанция" # global (count: 2) (undefined)
-  "Solar Satellite": "Солнечный Спутник" # global (count: 3) (undefined)
+  "Solar Satellite": "Солнечный Спутник" # global (count: 4) (undefined)
   "Solar plant setting": "Настройки Солнечной Электростанций"
   "Solar sat setting": "Настройки Солнечных Спутников"
   "Space Dock": "Космический док" # global (count: 2) (undefined)
@@ -335,33 +373,33 @@ bot.flights:
   "Arrive at": ""
   "Arrive in": "Прибытие в" # global (count: 2) (undefined)
   "Attack": "Атака" # global (count: 4) (undefined)
-  "Battlecruiser": "Линейный крейсер" # global (count: 5) (undefined)
-  "Battleship": "Линкор" # global (count: 5) (undefined)
-  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Battlecruiser": "Линейный крейсер" # global (count: 6) (undefined)
+  "Battleship": "Линкор" # global (count: 6) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 6) (undefined)
   "Cancel Fleet": "Отозвать" # global (count: 2) (undefined)
   "Cancel scheduled flight": ""
   "Cargo": "Вместимость"
   "Colonize": "Колонизировать" # global (count: 4) (undefined)
-  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
-  "Crawler": "Гусеничка" # global (count: 4) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 6) (undefined)
+  "Crawler": "Гусеничка" # global (count: 5) (undefined)
   "Cron jobs": "Задание работы"
-  "Cruiser": "Крейсер" # global (count: 5) (undefined)
-  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Cruiser": "Крейсер" # global (count: 6) (undefined)
+  "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Current fleets": "Текущие флоты" # global (count: 2) (undefined)
   "DS": "ЗС"
   "Deactivate all": "Деактивировать все"
-  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 6) (undefined)
   "Debris": "Поле Обломков" # global (count: 2) (undefined)
   "Delete cron job": "Удалить Задание работы"
   "Delete flight": "Удалить Сохраненное задание флота"
   "Depart at": ""
   "Destination": "Расстояние" # global (count: 7) (undefined)
   "Destroy": "Уничтожить" # global (count: 4) (undefined)
-  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
-  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 6) (undefined)
+  "Deuterium": "Дейтерий" # global (count: 8) (undefined)
   "Dur": "Время полета"
   "Edit cron job": "Редактировать Задание работы"
-  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 6) (undefined)
   "Exp": "Экспа" # global (count: 2) (undefined)
   "Expedition": "Экспедиция" # global (count: 7) (undefined)
   "Flight": "Задание флота"
@@ -369,13 +407,13 @@ bot.flights:
   "Grouped Attack": "Групповая Атака" # global (count: 4) (undefined)
   "Grouped attack": ""
   "Harvest": "Собрать" # global (count: 4) (undefined)
-  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 5) (undefined)
+  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 6) (undefined)
   "Homeworld": "" # global (count: 5) (undefined)
   "Jump gate": "Звездные врата"
   "LC": "БТ"
-  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
-  "Metal": "Металл" # global (count: 7) (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 6) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 6) (undefined)
+  "Metal": "Металл" # global (count: 8) (undefined)
   "Missile Attack": "Ракетная Атака" # global (count: 4) (undefined)
   "Mission": "Миссия" # global (count: 5) (undefined)
   "Moon": "Луна" # global (count: 3) (undefined)
@@ -389,12 +427,12 @@ bot.flights:
   "PF": "ПП"
   "Park": "Оставить" # global (count: 4) (undefined)
   "Park In That Ally": "Держаться " # global (count: 4) (undefined)
-  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 6) (undefined)
   "Planet": "Планета" # global (count: 6) (undefined)
   "R": ""
-  "Reaper": "Жнец" # global (count: 4) (undefined)
+  "Reaper": "Жнец" # global (count: 5) (undefined)
   "Recycle debris field": "Собрать поле обломков"
-  "Recycler": "Переработчик" # global (count: 5) (undefined)
+  "Recycler": "Переработчик" # global (count: 6) (undefined)
   "Resources to": ""
   "Return": "Возвращение"
   "SC": "МТ"
@@ -409,7 +447,7 @@ bot.flights:
   "Send fleet": "Отправить Флот"
   "Send flight": "Отправить Флот"
   "Ships to": ""
-  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
   "Spec": "Спецификация"
   "Spy": "Шпионаж" # global (count: 4) (undefined)
   "Transport": "Транспорт" # global (count: 4) (undefined)
@@ -430,7 +468,7 @@ bot.galaxy.index:
   "Table": "Галактика Обзор"
 bot.galaxy.map:
   "Active": "Активный" # global (count: 6) (undefined)
-  "Coord": "Координаты"
+  "Coord": "Координаты" # global (count: 2) (undefined)
   "Inactive": "Не активный" # global (count: 2) (undefined)
   "Vacation": "Отпуск" # global (count: 3) (undefined)
 bot.galaxy.player:
@@ -438,13 +476,13 @@ bot.galaxy.player:
   "Add to hunter list": "Добавить в Лист Охотника"
   "Alliance": "Альянс" # global (count: 4) (undefined)
   "Coords": "Координаты" # global (count: 2) (undefined)
-  "Crystal": "Кристалл" # global (count: 7) (undefined)
-  "Deuterium": "" # global (count: 7) (undefined)
+  "Crystal": "Кристалл" # global (count: 8) (undefined)
+  "Deuterium": "" # global (count: 8) (undefined)
   "Espionage": "Шпионаж" # global (count: 2) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
   "Galaxy": "Галактика" # global (count: 4) (undefined)
   "Members": "Число Игроков" # global (count: 2) (undefined)
-  "Metal": "Металл" # global (count: 7) (undefined)
+  "Metal": "Металл" # global (count: 8) (undefined)
   "Moon": "Луна" # global (count: 3) (undefined)
   "Planet name": "Имя Планеты" # global (count: 2) (undefined)
   "Player name": "Имя Игрока" # global (count: 4) (undefined)
@@ -458,15 +496,15 @@ bot.galaxy.table:
   "Add player to ignore list": "Добавить Игрока в Игнорируемый Лист"
   "Alliance": "Альянс" # global (count: 4) (undefined)
   "Coords": "Координаты" # global (count: 2) (undefined)
-  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Debris top 100": "Топ 100 Поле обломков"
-  "Deuterium": "" # global (count: 7) (undefined)
+  "Deuterium": "" # global (count: 8) (undefined)
   "Espionage": "Шпионаж" # global (count: 2) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
   "Get spy reports": "Вчитать шпионские доклады" # global (count: 2) (undefined)
   "Go": "Вперед"
   "Members": "Число Игроков" # global (count: 2) (undefined)
-  "Metal": "Металл" # global (count: 7) (undefined)
+  "Metal": "Металл" # global (count: 8) (undefined)
   "Moon": "Луна" # global (count: 3) (undefined)
   "Open in OGame browser": "Открыть Ogame в Браузере"
   "Planet name": "Имя Планеты" # global (count: 2) (undefined)
@@ -508,7 +546,7 @@ bot.phalanxPlayer:
   "Park In That Ally": "" # global (count: 4) (undefined)
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
-  "Ships": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
   "Spy": "" # global (count: 4) (undefined)
   "Transport": "" # global (count: 4) (undefined)
   "Union ID": "" # global (count: 2) (undefined)
@@ -549,40 +587,40 @@ bot.report:
   "Anti-Ballistic Missiles": "Ракета-перехватчик" # global (count: 2) (undefined)
   "Armour Technology": "Броня космических кораблей" # global (count: 2) (undefined)
   "Astrophysics": "Астрофизика" # global (count: 2) (undefined)
-  "Battlecruiser": "Линейный Крейсер" # global (count: 5) (undefined)
-  "Battleship": "Линкор" # global (count: 5) (undefined)
-  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Battlecruiser": "Линейный Крейсер" # global (count: 6) (undefined)
+  "Battleship": "Линкор" # global (count: 6) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 6) (undefined)
   "Character Class": ""
-  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 6) (undefined)
   "Combustion Drive": "Реактивный Двигатель" # global (count: 2) (undefined)
   "Computer Technology": "Компьютерная технология" # global (count: 2) (undefined)
-  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Cruiser": "Крейсер" # global (count: 6) (undefined)
   "Crystal Mine": "Рудник по добыче Кристалла" # global (count: 2) (undefined)
   "Crystal Storage": "Хранилище Кристалла" # global (count: 2) (undefined)
-  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
-  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 6) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 6) (undefined)
   "Deuterium Synthesizer": "Синтезатор Дейтерия" # global (count: 2) (undefined)
   "Deuterium Tank": "Хранилище Дейтерия" # global (count: 2) (undefined)
   "Energy Technology": "Энергетическая Технология" # global (count: 2) (undefined)
-  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 6) (undefined)
   "Espionage Technology": "Шпионаж" # global (count: 2) (undefined)
   "Fusion Reactor": "Термоядерная Электростанция" # global (count: 2) (undefined)
-  "Gauss Cannon": "Пушка Гаусса" # global (count: 3) (undefined)
+  "Gauss Cannon": "Пушка Гаусса" # global (count: 4) (undefined)
   "Graviton Technology": "Гравитационная Технология" # global (count: 2) (undefined)
-  "Heavy Fighter": "Тяжелый Итсребитель" # global (count: 5) (undefined)
-  "Heavy Laser": "Тяжелый Лазер" # global (count: 3) (undefined)
+  "Heavy Fighter": "Тяжелый Итсребитель" # global (count: 6) (undefined)
+  "Heavy Laser": "Тяжелый Лазер" # global (count: 4) (undefined)
   "Hyperspace Drive": "Гиперпространственный Двигатель" # global (count: 2) (undefined)
   "Hyperspace Technology": "Гиперпространственная технология" # global (count: 2) (undefined)
   "Impulse Drive": "Импульсный Двигатель" # global (count: 2) (undefined)
-  "Interplanetary Missiles": "Межпланетные Ракеты" # global (count: 3) (undefined)
-  "Ion Cannon": "Ионное орудие" # global (count: 3) (undefined)
+  "Interplanetary Missiles": "Межпланетные Ракеты" # global (count: 4) (undefined)
+  "Ion Cannon": "Ионное орудие" # global (count: 4) (undefined)
   "Ion Technology": "Ионная технология" # global (count: 2) (undefined)
   "Jump Gate": "Звездные Врата" # global (count: 2) (undefined)
-  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
-  "Large Shield Dome": "Большой щитовой купол" # global (count: 3) (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 6) (undefined)
+  "Large Shield Dome": "Большой щитовой купол" # global (count: 4) (undefined)
   "Laser Technology": "Лазерная Технология" # global (count: 2) (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
-  "Light Laser": "Легкий Лазер" # global (count: 3) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 6) (undefined)
+  "Light Laser": "Легкий Лазер" # global (count: 4) (undefined)
   "Load in simulator": "Загрузить в Симулятор боя"
   "Lunar Base": "Лунная База" # global (count: 2) (undefined)
   "Metal Mine": "Рудник по добыче Металла" # global (count: 2) (undefined)
@@ -590,20 +628,20 @@ bot.report:
   "Missile Silo": "Ракетная Шахта" # global (count: 2) (undefined)
   "Nanite Factory": "Фабрика Нанитов" # global (count: 2) (undefined)
   "Plasma Technology": "Плазменная Технология" # global (count: 2) (undefined)
-  "Plasma Turret": "Плазменное Орудие" # global (count: 3) (undefined)
-  "Recycler": "Переработчик" # global (count: 5) (undefined)
+  "Plasma Turret": "Плазменное Орудие" # global (count: 4) (undefined)
+  "Recycler": "Переработчик" # global (count: 6) (undefined)
   "Report": "Отчет"
   "Research Lab": "Исследовательская Лаборатория" # global (count: 2) (undefined)
   "Research Network": "Исследовательская сеть"
   "Robotics Factory": "Фабрика Роботов" # global (count: 2) (undefined)
-  "Rocket Launcher": "Ракетная Установка" # global (count: 3) (undefined)
+  "Rocket Launcher": "Ракетная Установка" # global (count: 4) (undefined)
   "Sensor Phalanx": "Сенсорная Фаланга" # global (count: 2) (undefined)
   "Shielding Technology": "Щитовая Технология" # global (count: 2) (undefined)
   "Shipyard": "Верфь" # global (count: 3) (undefined)
-  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
-  "Small Shield Dome": "Малый Щитовой Купол" # global (count: 3) (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
+  "Small Shield Dome": "Малый Щитовой Купол" # global (count: 4) (undefined)
   "Solar Plant": "Солнечная Электростанция" # global (count: 2) (undefined)
-  "Solar Satellite": "Солнечный Спутник" # global (count: 3) (undefined)
+  "Solar Satellite": "Солнечный Спутник" # global (count: 4) (undefined)
   "Space Dock": "Космический Док" # global (count: 2) (undefined)
   "Terraformer": "Тераформер" # global (count: 2) (undefined)
   "Weapons Technology": "Оружейная Технология" # global (count: 2) (undefined)
@@ -631,11 +669,11 @@ bot.settings.auctioneer:
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-  "Crystal": "" # global (count: 7) (undefined)
-  "Deuterium": "" # global (count: 7) (undefined)
+  "Crystal": "" # global (count: 8) (undefined)
+  "Deuterium": "" # global (count: 8) (undefined)
   "Highest bid value": ""
   "Homeworld": "" # global (count: 5) (undefined)
-  "Metal": "" # global (count: 7) (undefined)
+  "Metal": "" # global (count: 8) (undefined)
   "Save": "" # global (count: 17) (undefined)
 bot.settings.brain:
   "AI": "ИИ"
@@ -761,23 +799,23 @@ bot.settings.expeditions:
   "Arrive in": "Прибудет в" # global (count: 2) (undefined)
   "Attack": "Атака" # global (count: 4) (undefined)
   "Automatic fleet": ""
-  "Battlecruiser": "Линейный Кресйсер" # global (count: 5) (undefined)
-  "Battleship": "Линкор" # global (count: 5) (undefined)
-  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Battlecruiser": "Линейный Кресйсер" # global (count: 6) (undefined)
+  "Battleship": "Линкор" # global (count: 6) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 6) (undefined)
   "Cancel Fleet": "Отозвать Флот" # global (count: 2) (undefined)
   "Click here to load current fleets": "Нажмите чтоб загрузить передвижение флотов"
   "Colonize": "Колонизировать" # global (count: 4) (undefined)
-  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
-  "Cruiser": "Крейсер" # global (count: 5) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 6) (undefined)
+  "Cruiser": "Крейсер" # global (count: 6) (undefined)
   "Current fleets": "Передвижение флотов" # global (count: 2) (undefined)
-  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 6) (undefined)
   "Delay between fleet (secs)": "Интервал между флотами (секунды)"
   "Delay between waves (secs)": "Задержка между волнами"
   "Destination": "Место назначения" # global (count: 7) (undefined)
   "Destroy": "Уничтожить" # global (count: 4) (undefined)
-  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 6) (undefined)
   "Duration": "Продолжительность"
-  "Espionage Probe": "Шпионский зонд" # global (count: 5) (undefined)
+  "Espionage Probe": "Шпионский зонд" # global (count: 6) (undefined)
   "Exp": "Экспа" # global (count: 2) (undefined)
   "Expedition": "Экспедиция" # global (count: 7) (undefined)
   "Expedition speed": "Скорость Экспедиций"
@@ -786,13 +824,13 @@ bot.settings.expeditions:
   "Expeditions origin": "Экспедиция отправляется из"
   "Grouped Attack": "Групповая Атака" # global (count: 4) (undefined)
   "Harvest": "Собрать" # global (count: 4) (undefined)
-  "Heavy Fighter": "Тяжелый истребитель" # global (count: 5) (undefined)
+  "Heavy Fighter": "Тяжелый истребитель" # global (count: 6) (undefined)
   "Homeworld": "" # global (count: 5) (undefined)
   "Ignore min deut": "Игнорировать минимальный порог дейтерия"
   "LC that will not be send with auto-split": "Количество БТ которое не будет учитываться в авто-разделений"
-  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 6) (undefined)
   "Large Cargo to stay": "Оставить Больших Транспортов"
-  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 6) (undefined)
   "Minimum Pathfinders": ""
   "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": "Минимальная скорость"
@@ -808,17 +846,17 @@ bot.settings.expeditions:
   "PF will be send to arrive at the same time as debris field is created (if any)": "ПП прибудут для  в то же время, когда будет создано поле обломков (если таковое будет или не будет)"
   "Park": "Оставить" # global (count: 4) (undefined)
   "Park In That Ally": "Держаться на орбите союзника" # global (count: 4) (undefined)
-  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 6) (undefined)
   "Pathfinders to stay": "Оставить Первопроходцев"
-  "Reaper": "Жнец" # global (count: 4) (undefined)
+  "Reaper": "Жнец" # global (count: 5) (undefined)
   "Recycle debris": "Собрать Поле обломков"
-  "Recycler": "Переработчик" # global (count: 5) (undefined)
+  "Recycler": "Переработчик" # global (count: 6) (undefined)
   "SC that will not be send with auto-split": "Количество МТ которое не будет учитываться в авто-разделений"
   "Secs after expedition": "Секунды после экспедиции"
   "Select origin": "Выбрать Место отправления" # global (count: 4) (undefined)
   "Ships per expedition": "Корабли для Экспедиции"
   "Slots allowed": "Разрешено слотов"
-  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
   "Small Cargo to stay": "Оставить Малых Транспортов"
   "Spy": "Шпионаж" # global (count: 4) (undefined)
   "Statistics": "Статистика"
@@ -842,16 +880,16 @@ bot.settings.farmer:
   "Attack from nearest planet": "Атака с ближаищей Планеты"
   "Attack speed": "Скорость Атаки"
   "Created at": "Создано в" # global (count: 6) (undefined)
-  "Crystal": "Кристалл" # global (count: 7) (undefined)
+  "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Delete combat reports": "Удалить боевые доклады"
-  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
+  "Deuterium": "Дейтерий" # global (count: 8) (undefined)
   "Espionage probe raids": "Шпионский Зонд Летит"
   "Farm sessions": "Сессия Сбора"
   "Farmer active": "Сбор активен"
   "Fast attacking": "Быстрая Атака"
   "Ignore targets with activity": "Игнорировать Актив цели"
   "Inactive": "Не активна" # global (count: 2) (undefined)
-  "Metal": "Металл" # global (count: 7) (undefined)
+  "Metal": "Металл" # global (count: 8) (undefined)
   "Min. defenses to ignore": "Игнорировать порог минимального дейтерия"
   "Min. player rank": "Минимальный рани Игрока"
   "Min. resources to attack": "Минимальные ресурсы для Атаки"
@@ -913,7 +951,7 @@ bot.settings.home:
   "Repatriate now": "Собрать ресурсы сейчас"
   "Reschedule evacuation": "Перенести Сбор Ресурсов"
   "Research speed": "Скорость Исследования"
-  "Ships": "Корабли" # global (count: 4) (undefined)
+  "Ships": "Корабли" # global (count: 5) (undefined)
   "Skip sus login wait": ""
   "Times": "Темы"
   "Universe": "Уня" # global (count: 4) (undefined)
@@ -936,13 +974,13 @@ bot.settings.hunter:
   "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (count: 2) (undefined)
   "Actions": "Действия" # global (count: 12) (undefined)
   "Activities": "Деятельность" # global (count: 3) (undefined)
-  "Activity": "Активность"
+  "Activity": "Активность" # global (count: 2) (undefined)
   "Alliance": "Альянс" # global (count: 4) (undefined)
   "Alliance rank": "Альянс Ранк"
   "Hunter configs": "Настройки Охотника"
   "No activity": "оффлайн" # global (count: 2) (undefined)
   "No targets": "Нет Целей"
-  "Player": "Игрок"
+  "Player": "Игрок" # global (count: 2) (undefined)
   "Player rank": "Ранк Игрока"
   "Save": "Сохранить" # global (count: 17) (undefined)
   "Scan frequency": "Частота сканирования" # global (count: 2) (undefined)
@@ -976,7 +1014,7 @@ bot.settings.logs:
   "Brain": "ИИ" # global (count: 2) (undefined)
   "Category": "Категория" # global (count: 2) (undefined)
   "Colonizer": "" # global (count: 2) (undefined)
-  "Crawler": "Гусеничка" # global (count: 4) (undefined)
+  "Crawler": "Гусеничка" # global (count: 5) (undefined)
   "Created at": "Создать в" # global (count: 6) (undefined)
   "Defender": "Защитник" # global (count: 7) (undefined)
   "Download logs": "Скачать Логи"
@@ -1002,13 +1040,13 @@ bot.settings.messages:
   "Farmer": "Сборщик Ресурсов" # global (count: 5) (undefined)
   "Importer": "Импортер"
   "InGame date": "Дата в Игре" # global (count: 2) (undefined)
-  "Loot": "Лут"
+  "Loot": "Лут" # global (count: 2) (undefined)
   "Manual": "Инструкция"
   "Messages": "Сообщения" # global (count: 3) (undefined)
   "Next": "Следующии" # global (count: 9) (undefined)
   "No messages to show": "Нет сообщений для показа" # global (count: 2) (undefined)
   "Prev": "Предыдущии" # global (count: 9) (undefined)
-  "Resources": "Ресурсы" # global (count: 2) (undefined)
+  "Resources": "Ресурсы" # global (count: 3) (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": "Бот Вышел режим сна"
   "Bot goes to sleep mode": "Бот переходит в спящий режим"
@@ -1076,7 +1114,7 @@ bot.settings.phalanxSession:
   "Recall time": ""
   "Scheduled arrive time": ""
   "Session aborted": "Отменить Сессию"
-  "Ships": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
   "Speed": "" # global (count: 2) (undefined)
   "Spy": "" # global (count: 4) (undefined)
   "Started at": ""
@@ -1146,7 +1184,7 @@ bot.settings.settings:
   "Ogame password": ""
   "Ogame universe": ""
   "Ogame username": ""
-  "Pathfinder": "Перевопроходец" # global (count: 5) (undefined)
+  "Pathfinder": "Перевопроходец" # global (count: 6) (undefined)
   "Player ID": "" # global (count: 2) (undefined)
   "Preferred transport ships": "Предпочитаемые транспортные суда"
   "Proxy password": "Пароль Прокси" # global (count: 3) (undefined)
@@ -1242,67 +1280,67 @@ bot.settings.sleepMode:
 bot.simulator:
   "ACS planner": "Планировщик ACS"
   "API": "API" # global (count: 3) (undefined)
-  "Anti Ballistic Missiles": "Ракеты-Перехватчики"
+  "Anti Ballistic Missiles": "Ракеты-Перехватчики" # global (count: 2) (undefined)
   "Armour": "Броня"
   "Attacker": "Атакующий" # global (count: 2) (undefined)
   "Attacker win": "Атакующий Победил"
-  "Battlecruiser": "Линейный Крейсер" # global (count: 5) (undefined)
-  "Battleship": "Линкор" # global (count: 5) (undefined)
-  "Bomber": "Бомбандировщик" # global (count: 5) (undefined)
+  "Battlecruiser": "Линейный Крейсер" # global (count: 6) (undefined)
+  "Battleship": "Линкор" # global (count: 6) (undefined)
+  "Bomber": "Бомбандировщик" # global (count: 6) (undefined)
   "Captured": "Захваченный"
   "Cargo's needed": "Нужна Грузоподъемность"
   "Clear player data": "Очистить данные игрока"
-  "Colony Ship": "Колонизатор" # global (count: 5) (undefined)
+  "Colony Ship": "Колонизатор" # global (count: 6) (undefined)
   "Combustion": ""
   "Configs": "Конфигурации"
   "Coordinates": "" # global (count: 2) (undefined)
-  "Crawler": "Гусенички" # global (count: 4) (undefined)
-  "Cruiser": "Крейсер" # global (count: 5) (undefined)
-  "Crystal": "Кристалл" # global (count: 7) (undefined)
-  "Deathstar": "Звезда Смерти" # global (count: 5) (undefined)
+  "Crawler": "Гусенички" # global (count: 5) (undefined)
+  "Cruiser": "Крейсер" # global (count: 6) (undefined)
+  "Crystal": "Кристалл" # global (count: 8) (undefined)
+  "Deathstar": "Звезда Смерти" # global (count: 6) (undefined)
   "Debris": "Поле Обломков" # global (count: 2) (undefined)
   "Defence": "Защита"
   "Defence repair factor": "Фактор ремонта обороны"
   "Defence to debris": "Оборона в Обломки"
   "Defender": "Защитник" # global (count: 7) (undefined)
   "Defender win": "Обороняющийся Победил"
-  "Destroyer": "Уничтожитель" # global (count: 5) (undefined)
-  "Deuterium": "Дейтерий" # global (count: 7) (undefined)
+  "Destroyer": "Уничтожитель" # global (count: 6) (undefined)
+  "Deuterium": "Дейтерий" # global (count: 8) (undefined)
   "Deuterium save factor": ""
   "Draw": "Ничья"
-  "Espionage Probe": "Шпионский Зонд" # global (count: 5) (undefined)
+  "Espionage Probe": "Шпионский Зонд" # global (count: 6) (undefined)
   "Fleet speed": ""
   "Fleet to debris": "Флот в Обломки"
   "Flight time": ""
   "Fuel consumption": "" # global (count: 2) (undefined)
-  "Gauss Cannon": "Орудие Гаусса" # global (count: 3) (undefined)
-  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 5) (undefined)
-  "Heavy Laser": "Тяжелый Лазер" # global (count: 3) (undefined)
+  "Gauss Cannon": "Орудие Гаусса" # global (count: 4) (undefined)
+  "Heavy Fighter": "Тяжелый Истребитель" # global (count: 6) (undefined)
+  "Heavy Laser": "Тяжелый Лазер" # global (count: 4) (undefined)
   "Hyperspace": ""
   "Hyperspace tech": "Гиперпространственная технология"
   "Impulse": ""
-  "Interplanetary Missiles": "Межпланетные Ракеты" # global (count: 3) (undefined)
-  "Ion Cannon": "Ионная Пушка" # global (count: 3) (undefined)
-  "Large Cargo": "Большой Транспорт" # global (count: 5) (undefined)
-  "Large Shield Dome": "Большой Шитовой Купол" # global (count: 3) (undefined)
-  "Light Fighter": "Легкий Истребитель" # global (count: 5) (undefined)
-  "Light Laser": "Легкий Лазер" # global (count: 3) (undefined)
+  "Interplanetary Missiles": "Межпланетные Ракеты" # global (count: 4) (undefined)
+  "Ion Cannon": "Ионная Пушка" # global (count: 4) (undefined)
+  "Large Cargo": "Большой Транспорт" # global (count: 6) (undefined)
+  "Large Shield Dome": "Большой Шитовой Купол" # global (count: 4) (undefined)
+  "Light Fighter": "Легкий Истребитель" # global (count: 6) (undefined)
+  "Light Laser": "Легкий Лазер" # global (count: 4) (undefined)
   "Losses": "Потери"
-  "Metal": "Металл" # global (count: 7) (undefined)
+  "Metal": "Металл" # global (count: 8) (undefined)
   "Moonchance": "Шанс Образования Луны"
   "Open in TrashSim": "Открыть в  TrashSim"
-  "Pathfinder": "Первопроходец" # global (count: 5) (undefined)
+  "Pathfinder": "Первопроходец" # global (count: 6) (undefined)
   "Pathfinders": "Первопроходцы"
   "Planet": "Планета" # global (count: 6) (undefined)
   "Planet/Moon": "Планета/Луна"
-  "Plasma Turret": "Плазменное Орудие" # global (count: 3) (undefined)
+  "Plasma Turret": "Плазменное Орудие" # global (count: 4) (undefined)
   "Plunder": "Грабить"
   "Possible": "Возможный"
   "Profit": "Профит"
-  "Reaper": "Жнец" # global (count: 4) (undefined)
-  "Recycler": "Переработчик" # global (count: 5) (undefined)
+  "Reaper": "Жнец" # global (count: 5) (undefined)
+  "Recycler": "Переработчик" # global (count: 6) (undefined)
   "Result": "Результат"
-  "Rocket Launcher": "Ракетная Установка" # global (count: 3) (undefined)
+  "Rocket Launcher": "Ракетная Установка" # global (count: 4) (undefined)
   "Rounds": "Раунды"
   "Select origin": "Выбрать место отправления" # global (count: 4) (undefined)
   "Send attack": "Отправить в Атаку"
@@ -1310,9 +1348,9 @@ bot.simulator:
   "Shield": "Шит"
   "Simulate": "Симулировать"
   "Simulations": "Симуляции"
-  "Small Cargo": "Малый Транспорт" # global (count: 5) (undefined)
-  "Small Shield Dome": "Малый Шитовой Купол" # global (count: 3) (undefined)
-  "Solar Satellite": "Солнечный Спутник" # global (count: 3) (undefined)
+  "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
+  "Small Shield Dome": "Малый Шитовой Купол" # global (count: 4) (undefined)
+  "Solar Satellite": "Солнечный Спутник" # global (count: 4) (undefined)
   "Tactical retreat": "Тактическое Отступление"
   "Weapon": "Оружие"
 bot-card:

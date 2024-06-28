@@ -238,8 +238,46 @@ bot.captcha:
   "Captcha": "" # global (count: 2) (undefined)
   "Submit": ""
 bot.conqueror:
+  "Activity": "" # global (count: 2) (undefined)
+  "Anti Ballistic Missiles": "" # global (count: 2) (undefined)
+#  "Battlecruiser": "" # global (count: 6) (defined)
+#  "Battleship": "" # global (count: 6) (defined)
+#  "Bomber": "" # global (count: 6) (defined)
+#  "Colony Ship": "" # global (count: 6) (defined)
+  "Coord": "" # global (count: 2) (undefined)
+  "Crawler": "" # global (count: 5) (undefined)
+#  "Cruiser": "" # global (count: 6) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
+  "Date": ""
+#  "Deathstar": "" # global (count: 6) (defined)
+  "Defenses": "" # global (count: 2) (undefined)
+#  "Destroyer": "" # global (count: 6) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
+#  "Espionage Probe": "" # global (count: 6) (defined)
+#  "Gauss Cannon": "" # global (count: 4) (defined)
   "Get spy reports": "Obter relatórios de espionagem" # global (count: 2) (undefined)
+#  "Heavy Fighter": "" # global (count: 6) (defined)
+#  "Heavy Laser": "" # global (count: 4) (defined)
+#  "Interplanetary Missiles": "" # global (count: 4) (defined)
+#  "Ion Cannon": "" # global (count: 4) (defined)
+#  "Large Cargo": "" # global (count: 6) (defined)
+#  "Large Shield Dome": "" # global (count: 4) (defined)
+#  "Light Fighter": "" # global (count: 6) (defined)
+#  "Light Laser": "" # global (count: 4) (defined)
+  "Loot": "" # global (count: 2) (undefined)
+#  "Metal": "" # global (count: 8) (defined)
   "No espionage report to show": "Sem relatórios de espionagem"
+  "Pathfinder": "" # global (count: 6) (undefined)
+#  "Plasma Turret": "" # global (count: 4) (defined)
+  "Player": "" # global (count: 2) (undefined)
+  "Reaper": "" # global (count: 5) (undefined)
+#  "Recycler": "" # global (count: 6) (defined)
+  "Resources": "" # global (count: 3) (undefined)
+#  "Rocket Launcher": "" # global (count: 4) (defined)
+  "Ships": "" # global (count: 5) (undefined)
+#  "Small Cargo": "" # global (count: 6) (defined)
+#  "Small Shield Dome": "" # global (count: 4) (defined)
+#  "Solar Satellite": "" # global (count: 4) (defined)
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
@@ -257,13 +295,13 @@ bot.empire:
 #  "Astrophysics": "" # global (count: 2) (defined)
   "Automated Transport Lines": ""
   "Automatised Assembly Centre": ""
-#  "Battlecruiser": "" # global (count: 5) (defined)
+#  "Battlecruiser": "" # global (count: 6) (defined)
   "Battlecruiser MkII": ""
-#  "Battleship": "" # global (count: 5) (defined)
+#  "Battleship": "" # global (count: 6) (defined)
   "Bio Modifier": ""
   "Biosphere Farm": ""
   "BiotechLab": ""
-#  "Bomber": "" # global (count: 5) (defined)
+#  "Bomber": "" # global (count: 6) (defined)
   "Bomber MkII": ""
   "Cargo Hold Expansion Civilian Ships": ""
   "Catalyser Technology": ""
@@ -271,28 +309,28 @@ bot.empire:
   "Chrysalis Accelerator": ""
   "Clear all construction queues": "Limpar filas de construção"
   "Cloning Laboratory": ""
-#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Colony Ship": "" # global (count: 6) (defined)
 #  "Combustion Drive": "" # global (count: 2) (defined)
 #  "Computer Technology": "" # global (count: 2) (defined)
   "Crawl": "Obter dados conta" # global (count: 1) (defined)
-  "Crawler": "Rastejador" # global (count: 4) (undefined)
+  "Crawler": "Rastejador" # global (count: 5) (undefined)
   "Crawler setting": "Rastejador %"
-#  "Cruiser": "" # global (count: 5) (defined)
+#  "Cruiser": "" # global (count: 6) (defined)
   "Cruiser MkII": ""
-#  "Crystal": "" # global (count: 7) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
   "Crystal Farm": ""
 #  "Crystal Mine": "" # global (count: 2) (defined)
   "Crystal Refinery": ""
 #  "Crystal Storage": "" # global (count: 2) (defined)
   "Crystal setting": "Mina de Cristal %"
-#  "Deathstar": "" # global (count: 5) (defined)
-  "Defenses": ""
+#  "Deathstar": "" # global (count: 6) (defined)
+  "Defenses": "" # global (count: 2) (undefined)
   "Depot AI": ""
   "Depth Sounding": ""
-#  "Destroyer": "" # global (count: 5) (defined)
+#  "Destroyer": "" # global (count: 6) (defined)
   "Destroyer MkII": ""
   "Deut synt setting": "Sintetizador de Deutério %"
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Deuterium Synthesiser": ""
 #  "Deuterium Synthesizer": "" # global (count: 2) (defined)
 #  "Deuterium Tank": "" # global (count: 2) (defined)
@@ -304,7 +342,7 @@ bot.empire:
 #  "Energy Technology": "" # global (count: 2) (defined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
-#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Probe": "" # global (count: 6) (defined)
 #  "Espionage Technology": "" # global (count: 2) (defined)
   "Experimental Recycling Technology": ""
   "Experimental Weapons Technology": ""
@@ -317,7 +355,7 @@ bot.empire:
   "Fusion Powered Production": ""
 #  "Fusion Reactor": "" # global (count: 2) (defined)
   "Fusion reactor setting": "Planta de Fusão %"
-#  "Gauss Cannon": "" # global (count: 3) (defined)
+#  "Gauss Cannon": "" # global (count: 4) (defined)
   "General Overhaul Battlecruiser": ""
   "General Overhaul Battleship": ""
   "General Overhaul Bomber": ""
@@ -330,8 +368,8 @@ bot.empire:
   "Halls Of Realisation": ""
   "Hardened Diamond Drill Heads": ""
   "Heat Recovery": ""
-#  "Heavy Fighter": "" # global (count: 5) (defined)
-#  "Heavy Laser": "" # global (count: 3) (defined)
+#  "Heavy Fighter": "" # global (count: 6) (defined)
+#  "Heavy Laser": "" # global (count: 4) (defined)
   "High Energy Pump Systems": ""
   "High Energy Smelting": ""
   "High Performance Extractors": ""
@@ -351,8 +389,8 @@ bot.empire:
   "Intergalactic Envoys": ""
   "Intergalactic Research Network": "Rede Intergaláctica de Pesquisas" # global (count: 1) (defined)
   "Interplanetary Analysis Network": ""
-#  "Interplanetary Missiles": "" # global (count: 3) (defined)
-#  "Ion Cannon": "" # global (count: 3) (defined)
+#  "Interplanetary Missiles": "" # global (count: 4) (defined)
+#  "Ion Cannon": "" # global (count: 4) (defined)
   "Ion Crystal Enhancement Heavy Fighter": ""
   "Ion Crystal Modules": ""
 #  "Ion Technology": "" # global (count: 2) (defined)
@@ -360,12 +398,12 @@ bot.empire:
   "Kaelesh Discoverer Enhancement": ""
   "Kaelesh buildings": ""
   "Kaelesh researches": ""
-#  "Large Cargo": "" # global (count: 5) (defined)
-#  "Large Shield Dome": "" # global (count: 3) (defined)
+#  "Large Cargo": "" # global (count: 6) (defined)
+#  "Large Shield Dome": "" # global (count: 4) (defined)
 #  "Laser Technology": "" # global (count: 2) (defined)
-#  "Light Fighter": "" # global (count: 5) (defined)
+#  "Light Fighter": "" # global (count: 6) (defined)
   "Light Fighter MkII": ""
-#  "Light Laser": "" # global (count: 3) (defined)
+#  "Light Laser": "" # global (count: 4) (defined)
   "Low Temperature Drives": ""
 #  "Lunar Base": "" # global (count: 2) (defined)
   "Magma Forge": ""
@@ -376,7 +414,7 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-#  "Metal": "" # global (count: 7) (defined)
+#  "Metal": "" # global (count: 8) (defined)
 #  "Metal Mine": "" # global (count: 2) (defined)
 #  "Metal Storage": "" # global (count: 2) (defined)
   "Metal setting": "Mina de Metal %"
@@ -397,13 +435,13 @@ bot.empire:
   "Overclocking Battleship": ""
   "Overclocking Heavy Fighter": ""
   "Overclocking Large Cargo": ""
-  "Pathfinder": "" # global (count: 5) (undefined)
+  "Pathfinder": "" # global (count: 6) (undefined)
   "Planetary Shield": ""
   "Planets": ""
   "Plasma Drive": ""
 #  "Plasma Technology": "" # global (count: 2) (defined)
   "Plasma Terraformer": ""
-#  "Plasma Turret": "" # global (count: 3) (defined)
+#  "Plasma Turret": "" # global (count: 4) (defined)
 #  "Points": "" # global (count: 4) (defined)
   "Production Assembly Hall": ""
   "Psionic Modulator": ""
@@ -412,18 +450,18 @@ bot.empire:
   "Psychoharmoniser": ""
   "Quantum Computer Centre": ""
 #  "Rank": "" # global (count: 6) (defined)
-  "Reaper": "" # global (count: 4) (undefined)
-#  "Recycler": "" # global (count: 5) (defined)
+  "Reaper": "" # global (count: 5) (undefined)
+#  "Recycler": "" # global (count: 6) (defined)
   "Reorder planets": "" # global (count: 2) (undefined)
   "Research AI": ""
   "Research Centre": ""
 #  "Research Lab": "" # global (count: 2) (defined)
   "Residential Sector": ""
-  "Resources": "" # global (count: 2) (undefined)
+  "Resources": "" # global (count: 3) (undefined)
   "Robot Assistants": ""
 #  "Robotics Factory": "" # global (count: 2) (defined)
   "Robotics Research Centre": ""
-#  "Rocket Launcher": "" # global (count: 3) (defined)
+#  "Rocket Launcher": "" # global (count: 4) (defined)
   "Rocktal Collector Enhancement": ""
   "Rocktal buildings": ""
   "Rocktal researches": ""
@@ -436,15 +474,15 @@ bot.empire:
 #  "Settings": "" # global (count: 7) (defined)
 #  "Shielding Technology": "" # global (count: 2) (defined)
   "Ship Manufacturing Hall": ""
-  "Ships": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
 #  "Shipyard": "" # global (count: 3) (defined)
   "Sixth Sense": ""
   "Skyscraper": ""
   "Slingshot Autopilot": ""
-#  "Small Cargo": "" # global (count: 5) (defined)
-#  "Small Shield Dome": "" # global (count: 3) (defined)
+#  "Small Cargo": "" # global (count: 6) (defined)
+#  "Small Shield Dome": "" # global (count: 4) (defined)
 #  "Solar Plant": "" # global (count: 2) (defined)
-#  "Solar Satellite": "" # global (count: 3) (defined)
+#  "Solar Satellite": "" # global (count: 4) (defined)
   "Solar plant setting": "Planta Solar %"
   "Solar sat setting": "Satélites Solares %"
 #  "Space Dock": "" # global (count: 2) (defined)
@@ -471,33 +509,33 @@ bot.flights:
   "Arrive at": ""
 #  "Arrive in": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 4) (defined)
-#  "Battlecruiser": "" # global (count: 5) (defined)
-#  "Battleship": "" # global (count: 5) (defined)
-#  "Bomber": "" # global (count: 5) (defined)
+#  "Battlecruiser": "" # global (count: 6) (defined)
+#  "Battleship": "" # global (count: 6) (defined)
+#  "Bomber": "" # global (count: 6) (defined)
   "Cancel Fleet": "Regressar Frota" # global (count: 2) (undefined)
   "Cancel scheduled flight": ""
   "Cargo": "Capacidade"
 #  "Colonize": "" # global (count: 4) (defined)
-#  "Colony Ship": "" # global (count: 5) (defined)
-  "Crawler": "Rastejador" # global (count: 4) (undefined)
+#  "Colony Ship": "" # global (count: 6) (defined)
+  "Crawler": "Rastejador" # global (count: 5) (undefined)
   "Cron jobs": "Cron jobs"
-#  "Cruiser": "" # global (count: 5) (defined)
-#  "Crystal": "" # global (count: 7) (defined)
+#  "Cruiser": "" # global (count: 6) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
   "Current fleets": "" # global (count: 2) (undefined)
   "DS": "EDM"
   "Deactivate all": "Desactivar todos"
-#  "Deathstar": "" # global (count: 5) (defined)
+#  "Deathstar": "" # global (count: 6) (defined)
   "Debris": "Destroços" # global (count: 2) (undefined)
   "Delete cron job": "Apagar cron job"
   "Delete flight": "Apagar frota"
   "Depart at": ""
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
-#  "Destroyer": "" # global (count: 5) (defined)
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Destroyer": "" # global (count: 6) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Dur": "Dur"
   "Edit cron job": "Editar cron job"
-#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Probe": "" # global (count: 6) (defined)
   "Exp": "" # global (count: 2) (undefined)
 #  "Expedition": "" # global (count: 7) (defined)
   "Flight": "Frota"
@@ -505,13 +543,13 @@ bot.flights:
 #  "Grouped Attack": "" # global (count: 4) (defined)
   "Grouped attack": ""
 #  "Harvest": "" # global (count: 4) (defined)
-#  "Heavy Fighter": "" # global (count: 5) (defined)
+#  "Heavy Fighter": "" # global (count: 6) (defined)
   "Homeworld": "" # global (count: 5) (undefined)
   "Jump gate": "Portal"
   "LC": "CG"
-#  "Large Cargo": "" # global (count: 5) (defined)
-#  "Light Fighter": "" # global (count: 5) (defined)
-#  "Metal": "" # global (count: 7) (defined)
+#  "Large Cargo": "" # global (count: 6) (defined)
+#  "Light Fighter": "" # global (count: 6) (defined)
+#  "Metal": "" # global (count: 8) (defined)
 #  "Missile Attack": "" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
   "Moon": "Lua" # global (count: 3) (undefined)
@@ -525,12 +563,12 @@ bot.flights:
   "PF": "EXP"
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
-  "Pathfinder": "Exploradora" # global (count: 5) (undefined)
+  "Pathfinder": "Exploradora" # global (count: 6) (undefined)
   "Planet": "Planeta" # global (count: 6) (undefined)
   "R": ""
-  "Reaper": "Ceifeira" # global (count: 4) (undefined)
+  "Reaper": "Ceifeira" # global (count: 5) (undefined)
   "Recycle debris field": "Reciclar campos destroço" # global (count: 1) (defined)
-#  "Recycler": "" # global (count: 5) (defined)
+#  "Recycler": "" # global (count: 6) (defined)
   "Resources to": ""
   "Return": "Regresso"
   "SC": "CP"
@@ -545,7 +583,7 @@ bot.flights:
   "Send fleet": "Enviar frota"
   "Send flight": "Enviar movimento"
   "Ships to": ""
-#  "Small Cargo": "" # global (count: 5) (defined)
+#  "Small Cargo": "" # global (count: 6) (defined)
   "Spec": ""
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
@@ -566,7 +604,7 @@ bot.galaxy.index:
   "Table": "Galáxia" # global (count: 1) (defined)
 bot.galaxy.map:
   "Active": "Activo" # global (count: 6) (undefined)
-  "Coord": "Coord"
+  "Coord": "Coord" # global (count: 2) (undefined)
   "Inactive": "Inactivo" # global (count: 2) (undefined)
   "Vacation": "Férias" # global (count: 3) (undefined)
 bot.galaxy.player:
@@ -574,13 +612,13 @@ bot.galaxy.player:
   "Add to hunter list": "Adicionar ao hunter"
   "Alliance": "Aliança" # global (count: 4) (undefined)
   "Coords": "Coords" # global (count: 2) (undefined)
-#  "Crystal": "" # global (count: 7) (defined)
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Espionage": "Espiar" # global (count: 2) (undefined)
   "Espionage report": "Relatório de espionagem" # global (count: 4) (undefined)
 #  "Galaxy": "" # global (count: 4) (defined)
   "Members": "Membros" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 7) (defined)
+#  "Metal": "" # global (count: 8) (defined)
   "Moon": "Lua" # global (count: 3) (undefined)
   "Planet name": "Planeta" # global (count: 2) (undefined)
   "Player name": "Jogador" # global (count: 4) (undefined)
@@ -594,15 +632,15 @@ bot.galaxy.table:
   "Add player to ignore list": "Ignorar jogador"
   "Alliance": "Aliança" # global (count: 4) (undefined)
   "Coords": "Coords" # global (count: 2) (undefined)
-#  "Crystal": "" # global (count: 7) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
   "Debris top 100": "Top 100 destroços"
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Espionage": "Espiar" # global (count: 2) (undefined)
   "Espionage report": "Relatório de espionagem" # global (count: 4) (undefined)
   "Get spy reports": "Obter relatórios de espionagem" # global (count: 2) (undefined)
   "Go": "Ir"
   "Members": "Membros" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 7) (defined)
+#  "Metal": "" # global (count: 8) (defined)
   "Moon": "Lua" # global (count: 3) (undefined)
   "Open in OGame browser": "Abrir no navegador"
   "Planet name": "Planeta" # global (count: 2) (undefined)
@@ -644,7 +682,7 @@ bot.phalanxPlayer:
 #  "Park In That Ally": "" # global (count: 4) (defined)
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
-  "Ships": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
 #  "Spy": "" # global (count: 4) (defined)
 #  "Transport": "" # global (count: 4) (defined)
   "Union ID": "" # global (count: 2) (undefined)
@@ -685,40 +723,40 @@ bot.report:
 #  "Anti-Ballistic Missiles": "" # global (count: 2) (defined)
 #  "Armour Technology": "" # global (count: 2) (defined)
 #  "Astrophysics": "" # global (count: 2) (defined)
-#  "Battlecruiser": "" # global (count: 5) (defined)
-#  "Battleship": "" # global (count: 5) (defined)
-#  "Bomber": "" # global (count: 5) (defined)
+#  "Battlecruiser": "" # global (count: 6) (defined)
+#  "Battleship": "" # global (count: 6) (defined)
+#  "Bomber": "" # global (count: 6) (defined)
   "Character Class": ""
-#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Colony Ship": "" # global (count: 6) (defined)
 #  "Combustion Drive": "" # global (count: 2) (defined)
 #  "Computer Technology": "" # global (count: 2) (defined)
-#  "Cruiser": "" # global (count: 5) (defined)
+#  "Cruiser": "" # global (count: 6) (defined)
 #  "Crystal Mine": "" # global (count: 2) (defined)
 #  "Crystal Storage": "" # global (count: 2) (defined)
-#  "Deathstar": "" # global (count: 5) (defined)
-#  "Destroyer": "" # global (count: 5) (defined)
+#  "Deathstar": "" # global (count: 6) (defined)
+#  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium Synthesizer": "" # global (count: 2) (defined)
 #  "Deuterium Tank": "" # global (count: 2) (defined)
 #  "Energy Technology": "" # global (count: 2) (defined)
-#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Probe": "" # global (count: 6) (defined)
 #  "Espionage Technology": "" # global (count: 2) (defined)
 #  "Fusion Reactor": "" # global (count: 2) (defined)
-#  "Gauss Cannon": "" # global (count: 3) (defined)
+#  "Gauss Cannon": "" # global (count: 4) (defined)
 #  "Graviton Technology": "" # global (count: 2) (defined)
-#  "Heavy Fighter": "" # global (count: 5) (defined)
-#  "Heavy Laser": "" # global (count: 3) (defined)
+#  "Heavy Fighter": "" # global (count: 6) (defined)
+#  "Heavy Laser": "" # global (count: 4) (defined)
 #  "Hyperspace Drive": "" # global (count: 2) (defined)
 #  "Hyperspace Technology": "" # global (count: 2) (defined)
 #  "Impulse Drive": "" # global (count: 2) (defined)
-#  "Interplanetary Missiles": "" # global (count: 3) (defined)
-#  "Ion Cannon": "" # global (count: 3) (defined)
+#  "Interplanetary Missiles": "" # global (count: 4) (defined)
+#  "Ion Cannon": "" # global (count: 4) (defined)
 #  "Ion Technology": "" # global (count: 2) (defined)
 #  "Jump Gate": "" # global (count: 2) (defined)
-#  "Large Cargo": "" # global (count: 5) (defined)
-#  "Large Shield Dome": "" # global (count: 3) (defined)
+#  "Large Cargo": "" # global (count: 6) (defined)
+#  "Large Shield Dome": "" # global (count: 4) (defined)
 #  "Laser Technology": "" # global (count: 2) (defined)
-#  "Light Fighter": "" # global (count: 5) (defined)
-#  "Light Laser": "" # global (count: 3) (defined)
+#  "Light Fighter": "" # global (count: 6) (defined)
+#  "Light Laser": "" # global (count: 4) (defined)
   "Load in simulator": "Carregar no simulador"
 #  "Lunar Base": "" # global (count: 2) (defined)
 #  "Metal Mine": "" # global (count: 2) (defined)
@@ -726,20 +764,20 @@ bot.report:
 #  "Missile Silo": "" # global (count: 2) (defined)
 #  "Nanite Factory": "" # global (count: 2) (defined)
 #  "Plasma Technology": "" # global (count: 2) (defined)
-#  "Plasma Turret": "" # global (count: 3) (defined)
-#  "Recycler": "" # global (count: 5) (defined)
+#  "Plasma Turret": "" # global (count: 4) (defined)
+#  "Recycler": "" # global (count: 6) (defined)
   "Report": "Relatório"
 #  "Research Lab": "" # global (count: 2) (defined)
   "Research Network": "Rede Intergaláctica" # global (count: 1) (defined)
 #  "Robotics Factory": "" # global (count: 2) (defined)
-#  "Rocket Launcher": "" # global (count: 3) (defined)
+#  "Rocket Launcher": "" # global (count: 4) (defined)
 #  "Sensor Phalanx": "" # global (count: 2) (defined)
 #  "Shielding Technology": "" # global (count: 2) (defined)
 #  "Shipyard": "" # global (count: 3) (defined)
-#  "Small Cargo": "" # global (count: 5) (defined)
-#  "Small Shield Dome": "" # global (count: 3) (defined)
+#  "Small Cargo": "" # global (count: 6) (defined)
+#  "Small Shield Dome": "" # global (count: 4) (defined)
 #  "Solar Plant": "" # global (count: 2) (defined)
-#  "Solar Satellite": "" # global (count: 3) (defined)
+#  "Solar Satellite": "" # global (count: 4) (defined)
 #  "Space Dock": "" # global (count: 2) (defined)
 #  "Terraformer": "" # global (count: 2) (defined)
 #  "Weapons Technology": "" # global (count: 2) (defined)
@@ -767,11 +805,11 @@ bot.settings.auctioneer:
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-#  "Crystal": "" # global (count: 7) (defined)
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Highest bid value": ""
   "Homeworld": "" # global (count: 5) (undefined)
-#  "Metal": "" # global (count: 7) (defined)
+#  "Metal": "" # global (count: 8) (defined)
   "Save": "" # global (count: 17) (undefined)
 bot.settings.brain:
   "AI": "AI"
@@ -897,23 +935,23 @@ bot.settings.expeditions:
 #  "Arrive in": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 4) (defined)
   "Automatic fleet": ""
-#  "Battlecruiser": "" # global (count: 5) (defined)
-#  "Battleship": "" # global (count: 5) (defined)
-#  "Bomber": "" # global (count: 5) (defined)
+#  "Battlecruiser": "" # global (count: 6) (defined)
+#  "Battleship": "" # global (count: 6) (defined)
+#  "Bomber": "" # global (count: 6) (defined)
   "Cancel Fleet": "Cancelar Frota" # global (count: 2) (undefined)
   "Click here to load current fleets": "Mostrar movimentos"
 #  "Colonize": "" # global (count: 4) (defined)
-#  "Colony Ship": "" # global (count: 5) (defined)
-#  "Cruiser": "" # global (count: 5) (defined)
+#  "Colony Ship": "" # global (count: 6) (defined)
+#  "Cruiser": "" # global (count: 6) (defined)
   "Current fleets": "" # global (count: 2) (undefined)
-#  "Deathstar": "" # global (count: 5) (defined)
+#  "Deathstar": "" # global (count: 6) (defined)
   "Delay between fleet (secs)": "Atraso entre vagas (segundos)"
   "Delay between waves (secs)": "Atraso entre sets (segundos)"
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
-#  "Destroyer": "" # global (count: 5) (defined)
+#  "Destroyer": "" # global (count: 6) (defined)
   "Duration": ""
-#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Probe": "" # global (count: 6) (defined)
   "Exp": "Exp" # global (count: 2) (undefined)
 #  "Expedition": "" # global (count: 7) (defined)
   "Expedition speed": "Expedição velocidade"
@@ -922,13 +960,13 @@ bot.settings.expeditions:
   "Expeditions origin": "Expedição origem"
 #  "Grouped Attack": "" # global (count: 4) (defined)
 #  "Harvest": "" # global (count: 4) (defined)
-#  "Heavy Fighter": "" # global (count: 5) (defined)
+#  "Heavy Fighter": "" # global (count: 6) (defined)
   "Homeworld": "" # global (count: 5) (undefined)
   "Ignore min deut": "Ignorar min deut"
   "LC that will not be send with auto-split": "CG não serão repartidos automaticamente"
-#  "Large Cargo": "" # global (count: 5) (defined)
+#  "Large Cargo": "" # global (count: 6) (defined)
   "Large Cargo to stay": "Carg. Grande para ficar"
-#  "Light Fighter": "" # global (count: 5) (defined)
+#  "Light Fighter": "" # global (count: 6) (defined)
   "Minimum Pathfinders": ""
   "Minimum amount of pathfinders needed to consider a debris field": ""
   "Minimum speed": "Velocidade mínima"
@@ -944,17 +982,17 @@ bot.settings.expeditions:
   "PF will be send to arrive at the same time as debris field is created (if any)": "Exp. será enviada para chegar ao mesmo tempo em que o campo de destroços for criado (se houver)"
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
-  "Pathfinder": "Exploradora" # global (count: 5) (undefined)
+  "Pathfinder": "Exploradora" # global (count: 6) (undefined)
   "Pathfinders to stay": "Exploradoras para ficar"
-  "Reaper": "Ceifeira" # global (count: 4) (undefined)
+  "Reaper": "Ceifeira" # global (count: 5) (undefined)
   "Recycle debris": "Reciclar destroços"
-#  "Recycler": "" # global (count: 5) (defined)
+#  "Recycler": "" # global (count: 6) (defined)
   "SC that will not be send with auto-split": "CP não serão repartidos automaticamente"
   "Secs after expedition": "Segs depois da expedição"
   "Select origin": "Seleccionar origem" # global (count: 4) (undefined)
   "Ships per expedition": "Naves por expedição"
   "Slots allowed": "Slots permitidas"
-#  "Small Cargo": "" # global (count: 5) (defined)
+#  "Small Cargo": "" # global (count: 6) (defined)
   "Small Cargo to stay": "Carg. Pequenos para ficar"
 #  "Spy": "" # global (count: 4) (defined)
   "Statistics": "Estatísticas"
@@ -978,16 +1016,16 @@ bot.settings.farmer:
   "Attack from nearest planet": "Atacar do planeta mais próximo"
   "Attack speed": "Velocidade de ataque"
   "Created at": "Criado em" # global (count: 6) (undefined)
-#  "Crystal": "" # global (count: 7) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "Apagar relatórios de combate"
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Espionage probe raids": "Atacar com sondas de espionagem"
   "Farm sessions": "Sessão de Farm"
   "Farmer active": "Farmer activo"
   "Fast attacking": "Ataque rápido"
   "Ignore targets with activity": "Ignorar alvos c/ actividade"
   "Inactive": "" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 7) (defined)
+#  "Metal": "" # global (count: 8) (defined)
   "Min. defenses to ignore": "Defesas mínimas a ignorar"
   "Min. player rank": "Min. classificação jogador"
   "Min. resources to attack": "Recursos mínimos p/ atacar"
@@ -1049,7 +1087,7 @@ bot.settings.home:
   "Repatriate now": "Distribuir agora"
   "Reschedule evacuation": "Reprogramar evacuação"
   "Research speed": "Velocidade pesquisa"
-  "Ships": "Naves" # global (count: 4) (undefined)
+  "Ships": "Naves" # global (count: 5) (undefined)
   "Skip sus login wait": ""
   "Times": "Tempos"
   "Universe": "Universo" # global (count: 4) (undefined)
@@ -1072,13 +1110,13 @@ bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- Planeta/Lua activa ---" # global (count: 2) (undefined)
 #  "Actions": "" # global (count: 12) (defined)
 #  "Activities": "" # global (count: 3) (defined)
-  "Activity": "Actividade"
+  "Activity": "Actividade" # global (count: 2) (undefined)
   "Alliance": "Aliança" # global (count: 4) (undefined)
   "Alliance rank": "Classificação aliança"
   "Hunter configs": "Hunter definições"
   "No activity": "Sem actividade" # global (count: 2) (undefined)
   "No targets": "Sem alvos"
-  "Player": "Jogador"
+  "Player": "Jogador" # global (count: 2) (undefined)
   "Player rank": "Classificação jogador"
   "Save": "Guardar" # global (count: 17) (undefined)
   "Scan frequency": "Frequência de scan" # global (count: 2) (undefined)
@@ -1112,7 +1150,7 @@ bot.settings.logs:
 #  "Brain": "" # global (count: 2) (defined)
   "Category": "Categoria" # global (count: 2) (undefined)
   "Colonizer": "" # global (count: 2) (undefined)
-  "Crawler": "Crawler" # global (count: 4) (undefined)
+  "Crawler": "Crawler" # global (count: 5) (undefined)
   "Created at": "Criado em" # global (count: 6) (undefined)
 #  "Defender": "" # global (count: 7) (defined)
   "Download logs": "Download logs"
@@ -1138,13 +1176,13 @@ bot.settings.messages:
 #  "Farmer": "" # global (count: 5) (defined)
   "Importer": "Importação"
   "InGame date": "Data ingame" # global (count: 2) (undefined)
-  "Loot": "Pilhagem"
+  "Loot": "Pilhagem" # global (count: 2) (undefined)
   "Manual": "Manual"
   "Messages": "Mensagens" # global (count: 3) (undefined)
   "Next": "Seguinte" # global (count: 9) (undefined)
   "No messages to show": "Sem mensagens para mostrar" # global (count: 2) (undefined)
   "Prev": "Anterior" # global (count: 9) (undefined)
-  "Resources": "Recursos" # global (count: 2) (undefined)
+  "Resources": "Recursos" # global (count: 3) (undefined)
 bot.settings.notifications:
   "Bot exit sleep mode": "Bot sai do modo sleep"
   "Bot goes to sleep mode": "Bot entra em modo sleep"
@@ -1212,7 +1250,7 @@ bot.settings.phalanxSession:
   "Recall time": ""
   "Scheduled arrive time": ""
   "Session aborted": "Sessão abortada"
-  "Ships": "" # global (count: 4) (undefined)
+  "Ships": "" # global (count: 5) (undefined)
 #  "Speed": "" # global (count: 2) (defined)
 #  "Spy": "" # global (count: 4) (defined)
   "Started at": ""
@@ -1282,7 +1320,7 @@ bot.settings.settings:
   "Ogame password": ""
   "Ogame universe": ""
   "Ogame username": ""
-  "Pathfinder": "Exploradora" # global (count: 5) (undefined)
+  "Pathfinder": "Exploradora" # global (count: 6) (undefined)
   "Player ID": "" # global (count: 2) (undefined)
   "Preferred transport ships": "Naves transporte preferida"
   "Proxy password": "Proxy password" # global (count: 3) (undefined)
@@ -1378,67 +1416,67 @@ bot.settings.sleepMode:
 bot.simulator:
   "ACS planner": "planeador ACS"
   "API": "API" # global (count: 3) (undefined)
-  "Anti Ballistic Missiles": "Mísseis de Intercepção"
+  "Anti Ballistic Missiles": "Mísseis de Intercepção" # global (count: 2) (undefined)
   "Armour": "Blindagem"
   "Attacker": "Atacante" # global (count: 2) (undefined)
   "Attacker win": "Atacante vence"
-#  "Battlecruiser": "" # global (count: 5) (defined)
-#  "Battleship": "" # global (count: 5) (defined)
-#  "Bomber": "" # global (count: 5) (defined)
+#  "Battlecruiser": "" # global (count: 6) (defined)
+#  "Battleship": "" # global (count: 6) (defined)
+#  "Bomber": "" # global (count: 6) (defined)
   "Captured": "Capturado"
   "Cargo's needed": "Cargueiros necessários"
   "Clear player data": "Apagar dados"
-#  "Colony Ship": "" # global (count: 5) (defined)
+#  "Colony Ship": "" # global (count: 6) (defined)
   "Combustion": ""
   "Configs": "Definições"
   "Coordinates": "" # global (count: 2) (undefined)
-  "Crawler": "Rastejador" # global (count: 4) (undefined)
-#  "Cruiser": "" # global (count: 5) (defined)
-#  "Crystal": "" # global (count: 7) (defined)
-#  "Deathstar": "" # global (count: 5) (defined)
+  "Crawler": "Rastejador" # global (count: 5) (undefined)
+#  "Cruiser": "" # global (count: 6) (defined)
+#  "Crystal": "" # global (count: 8) (defined)
+#  "Deathstar": "" # global (count: 6) (defined)
   "Debris": "Destroços" # global (count: 2) (undefined)
   "Defence": "Defensor"
   "Defence repair factor": "Factor de reparação de defesa"
   "Defence to debris": "Defesa para destroços"
 #  "Defender": "" # global (count: 7) (defined)
   "Defender win": "Defensor vence"
-#  "Destroyer": "" # global (count: 5) (defined)
-#  "Deuterium": "" # global (count: 7) (defined)
+#  "Destroyer": "" # global (count: 6) (defined)
+#  "Deuterium": "" # global (count: 8) (defined)
   "Deuterium save factor": ""
   "Draw": "Empate"
-#  "Espionage Probe": "" # global (count: 5) (defined)
+#  "Espionage Probe": "" # global (count: 6) (defined)
   "Fleet speed": ""
   "Fleet to debris": "Frota para destroços"
   "Flight time": ""
 #  "Fuel consumption": "" # global (count: 2) (defined)
-#  "Gauss Cannon": "" # global (count: 3) (defined)
-#  "Heavy Fighter": "" # global (count: 5) (defined)
-#  "Heavy Laser": "" # global (count: 3) (defined)
+#  "Gauss Cannon": "" # global (count: 4) (defined)
+#  "Heavy Fighter": "" # global (count: 6) (defined)
+#  "Heavy Laser": "" # global (count: 4) (defined)
   "Hyperspace": ""
   "Hyperspace tech": "Tecnologia de Hiperespaço"
   "Impulse": ""
-#  "Interplanetary Missiles": "" # global (count: 3) (defined)
-#  "Ion Cannon": "" # global (count: 3) (defined)
-#  "Large Cargo": "" # global (count: 5) (defined)
-#  "Large Shield Dome": "" # global (count: 3) (defined)
-#  "Light Fighter": "" # global (count: 5) (defined)
-#  "Light Laser": "" # global (count: 3) (defined)
+#  "Interplanetary Missiles": "" # global (count: 4) (defined)
+#  "Ion Cannon": "" # global (count: 4) (defined)
+#  "Large Cargo": "" # global (count: 6) (defined)
+#  "Large Shield Dome": "" # global (count: 4) (defined)
+#  "Light Fighter": "" # global (count: 6) (defined)
+#  "Light Laser": "" # global (count: 4) (defined)
   "Losses": "Perdas"
-#  "Metal": "" # global (count: 7) (defined)
+#  "Metal": "" # global (count: 8) (defined)
   "Moonchance": "Probabilidade de lua"
   "Open in TrashSim": "Abrir no TrashSim"
-  "Pathfinder": "Exploradora" # global (count: 5) (undefined)
+  "Pathfinder": "Exploradora" # global (count: 6) (undefined)
   "Pathfinders": "Exploradoras"
   "Planet": "Planeta" # global (count: 6) (undefined)
   "Planet/Moon": "Planeta/Lua"
-#  "Plasma Turret": "" # global (count: 3) (defined)
+#  "Plasma Turret": "" # global (count: 4) (defined)
   "Plunder": "Pilhagem"
   "Possible": "Possível"
   "Profit": "Lucro"
-  "Reaper": "Ceifeira" # global (count: 4) (undefined)
-#  "Recycler": "" # global (count: 5) (defined)
+  "Reaper": "Ceifeira" # global (count: 5) (undefined)
+#  "Recycler": "" # global (count: 6) (defined)
   "Result": "Resultado"
-#  "Rocket Launcher": "" # global (count: 3) (defined)
+#  "Rocket Launcher": "" # global (count: 4) (defined)
   "Rounds": "Rondas"
   "Select origin": "Seleccionar origem" # global (count: 4) (undefined)
   "Send attack": "Enviar ataque"
@@ -1446,9 +1484,9 @@ bot.simulator:
   "Shield": "Escudo"
   "Simulate": "Simular"
   "Simulations": "Simulações"
-#  "Small Cargo": "" # global (count: 5) (defined)
-#  "Small Shield Dome": "" # global (count: 3) (defined)
-#  "Solar Satellite": "" # global (count: 3) (defined)
+#  "Small Cargo": "" # global (count: 6) (defined)
+#  "Small Shield Dome": "" # global (count: 4) (defined)
+#  "Solar Satellite": "" # global (count: 4) (defined)
   "Tactical retreat": "Retirada táctica"
   "Weapon": "Armas"
 bot-card:
