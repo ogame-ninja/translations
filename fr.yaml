@@ -93,6 +93,7 @@ global:
   "Ion Cannon": "Artillerie à ions"
   "Ion Technology": "Technologie à ions"
   "Jump Gate": "Jump Gate"
+  "Key/value storage": "Stockage clé/valeur"
   "Large Cargo": "Grand transporteur"
   "Large Shield Dome": "Grand bouclier"
   "Large cargo": "Grand transporteur"
@@ -118,6 +119,7 @@ global:
   "New fingerprint": "Nouvelle empreinte"
   "New license": "Nouvelle licence"
   "New license valid until": "Nouvelle licence valable jusqu'au"
+  "New script": "Nouveau script"
   "New server": "Nouveau serveur"
   "Next": "Suivant"
   "No": "Non"
@@ -668,7 +670,7 @@ bot.flights:
   "Schedule fleet": "Planifier la flotte"
   "Scheduled flights": "Vols programmés"
   "Search for lifeforms": "Rechercher des formes de vie"
-  "Select origin": "Sélectionnez l'origine" # global (count: 4) (defined)
+#  "Select origin": "" # global (count: 4) (defined)
   "Send all resources": "Envoyer toutes les ressources" # global (count: 2) (undefined)
 #  "Send all ships": "" # global (count: 2) (defined)
   "Send fleet": "Envoyer la flotte"
@@ -873,10 +875,17 @@ bot.report:
 #  "Terraformer": "" # global (count: 2) (defined)
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.scripts:
+  "Delete script": "Supprimer le script"
+  "Documentation": "Documentation"
+  "Download scripts": "Télécharger les scripts"
   "Edit file name": "Modifier le nom du fichier"
+#  "Key/value storage": "" # global (count: 2) (defined)
+#  "New script": "" # global (count: 2) (defined)
   "Pause/unpause": "Pause/reprise"
   "Run": "Exécutez"
   "Run at start": "Exécuter au démarrage" # global (count: 2) (undefined)
+  "Save script": "Enregistrer le script"
+  "Scripts examples": "Exemples de scripts"
 #  "Stop": "" # global (count: 5) (defined)
   "Upload scripts": "Téléverser des scripts"
   "Validate Script": "Valider le script"
@@ -1618,7 +1627,7 @@ database:
 #  "Actions": "" # global (count: 12) (defined)
   "Delete all keys": "Supprimer toutes les clés"
   "Key": "Clé"
-  "Key/value storage": "Stockage clé/valeur"
+#  "Key/value storage": "" # global (count: 2) (defined)
   "No data to display": "Aucune donnée à afficher"
 #  "Search": "" # global (count: 3) (defined)
   "Stats": "Statistiques"
@@ -1981,7 +1990,7 @@ new-script:
   "Create script on all bots": "Créer un script sur tous les robots" # global (count: 3) (undefined)
 #  "Home": "" # global (count: 8) (defined)
   "My bots": "Mes robots"
-  "New script": "Nouveau script"
+#  "New script": "" # global (count: 2) (defined)
   "Place script here": "Placer le script ici"
   "Run at start": "Exécuter au démarrage" # global (count: 2) (undefined)
   "Script file name": "Nom du fichier de script"

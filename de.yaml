@@ -833,10 +833,17 @@ bot.report:
 #  "Terraformer": "" # global (count: 2) (defined)
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.scripts:
+  "Delete script": ""
+  "Documentation": ""
+  "Download scripts": ""
   "Edit file name": "Dateinamen bearbeiten"
+  "Key/value storage": "" # global (count: 2) (undefined)
+  "New script": "" # global (count: 2) (undefined)
   "Pause/unpause": "Pause/Fortsetzen"
   "Run": "Start"
   "Run at start": "Ausführung bei Bot-Start" # global (count: 2) (undefined)
+  "Save script": ""
+  "Scripts examples": ""
 #  "Stop": "" # global (count: 5) (defined)
   "Upload scripts": ""
   "Validate Script": "Skript überprüfen"
@@ -1578,7 +1585,7 @@ database:
 #  "Actions": "" # global (count: 12) (defined)
   "Delete all keys": "Alle Schlüssel löschen"
   "Key": "Schlüssel"
-  "Key/value storage": "Schlüssel/Wert"
+  "Key/value storage": "Schlüssel/Wert" # global (count: 2) (undefined)
   "No data to display": "Keine Daten zum anzeigen"
   "Search": "" # global (count: 3) (undefined)
   "Stats": ""
@@ -1941,7 +1948,7 @@ new-script:
   "Create script on all bots": "" # global (count: 3) (undefined)
 #  "Home": "" # global (count: 8) (defined)
   "My bots": ""
-  "New script": ""
+  "New script": "" # global (count: 2) (undefined)
   "Place script here": ""
   "Run at start": "" # global (count: 2) (undefined)
   "Script file name": ""

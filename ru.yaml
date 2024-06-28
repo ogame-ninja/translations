@@ -652,10 +652,17 @@ bot.report:
   "Terraformer": "Тераформер" # global (count: 2) (undefined)
   "Weapons Technology": "Оружейная Технология" # global (count: 2) (undefined)
 bot.scripts:
+  "Delete script": ""
+  "Documentation": ""
+  "Download scripts": ""
   "Edit file name": "Изменить Название файла"
+  "Key/value storage": "" # global (count: 2) (undefined)
+  "New script": "" # global (count: 2) (undefined)
   "Pause/unpause": "Пауза / Включить"
   "Run": "Запустить"
   "Run at start": "Запуск при старте Бота" # global (count: 2) (undefined)
+  "Save script": ""
+  "Scripts examples": ""
   "Stop": "Стоп" # global (count: 5) (undefined)
   "Upload scripts": ""
   "Validate Script": "Потвердить скрипт"
@@ -1397,7 +1404,7 @@ database:
   "Actions": "Действия" # global (count: 12) (undefined)
   "Delete all keys": "Удалить все ключи"
   "Key": "Ключ"
-  "Key/value storage": "Ключ/Хранение ценностей"
+  "Key/value storage": "Ключ/Хранение ценностей" # global (count: 2) (undefined)
   "No data to display": "Нет информации для отображения"
   "Search": "Поиск" # global (count: 3) (undefined)
   "Stats": "Статистика"
@@ -1760,7 +1767,7 @@ new-script:
   "Create script on all bots": "Создать скрипт для всех ботов" # global (count: 3) (undefined)
   "Home": "Дом" # global (count: 8) (undefined)
   "My bots": "Мой Боты"
-  "New script": "Новый Скрипт"
+  "New script": "Новый Скрипт" # global (count: 2) (undefined)
   "Place script here": "Разместите скрипт здесь"
   "Run at start": "Запустить при старте" # global (count: 2) (undefined)
   "Script file name": "Имя фала скрипта"

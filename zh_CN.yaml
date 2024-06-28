@@ -794,10 +794,17 @@ bot.report:
 #  "Terraformer": "" # global (count: 2) (defined)
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.scripts:
+  "Delete script": ""
+  "Documentation": ""
+  "Download scripts": ""
   "Edit file name": "编辑档案名称"
+  "Key/value storage": "" # global (count: 2) (undefined)
+  "New script": "" # global (count: 2) (undefined)
   "Pause/unpause": "暂停/取消暂停"
   "Run": "执行"
   "Run at start": "(于开启时)自动执行" # global (count: 2) (undefined)
+  "Save script": ""
+  "Scripts examples": ""
 #  "Stop": "" # global (count: 5) (defined)
   "Upload scripts": ""
   "Validate Script": "验证脚本"
@@ -1539,7 +1546,7 @@ database:
 #  "Actions": "" # global (count: 12) (defined)
   "Delete all keys": ""
   "Key": ""
-  "Key/value storage": ""
+  "Key/value storage": "" # global (count: 2) (undefined)
   "No data to display": ""
   "Search": "" # global (count: 3) (undefined)
   "Stats": ""
@@ -1902,7 +1909,7 @@ new-script:
   "Create script on all bots": "于所有机器人上生成脚本" # global (count: 3) (undefined)
 #  "Home": "" # global (count: 8) (defined)
   "My bots": "我的机器人"
-  "New script": "新脚本"
+  "New script": "新脚本" # global (count: 2) (undefined)
   "Place script here": "将脚本放于此"
   "Run at start": "(于开启时)自动执行" # global (count: 2) (undefined)
   "Script file name": "脚本档案名称"

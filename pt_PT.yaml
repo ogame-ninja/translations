@@ -788,10 +788,17 @@ bot.report:
 #  "Terraformer": "" # global (count: 2) (defined)
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.scripts:
+  "Delete script": ""
+  "Documentation": ""
+  "Download scripts": ""
   "Edit file name": "Editar ficheiro"
+  "Key/value storage": "" # global (count: 2) (undefined)
+  "New script": "" # global (count: 2) (undefined)
   "Pause/unpause": "Pausa/Recomeçar"
   "Run": "Executar"
   "Run at start": "Executar no início" # global (count: 2) (undefined)
+  "Save script": ""
+  "Scripts examples": ""
 #  "Stop": "" # global (count: 5) (defined)
   "Upload scripts": ""
   "Validate Script": "Validar Script"
@@ -1533,7 +1540,7 @@ database:
 #  "Actions": "" # global (count: 12) (defined)
   "Delete all keys": "Apagar todas as keys"
   "Key": "Key"
-  "Key/value storage": "Key/value storage"
+  "Key/value storage": "Key/value storage" # global (count: 2) (undefined)
   "No data to display": "Sem dados para mostrar"
   "Search": "Procurar" # global (count: 3) (undefined)
   "Stats": "Estatísticas"
@@ -1896,7 +1903,7 @@ new-script:
   "Create script on all bots": "Criar script para todos os bots" # global (count: 3) (undefined)
 #  "Home": "" # global (count: 8) (defined)
   "My bots": "Meus bots"
-  "New script": "Novo script"
+  "New script": "Novo script" # global (count: 2) (undefined)
   "Place script here": "Coloque o script aqui"
   "Run at start": "Exec no arranque" # global (count: 2) (undefined)
   "Script file name": "Nome do ficheiro de script"
