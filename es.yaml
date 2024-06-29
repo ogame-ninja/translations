@@ -286,7 +286,7 @@ bot.empire:
   "Acoustic Scanning": ""
 #  "Actions": "" # global (count: 13) (defined)
   "Advanced Recycling Plant": ""
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
 #  "Anti-Ballistic Missiles": "" # global (count: 2) (defined)
   "Antimatter Condenser": ""
@@ -507,7 +507,7 @@ bot.flights:
 #  "Actions": "" # global (count: 13) (defined)
   "Activate all": ""
   "Active": "Activo" # global (count: 6) (undefined)
-  "All": "Todos" # global (count: 5) (undefined)
+  "All": "Todos" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrival": ""
   "Arrive at": ""
@@ -619,8 +619,10 @@ bot.galaxy.map:
 bot.galaxy.player:
 #  "Actions": "" # global (count: 13) (defined)
   "Add to hunter list": "Añadir a Cazador"
+  "All": "" # global (count: 6) (undefined)
   "Alliance": "Alianza" # global (count: 4) (undefined)
   "Coords": "Coordenadas" # global (count: 2) (undefined)
+  "Crawl systems": ""
 #  "Crystal": "" # global (count: 8) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage": "" # global (count: 3) (undefined)
@@ -629,11 +631,13 @@ bot.galaxy.player:
   "Members": "Miembros" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
   "Moon": "Luna" # global (count: 3) (undefined)
+  "Phalanx all coordinates": ""
   "Planet name": "Nombre de planeta" # global (count: 2) (undefined)
   "Player name": "Nombre de jugador" # global (count: 4) (undefined)
   "Player profile": "Perfil de jugador" # global (count: 2) (undefined)
   "RN": "Nº Recicladores" # global (count: 2) (undefined)
 #  "Rank": "" # global (count: 6) (defined)
+  "Spy all coordinates": ""
   "Updated": "Últ. Actualización" # global (count: 2) (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (count: 13) (defined)
@@ -664,6 +668,7 @@ bot.galaxy.table:
   "Stop scan universe": "Para escaneo del universo"
   "Updated": "Últ. Actualización" # global (count: 2) (undefined)
 bot.index:
+  "Available!": "" # global (count: 2) (undefined)
 #  "Bot": "" # global (count: 1) (defined)
 #  "Browser": "" # global (count: 1) (defined)
   "Conqueror": ""
@@ -671,10 +676,10 @@ bot.index:
 #  "Flights": "" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Home": "" # global (count: 8) (defined)
-  "In use": "" # global (count: 2) (undefined)
+  "In use": ""
 #  "Scripts": "" # global (count: 1) (defined)
 #  "Simulator": "" # global (count: 1) (defined)
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
 #  "Attack": "" # global (count: 5) (defined)
@@ -925,7 +930,7 @@ bot.settings.discovery:
   "discovery active": ""
 bot.settings.expeditionMessages:
 #  "Actions": "" # global (count: 13) (defined)
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Category": "" # global (count: 2) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
@@ -1167,7 +1172,7 @@ bot.settings.index:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
 bot.settings.logs:
-  "All": "Todos" # global (count: 5) (undefined)
+  "All": "Todos" # global (count: 6) (undefined)
   "Audit": "Auditoría"
   "Brain": "IA" # global (count: 2) (defined)
   "Category": "Categoría" # global (count: 2) (undefined)
@@ -1191,7 +1196,7 @@ bot.settings.logs:
   "VM": ""
   "scanner": "" # global (count: 2) (undefined)
 bot.settings.messages:
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
 #  "Expedition": "" # global (count: 8) (defined)
@@ -1528,11 +1533,6 @@ bot-card:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "" # global (count: 4) (undefined)
-browser-inject:
-  "Available!": "" # global (count: 2) (undefined)
-  "In use": "" # global (count: 2) (undefined)
-  "Sleeping": "" # global (count: 3) (undefined)
-  "Used by": "" # global (count: 2) (undefined)
 captchas-icon:
   "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
@@ -1752,12 +1752,12 @@ index:
 #  "Register": "" # global (count: 1) (defined)
 #  "Servers": "" # global (count: 1) (defined)
 #  "Sign out": "" # global (count: 1) (defined)
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
   "Support": ""
   "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
-  "Used by": "" # global (count: 2) (undefined)
+  "Used by": ""
 #  "Your Ninja software needs to be updated.": "" # global (count: 1) (defined)
 #  "download the latest version here": "" # global (count: 1) (defined)
 #  "update your instance here": "" # global (count: 1) (defined)

@@ -149,7 +149,7 @@ bot.empire:
   "Acoustic Scanning": ""
   "Actions": "" # global (count: 13) (undefined)
   "Advanced Recycling Plant": ""
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Alliance Depot": "" # global (count: 2) (undefined)
   "Anti-Ballistic Missiles": "" # global (count: 2) (undefined)
   "Antimatter Condenser": ""
@@ -370,7 +370,7 @@ bot.flights:
   "Actions": "" # global (count: 13) (undefined)
   "Activate all": ""
   "Active": "" # global (count: 6) (undefined)
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Arrival": ""
   "Arrive at": ""
@@ -482,8 +482,10 @@ bot.galaxy.map:
 bot.galaxy.player:
   "Actions": "" # global (count: 13) (undefined)
   "Add to hunter list": ""
+  "All": "" # global (count: 6) (undefined)
   "Alliance": "" # global (count: 4) (undefined)
   "Coords": "" # global (count: 2) (undefined)
+  "Crawl systems": ""
   "Crystal": "" # global (count: 8) (undefined)
   "Deuterium": "" # global (count: 8) (undefined)
   "Espionage": "" # global (count: 3) (undefined)
@@ -492,11 +494,13 @@ bot.galaxy.player:
   "Members": "" # global (count: 2) (undefined)
   "Metal": "" # global (count: 8) (undefined)
   "Moon": "" # global (count: 3) (undefined)
+  "Phalanx all coordinates": ""
   "Planet name": "" # global (count: 2) (undefined)
   "Player name": "" # global (count: 4) (undefined)
   "Player profile": "" # global (count: 2) (undefined)
   "RN": "" # global (count: 2) (undefined)
   "Rank": "" # global (count: 6) (undefined)
+  "Spy all coordinates": ""
   "Updated": "" # global (count: 2) (undefined)
 bot.galaxy.table:
   "Actions": "" # global (count: 13) (undefined)
@@ -527,6 +531,7 @@ bot.galaxy.table:
   "Stop scan universe": ""
   "Updated": "" # global (count: 2) (undefined)
 bot.index:
+  "Available!": "" # global (count: 2) (undefined)
   "Bot": ""
   "Browser": ""
   "Conqueror": ""
@@ -534,10 +539,10 @@ bot.index:
   "Flights": ""
   "Galaxy": "" # global (count: 4) (undefined)
   "Home": "" # global (count: 8) (undefined)
-  "In use": "" # global (count: 2) (undefined)
+  "In use": ""
   "Scripts": ""
   "Simulator": ""
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
   "Attack": "" # global (count: 5) (undefined)
@@ -788,7 +793,7 @@ bot.settings.discovery:
   "discovery active": ""
 bot.settings.expeditionMessages:
   "Actions": "" # global (count: 13) (undefined)
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Category": "" # global (count: 2) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
@@ -1030,7 +1035,7 @@ bot.settings.index:
   "Start": "" # global (count: 4) (undefined)
   "Stop": "" # global (count: 5) (undefined)
 bot.settings.logs:
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Audit": ""
   "Brain": "" # global (count: 2) (undefined)
   "Category": "" # global (count: 2) (undefined)
@@ -1054,7 +1059,7 @@ bot.settings.logs:
   "VM": ""
   "scanner": "" # global (count: 2) (undefined)
 bot.settings.messages:
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
   "Expedition": "" # global (count: 8) (undefined)
@@ -1391,11 +1396,6 @@ bot-card:
   "Start": "" # global (count: 4) (undefined)
   "Stop": "" # global (count: 5) (undefined)
   "Universe": "" # global (count: 4) (undefined)
-browser-inject:
-  "Available!": "" # global (count: 2) (undefined)
-  "In use": "" # global (count: 2) (undefined)
-  "Sleeping": "" # global (count: 3) (undefined)
-  "Used by": "" # global (count: 2) (undefined)
 captchas-icon:
   "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
@@ -1615,12 +1615,12 @@ index:
   "Register": ""
   "Servers": ""
   "Sign out": ""
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
   "Support": ""
   "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
-  "Used by": "" # global (count: 2) (undefined)
+  "Used by": ""
   "Your Ninja software needs to be updated.": ""
   "download the latest version here": ""
   "update your instance here": ""

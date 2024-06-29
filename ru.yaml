@@ -150,7 +150,7 @@ bot.empire:
   "Acoustic Scanning": ""
   "Actions": "Действия" # global (count: 13) (undefined)
   "Advanced Recycling Plant": ""
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Alliance Depot": "Склад Альянса" # global (count: 2) (undefined)
   "Anti-Ballistic Missiles": "Противо-ракеты" # global (count: 2) (undefined)
   "Antimatter Condenser": ""
@@ -371,7 +371,7 @@ bot.flights:
   "Actions": "Действия" # global (count: 13) (undefined)
   "Activate all": "Активировать все"
   "Active": "Активный" # global (count: 6) (undefined)
-  "All": "Все" # global (count: 5) (undefined)
+  "All": "Все" # global (count: 6) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Arrival": "Прибытие"
   "Arrive at": ""
@@ -483,8 +483,10 @@ bot.galaxy.map:
 bot.galaxy.player:
   "Actions": "Действия" # global (count: 13) (undefined)
   "Add to hunter list": "Добавить в Лист Охотника"
+  "All": "" # global (count: 6) (undefined)
   "Alliance": "Альянс" # global (count: 4) (undefined)
   "Coords": "Координаты" # global (count: 2) (undefined)
+  "Crawl systems": ""
   "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Deuterium": "" # global (count: 8) (undefined)
   "Espionage": "Шпионаж" # global (count: 3) (undefined)
@@ -493,11 +495,13 @@ bot.galaxy.player:
   "Members": "Число Игроков" # global (count: 2) (undefined)
   "Metal": "Металл" # global (count: 8) (undefined)
   "Moon": "Луна" # global (count: 3) (undefined)
+  "Phalanx all coordinates": ""
   "Planet name": "Имя Планеты" # global (count: 2) (undefined)
   "Player name": "Имя Игрока" # global (count: 4) (undefined)
   "Player profile": "Профиль Игрока" # global (count: 2) (undefined)
   "RN": "Кол." # global (count: 2) (undefined)
   "Rank": "Ранк" # global (count: 6) (undefined)
+  "Spy all coordinates": ""
   "Updated": "Последнее время обновления" # global (count: 2) (undefined)
 bot.galaxy.table:
   "Actions": "Действия" # global (count: 13) (undefined)
@@ -528,6 +532,7 @@ bot.galaxy.table:
   "Stop scan universe": "Остановить сканирование всей галактики"
   "Updated": "Последняя дата сканирования" # global (count: 2) (undefined)
 bot.index:
+  "Available!": "" # global (count: 2) (undefined)
   "Bot": "Бот"
   "Browser": "Браузер"
   "Conqueror": "Завоеватель"
@@ -535,10 +540,10 @@ bot.index:
   "Flights": "Передвижение флотов"
   "Galaxy": "Галактика" # global (count: 4) (undefined)
   "Home": "Дом" # global (count: 8) (undefined)
-  "In use": "" # global (count: 2) (undefined)
+  "In use": ""
   "Scripts": "Скрипты"
   "Simulator": "Симулятор боя"
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
   "Attack": "" # global (count: 5) (undefined)
@@ -789,7 +794,7 @@ bot.settings.discovery:
   "discovery active": ""
 bot.settings.expeditionMessages:
   "Actions": "Отозвать" # global (count: 13) (undefined)
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Category": "Категория" # global (count: 2) (undefined)
   "Coordinate": "Координаты" # global (count: 2) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
@@ -1031,7 +1036,7 @@ bot.settings.index:
   "Start": "Старт" # global (count: 4) (undefined)
   "Stop": "Стоп" # global (count: 5) (undefined)
 bot.settings.logs:
-  "All": "Все" # global (count: 5) (undefined)
+  "All": "Все" # global (count: 6) (undefined)
   "Audit": "Аудит"
   "Brain": "ИИ" # global (count: 2) (undefined)
   "Category": "Категория" # global (count: 2) (undefined)
@@ -1055,7 +1060,7 @@ bot.settings.logs:
   "VM": "ВМ"
   "scanner": "Сканер" # global (count: 2) (undefined)
 bot.settings.messages:
-  "All": "Все" # global (count: 5) (undefined)
+  "All": "Все" # global (count: 6) (undefined)
   "Coordinate": "Координаты" # global (count: 2) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
   "Expedition": "Экспедиция" # global (count: 8) (undefined)
@@ -1392,11 +1397,6 @@ bot-card:
   "Start": "Старт" # global (count: 4) (undefined)
   "Stop": "Стоп" # global (count: 5) (undefined)
   "Universe": "Вселенная" # global (count: 4) (undefined)
-browser-inject:
-  "Available!": "" # global (count: 2) (undefined)
-  "In use": "" # global (count: 2) (undefined)
-  "Sleeping": "" # global (count: 3) (undefined)
-  "Used by": "" # global (count: 2) (undefined)
 captchas-icon:
   "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
@@ -1616,12 +1616,12 @@ index:
   "Register": "Зарегистрироваться"
   "Servers": "Сервера"
   "Sign out": "Выход"
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
   "Support": "Поддержка"
   "System clock is not synchronized": ""
   "Ticket support": "Обращение в поддержку"
   "Translations": "Переводы"
-  "Used by": "" # global (count: 2) (undefined)
+  "Used by": ""
   "Your Ninja software needs to be updated.": "Ваше программное обеспечение Ninja нуждается в обновлении."
   "download the latest version here": "скачать последнюю версию можно здесь"
   "update your instance here": "обновите свой экземпляр здесь"

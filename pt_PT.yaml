@@ -286,7 +286,7 @@ bot.empire:
   "Acoustic Scanning": ""
 #  "Actions": "" # global (count: 13) (defined)
   "Advanced Recycling Plant": ""
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
 #  "Anti-Ballistic Missiles": "" # global (count: 2) (defined)
   "Antimatter Condenser": ""
@@ -507,7 +507,7 @@ bot.flights:
 #  "Actions": "" # global (count: 13) (defined)
   "Activate all": "Activar todos"
   "Active": "Activo" # global (count: 6) (undefined)
-  "All": "Todos" # global (count: 5) (undefined)
+  "All": "Todos" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrival": "Chegada"
   "Arrive at": ""
@@ -619,8 +619,10 @@ bot.galaxy.map:
 bot.galaxy.player:
 #  "Actions": "" # global (count: 13) (defined)
   "Add to hunter list": "Adicionar ao hunter"
+  "All": "" # global (count: 6) (undefined)
   "Alliance": "Aliança" # global (count: 4) (undefined)
   "Coords": "Coords" # global (count: 2) (undefined)
+  "Crawl systems": ""
 #  "Crystal": "" # global (count: 8) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage": "Espiar" # global (count: 3) (undefined)
@@ -629,11 +631,13 @@ bot.galaxy.player:
   "Members": "Membros" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
   "Moon": "Lua" # global (count: 3) (undefined)
+  "Phalanx all coordinates": ""
   "Planet name": "Planeta" # global (count: 2) (undefined)
   "Player name": "Jogador" # global (count: 4) (undefined)
   "Player profile": "Perfil jogador" # global (count: 2) (undefined)
   "RN": "RN" # global (count: 2) (undefined)
 #  "Rank": "" # global (count: 6) (defined)
+  "Spy all coordinates": ""
   "Updated": "Actualizado" # global (count: 2) (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (count: 13) (defined)
@@ -664,6 +668,7 @@ bot.galaxy.table:
   "Stop scan universe": "Parar scan universo"
   "Updated": "Actualizado" # global (count: 2) (undefined)
 bot.index:
+  "Available!": "" # global (count: 2) (undefined)
   "Bot": "Bot" # global (count: 1) (defined)
   "Browser": "Navegador" # global (count: 1) (defined)
   "Conqueror": "Conqueror"
@@ -671,10 +676,10 @@ bot.index:
   "Flights": "Movimentos" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Home": "" # global (count: 8) (defined)
-  "In use": "" # global (count: 2) (undefined)
+  "In use": ""
   "Scripts": "Scripts" # global (count: 1) (defined)
   "Simulator": "Simulador" # global (count: 1) (defined)
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
 #  "Attack": "" # global (count: 5) (defined)
@@ -925,7 +930,7 @@ bot.settings.discovery:
   "discovery active": ""
 bot.settings.expeditionMessages:
 #  "Actions": "" # global (count: 13) (defined)
-  "All": "" # global (count: 5) (undefined)
+  "All": "" # global (count: 6) (undefined)
   "Category": "Categoria" # global (count: 2) (undefined)
   "Coordinate": "Coordenada" # global (count: 2) (undefined)
   "Espionage report": "Relatório de espionagem" # global (count: 4) (undefined)
@@ -1167,7 +1172,7 @@ bot.settings.index:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
 bot.settings.logs:
-  "All": "Tudo" # global (count: 5) (undefined)
+  "All": "Tudo" # global (count: 6) (undefined)
   "Audit": "Audit"
 #  "Brain": "" # global (count: 2) (defined)
   "Category": "Categoria" # global (count: 2) (undefined)
@@ -1191,7 +1196,7 @@ bot.settings.logs:
   "VM": "VM"
   "scanner": "Scanner" # global (count: 2) (undefined)
 bot.settings.messages:
-  "All": "Tudo" # global (count: 5) (undefined)
+  "All": "Tudo" # global (count: 6) (undefined)
   "Coordinate": "Coordenada" # global (count: 2) (undefined)
   "Espionage report": "Relatório de espionagem" # global (count: 4) (undefined)
 #  "Expedition": "" # global (count: 8) (defined)
@@ -1528,11 +1533,6 @@ bot-card:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "Universo" # global (count: 4) (undefined)
-browser-inject:
-  "Available!": "" # global (count: 2) (undefined)
-  "In use": "" # global (count: 2) (undefined)
-  "Sleeping": "" # global (count: 3) (undefined)
-  "Used by": "" # global (count: 2) (undefined)
 captchas-icon:
   "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
@@ -1752,12 +1752,12 @@ index:
   "Register": "Registar" # global (count: 1) (defined)
   "Servers": "Servidores" # global (count: 1) (defined)
   "Sign out": "Sair" # global (count: 1) (defined)
-  "Sleeping": "" # global (count: 3) (undefined)
+  "Sleeping": "" # global (count: 2) (undefined)
   "Support": "Suporte"
   "System clock is not synchronized": ""
   "Ticket support": "Suporte por ticket"
   "Translations": "Traduções"
-  "Used by": "" # global (count: 2) (undefined)
+  "Used by": ""
   "Your Ninja software needs to be updated.": "O seu software Ninja precisa de ser actualizado." # global (count: 1) (defined)
   "download the latest version here": "download da última versão aqui" # global (count: 1) (defined)
   "update your instance here": "actualize a sua instância aqui" # global (count: 1) (defined)
