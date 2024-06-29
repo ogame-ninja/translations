@@ -904,19 +904,28 @@ bot.settings.farmer:
   "Abort all sessions": ""
   "Actions": "" # global (count: 14) (undefined)
   "Active": "" # global (count: 6) (undefined)
+  "Add target to ignore list if defenses above the setting": ""
+  "Add target to ignore list if the minimum storage is not met": ""
   "Additional cargo": ""
+  "Additional cargo to send when attacking": ""
   "Are you sure?": "" # global (count: 19) (undefined)
+  "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": ""
   "Attack from nearest planet": ""
+  "Attack from the closest moon to the target": ""
+  "Attack from the closest moon/planet to the target": ""
   "Attack speed": ""
+  "Attack targets with spy probes": ""
   "Created at": "" # global (count: 7) (undefined)
   "Crystal": "" # global (count: 8) (undefined)
   "Delete combat reports": ""
+  "Delete combat reports once the farmer is done using it": ""
   "Deuterium": "" # global (count: 8) (undefined)
   "Espionage probe raids": ""
   "Farm sessions": ""
   "Farmer active": ""
   "Fast attacking": ""
+  "Ignore inactive players who have activity on their planet": ""
   "Ignore targets with activity": ""
   "Inactive": "" # global (count: 2) (undefined)
   "Metal": "" # global (count: 8) (undefined)
@@ -924,9 +933,11 @@ bot.settings.farmer:
   "Min. player rank": ""
   "Min. resources to attack": ""
   "Minimum level of storage": ""
+  "Minimum possible loot to attack a target": ""
   "Nb probes": ""
   "New session": ""
   "No session": ""
+  "Number of probes to send when spying": ""
   "Origin": "" # global (count: 7) (undefined)
   "Planet": "" # global (count: 7) (undefined)
   "Priority calculation": ""
@@ -934,10 +945,12 @@ bot.settings.farmer:
   "Redo": "" # global (count: 2) (undefined)
   "Save": "" # global (count: 17) (undefined)
   "Select origin": "" # global (count: 4) (undefined)
+  "Skip the target if player rank is over setting": ""
   "Start new session": ""
   "State": ""
   "Total loot": ""
   "Use pathfinders": ""
+  "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": ""
   "ignored planets": ""

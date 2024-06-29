@@ -905,19 +905,28 @@ bot.settings.farmer:
   "Abort all sessions": "Отменить все сессии"
   "Actions": "Отозвать" # global (count: 14) (undefined)
   "Active": "Активные" # global (count: 6) (undefined)
+  "Add target to ignore list if defenses above the setting": ""
+  "Add target to ignore list if the minimum storage is not met": ""
   "Additional cargo": "Дополнительный груз"
+  "Additional cargo to send when attacking": ""
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": "Атака с ближаищей Луны"
   "Attack from nearest planet": "Атака с ближаищей Планеты"
+  "Attack from the closest moon to the target": ""
+  "Attack from the closest moon/planet to the target": ""
   "Attack speed": "Скорость Атаки"
+  "Attack targets with spy probes": ""
   "Created at": "Создано в" # global (count: 7) (undefined)
   "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Delete combat reports": "Удалить боевые доклады"
+  "Delete combat reports once the farmer is done using it": ""
   "Deuterium": "Дейтерий" # global (count: 8) (undefined)
   "Espionage probe raids": "Шпионский Зонд Летит"
   "Farm sessions": "Сессия Сбора"
   "Farmer active": "Сбор активен"
   "Fast attacking": "Быстрая Атака"
+  "Ignore inactive players who have activity on their planet": ""
   "Ignore targets with activity": "Игнорировать Актив цели"
   "Inactive": "Не активна" # global (count: 2) (undefined)
   "Metal": "Металл" # global (count: 8) (undefined)
@@ -925,9 +934,11 @@ bot.settings.farmer:
   "Min. player rank": "Минимальный рани Игрока"
   "Min. resources to attack": "Минимальные ресурсы для Атаки"
   "Minimum level of storage": "Минимальный уровень хранилищ ресурсов"
+  "Minimum possible loot to attack a target": ""
   "Nb probes": "Количество Зондов"
   "New session": "Новый Сбор"
   "No session": "Нет Сбора"
+  "Number of probes to send when spying": ""
   "Origin": "Место вылета" # global (count: 7) (undefined)
   "Planet": "Планета" # global (count: 7) (undefined)
   "Priority calculation": "Расчет приоритета"
@@ -935,10 +946,12 @@ bot.settings.farmer:
   "Redo": "Повторить" # global (count: 2) (undefined)
   "Save": "Сохранить" # global (count: 17) (undefined)
   "Select origin": "Выбрать Место вылета" # global (count: 4) (undefined)
+  "Skip the target if player rank is over setting": ""
   "Start new session": "Старт Нового Сбора"
   "State": "Статус"
   "Total loot": "Общий Лут"
   "Use pathfinders": "Все первопроходцы"
+  "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": "Игнорируемые Альянсы"
   "ignored planets": "Игнорируемые Планеты"

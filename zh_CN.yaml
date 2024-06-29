@@ -1047,19 +1047,28 @@ bot.settings.farmer:
   "Abort all sessions": "放弃所有工作阶段"
 #  "Actions": "" # global (count: 14) (defined)
   "Active": "活跃中" # global (count: 6) (undefined)
+  "Add target to ignore list if defenses above the setting": ""
+  "Add target to ignore list if the minimum storage is not met": ""
   "Additional cargo": "额外货舱容量"
+  "Additional cargo to send when attacking": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": "由最近月球攻击"
   "Attack from nearest planet": "由最近行星攻击"
+  "Attack from the closest moon to the target": ""
+  "Attack from the closest moon/planet to the target": ""
   "Attack speed": "攻击速度"
+  "Attack targets with spy probes": ""
   "Created at": "创建于" # global (count: 7) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "删除战斗报告"
+  "Delete combat reports once the farmer is done using it": ""
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage probe raids": "间谍卫星攻击"
   "Farm sessions": "耕作(刮I)工作阶段"
   "Farmer active": "启用耕作者(刮I)"
   "Fast attacking": "快速攻击"
+  "Ignore inactive players who have activity on their planet": ""
   "Ignore targets with activity": "忽略目标活动"
   "Inactive": "不活跃" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
@@ -1067,9 +1076,11 @@ bot.settings.farmer:
   "Min. player rank": "排名高于 则略过"
   "Min. resources to attack": "最少可掠夺资源"
   "Minimum level of storage": "最低储存器等级"
+  "Minimum possible loot to attack a target": ""
   "Nb probes": "间谍数量"
   "New session": "新工作阶段"
   "No session": "无工作阶段"
+  "Number of probes to send when spying": ""
 #  "Origin": "" # global (count: 7) (defined)
   "Planet": "行星" # global (count: 7) (undefined)
   "Priority calculation": "优先考量计算"
@@ -1077,10 +1088,12 @@ bot.settings.farmer:
   "Redo": "重做" # global (count: 2) (undefined)
   "Save": "保存" # global (count: 17) (undefined)
   "Select origin": "选择出發地" # global (count: 4) (undefined)
+  "Skip the target if player rank is over setting": ""
   "Start new session": "开始新工作阶段"
   "State": "状态"
   "Total loot": "总计掠夺"
   "Use pathfinders": "使用探路者"
+  "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": "忽略的联盟"
   "ignored planets": "忽略的行星"

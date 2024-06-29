@@ -1140,19 +1140,28 @@ bot.settings.farmer:
   "Abort all sessions": "Abandonner toutes les sessions"
 #  "Actions": "" # global (count: 14) (defined)
 #  "Active": "" # global (count: 6) (defined)
+  "Add target to ignore list if defenses above the setting": "Ajouter une cible à ignorer si les défenses sont supérieures au paramètre"
+  "Add target to ignore list if the minimum storage is not met": "Ajouter une cible à ignorer si le stockage minimum n'est pas atteint"
   "Additional cargo": "Cargaison supplémentaire"
+  "Additional cargo to send when attacking": "Cargaison supplémentaire à envoyer lors d'une attaque"
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Attack as soon as we find a suitable target": "Attaquez dès que nous trouvons une cible appropriée"
   "Attack from nearest moon": "Attaque depuis la lune la plus proche"
   "Attack from nearest planet": "Attaque depuis la planète la plus proche"
+  "Attack from the closest moon to the target": "Attaque depuis la lune la plus proche de la cible"
+  "Attack from the closest moon/planet to the target": "Attaque depuis la lune/planète la plus proche de la cible"
   "Attack speed": "Vitesse d'attaque"
+  "Attack targets with spy probes": "Attaquer des cibles avec des sondes d'espionnage"
   "Created at": "Créé à" # global (count: 7) (defined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "Supprimer les rapports de combat"
+  "Delete combat reports once the farmer is done using it": "Supprimez les rapports de combat une fois que le fermier a fini de les utiliser"
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage probe raids": "Raids de sondes d'espionnage"
   "Farm sessions": "Farm sessions"
   "Farmer active": "Farmer active"
   "Fast attacking": "Attaque rapide"
+  "Ignore inactive players who have activity on their planet": "Ignorer les joueurs inactifs qui ont une activité sur leur planète"
   "Ignore targets with activity": "Ignorer les cibles avec activité"
   "Inactive": "Inactif" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
@@ -1160,9 +1169,11 @@ bot.settings.farmer:
   "Min. player rank": "Classement du joueur minimale"
   "Min. resources to attack": "Ressources minimales pour attaquer"
   "Minimum level of storage": "Niveau minimum de stockage"
+  "Minimum possible loot to attack a target": "Butin minimum possible pour attaquer une cible"
   "Nb probes": "Nb sondes"
   "New session": "Nouvelle session"
   "No session": "Pas de session"
+  "Number of probes to send when spying": "Nombre de sondes à envoyer lors d'un espionnage"
 #  "Origin": "" # global (count: 7) (defined)
 #  "Planet": "" # global (count: 7) (defined)
   "Priority calculation": "Calcul de priorité"
@@ -1170,10 +1181,12 @@ bot.settings.farmer:
 #  "Redo": "" # global (count: 2) (defined)
 #  "Save": "" # global (count: 17) (defined)
 #  "Select origin": "" # global (count: 4) (defined)
+  "Skip the target if player rank is over setting": "Ignorer l'objectif si le rang du joueur dépasse le paramètre défini"
   "Start new session": "Commencer une nouvelle session"
   "State": "Etat"
   "Total loot": "Butin total"
   "Use pathfinders": "Utiliser des éclaireurs"
+  "Use pathfinders to attack targets": "Utilisez des éclaireurs pour attaquer des cibles"
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": "Vous devez désactiver \"Masquer les images dans les rapports\" dans les options du jeu pour que le Farmer fonctionne correctement."
   "ignored alliances": "alliances ignorées"
   "ignored planets": "planètes ignorées"

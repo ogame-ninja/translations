@@ -1086,19 +1086,28 @@ bot.settings.farmer:
   "Abort all sessions": "Alle Sitzungen abbrechen"
 #  "Actions": "" # global (count: 14) (defined)
 #  "Active": "" # global (count: 6) (defined)
+  "Add target to ignore list if defenses above the setting": ""
+  "Add target to ignore list if the minimum storage is not met": ""
   "Additional cargo": "Zusätzlicher Frachtraum"
+  "Additional cargo to send when attacking": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": "Vom nahegelegensten Mond aus Angreifen"
   "Attack from nearest planet": "Vom nahegelegensten Planeten aus angreifen"
+  "Attack from the closest moon to the target": ""
+  "Attack from the closest moon/planet to the target": ""
   "Attack speed": "Angriffsgeschwindigkeit"
+  "Attack targets with spy probes": ""
 #  "Created at": "" # global (count: 7) (defined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "Lösche Kampfberichte"
+  "Delete combat reports once the farmer is done using it": ""
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage probe raids": "Raids mit Spionagesonden"
   "Farm sessions": "Farmsitzungen"
   "Farmer active": "Farmer aktiv"
   "Fast attacking": "Schnellangriff"
+  "Ignore inactive players who have activity on their planet": ""
   "Ignore targets with activity": ""
 #  "Inactive": "" # global (count: 2) (defined)
 #  "Metal": "" # global (count: 8) (defined)
@@ -1106,9 +1115,11 @@ bot.settings.farmer:
   "Min. player rank": ""
   "Min. resources to attack": "Mindestbeute bei Angriff"
   "Minimum level of storage": "Mindestlevel für Rohstoff-Speicher"
+  "Minimum possible loot to attack a target": ""
   "Nb probes": "Anzahl Sonden"
   "New session": "Neue Sitzung"
   "No session": "keine Sitzung"
+  "Number of probes to send when spying": ""
 #  "Origin": "" # global (count: 7) (defined)
 #  "Planet": "" # global (count: 7) (defined)
   "Priority calculation": "Berechnung der Priorität"
@@ -1116,10 +1127,12 @@ bot.settings.farmer:
   "Redo": "erneut ausführen" # global (count: 2) (undefined)
   "Save": "Speichern" # global (count: 17) (undefined)
 #  "Select origin": "" # global (count: 4) (defined)
+  "Skip the target if player rank is over setting": ""
   "Start new session": "Neue Sitzung starten"
   "State": "Status"
   "Total loot": "Gesamtbeute"
   "Use pathfinders": "benutzte Pathfinder"
+  "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": "ignorierte Allianzen"
   "ignored planets": "ignorierte Planeten"

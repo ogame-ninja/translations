@@ -1041,19 +1041,28 @@ bot.settings.farmer:
   "Abort all sessions": ""
 #  "Actions": "" # global (count: 14) (defined)
   "Active": "" # global (count: 6) (undefined)
+  "Add target to ignore list if defenses above the setting": ""
+  "Add target to ignore list if the minimum storage is not met": ""
   "Additional cargo": ""
+  "Additional cargo to send when attacking": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": ""
   "Attack from nearest planet": "Val aan vanaf de dichtstbijzijnde planeet"
+  "Attack from the closest moon to the target": ""
+  "Attack from the closest moon/planet to the target": ""
   "Attack speed": "Aanvals snelheid"
+  "Attack targets with spy probes": ""
   "Created at": "Aangemaakt op" # global (count: 7) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": ""
+  "Delete combat reports once the farmer is done using it": ""
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage probe raids": "Spionage sonde aanval"
   "Farm sessions": "Farm sessies"
   "Farmer active": "Farmer actief"
   "Fast attacking": "Snelle aanval"
+  "Ignore inactive players who have activity on their planet": ""
   "Ignore targets with activity": ""
   "Inactive": "" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
@@ -1061,9 +1070,11 @@ bot.settings.farmer:
   "Min. player rank": ""
   "Min. resources to attack": "Min. grondstoffen voor aanval"
   "Minimum level of storage": "Min. level van opslagen"
+  "Minimum possible loot to attack a target": ""
   "Nb probes": "aantal spionage sondes"
   "New session": ""
   "No session": "Geen sessie"
+  "Number of probes to send when spying": ""
 #  "Origin": "" # global (count: 7) (defined)
   "Planet": "Planeet" # global (count: 7) (undefined)
   "Priority calculation": "Prioriteitsberekening"
@@ -1071,10 +1082,12 @@ bot.settings.farmer:
   "Redo": "" # global (count: 2) (undefined)
   "Save": "Opslaan" # global (count: 17) (undefined)
   "Select origin": "Selecteer oorsprong" # global (count: 4) (undefined)
+  "Skip the target if player rank is over setting": ""
   "Start new session": "Start nieuwe sessie"
   "State": "Staat"
   "Total loot": "Totale buit"
   "Use pathfinders": ""
+  "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
   "ignored alliances": "negeerde allianties"
   "ignored planets": "genegeerde planeten"
