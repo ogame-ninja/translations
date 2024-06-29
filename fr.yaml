@@ -17,6 +17,7 @@ global:
   "Arrive in": "Arrive dans"
   "Astrophysics": "Astrophysique"
   "Attack": "Attaque"
+  "Available!": "Disponible!"
   "Battlecruiser": "Traqueur"
   "Battleship": "Vaisseau de bataille"
   "Bomber": "Bombardier"
@@ -92,6 +93,7 @@ global:
   "Hyperspace Technology": "Technologie hyperespace"
   "I forgot my password": "J'ai oublié mon mot de passe"
   "Impulse Drive": "Réacteur à impulsion"
+  "In use": "Utilisé"
   "Intergalactic Research Network": "Réseau de recherche intergalactique"
   "Interplanetary Missiles": "Missile interplanétaire"
   "Ion Cannon": "Artillerie à ions"
@@ -193,6 +195,7 @@ global:
   "Simulator": "Simulateur"
   "Size": "Taille"
   "Sleep Mode": "Mode veille"
+  "Sleeping": "En veille"
   "Small Cargo": "Petit transporteur"
   "Small Shield Dome": "Petit bouclier"
   "Small cargo": "Petit transporteur"
@@ -216,6 +219,7 @@ global:
   "Unlimited": "Illimitée"
   "Update": "Mettre à jour"
   "Upload": "Téléverser"
+  "Used by": "Utilisé par"
   "Username": "Nom d'utilisateur"
   "Users": "Utilisateurs"
   "Verify": "Vérifier"
@@ -765,8 +769,10 @@ bot.index:
 #  "Flights": "" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Home": "" # global (count: 8) (defined)
+#  "In use": "" # global (count: 2) (defined)
 #  "Scripts": "" # global (count: 1) (defined)
 #  "Simulator": "" # global (count: 1) (defined)
+#  "Sleeping": "" # global (count: 3) (defined)
 bot.phalanxPlayer:
 #  "Arrival time": "" # global (count: 2) (defined)
 #  "Attack": "" # global (count: 5) (defined)
@@ -1620,6 +1626,11 @@ bot-card:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
 #  "Universe": "" # global (count: 4) (defined)
+#browser-inject:
+#  "Available!": "" # global (count: 2) (defined)
+#  "In use": "" # global (count: 2) (defined)
+#  "Sleeping": "" # global (count: 3) (defined)
+#  "Used by": "" # global (count: 2) (defined)
 captchas-icon:
   "Captchas": "Captchas" # global (count: 2) (undefined)
   "Discover": "Découvrir"
@@ -1690,7 +1701,7 @@ download-licenses:
 #  "My licenses": "" # global (count: 2) (defined)
 #  "New license": "" # global (count: 6) (defined)
   "No license to display": "Aucune licence à afficher"
-#  "Renew license": "" # global (count: 4) (defined)
+#  "Renew license": "" # global (count: 5) (defined)
 #  "UUID": "" # global (count: 3) (defined)
   "View": "Voir"
   "You must be authenticated": "Authentification requise"
@@ -1809,8 +1820,12 @@ home:
 #  "Points": "" # global (count: 4) (defined)
 #  "Rank": "" # global (count: 6) (defined)
   "Region": "Région" # global (count: 2) (undefined)
+#  "Renew license": "" # global (count: 5) (defined)
 #  "Reorder bots": "" # global (count: 3) (defined)
+  "Reset root password": "Réinitialiser le mot de passe root"
+  "Restart app": "Redémarrer l'application"
 #  "Universe": "" # global (count: 4) (defined)
+  "Upgrade & restart app": "Mettre à niveau & redémarrer l'application"
 #  "Username": "" # global (count: 10) (defined)
   "Version": "Version" # global (count: 2) (undefined)
   "You're invited to join our Slack server": "Vous êtes invité à rejoindre notre serveur Slack" # global (count: 2) (undefined)
@@ -1820,6 +1835,7 @@ import:
 index:
 #  "Account": "" # global (count: 2) (defined)
 #  "Admin": "" # global (count: 2) (defined)
+#  "Available!": "" # global (count: 2) (defined)
   "Captchas": "Captchas" # global (count: 2) (undefined)
   "Check again": "Revérifier"
 #  "Download": "" # global (count: 12) (defined)
@@ -1834,10 +1850,12 @@ index:
   "Register": "S'enregistrer" # global (count: 1) (defined)
   "Servers": "Serveurs" # global (count: 1) (defined)
   "Sign out": "Se déconnecter" # global (count: 1) (defined)
+#  "Sleeping": "" # global (count: 3) (defined)
   "Support": "Soutien"
   "System clock is not synchronized": "L'horloge système n'est pas synchronisée"
   "Ticket support": "Ticket support"
   "Translations": "Traductions"
+#  "Used by": "" # global (count: 2) (defined)
   "Your Ninja software needs to be updated.": "Votre logiciel Ninja doit être mis à jour." # global (count: 1) (defined)
   "download the latest version here": "télécharger la dernière version ici" # global (count: 1) (defined)
   "update your instance here": "mettez à jour votre instance ici" # global (count: 1) (defined)
@@ -1891,7 +1909,7 @@ license:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Click \"Renew license\" button": "Cliquez sur le bouton «Renouveler la licence»"
   "License expired": "Licence expirée"
-#  "Renew license": "" # global (count: 4) (defined)
+#  "Renew license": "" # global (count: 5) (defined)
   "Stop all bots": "Arrêtez tous les robots"
 #  "Upload": "" # global (count: 3) (defined)
   "Upload license file": "Téléverser le fichier de licence"
@@ -2125,7 +2143,7 @@ renew-instance:
 #  "we are using": "" # global (count: 7) (defined)
 #renew-license-subscribe:
 #  "Download": "" # global (count: 12) (defined)
-#  "Renew license": "" # global (count: 4) (defined)
+#  "Renew license": "" # global (count: 5) (defined)
 #  "Subscribe": "" # global (count: 6) (defined)
 renew-license:
 #  "Credit or debit card": "" # global (count: 7) (defined)
@@ -2134,7 +2152,7 @@ renew-license:
 #  "New license valid until": "" # global (count: 2) (defined)
 #  "Pay with Credit/debit card": "" # global (count: 7) (defined)
 #  "Pay with paypal": "" # global (count: 7) (defined)
-#  "Renew license": "" # global (count: 4) (defined)
+#  "Renew license": "" # global (count: 5) (defined)
   "Self hosting license parameters": "Paramètres de licence d'auto-hébergement" # global (count: 2) (undefined)
 #  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (defined)
   "Submit payment for self-host license": "Soumettre le paiement pour la licence auto-hébergement" # global (count: 2) (undefined)

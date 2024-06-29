@@ -677,8 +677,10 @@ bot.index:
 #  "Flights": "" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Home": "" # global (count: 8) (defined)
+  "In use": "" # global (count: 2) (undefined)
 #  "Scripts": "" # global (count: 1) (defined)
 #  "Simulator": "" # global (count: 1) (defined)
+  "Sleeping": "" # global (count: 3) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
 #  "Attack": "" # global (count: 5) (defined)
@@ -1532,6 +1534,11 @@ bot-card:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "宇宙" # global (count: 4) (undefined)
+browser-inject:
+  "Available!": "" # global (count: 2) (undefined)
+  "In use": "" # global (count: 2) (undefined)
+  "Sleeping": "" # global (count: 3) (undefined)
+  "Used by": "" # global (count: 2) (undefined)
 captchas-icon:
   "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
@@ -1602,7 +1609,7 @@ download-licenses:
   "My licenses": "我的憑證" # global (count: 2) (undefined)
   "New license": "新憑證" # global (count: 6) (undefined)
   "No license to display": "無憑證可顯示"
-  "Renew license": "更新憑證" # global (count: 4) (undefined)
+  "Renew license": "更新憑證" # global (count: 5) (undefined)
   "UUID": "" # global (count: 3) (undefined)
   "View": ""
   "You must be authenticated": ""
@@ -1721,8 +1728,12 @@ home:
 #  "Points": "" # global (count: 4) (defined)
 #  "Rank": "" # global (count: 6) (defined)
   "Region": "地區" # global (count: 2) (undefined)
+  "Renew license": "" # global (count: 5) (undefined)
   "Reorder bots": "" # global (count: 3) (undefined)
+  "Reset root password": ""
+  "Restart app": ""
   "Universe": "" # global (count: 4) (undefined)
+  "Upgrade & restart app": ""
 #  "Username": "" # global (count: 10) (defined)
   "Version": "版本" # global (count: 2) (undefined)
   "You're invited to join our Slack server": "邀請您加入我們的Slack服務器" # global (count: 2) (undefined)
@@ -1732,6 +1743,7 @@ import:
 index:
 #  "Account": "" # global (count: 2) (defined)
 #  "Admin": "" # global (count: 2) (defined)
+  "Available!": "" # global (count: 2) (undefined)
   "Captchas": "" # global (count: 2) (undefined)
   "Check again": ""
 #  "Download": "" # global (count: 12) (defined)
@@ -1746,10 +1758,12 @@ index:
 #  "Register": "" # global (count: 1) (defined)
 #  "Servers": "" # global (count: 1) (defined)
 #  "Sign out": "" # global (count: 1) (defined)
+  "Sleeping": "" # global (count: 3) (undefined)
   "Support": "問題協助"
   "System clock is not synchronized": ""
   "Ticket support": "問題處理系統"
   "Translations": "翻譯"
+  "Used by": "" # global (count: 2) (undefined)
   "Your Ninja software needs to be updated.": "您的忍者需要更新" # global (count: 1) (defined)
   "download the latest version here": "於此處下載最新版本" # global (count: 1) (defined)
 #  "update your instance here": "" # global (count: 1) (defined)
@@ -1803,7 +1817,7 @@ license:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Click \"Renew license\" button": ""
   "License expired": "憑證已失效"
-  "Renew license": "更新憑證" # global (count: 4) (undefined)
+  "Renew license": "更新憑證" # global (count: 5) (undefined)
   "Stop all bots": "停止所有機器人"
   "Upload": "上傳" # global (count: 3) (undefined)
   "Upload license file": "上傳憑證"
@@ -2037,7 +2051,7 @@ renew-instance:
   "we are using": "我們使用" # global (count: 7) (undefined)
 renew-license-subscribe:
 #  "Download": "" # global (count: 12) (defined)
-  "Renew license": "" # global (count: 4) (undefined)
+  "Renew license": "" # global (count: 5) (undefined)
   "Subscribe": "" # global (count: 6) (undefined)
 renew-license:
   "Credit or debit card": "信用卡或借記卡" # global (count: 7) (undefined)
@@ -2046,7 +2060,7 @@ renew-license:
   "New license valid until": "新憑證有效至" # global (count: 2) (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (count: 7) (undefined)
   "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
-  "Renew license": "更新憑證" # global (count: 4) (undefined)
+  "Renew license": "更新憑證" # global (count: 5) (undefined)
   "Self hosting license parameters": "自我托管主機憑證的參數" # global (count: 2) (undefined)
   "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "提交自我托管主機憑證的付款" # global (count: 2) (undefined)

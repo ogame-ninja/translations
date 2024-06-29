@@ -716,8 +716,10 @@ bot.index:
   "Flights": "Flüge" # global (count: 1) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Home": "" # global (count: 8) (defined)
+  "In use": "" # global (count: 2) (undefined)
   "Scripts": "Skripte" # global (count: 1) (defined)
   "Simulator": "Simulator" # global (count: 1) (defined)
+  "Sleeping": "" # global (count: 3) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
 #  "Attack": "" # global (count: 5) (defined)
@@ -1571,6 +1573,11 @@ bot-card:
 #  "Start": "" # global (count: 4) (defined)
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "Universum" # global (count: 4) (undefined)
+browser-inject:
+  "Available!": "" # global (count: 2) (undefined)
+  "In use": "" # global (count: 2) (undefined)
+  "Sleeping": "" # global (count: 3) (undefined)
+  "Used by": "" # global (count: 2) (undefined)
 captchas-icon:
   "Captchas": "" # global (count: 2) (undefined)
   "Discover": ""
@@ -1641,7 +1648,7 @@ download-licenses:
   "My licenses": "Meine Lizenzen" # global (count: 2) (undefined)
   "New license": "Neue Lizenz" # global (count: 6) (undefined)
   "No license to display": "Keine Lizenz zum Anzeigen verfügbar"
-  "Renew license": "Lizenz erneuern" # global (count: 4) (undefined)
+  "Renew license": "Lizenz erneuern" # global (count: 5) (undefined)
   "UUID": "" # global (count: 3) (undefined)
   "View": ""
   "You must be authenticated": ""
@@ -1760,8 +1767,12 @@ home:
 #  "Points": "" # global (count: 4) (defined)
 #  "Rank": "" # global (count: 6) (defined)
   "Region": "" # global (count: 2) (undefined)
+  "Renew license": "" # global (count: 5) (undefined)
   "Reorder bots": "" # global (count: 3) (undefined)
+  "Reset root password": ""
+  "Restart app": ""
   "Universe": "" # global (count: 4) (undefined)
+  "Upgrade & restart app": ""
 #  "Username": "" # global (count: 10) (defined)
   "Version": "" # global (count: 2) (undefined)
   "You're invited to join our Slack server": "" # global (count: 2) (undefined)
@@ -1771,6 +1782,7 @@ import:
 index:
 #  "Account": "" # global (count: 2) (defined)
 #  "Admin": "" # global (count: 2) (defined)
+  "Available!": "" # global (count: 2) (undefined)
   "Captchas": "" # global (count: 2) (undefined)
   "Check again": ""
 #  "Download": "" # global (count: 12) (defined)
@@ -1785,10 +1797,12 @@ index:
 #  "Register": "" # global (count: 1) (defined)
 #  "Servers": "" # global (count: 1) (defined)
 #  "Sign out": "" # global (count: 1) (defined)
+  "Sleeping": "" # global (count: 3) (undefined)
   "Support": ""
   "System clock is not synchronized": ""
   "Ticket support": ""
   "Translations": ""
+  "Used by": "" # global (count: 2) (undefined)
 #  "Your Ninja software needs to be updated.": "" # global (count: 1) (defined)
 #  "download the latest version here": "" # global (count: 1) (defined)
 #  "update your instance here": "" # global (count: 1) (defined)
@@ -1842,7 +1856,7 @@ license:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Click \"Renew license\" button": ""
   "License expired": "Lizenz ist abgelaufen"
-  "Renew license": "Lizenz erneuern" # global (count: 4) (undefined)
+  "Renew license": "Lizenz erneuern" # global (count: 5) (undefined)
   "Stop all bots": ""
   "Upload": "Hochladen" # global (count: 3) (undefined)
   "Upload license file": "Lizenzdatei hochladen"
@@ -2076,7 +2090,7 @@ renew-instance:
   "we are using": "Wir nutzen" # global (count: 7) (undefined)
 renew-license-subscribe:
 #  "Download": "" # global (count: 12) (defined)
-  "Renew license": "" # global (count: 4) (undefined)
+  "Renew license": "" # global (count: 5) (undefined)
   "Subscribe": "" # global (count: 6) (undefined)
 renew-license:
   "Credit or debit card": "Kredit-/Debitkarte" # global (count: 7) (undefined)
@@ -2085,7 +2099,7 @@ renew-license:
   "New license valid until": "Neue Lizenz gültig bis" # global (count: 2) (undefined)
   "Pay with Credit/debit card": "Zahlung mit Kredit-/Debitkarte" # global (count: 7) (undefined)
   "Pay with paypal": "Zahlung mit PayPal" # global (count: 7) (undefined)
-  "Renew license": "Lizenz erneuern" # global (count: 4) (undefined)
+  "Renew license": "Lizenz erneuern" # global (count: 5) (undefined)
   "Self hosting license parameters": "Einstellungen für die selbstgehostete Lizenz" # global (count: 2) (undefined)
   "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "Bezahlen um die selbstgehostete Lizenz zu erhalten" # global (count: 2) (undefined)
