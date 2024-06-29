@@ -136,7 +136,7 @@ bot.conqueror:
   "No espionage report to show": "Небольшой отчет о разведке показать"
   "Pathfinder": "" # global (count: 6) (undefined)
   "Plasma Turret": "" # global (count: 4) (undefined)
-  "Player": "" # global (count: 2) (undefined)
+  "Player": "" # global (count: 3) (undefined)
   "Reaper": "" # global (count: 5) (undefined)
   "Recycler": "" # global (count: 6) (undefined)
   "Resources": "" # global (count: 3) (undefined)
@@ -148,7 +148,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 6) (undefined)
   "Alliance Depot": "Склад Альянса" # global (count: 2) (undefined)
@@ -368,7 +368,7 @@ bot.empire:
   "Weapons Technology": "" # global (count: 2) (undefined)
 bot.flights:
   "ACS Attack": ""
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Activate all": "Активировать все"
   "Active": "Активный" # global (count: 6) (undefined)
   "All": "Все" # global (count: 6) (undefined)
@@ -436,7 +436,7 @@ bot.flights:
   "Park": "Оставить" # global (count: 4) (undefined)
   "Park In That Ally": "Держаться " # global (count: 4) (undefined)
   "Pathfinder": "Первопроходец" # global (count: 6) (undefined)
-  "Planet": "Планета" # global (count: 6) (undefined)
+  "Planet": "Планета" # global (count: 7) (undefined)
   "R": ""
   "Reaper": "Жнец" # global (count: 5) (undefined)
   "Recycle debris field": "Собрать поле обломков"
@@ -481,10 +481,10 @@ bot.galaxy.map:
   "Inactive": "Не активный" # global (count: 2) (undefined)
   "Vacation": "Отпуск" # global (count: 3) (undefined)
 bot.galaxy.player:
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Add to hunter list": "Добавить в Лист Охотника"
   "All": "" # global (count: 6) (undefined)
-  "Alliance": "Альянс" # global (count: 4) (undefined)
+  "Alliance": "Альянс" # global (count: 5) (undefined)
   "Coords": "Координаты" # global (count: 2) (undefined)
   "Crawl systems": ""
   "Crystal": "Кристалл" # global (count: 8) (undefined)
@@ -506,10 +506,10 @@ bot.galaxy.player:
   "Time": ""
   "Updated": "Последнее время обновления" # global (count: 2) (undefined)
 bot.galaxy.table:
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Add alliance to ignore list": "Добавить Альянс в Игнорируемый Лист"
   "Add player to ignore list": "Добавить Игрока в Игнорируемый Лист"
-  "Alliance": "Альянс" # global (count: 4) (undefined)
+  "Alliance": "Альянс" # global (count: 5) (undefined)
   "Coords": "Координаты" # global (count: 2) (undefined)
   "Crystal": "Кристалл" # global (count: 8) (undefined)
   "Debris top 100": "Топ 100 Поле обломков"
@@ -724,7 +724,7 @@ bot.settings.brain:
   "Kaelesh": ""
   "Mechas": ""
   "None": "Ничего" # global (count: 2) (undefined)
-  "Planet": "Планета" # global (count: 6) (undefined)
+  "Planet": "Планета" # global (count: 7) (undefined)
   "Prevent importing if come back during sleep time": "Предотвратить импорт, если вернетесь во время сна"
   "Prioritize nanite factory": ""
   "Queue": "Очередь" # global (count: 2) (undefined)
@@ -768,8 +768,9 @@ bot.settings.defender:
   "Never": "Никогда"
   "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": "Уведомлять об атаках малого флота (< 1/3 огневой мощи)"
-  "Planet": "Планета" # global (count: 6) (undefined)
+  "Planet": "Планета" # global (count: 7) (undefined)
   "Play sound when attacked": "Проиграть звук при атаке"
+  "Player ID": "" # global (count: 3) (undefined)
   "Preferred destination": "Предпочтительный пункт Эвакуаций"
   "Prevent if come back during sleep time": "Не Собирать ресурсы если флот возвращается во время сна"
   "Probe new attackers": "Зонд на Новых Атакующих"
@@ -782,6 +783,7 @@ bot.settings.defender:
   "Repatriate resources": "Сбор ресурсов"
   "Save": "Сохранить" # global (count: 17) (undefined)
   "Send message to attackers": "Отправить сообщение при Атаке"
+  "Whitelist": ""
   "activate for moon ?": "Использовать для Луны?"
   "minutes": "Минуты" # global (count: 3) (undefined)
   "next check in": "Следующая проверка в" # global (count: 2) (undefined)
@@ -795,7 +797,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-  "Actions": "Отозвать" # global (count: 13) (undefined)
+  "Actions": "Отозвать" # global (count: 14) (undefined)
   "All": "" # global (count: 6) (undefined)
   "Category": "Категория" # global (count: 2) (undefined)
   "Coordinate": "Координаты" # global (count: 2) (undefined)
@@ -822,7 +824,7 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-  "Actions": "Отозвать" # global (count: 13) (undefined)
+  "Actions": "Отозвать" # global (count: 14) (undefined)
   "Active": "Активен" # global (count: 6) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Arrive in": "Прибудет в" # global (count: 2) (undefined)
@@ -901,7 +903,7 @@ bot.settings.expeditions:
   "unlimited": "Не ограничено" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "Отменить все сессии"
-  "Actions": "Отозвать" # global (count: 13) (undefined)
+  "Actions": "Отозвать" # global (count: 14) (undefined)
   "Active": "Активные" # global (count: 6) (undefined)
   "Additional cargo": "Дополнительный груз"
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
@@ -927,7 +929,7 @@ bot.settings.farmer:
   "New session": "Новый Сбор"
   "No session": "Нет Сбора"
   "Origin": "Место вылета" # global (count: 7) (undefined)
-  "Planet": "Планета" # global (count: 6) (undefined)
+  "Planet": "Планета" # global (count: 7) (undefined)
   "Priority calculation": "Расчет приоритета"
   "Range": "Интервал"
   "Redo": "Повторить" # global (count: 2) (undefined)
@@ -946,7 +948,12 @@ bot.settings.farmerIgnoredAlliances:
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Remove all": "Очистить Все" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
+  "Actions": "" # global (count: 14) (undefined)
+  "Alliance": "" # global (count: 5) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
+  "Ignored planets": ""
+  "Planet": "" # global (count: 7) (undefined)
+  "Player": "" # global (count: 3) (undefined)
   "Remove all": "Очистить Все" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
@@ -955,7 +962,7 @@ bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Attack type": "Тип Атаки"
   "Attacker": "Атакующий" # global (count: 2) (undefined)
@@ -993,7 +1000,7 @@ bot.settings.hotkeys:
   "Hotkeys": "" # global (count: 3) (undefined)
   "Notifications": "" # global (count: 4) (undefined)
 bot.settings.hunter-target:
-  "Alliance": "Альянс" # global (count: 4) (undefined)
+  "Alliance": "Альянс" # global (count: 5) (undefined)
   "Color legend": "Цвета Легенды"
   "Notify when inactive for": ""
   "Save": "" # global (count: 17) (undefined)
@@ -1001,15 +1008,15 @@ bot.settings.hunter-target:
   "minutes": "" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (count: 2) (undefined)
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Activities": "Деятельность" # global (count: 3) (undefined)
   "Activity": "Активность" # global (count: 2) (undefined)
-  "Alliance": "Альянс" # global (count: 4) (undefined)
+  "Alliance": "Альянс" # global (count: 5) (undefined)
   "Alliance rank": "Альянс Ранк"
   "Hunter configs": "Настройки Охотника"
   "No activity": "оффлайн" # global (count: 2) (undefined)
   "No targets": "Нет Целей"
-  "Player": "Игрок" # global (count: 2) (undefined)
+  "Player": "Игрок" # global (count: 3) (undefined)
   "Player rank": "Ранк Игрока"
   "Save": "Сохранить" # global (count: 17) (undefined)
   "Scan frequency": "Частота сканирования" # global (count: 2) (undefined)
@@ -1115,7 +1122,7 @@ bot.settings.notifications:
   "test slack": "Тест Сласк"
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
-  "Actions": "" # global (count: 13) (undefined)
+  "Actions": "" # global (count: 14) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Check interval (seconds)": ""
   "Created at": "" # global (count: 7) (undefined)
@@ -1222,7 +1229,7 @@ bot.settings.settings:
   "Ogame universe": ""
   "Ogame username": ""
   "Pathfinder": "Перевопроходец" # global (count: 6) (undefined)
-  "Player ID": "" # global (count: 2) (undefined)
+  "Player ID": "" # global (count: 3) (undefined)
   "Preferred transport ships": "Предпочитаемые транспортные суда"
   "Proxy password": "Пароль Прокси" # global (count: 3) (undefined)
   "Proxy username": "Имя Прокси" # global (count: 3) (undefined)
@@ -1294,7 +1301,7 @@ bot.settings.sleepMode:
   "Manual fleet save": ""
   "Monday": "Понедельник"
   "Own debris field": ""
-  "Planet": "" # global (count: 6) (undefined)
+  "Planet": "" # global (count: 7) (undefined)
   "Put bot to sleep now": "Отправить Бота спать"
   "Random colonize": ""
   "Random debris field": ""
@@ -1368,7 +1375,7 @@ bot.simulator:
   "Open in TrashSim": "Открыть в  TrashSim"
   "Pathfinder": "Первопроходец" # global (count: 6) (undefined)
   "Pathfinders": "Первопроходцы"
-  "Planet": "Планета" # global (count: 6) (undefined)
+  "Planet": "Планета" # global (count: 7) (undefined)
   "Planet/Moon": "Планета/Луна"
   "Plasma Turret": "Плазменное Орудие" # global (count: 4) (undefined)
   "Plunder": "Грабить"
@@ -1425,7 +1432,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Delete all keys": "Удалить все ключи"
   "Key": "Ключ"
   "Key/value storage": "Ключ/Хранение ценностей" # global (count: 2) (undefined)
@@ -1457,7 +1464,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "" # global (count: 13) (undefined)
 download-licenses:
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Active": "Активен" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
   "Download": "Загрузка" # global (count: 12) (undefined)
@@ -1558,7 +1565,7 @@ home-slave:
   "Stop": "" # global (count: 5) (undefined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-  "Actions": "Действия" # global (count: 13) (undefined)
+  "Actions": "Действия" # global (count: 14) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -1714,7 +1721,7 @@ new-bot:
   "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "Новый Бот" # global (count: 4) (undefined)
   "OTP secret": "Секрет ОТП" # global (count: 3) (undefined)
-  "Player ID": "ID Игрока" # global (count: 2) (undefined)
+  "Player ID": "ID Игрока" # global (count: 3) (undefined)
   "Proxy password": "Пароль прокси" # global (count: 3) (undefined)
   "Proxy username": "Имя прокси" # global (count: 3) (undefined)
   "Redeem code": "Активировать код" # global (count: 2) (undefined)

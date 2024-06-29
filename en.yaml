@@ -392,7 +392,7 @@ bot.conqueror:
   "No espionage report to show": ""
   "Pathfinder": "" # global (count: 6) (undefined)
 #  "Plasma Turret": "" # global (count: 4) (defined)
-  "Player": "" # global (count: 2) (undefined)
+  "Player": "" # global (count: 3) (undefined)
   "Reaper": "" # global (count: 5) (undefined)
 #  "Recycler": "" # global (count: 6) (defined)
   "Resources": "" # global (count: 3) (undefined)
@@ -404,7 +404,7 @@ bot.conqueror:
 bot.empire:
 #  "Academy Of Sciences": "" # global (count: 1) (defined)
 #  "Acoustic Scanning": "" # global (count: 1) (defined)
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 6) (undefined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
@@ -624,7 +624,7 @@ bot.empire:
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
   "ACS Attack": ""
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Activate all": ""
   "Active": "Active" # global (count: 6) (undefined)
   "All": "All" # global (count: 6) (undefined)
@@ -692,7 +692,7 @@ bot.flights:
 #  "Park": "" # global (count: 4) (defined)
 #  "Park In That Ally": "" # global (count: 4) (defined)
   "Pathfinder": "" # global (count: 6) (undefined)
-  "Planet": "Planet" # global (count: 6) (undefined)
+  "Planet": "Planet" # global (count: 7) (undefined)
   "R": ""
   "Reaper": "" # global (count: 5) (undefined)
 #  "Recycle debris field": "" # global (count: 1) (defined)
@@ -737,10 +737,10 @@ bot.galaxy.map:
   "Inactive": "Inactive" # global (count: 2) (undefined)
   "Vacation": "Vacation" # global (count: 3) (undefined)
 bot.galaxy.player:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Add to hunter list": "Add to hunter list"
   "All": "" # global (count: 6) (undefined)
-  "Alliance": "Alliance" # global (count: 4) (undefined)
+  "Alliance": "Alliance" # global (count: 5) (undefined)
   "Coords": "Coords" # global (count: 2) (undefined)
   "Crawl systems": ""
 #  "Crystal": "" # global (count: 8) (defined)
@@ -762,10 +762,10 @@ bot.galaxy.player:
   "Time": ""
   "Updated": "Updated" # global (count: 2) (undefined)
 bot.galaxy.table:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Add alliance to ignore list": ""
   "Add player to ignore list": ""
-  "Alliance": "Alliance" # global (count: 4) (undefined)
+  "Alliance": "Alliance" # global (count: 5) (undefined)
   "Coords": "Coords" # global (count: 2) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Debris top 100": "Debris top 100"
@@ -980,7 +980,7 @@ bot.settings.brain:
   "Kaelesh": ""
   "Mechas": ""
   "None": "" # global (count: 2) (undefined)
-  "Planet": "" # global (count: 6) (undefined)
+  "Planet": "" # global (count: 7) (undefined)
   "Prevent importing if come back during sleep time": ""
   "Prioritize nanite factory": ""
   "Queue": "" # global (count: 2) (undefined)
@@ -1024,8 +1024,9 @@ bot.settings.defender:
   "Never": ""
   "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": ""
-  "Planet": "" # global (count: 6) (undefined)
+  "Planet": "" # global (count: 7) (undefined)
   "Play sound when attacked": ""
+  "Player ID": "" # global (count: 3) (undefined)
   "Preferred destination": ""
   "Prevent if come back during sleep time": ""
   "Probe new attackers": ""
@@ -1038,6 +1039,7 @@ bot.settings.defender:
   "Repatriate resources": "Repatriate resources"
   "Save": "Save" # global (count: 17) (undefined)
   "Send message to attackers": "Send message to attackers"
+  "Whitelist": ""
   "activate for moon ?": "activate for moon ?"
   "minutes": "minutes" # global (count: 3) (undefined)
   "next check in": "next check in" # global (count: 2) (undefined)
@@ -1051,7 +1053,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "All": "" # global (count: 6) (undefined)
   "Category": "" # global (count: 2) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
@@ -1078,7 +1080,7 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Active": "" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Arrive in": "" # global (count: 2) (defined)
@@ -1157,7 +1159,7 @@ bot.settings.expeditions:
   "unlimited": "" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": ""
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Active": "" # global (count: 6) (undefined)
   "Additional cargo": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
@@ -1183,7 +1185,7 @@ bot.settings.farmer:
   "New session": ""
   "No session": "No session"
 #  "Origin": "" # global (count: 7) (defined)
-  "Planet": "Planet" # global (count: 6) (undefined)
+  "Planet": "Planet" # global (count: 7) (undefined)
   "Priority calculation": "Priority calculation"
   "Range": "Range"
   "Redo": "" # global (count: 2) (undefined)
@@ -1202,7 +1204,12 @@ bot.settings.farmerIgnoredAlliances:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Remove all": "" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
+#  "Actions": "" # global (count: 14) (defined)
+  "Alliance": "" # global (count: 5) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Ignored planets": ""
+  "Planet": "" # global (count: 7) (undefined)
+  "Player": "" # global (count: 3) (undefined)
   "Remove all": "" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
 #  "Are you sure?": "" # global (count: 19) (defined)
@@ -1211,7 +1218,7 @@ bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack type": ""
   "Attacker": "Attacker" # global (count: 2) (undefined)
@@ -1249,7 +1256,7 @@ bot.settings.hotkeys:
   "Hotkeys": "" # global (count: 3) (undefined)
   "Notifications": "" # global (count: 4) (undefined)
 bot.settings.hunter-target:
-  "Alliance": "" # global (count: 4) (undefined)
+  "Alliance": "" # global (count: 5) (undefined)
   "Color legend": ""
   "Notify when inactive for": ""
   "Save": "" # global (count: 17) (undefined)
@@ -1257,15 +1264,15 @@ bot.settings.hunter-target:
   "minutes": "" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (count: 2) (undefined)
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Activities": "" # global (count: 3) (defined)
   "Activity": "" # global (count: 2) (undefined)
-  "Alliance": "Alliance" # global (count: 4) (undefined)
+  "Alliance": "Alliance" # global (count: 5) (undefined)
   "Alliance rank": "Alliance rank"
   "Hunter configs": "Hunter configs"
   "No activity": "" # global (count: 2) (undefined)
   "No targets": "No targets"
-  "Player": "Player" # global (count: 2) (undefined)
+  "Player": "Player" # global (count: 3) (undefined)
   "Player rank": "Player rank"
   "Save": "Save" # global (count: 17) (undefined)
   "Scan frequency": "Scan frequency" # global (count: 2) (undefined)
@@ -1371,7 +1378,7 @@ bot.settings.notifications:
   "test slack": ""
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Check interval (seconds)": ""
   "Created at": "" # global (count: 7) (undefined)
@@ -1478,7 +1485,7 @@ bot.settings.settings:
   "Ogame universe": ""
   "Ogame username": ""
   "Pathfinder": "" # global (count: 6) (undefined)
-  "Player ID": "" # global (count: 2) (undefined)
+  "Player ID": "" # global (count: 3) (undefined)
   "Preferred transport ships": ""
   "Proxy password": "" # global (count: 3) (undefined)
   "Proxy username": "" # global (count: 3) (undefined)
@@ -1550,7 +1557,7 @@ bot.settings.sleepMode:
   "Manual fleet save": ""
   "Monday": ""
   "Own debris field": ""
-  "Planet": "" # global (count: 6) (undefined)
+  "Planet": "" # global (count: 7) (undefined)
   "Put bot to sleep now": ""
   "Random colonize": ""
   "Random debris field": ""
@@ -1624,7 +1631,7 @@ bot.simulator:
   "Open in TrashSim": ""
   "Pathfinder": "" # global (count: 6) (undefined)
   "Pathfinders": ""
-  "Planet": "Planet" # global (count: 6) (undefined)
+  "Planet": "Planet" # global (count: 7) (undefined)
   "Planet/Moon": "Planet/Moon"
 #  "Plasma Turret": "" # global (count: 4) (defined)
   "Plunder": "Plunder"
@@ -1681,7 +1688,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Delete all keys": ""
   "Key": ""
   "Key/value storage": "" # global (count: 2) (undefined)
@@ -1713,7 +1720,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "Antigame download" # global (count: 13) (undefined)
 download-licenses:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Active": "" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
@@ -1814,7 +1821,7 @@ home-slave:
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -1970,7 +1977,7 @@ new-bot:
   "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "New bot" # global (count: 4) (undefined)
   "OTP secret": "" # global (count: 3) (undefined)
-  "Player ID": "" # global (count: 2) (undefined)
+  "Player ID": "" # global (count: 3) (undefined)
   "Proxy password": "" # global (count: 3) (undefined)
   "Proxy username": "" # global (count: 3) (undefined)
   "Redeem code": "" # global (count: 2) (undefined)

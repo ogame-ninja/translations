@@ -278,7 +278,7 @@ bot.conqueror:
   "No espionage report to show": "无间谍报告可显示"
 #  "Pathfinder": "" # global (count: 6) (defined)
 #  "Plasma Turret": "" # global (count: 4) (defined)
-  "Player": "" # global (count: 2) (undefined)
+  "Player": "" # global (count: 3) (undefined)
   "Reaper": "" # global (count: 5) (undefined)
 #  "Recycler": "" # global (count: 6) (defined)
   "Resources": "" # global (count: 3) (undefined)
@@ -290,7 +290,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 6) (undefined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
@@ -510,7 +510,7 @@ bot.empire:
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
   "ACS Attack": ""
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Activate all": "激活所有"
   "Active": "活动中" # global (count: 6) (undefined)
   "All": "全部" # global (count: 6) (undefined)
@@ -578,7 +578,7 @@ bot.flights:
 #  "Park": "" # global (count: 4) (defined)
   "Park In That Ally": "派遣至友军" # global (count: 4) (undefined)
 #  "Pathfinder": "" # global (count: 6) (defined)
-  "Planet": "行星" # global (count: 6) (undefined)
+  "Planet": "行星" # global (count: 7) (undefined)
   "R": ""
   "Reaper": "恶魔飞船" # global (count: 5) (undefined)
 #  "Recycle debris field": "" # global (count: 1) (defined)
@@ -623,10 +623,10 @@ bot.galaxy.map:
   "Inactive": "不活跃" # global (count: 2) (undefined)
   "Vacation": "假期" # global (count: 3) (undefined)
 bot.galaxy.player:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Add to hunter list": "加入猎人列表"
   "All": "" # global (count: 6) (undefined)
-  "Alliance": "联盟" # global (count: 4) (undefined)
+  "Alliance": "联盟" # global (count: 5) (undefined)
   "Coords": "座标" # global (count: 2) (undefined)
   "Crawl systems": ""
 #  "Crystal": "" # global (count: 8) (defined)
@@ -648,10 +648,10 @@ bot.galaxy.player:
   "Time": ""
   "Updated": "更新于" # global (count: 2) (undefined)
 bot.galaxy.table:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Add alliance to ignore list": "将联盟加入忽略名单"
   "Add player to ignore list": "将玩家加入忽略名单"
-  "Alliance": "联盟" # global (count: 4) (undefined)
+  "Alliance": "联盟" # global (count: 5) (undefined)
   "Coords": "座标" # global (count: 2) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Debris top 100": "前100废墟量"
@@ -866,7 +866,7 @@ bot.settings.brain:
   "Kaelesh": ""
   "Mechas": ""
   "None": "无" # global (count: 2) (undefined)
-  "Planet": "行星" # global (count: 6) (undefined)
+  "Planet": "行星" # global (count: 7) (undefined)
   "Prevent importing if come back during sleep time": "不要在睡觉时间接收资源"
   "Prioritize nanite factory": ""
   "Queue": "排程" # global (count: 2) (undefined)
@@ -910,8 +910,9 @@ bot.settings.defender:
   "Never": "常关"
   "No players whitelisted": "白名单内没有玩家"
   "Notify small fleet attacks (< 1/3 firepower)": "小规模攻击时通知我 (小于三分之一火力)"
-  "Planet": "行星" # global (count: 6) (undefined)
+  "Planet": "行星" # global (count: 7) (undefined)
   "Play sound when attacked": "受攻击时播放音效"
+  "Player ID": "" # global (count: 3) (undefined)
   "Preferred destination": "喜好目的地"
   "Prevent if come back during sleep time": "若在睡觉时间返回则不要派出"
   "Probe new attackers": "探险新的攻击者"
@@ -924,6 +925,7 @@ bot.settings.defender:
   "Repatriate resources": "集中资源"
   "Save": "保存" # global (count: 17) (undefined)
   "Send message to attackers": "传送讯息给攻击者"
+  "Whitelist": ""
   "activate for moon ?": "月球上也启动?"
   "minutes": "分" # global (count: 3) (undefined)
   "next check in": "下次检查于" # global (count: 2) (undefined)
@@ -937,7 +939,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "All": "" # global (count: 6) (undefined)
   "Category": "分类" # global (count: 2) (undefined)
   "Coordinate": "座标" # global (count: 2) (undefined)
@@ -964,7 +966,7 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Active": "启用" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrive in": "抵达于" # global (count: 2) (defined)
@@ -1043,7 +1045,7 @@ bot.settings.expeditions:
   "unlimited": "无限制" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "放弃所有工作阶段"
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Active": "活跃中" # global (count: 6) (undefined)
   "Additional cargo": "额外货舱容量"
 #  "Are you sure?": "" # global (count: 19) (defined)
@@ -1069,7 +1071,7 @@ bot.settings.farmer:
   "New session": "新工作阶段"
   "No session": "无工作阶段"
 #  "Origin": "" # global (count: 7) (defined)
-  "Planet": "行星" # global (count: 6) (undefined)
+  "Planet": "行星" # global (count: 7) (undefined)
   "Priority calculation": "优先考量计算"
   "Range": "范围"
   "Redo": "重做" # global (count: 2) (undefined)
@@ -1088,7 +1090,12 @@ bot.settings.farmerIgnoredAlliances:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
+#  "Actions": "" # global (count: 14) (defined)
+  "Alliance": "" # global (count: 5) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
+  "Ignored planets": ""
+  "Planet": "" # global (count: 7) (undefined)
+  "Player": "" # global (count: 3) (undefined)
   "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
 #  "Are you sure?": "" # global (count: 19) (defined)
@@ -1097,7 +1104,7 @@ bot.settings.farmerSession:
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
 bot.settings.home:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack type": "攻击种类"
   "Attacker": "攻击者" # global (count: 2) (undefined)
@@ -1135,7 +1142,7 @@ bot.settings.hotkeys:
   "Hotkeys": "" # global (count: 3) (undefined)
   "Notifications": "" # global (count: 4) (undefined)
 bot.settings.hunter-target:
-  "Alliance": "联盟" # global (count: 4) (undefined)
+  "Alliance": "联盟" # global (count: 5) (undefined)
   "Color legend": "颜色标记"
   "Notify when inactive for": "不活跃多久时通知"
   "Save": "保存" # global (count: 17) (undefined)
@@ -1143,15 +1150,15 @@ bot.settings.hunter-target:
   "minutes": "分" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- 当前有活动的星/月 ---" # global (count: 2) (undefined)
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Activities": "" # global (count: 3) (defined)
   "Activity": "活动" # global (count: 2) (undefined)
-  "Alliance": "" # global (count: 4) (undefined)
+  "Alliance": "" # global (count: 5) (undefined)
   "Alliance rank": "联盟排名"
   "Hunter configs": "猎人设定"
   "No activity": "无活动" # global (count: 2) (undefined)
   "No targets": "无目标"
-  "Player": "玩家" # global (count: 2) (undefined)
+  "Player": "玩家" # global (count: 3) (undefined)
   "Player rank": "玩家排名"
   "Save": "保存" # global (count: 17) (undefined)
   "Scan frequency": "扫描频率" # global (count: 2) (undefined)
@@ -1257,7 +1264,7 @@ bot.settings.notifications:
   "test slack": "测试Slack"
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Check interval (seconds)": ""
   "Created at": "" # global (count: 7) (undefined)
@@ -1364,7 +1371,7 @@ bot.settings.settings:
   "Ogame universe": ""
   "Ogame username": ""
 #  "Pathfinder": "" # global (count: 6) (defined)
-  "Player ID": "" # global (count: 2) (undefined)
+  "Player ID": "" # global (count: 3) (undefined)
   "Preferred transport ships": "偏好的运输船舰"
   "Proxy password": "代理伺服器密码" # global (count: 3) (undefined)
   "Proxy username": "代理伺服器帐号/使用者" # global (count: 3) (undefined)
@@ -1436,7 +1443,7 @@ bot.settings.sleepMode:
   "Manual fleet save": "手动FS(保护舰队)"
   "Monday": "週一"
   "Own debris field": "自己的废墟"
-  "Planet": "行星" # global (count: 6) (undefined)
+  "Planet": "行星" # global (count: 7) (undefined)
   "Put bot to sleep now": "让机器人去睡觉"
   "Random colonize": ""
   "Random debris field": "随机废墟"
@@ -1510,7 +1517,7 @@ bot.simulator:
   "Open in TrashSim": "于TrashSim中打开"
 #  "Pathfinder": "" # global (count: 6) (defined)
   "Pathfinders": "探路者" # global (count: 1) (defined)
-  "Planet": "行星" # global (count: 6) (undefined)
+  "Planet": "行星" # global (count: 7) (undefined)
   "Planet/Moon": "行星/月球"
 #  "Plasma Turret": "" # global (count: 4) (defined)
   "Plunder": "掠夺"
@@ -1567,7 +1574,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Delete all keys": ""
   "Key": ""
   "Key/value storage": "" # global (count: 2) (undefined)
@@ -1599,7 +1606,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "" # global (count: 13) (undefined)
 download-licenses:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
   "Active": "使用/活跃中" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
@@ -1700,7 +1707,7 @@ home-slave:
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-#  "Actions": "" # global (count: 13) (defined)
+#  "Actions": "" # global (count: 14) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -1856,7 +1863,7 @@ new-bot:
   "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "新机器人" # global (count: 4) (undefined)
   "OTP secret": "" # global (count: 3) (undefined)
-  "Player ID": "玩家ID" # global (count: 2) (undefined)
+  "Player ID": "玩家ID" # global (count: 3) (undefined)
   "Proxy password": "代理伺服器密码" # global (count: 3) (undefined)
   "Proxy username": "代理伺服器帐号" # global (count: 3) (undefined)
   "Redeem code": "兑换代码" # global (count: 2) (undefined)
