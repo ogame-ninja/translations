@@ -1053,6 +1053,7 @@ bot.settings.farmer:
   "Attack from the closest moon/planet to the target": ""
   "Attack speed": "Velocidade de ataque"
   "Attack targets with spy probes": ""
+  "Celestial from where to spy & attack": ""
   "Created at": "Criado em" # global (count: 7) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "Apagar relatórios de combate"
@@ -1079,6 +1080,7 @@ bot.settings.farmer:
   "Planet": "Planeta" # global (count: 7) (undefined)
   "Priority calculation": "Prioridade de cálculo"
   "Range": "Intervalo"
+  "Range to farm": ""
   "Redo": "Refazer" # global (count: 2) (undefined)
   "Save": "Guardar" # global (count: 17) (undefined)
   "Select origin": "Seleccionar origem" # global (count: 4) (undefined)

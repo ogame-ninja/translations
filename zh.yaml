@@ -1059,6 +1059,7 @@ bot.settings.farmer:
   "Attack from the closest moon/planet to the target": ""
   "Attack speed": "攻擊速度"
   "Attack targets with spy probes": ""
+  "Celestial from where to spy & attack": ""
   "Created at": "創建於" # global (count: 7) (undefined)
 #  "Crystal": "" # global (count: 8) (defined)
   "Delete combat reports": "刪除戰鬥報告"
@@ -1085,6 +1086,7 @@ bot.settings.farmer:
   "Planet": "行星" # global (count: 7) (undefined)
   "Priority calculation": "優先考量計算"
   "Range": "範圍"
+  "Range to farm": ""
   "Redo": "重做" # global (count: 2) (undefined)
   "Save": "保存" # global (count: 17) (undefined)
   "Select origin": "選擇出發地" # global (count: 4) (undefined)
