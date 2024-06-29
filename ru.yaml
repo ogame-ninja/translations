@@ -118,10 +118,13 @@ bot.conqueror:
   "Destroyer": "" # global (count: 6) (undefined)
   "Deuterium": "" # global (count: 8) (undefined)
   "Espionage Probe": "" # global (count: 6) (undefined)
+  "Failed to hide all reports": ""
   "Gauss Cannon": "" # global (count: 4) (undefined)
   "Get spy reports": "Получить шпионские отчеты" # global (count: 2) (undefined)
   "Heavy Fighter": "" # global (count: 6) (undefined)
   "Heavy Laser": "" # global (count: 4) (undefined)
+  "Hide all": ""
+  "Hide all reports ?": ""
   "Interplanetary Missiles": "" # global (count: 4) (undefined)
   "Ion Cannon": "" # global (count: 4) (undefined)
   "Large Cargo": "" # global (count: 6) (undefined)
@@ -373,7 +376,7 @@ bot.flights:
   "Arrival": "Прибытие"
   "Arrive at": ""
   "Arrive in": "Прибытие в" # global (count: 2) (undefined)
-  "Attack": "Атака" # global (count: 4) (undefined)
+  "Attack": "Атака" # global (count: 5) (undefined)
   "Battlecruiser": "Линейный крейсер" # global (count: 6) (undefined)
   "Battleship": "Линкор" # global (count: 6) (undefined)
   "Bomber": "Бомбандировщик" # global (count: 6) (undefined)
@@ -405,7 +408,7 @@ bot.flights:
   "Espionage": "" # global (count: 3) (undefined)
   "Espionage Probe": "Шпионский Зонд" # global (count: 6) (undefined)
   "Exp": "Экспа" # global (count: 2) (undefined)
-  "Expedition": "Экспедиция" # global (count: 7) (undefined)
+  "Expedition": "Экспедиция" # global (count: 8) (undefined)
   "Flight": "Задание флота"
   "Fuel": "Топливо"
   "Grouped Attack": "Групповая Атака" # global (count: 4) (undefined)
@@ -455,8 +458,8 @@ bot.flights:
   "Ships to": ""
   "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
   "Spec": "Спецификация"
-  "Spy": "Шпионаж" # global (count: 4) (undefined)
-  "Transport": "Транспорт" # global (count: 4) (undefined)
+  "Spy": "Шпионаж" # global (count: 5) (undefined)
+  "Transport": "Транспорт" # global (count: 5) (undefined)
   "from": "Откуда"
   "keep": ""
   "max": "Максимум"
@@ -536,11 +539,11 @@ bot.index:
   "Simulator": "Симулятор боя"
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
-  "Attack": "" # global (count: 4) (undefined)
+  "Attack": "" # global (count: 5) (undefined)
   "Colonize": "" # global (count: 4) (undefined)
   "Destination": "" # global (count: 7) (undefined)
   "Destroy": "" # global (count: 4) (undefined)
-  "Expedition": "" # global (count: 7) (undefined)
+  "Expedition": "" # global (count: 8) (undefined)
   "Galaxy": "" # global (count: 4) (undefined)
   "Grouped Attack": "" # global (count: 4) (undefined)
   "Harvest": "" # global (count: 4) (undefined)
@@ -553,8 +556,8 @@ bot.phalanxPlayer:
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
   "Ships": "" # global (count: 5) (undefined)
-  "Spy": "" # global (count: 4) (undefined)
-  "Transport": "" # global (count: 4) (undefined)
+  "Spy": "" # global (count: 5) (undefined)
+  "Transport": "" # global (count: 5) (undefined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
   "Add to queue": "Добавить в Очередь"
@@ -667,8 +670,10 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "Потвердить скрипт"
 bot.settings.activities:
+  "Attack": "" # global (count: 5) (undefined)
   "Created at": "Создать в" # global (count: 7) (undefined)
   "Destination": "Расстояние" # global (count: 7) (undefined)
+  "Expedition": "" # global (count: 8) (undefined)
   "Fleet log": "Лог флота"
   "Logins": ""
   "Mission": "Задание" # global (count: 5) (undefined)
@@ -677,6 +682,8 @@ bot.settings.activities:
   "Origin": "Происхождение" # global (count: 7) (undefined)
   "Prev": "Предыдущий" # global (count: 9) (undefined)
   "Sent fleets": ""
+  "Spy": "" # global (count: 5) (undefined)
+  "Transport": "" # global (count: 5) (undefined)
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
@@ -784,7 +791,7 @@ bot.settings.expeditionMessages:
   "Category": "Категория" # global (count: 2) (undefined)
   "Coordinate": "Координаты" # global (count: 2) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
-  "Expedition": "Экспедиция" # global (count: 7) (undefined)
+  "Expedition": "Экспедиция" # global (count: 8) (undefined)
   "Extract expedition messages": "Обрабатываю экспедиционные доклады"
   "InGame date": "Дата игры" # global (count: 2) (undefined)
   "Message": "Сообщение" # global (count: 3) (undefined)
@@ -810,7 +817,7 @@ bot.settings.expeditions:
   "Active": "Активен" # global (count: 6) (undefined)
   "Are you sure?": "Вы Уверены?" # global (count: 19) (undefined)
   "Arrive in": "Прибудет в" # global (count: 2) (undefined)
-  "Attack": "Атака" # global (count: 4) (undefined)
+  "Attack": "Атака" # global (count: 5) (undefined)
   "Automatic fleet": ""
   "Battlecruiser": "Линейный Кресйсер" # global (count: 6) (undefined)
   "Battleship": "Линкор" # global (count: 6) (undefined)
@@ -830,7 +837,7 @@ bot.settings.expeditions:
   "Duration": "Продолжительность"
   "Espionage Probe": "Шпионский зонд" # global (count: 6) (undefined)
   "Exp": "Экспа" # global (count: 2) (undefined)
-  "Expedition": "Экспедиция" # global (count: 7) (undefined)
+  "Expedition": "Экспедиция" # global (count: 8) (undefined)
   "Expedition speed": "Скорость Экспедиций"
   "Expeditions active": "Проверка Экспедиции"
   "Expeditions configs": "Настройка Экспедиции"
@@ -871,13 +878,13 @@ bot.settings.expeditions:
   "Slots allowed": "Разрешено слотов"
   "Small Cargo": "Малый Транспорт" # global (count: 6) (undefined)
   "Small Cargo to stay": "Оставить Малых Транспортов"
-  "Spy": "Шпионаж" # global (count: 4) (undefined)
+  "Spy": "Шпионаж" # global (count: 5) (undefined)
   "Statistics": "Статистика"
   "Strategy": "Стратегия"
   "Systems range": "Интервал Систем"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "Установите флажок для автоматического разделения доступных кораблей или введите номер для отправки определенного количества кораблей"
   "Time in seconds that early PF will arrive after the expedition": "Время в секундах, которое ранний ПП прибудет после экспедиции"
-  "Transport": "Транспорт" # global (count: 4) (undefined)
+  "Transport": "Транспорт" # global (count: 5) (undefined)
   "Wait for all expeditions slots": "Дождаться возвращения всех Экспедиционных слотов"
   "Wait for majority of expeditions slots": "Дождаться большинства Экспедиционных слотов"
   "expeditions": "Экспедиции"
@@ -1049,7 +1056,7 @@ bot.settings.messages:
   "All": "Все" # global (count: 5) (undefined)
   "Coordinate": "Координаты" # global (count: 2) (undefined)
   "Espionage report": "Шпионский доклад" # global (count: 4) (undefined)
-  "Expedition": "Экспедиция" # global (count: 7) (undefined)
+  "Expedition": "Экспедиция" # global (count: 8) (undefined)
   "Farmer": "Сборщик Ресурсов" # global (count: 5) (undefined)
   "Importer": "Импортер"
   "InGame date": "Дата в Игре" # global (count: 2) (undefined)
@@ -1112,12 +1119,12 @@ bot.settings.phalanx:
   "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
-  "Attack": "" # global (count: 4) (undefined)
+  "Attack": "" # global (count: 5) (undefined)
   "Click on a fleet to get timing details": ""
   "Colonize": "" # global (count: 4) (undefined)
   "Destination": "" # global (count: 7) (undefined)
   "Destroy": "" # global (count: 4) (undefined)
-  "Expedition": "" # global (count: 7) (undefined)
+  "Expedition": "" # global (count: 8) (undefined)
   "Grouped Attack": "" # global (count: 4) (undefined)
   "Harvest": "" # global (count: 4) (undefined)
   "Is general?": ""
@@ -1137,11 +1144,11 @@ bot.settings.phalanxSession:
   "Session aborted": "Отменить Сессию"
   "Ships": "" # global (count: 5) (undefined)
   "Speed": "" # global (count: 2) (undefined)
-  "Spy": "" # global (count: 4) (undefined)
+  "Spy": "" # global (count: 5) (undefined)
   "Started at": ""
   "Stop": "Стоп" # global (count: 5) (undefined)
   "Target information": ""
-  "Transport": "" # global (count: 4) (undefined)
+  "Transport": "" # global (count: 5) (undefined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "В настоящее время активная планета / Луна" # global (count: 2) (undefined)
@@ -1273,7 +1280,7 @@ bot.settings.sleepMode:
   "Awake bot now": "Проснись бот сейчас же"
   "Destination": "" # global (count: 7) (undefined)
   "Every day": "Каждый день"
-  "Expedition": "" # global (count: 7) (undefined)
+  "Expedition": "" # global (count: 8) (undefined)
   "Friday": "Пятница"
   "Manual fleet save": ""
   "Monday": "Понедельник"
@@ -1405,6 +1412,7 @@ compiled-scripts:
   "Delete project": ""
   "Files saved": ""
   "New project": ""
+  "Project name": ""
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
@@ -1454,6 +1462,7 @@ download-licenses:
   "No license to display": "Нет лицензии для отображения"
   "Renew license": "Продлить Лицензию" # global (count: 4) (undefined)
   "UUID": "идентификатор UUID" # global (count: 3) (undefined)
+  "View": ""
   "You must be authenticated": ""
   "meta-description": "" # global (count: 13) (undefined)
   "ogame Ninja": "" # global (count: 3) (undefined)
@@ -1679,16 +1688,21 @@ must-update:
   "You must update your software.": "Вы должны обновить свое программное обеспечение."
 new-bot:
   "Add account to lobby ?": ""
+  "Advanced": "" # global (count: 2) (undefined)
   "Create": "Создать" # global (count: 3) (undefined)
   "Create lobby ?": ""
+  "Disabled": "" # global (count: 2) (undefined)
+  "Fake browser javascript fingerprint": "" # global (count: 2) (undefined)
   "Gameforge email": "Gameforge Емайл" # global (count: 2) (undefined)
   "Gameforge password": "Gameforge пароль" # global (count: 2) (undefined)
+  "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "Новый Бот" # global (count: 4) (undefined)
   "OTP secret": "Секрет ОТП" # global (count: 3) (undefined)
   "Player ID": "ID Игрока" # global (count: 2) (undefined)
   "Proxy password": "Пароль прокси" # global (count: 3) (undefined)
   "Proxy username": "Имя прокси" # global (count: 3) (undefined)
   "Redeem code": "Активировать код" # global (count: 2) (undefined)
+  "Socks5 proxy": "" # global (count: 2) (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "http / socks5 proxy (оставьте пустым, если вы не знаете, что это такое)" # global (count: 2) (undefined)
   "proxy login requests only": "" # global (count: 2) (undefined)
 new-fingerprint:
@@ -1742,7 +1756,9 @@ new-license:
   "New license": "Новая Лицензия" # global (count: 6) (undefined)
   "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
   "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
+  "Paypal subscriptions can be cancelled at any time in your paypal account": "" # global (count: 2) (undefined)
   "Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (count: 2) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (count: 2) (undefined)
   "Total": "Весь" # global (count: 4) (undefined)
   "description1": "Описание 1" # global (count: 2) (undefined)
@@ -1795,9 +1811,11 @@ new-server:
   "New server": "Новый Сервер" # global (count: 4) (undefined)
   "Pay with Credit/debit card": "Оплата кредитной / дебетовой картой" # global (count: 7) (undefined)
   "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
+  "Paypal subscriptions can be cancelled at any time in your paypal account": "" # global (count: 2) (undefined)
   "Region": "Регион" # global (count: 2) (undefined)
   "Select one": "Выбрать один"
   "Settings": "Настройки" # global (count: 7) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Subdomain": "Дочерний Домен"
   "Submit Payment for cloud hosting": "Отправить платеж за облачный хостинг"
   "Total": "Весь" # global (count: 4) (undefined)
@@ -1844,13 +1862,18 @@ proposals:
   "Prev": "Предыдущий" # global (count: 9) (undefined)
   "Search": "Поиск" # global (count: 3) (undefined)
 redeem-code:
+  "Advanced": "" # global (count: 2) (undefined)
+  "Disabled": "" # global (count: 2) (undefined)
+  "Fake browser javascript fingerprint": "" # global (count: 2) (undefined)
   "Gameforge email": "Gameforge Емайл" # global (count: 2) (undefined)
   "Gameforge password": "Gameforge пароль" # global (count: 2) (undefined)
+  "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "Новый бот" # global (count: 4) (undefined)
   "OTP secret": "OTP секрет" # global (count: 3) (undefined)
   "Proxy password": "Пароль прокси" # global (count: 3) (undefined)
   "Proxy username": "имя прокси" # global (count: 3) (undefined)
   "Redeem code": "Активировать код" # global (count: 2) (undefined)
+  "Socks5 proxy": "" # global (count: 2) (undefined)
   "____-____-____-____-____": "____-____-____-____-____"
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (count: 2) (undefined)
 renew-instance-subscribe:
@@ -1866,6 +1889,7 @@ renew-instance:
   "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
   "Renew instance": "Обновить экземпляр" # global (count: 2) (undefined)
   "Settings": "Настройки" # global (count: 7) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment to renew cloud license": "Отправить платеж для продления облачной лицензии"
   "bot": "Бот" # global (count: 2) (undefined)
   "we are using": "мы используем" # global (count: 7) (undefined)
@@ -1882,6 +1906,7 @@ renew-license:
   "Pay with paypal": "Оплатить через paypal" # global (count: 7) (undefined)
   "Renew license": "Продлить Лицензию" # global (count: 4) (undefined)
   "Self hosting license parameters": "Параметры лицензии на самостоятельный хостинг" # global (count: 2) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "Отправить платеж за лицензию self-host" # global (count: 2) (undefined)
   "Total": "Весь" # global (count: 4) (undefined)
   "bot": "Бот" # global (count: 2) (undefined)

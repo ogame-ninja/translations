@@ -260,10 +260,13 @@ bot.conqueror:
 #  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
+  "Failed to hide all reports": ""
 #  "Gauss Cannon": "" # global (count: 4) (defined)
   "Get spy reports": "取得間諜報告" # global (count: 2) (undefined)
 #  "Heavy Fighter": "" # global (count: 6) (defined)
 #  "Heavy Laser": "" # global (count: 4) (defined)
+  "Hide all": ""
+  "Hide all reports ?": ""
 #  "Interplanetary Missiles": "" # global (count: 4) (defined)
 #  "Ion Cannon": "" # global (count: 4) (defined)
 #  "Large Cargo": "" # global (count: 6) (defined)
@@ -515,7 +518,7 @@ bot.flights:
   "Arrival": "抵達"
   "Arrive at": "抵達於"
   "Arrive in": "抵達於" # global (count: 2) (defined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
 #  "Battlecruiser": "" # global (count: 6) (defined)
 #  "Battleship": "" # global (count: 6) (defined)
 #  "Bomber": "" # global (count: 6) (defined)
@@ -547,7 +550,7 @@ bot.flights:
   "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
   "Exp": "探" # global (count: 2) (undefined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Flight": "艦隊"
   "Fuel": "燃料"
 #  "Grouped Attack": "" # global (count: 4) (defined)
@@ -597,8 +600,8 @@ bot.flights:
   "Ships to": ""
 #  "Small Cargo": "" # global (count: 6) (defined)
   "Spec": ""
-#  "Spy": "" # global (count: 4) (defined)
-#  "Transport": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "from": "自"
   "keep": "保留"
 #  "max": "" # global (count: 1) (defined)
@@ -678,11 +681,11 @@ bot.index:
 #  "Simulator": "" # global (count: 1) (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Grouped Attack": "" # global (count: 4) (defined)
 #  "Harvest": "" # global (count: 4) (defined)
@@ -695,8 +698,8 @@ bot.phalanxPlayer:
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
   "Ships": "" # global (count: 5) (undefined)
-#  "Spy": "" # global (count: 4) (defined)
-#  "Transport": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
   "Add to queue": "增加至排程"
@@ -809,8 +812,10 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "驗證腳本"
 bot.settings.activities:
+#  "Attack": "" # global (count: 5) (defined)
   "Created at": "創建於" # global (count: 7) (undefined)
 #  "Destination": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Fleet log": "艦隊紀錄"
   "Logins": ""
 #  "Mission": "" # global (count: 5) (defined)
@@ -819,6 +824,8 @@ bot.settings.activities:
 #  "Origin": "" # global (count: 7) (defined)
 #  "Prev": "" # global (count: 9) (defined)
   "Sent fleets": ""
+#  "Spy": "" # global (count: 5) (defined)
+#  "Transport": "" # global (count: 5) (defined)
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
@@ -926,7 +933,7 @@ bot.settings.expeditionMessages:
   "Category": "分類" # global (count: 2) (undefined)
   "Coordinate": "座標" # global (count: 2) (undefined)
   "Espionage report": "間諜報告" # global (count: 4) (undefined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Extract expedition messages": "提取探險訊息"
   "InGame date": "遊戲內日期" # global (count: 2) (undefined)
   "Message": "訊息" # global (count: 3) (undefined)
@@ -952,7 +959,7 @@ bot.settings.expeditions:
   "Active": "啟用" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrive in": "抵達於" # global (count: 2) (defined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
   "Automatic fleet": ""
 #  "Battlecruiser": "" # global (count: 6) (defined)
 #  "Battleship": "" # global (count: 6) (defined)
@@ -972,7 +979,7 @@ bot.settings.expeditions:
   "Duration": "探險時間"
 #  "Espionage Probe": "" # global (count: 6) (defined)
   "Exp": "" # global (count: 2) (undefined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Expedition speed": "探險速度"
   "Expeditions active": "啟用探險"
   "Expeditions configs": "探險設定"
@@ -1013,13 +1020,13 @@ bot.settings.expeditions:
   "Slots allowed": "允許的指揮數"
 #  "Small Cargo": "" # global (count: 6) (defined)
   "Small Cargo to stay": "保留於星/月上的小運"
-#  "Spy": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
   "Statistics": "統計"
   "Strategy": "策略"
   "Systems range": "太陽系範圍"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "勾選以自動分派可用的艦船；否則指定派出數量"
   "Time in seconds that early PF will arrive after the expedition": "該先行探路者隊於探險後幾秒到達"
-#  "Transport": "" # global (count: 4) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "Wait for all expeditions slots": "等待所有可用探險指揮數"
   "Wait for majority of expeditions slots": "等待大部分可用探險指揮數"
   "expeditions": "探險"
@@ -1191,7 +1198,7 @@ bot.settings.messages:
   "All": "全部" # global (count: 5) (undefined)
   "Coordinate": "座標" # global (count: 2) (undefined)
   "Espionage report": "間諜報告" # global (count: 4) (undefined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
 #  "Farmer": "" # global (count: 5) (defined)
   "Importer": "接受位置"
   "InGame date": "遊戲中日期" # global (count: 2) (undefined)
@@ -1254,12 +1261,12 @@ bot.settings.phalanx:
   "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
   "Click on a fleet to get timing details": ""
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
 #  "Grouped Attack": "" # global (count: 4) (defined)
 #  "Harvest": "" # global (count: 4) (defined)
   "Is general?": ""
@@ -1279,11 +1286,11 @@ bot.settings.phalanxSession:
   "Session aborted": "已放棄工作階段"
   "Ships": "" # global (count: 5) (undefined)
 #  "Speed": "" # global (count: 2) (defined)
-#  "Spy": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
   "Started at": ""
 #  "Stop": "" # global (count: 5) (defined)
   "Target information": ""
-#  "Transport": "" # global (count: 4) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.settings.scanner:
   "--- Currently active planet/moon ---": "--- 當前有活動的行星/月球 ---" # global (count: 2) (undefined)
@@ -1415,7 +1422,7 @@ bot.settings.sleepMode:
   "Awake bot now": "喚醒機器人"
 #  "Destination": "" # global (count: 7) (defined)
   "Every day": "每天"
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Friday": "週五"
   "Manual fleet save": "手動FS(保護艦隊)"
   "Monday": "週一"
@@ -1547,6 +1554,7 @@ compiled-scripts:
   "Delete project": ""
   "Files saved": ""
   "New project": ""
+  "Project name": ""
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
@@ -1596,6 +1604,7 @@ download-licenses:
   "No license to display": "無憑證可顯示"
   "Renew license": "更新憑證" # global (count: 4) (undefined)
   "UUID": "" # global (count: 3) (undefined)
+  "View": ""
   "You must be authenticated": ""
   "meta-description": "" # global (count: 13) (undefined)
   "ogame Ninja": "" # global (count: 3) (undefined)
@@ -1821,16 +1830,21 @@ must-update:
   "You must update your software.": "您必須得更新軟體"
 new-bot:
   "Add account to lobby ?": ""
+  "Advanced": "" # global (count: 2) (undefined)
   "Create": "創建" # global (count: 3) (undefined)
   "Create lobby ?": ""
+  "Disabled": "" # global (count: 2) (undefined)
+  "Fake browser javascript fingerprint": "" # global (count: 2) (undefined)
   "Gameforge email": "Gameforge的電子信箱" # global (count: 2) (undefined)
   "Gameforge password": "Gameforge的密碼" # global (count: 2) (undefined)
+  "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "新機器人" # global (count: 4) (undefined)
   "OTP secret": "" # global (count: 3) (undefined)
   "Player ID": "玩家ID" # global (count: 2) (undefined)
   "Proxy password": "代理伺服器密碼" # global (count: 3) (undefined)
   "Proxy username": "代理伺服器帳號" # global (count: 3) (undefined)
   "Redeem code": "兌換代碼" # global (count: 2) (undefined)
+  "Socks5 proxy": "" # global (count: 2) (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (若您無把握請留空白)" # global (count: 2) (undefined)
   "proxy login requests only": "" # global (count: 2) (undefined)
 new-fingerprint:
@@ -1884,7 +1898,9 @@ new-license:
   "New license": "新憑證" # global (count: 6) (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (count: 7) (undefined)
   "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Paypal subscriptions can be cancelled at any time in your paypal account": "" # global (count: 2) (undefined)
   "Self hosting license parameters": "自我托管主機憑證的參數" # global (count: 2) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "提交自我托管主機憑證的付款" # global (count: 2) (undefined)
   "Total": "總額" # global (count: 4) (undefined)
   "description1": "描述1" # global (count: 2) (undefined)
@@ -1937,9 +1953,11 @@ new-server:
   "New server": "新伺服器" # global (count: 4) (undefined)
   "Pay with Credit/debit card": "使用信用/借記卡付款" # global (count: 7) (undefined)
   "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
+  "Paypal subscriptions can be cancelled at any time in your paypal account": "" # global (count: 2) (undefined)
   "Region": "地區" # global (count: 2) (undefined)
   "Select one": "選擇一項"
 #  "Settings": "" # global (count: 7) (defined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Subdomain": "子域名"
   "Submit Payment for cloud hosting": "提交雲端伺服器的付款"
   "Total": "總額" # global (count: 4) (undefined)
@@ -1986,13 +2004,18 @@ proposals:
 #  "Prev": "" # global (count: 9) (defined)
   "Search": "搜尋" # global (count: 3) (undefined)
 redeem-code:
+  "Advanced": "" # global (count: 2) (undefined)
+  "Disabled": "" # global (count: 2) (undefined)
+  "Fake browser javascript fingerprint": "" # global (count: 2) (undefined)
   "Gameforge email": "Gameforge的電子信箱" # global (count: 2) (undefined)
   "Gameforge password": "Gameforge的密碼" # global (count: 2) (undefined)
+  "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "新機器人" # global (count: 4) (undefined)
   "OTP secret": "" # global (count: 3) (undefined)
   "Proxy password": "代理伺服器密碼" # global (count: 3) (undefined)
   "Proxy username": "代理伺服器帳號" # global (count: 3) (undefined)
   "Redeem code": "兌換代碼" # global (count: 2) (undefined)
+  "Socks5 proxy": "" # global (count: 2) (undefined)
   "____-____-____-____-____": ""
   "http/socks5 proxy (leave empty if you do not know what this is)": "http/socks5 proxy (若您無把握請留空白)" # global (count: 2) (undefined)
 renew-instance-subscribe:
@@ -2008,6 +2031,7 @@ renew-instance:
   "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
   "Renew instance": "更新物件(instance)" # global (count: 2) (undefined)
 #  "Settings": "" # global (count: 7) (defined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment to renew cloud license": "提交更新雲端伺服器的付款"
   "bot": "機器人" # global (count: 2) (undefined)
   "we are using": "我們使用" # global (count: 7) (undefined)
@@ -2024,6 +2048,7 @@ renew-license:
   "Pay with paypal": "使用Paypal付款" # global (count: 7) (undefined)
   "Renew license": "更新憑證" # global (count: 4) (undefined)
   "Self hosting license parameters": "自我托管主機憑證的參數" # global (count: 2) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "提交自我托管主機憑證的付款" # global (count: 2) (undefined)
   "Total": "總額" # global (count: 4) (undefined)
   "bot": "機器人" # global (count: 2) (undefined)

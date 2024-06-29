@@ -299,10 +299,13 @@ bot.conqueror:
 #  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
+  "Failed to hide all reports": ""
 #  "Gauss Cannon": "" # global (count: 4) (defined)
 #  "Get spy reports": "" # global (count: 2) (defined)
 #  "Heavy Fighter": "" # global (count: 6) (defined)
 #  "Heavy Laser": "" # global (count: 4) (defined)
+  "Hide all": ""
+  "Hide all reports ?": ""
 #  "Interplanetary Missiles": "" # global (count: 4) (defined)
 #  "Ion Cannon": "" # global (count: 4) (defined)
 #  "Large Cargo": "" # global (count: 6) (defined)
@@ -554,7 +557,7 @@ bot.flights:
   "Arrival": "Ankunft"
   "Arrive at": ""
 #  "Arrive in": "" # global (count: 2) (defined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
 #  "Battlecruiser": "" # global (count: 6) (defined)
 #  "Battleship": "" # global (count: 6) (defined)
 #  "Bomber": "" # global (count: 6) (defined)
@@ -586,7 +589,7 @@ bot.flights:
   "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
 #  "Exp": "" # global (count: 2) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Flight": "Flug"
   "Fuel": "Verbrauch"
 #  "Grouped Attack": "" # global (count: 4) (defined)
@@ -636,8 +639,8 @@ bot.flights:
   "Ships to": ""
 #  "Small Cargo": "" # global (count: 6) (defined)
   "Spec": "Spec"
-#  "Spy": "" # global (count: 4) (defined)
-#  "Transport": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "from": "von"
   "keep": ""
   "max": "max" # global (count: 1) (defined)
@@ -717,11 +720,11 @@ bot.index:
   "Simulator": "Simulator" # global (count: 1) (defined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
 #  "Grouped Attack": "" # global (count: 4) (defined)
 #  "Harvest": "" # global (count: 4) (defined)
@@ -734,8 +737,8 @@ bot.phalanxPlayer:
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
 #  "Ships": "" # global (count: 5) (defined)
-#  "Spy": "" # global (count: 4) (defined)
-#  "Transport": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
   "Add to queue": "Zur Warteschlange hinzufügen"
@@ -848,8 +851,10 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "Skript überprüfen"
 bot.settings.activities:
+#  "Attack": "" # global (count: 5) (defined)
 #  "Created at": "" # global (count: 7) (defined)
 #  "Destination": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Fleet log": "Flottenjournal"
   "Logins": ""
 #  "Mission": "" # global (count: 5) (defined)
@@ -858,6 +863,8 @@ bot.settings.activities:
 #  "Origin": "" # global (count: 7) (defined)
 #  "Prev": "" # global (count: 9) (defined)
   "Sent fleets": ""
+#  "Spy": "" # global (count: 5) (defined)
+#  "Transport": "" # global (count: 5) (defined)
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
@@ -965,7 +972,7 @@ bot.settings.expeditionMessages:
   "Category": "" # global (count: 2) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Extract expedition messages": "Expeditions Nachrichten auslesen"
 #  "InGame date": "" # global (count: 2) (defined)
   "Message": "" # global (count: 3) (undefined)
@@ -991,7 +998,7 @@ bot.settings.expeditions:
 #  "Active": "" # global (count: 6) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Arrive in": "" # global (count: 2) (defined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
   "Automatic fleet": ""
 #  "Battlecruiser": "" # global (count: 6) (defined)
 #  "Battleship": "" # global (count: 6) (defined)
@@ -1011,7 +1018,7 @@ bot.settings.expeditions:
 #  "Duration": "" # global (count: 1) (defined)
 #  "Espionage Probe": "" # global (count: 6) (defined)
 #  "Exp": "" # global (count: 2) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Expedition speed": "Expeditions Geschwindigkeit"
   "Expeditions active": "Expeditionen Aktiv"
   "Expeditions configs": "Expeditions Konfiguration"
@@ -1052,13 +1059,13 @@ bot.settings.expeditions:
   "Slots allowed": "Sitzungen erlaubt"
 #  "Small Cargo": "" # global (count: 6) (defined)
   "Small Cargo to stay": ""
-#  "Spy": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
   "Statistics": "Statistik"
   "Strategy": "Strategie"
   "Systems range": "System Bereich"
   "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": ""
   "Time in seconds that early PF will arrive after the expedition": ""
-#  "Transport": "" # global (count: 4) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "Wait for all expeditions slots": "Warte auf alle Expeditions Slots"
   "Wait for majority of expeditions slots": "Warte auf die Mehrheit der Expeditions Slots"
   "expeditions": "Expeditionen"
@@ -1230,7 +1237,7 @@ bot.settings.messages:
 #  "All": "" # global (count: 5) (defined)
   "Coordinate": "" # global (count: 2) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
 #  "Farmer": "" # global (count: 5) (defined)
   "Importer": ""
 #  "InGame date": "" # global (count: 2) (defined)
@@ -1293,12 +1300,12 @@ bot.settings.phalanx:
   "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
-#  "Attack": "" # global (count: 4) (defined)
+#  "Attack": "" # global (count: 5) (defined)
   "Click on a fleet to get timing details": ""
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
 #  "Grouped Attack": "" # global (count: 4) (defined)
 #  "Harvest": "" # global (count: 4) (defined)
   "Is general?": ""
@@ -1318,11 +1325,11 @@ bot.settings.phalanxSession:
   "Session aborted": "Sitzung abgebrochen"
 #  "Ships": "" # global (count: 5) (defined)
 #  "Speed": "" # global (count: 2) (defined)
-#  "Spy": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 5) (defined)
   "Started at": ""
 #  "Stop": "" # global (count: 5) (defined)
   "Target information": ""
-#  "Transport": "" # global (count: 4) (defined)
+#  "Transport": "" # global (count: 5) (defined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.settings.scanner:
 #  "--- Currently active planet/moon ---": "" # global (count: 2) (defined)
@@ -1454,7 +1461,7 @@ bot.settings.sleepMode:
   "Awake bot now": "Bot jetzt Aufwecken"
 #  "Destination": "" # global (count: 7) (defined)
   "Every day": "Jeden Tag"
-#  "Expedition": "" # global (count: 7) (defined)
+#  "Expedition": "" # global (count: 8) (defined)
   "Friday": "Freitag"
   "Manual fleet save": ""
   "Monday": "Montag"
@@ -1586,6 +1593,7 @@ compiled-scripts:
   "Delete project": ""
   "Files saved": ""
   "New project": ""
+  "Project name": ""
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
@@ -1635,6 +1643,7 @@ download-licenses:
   "No license to display": "Keine Lizenz zum Anzeigen verfügbar"
   "Renew license": "Lizenz erneuern" # global (count: 4) (undefined)
   "UUID": "" # global (count: 3) (undefined)
+  "View": ""
   "You must be authenticated": ""
   "meta-description": "" # global (count: 13) (undefined)
   "ogame Ninja": "" # global (count: 3) (undefined)
@@ -1860,16 +1869,21 @@ must-update:
   "You must update your software.": "Du musst deine Software aktualisieren."
 new-bot:
   "Add account to lobby ?": ""
+  "Advanced": "" # global (count: 2) (undefined)
   "Create": "Erstellen" # global (count: 3) (undefined)
   "Create lobby ?": ""
+  "Disabled": "" # global (count: 2) (undefined)
+  "Fake browser javascript fingerprint": "" # global (count: 2) (undefined)
   "Gameforge email": "" # global (count: 2) (undefined)
   "Gameforge password": "" # global (count: 2) (undefined)
+  "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "Neuer Bot" # global (count: 4) (undefined)
   "OTP secret": "" # global (count: 3) (undefined)
   "Player ID": "" # global (count: 2) (undefined)
   "Proxy password": "" # global (count: 3) (undefined)
   "Proxy username": "" # global (count: 3) (undefined)
   "Redeem code": "" # global (count: 2) (undefined)
+  "Socks5 proxy": "" # global (count: 2) (undefined)
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (count: 2) (undefined)
   "proxy login requests only": "" # global (count: 2) (undefined)
 new-fingerprint:
@@ -1923,7 +1937,9 @@ new-license:
   "New license": "Neue Lizenz" # global (count: 6) (undefined)
   "Pay with Credit/debit card": "Mit Kredit-/Debitkarte bezahlen" # global (count: 7) (undefined)
   "Pay with paypal": "Zahlung mit PayPal" # global (count: 7) (undefined)
+  "Paypal subscriptions can be cancelled at any time in your paypal account": "" # global (count: 2) (undefined)
   "Self hosting license parameters": "Einstellungen für die selbstgehostete Lizenz" # global (count: 2) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "Bezahlen um die selbstgehostete Lizenz zu erhalten" # global (count: 2) (undefined)
   "Total": "Summe" # global (count: 4) (undefined)
   "description1": "Eine Lizenz gilt für einen Monat. Danach musst du die Lizenz erneuern.<br /> Wenn du eine Lizenz für einen längeren Zeitraum benötist, kontaktiere uns einfach jederzeit.<br />" # global (count: 2) (undefined)
@@ -1976,9 +1992,11 @@ new-server:
   "New server": "Neuer Server" # global (count: 4) (undefined)
   "Pay with Credit/debit card": "Mit Kredit-/Debitkarte bezahlen" # global (count: 7) (undefined)
   "Pay with paypal": "Zahlung mit PayPal" # global (count: 7) (undefined)
+  "Paypal subscriptions can be cancelled at any time in your paypal account": "" # global (count: 2) (undefined)
   "Region": "Region/Land" # global (count: 2) (undefined)
   "Select one": "Bitte wählen"
 #  "Settings": "" # global (count: 7) (defined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Subdomain": "Subdomain"
   "Submit Payment for cloud hosting": "Bezahlen um die cloudbasierte Lizenz zu erhalten"
   "Total": "Summe" # global (count: 4) (undefined)
@@ -2025,13 +2043,18 @@ proposals:
 #  "Prev": "" # global (count: 9) (defined)
   "Search": "" # global (count: 3) (undefined)
 redeem-code:
+  "Advanced": "" # global (count: 2) (undefined)
+  "Disabled": "" # global (count: 2) (undefined)
+  "Fake browser javascript fingerprint": "" # global (count: 2) (undefined)
   "Gameforge email": "" # global (count: 2) (undefined)
   "Gameforge password": "" # global (count: 2) (undefined)
+  "Http proxy": "" # global (count: 2) (undefined)
   "New bot": "" # global (count: 4) (undefined)
   "OTP secret": "" # global (count: 3) (undefined)
   "Proxy password": "" # global (count: 3) (undefined)
   "Proxy username": "" # global (count: 3) (undefined)
   "Redeem code": "" # global (count: 2) (undefined)
+  "Socks5 proxy": "" # global (count: 2) (undefined)
   "____-____-____-____-____": ""
   "http/socks5 proxy (leave empty if you do not know what this is)": "" # global (count: 2) (undefined)
 renew-instance-subscribe:
@@ -2047,6 +2070,7 @@ renew-instance:
   "Pay with paypal": "Zahlung mit PayPal" # global (count: 7) (undefined)
   "Renew instance": "Instanz erneuern" # global (count: 2) (undefined)
 #  "Settings": "" # global (count: 7) (defined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment to renew cloud license": "Bezahlen um die cloudbasierte Lizenz zu erneuern"
   "bot": "" # global (count: 2) (undefined)
   "we are using": "Wir nutzen" # global (count: 7) (undefined)
@@ -2063,6 +2087,7 @@ renew-license:
   "Pay with paypal": "Zahlung mit PayPal" # global (count: 7) (undefined)
   "Renew license": "Lizenz erneuern" # global (count: 4) (undefined)
   "Self hosting license parameters": "Einstellungen für die selbstgehostete Lizenz" # global (count: 2) (undefined)
+  "Stripe subscriptions can be cancelled at any time in your account": "" # global (count: 4) (undefined)
   "Submit payment for self-host license": "Bezahlen um die selbstgehostete Lizenz zu erhalten" # global (count: 2) (undefined)
   "Total": "Summe" # global (count: 4) (undefined)
   "bot": "" # global (count: 2) (undefined)
