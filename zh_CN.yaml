@@ -166,7 +166,7 @@ admin.license:
   "Upload file": ""
   "unlimited": "无限制" # global (count: 2) (undefined)
 admin.login-history:
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "Deleted at": ""
   "Expires at": "" # global (count: 2) (undefined)
   "IP": "" # global (count: 2) (undefined)
@@ -220,7 +220,7 @@ admin.user-edit:
   "Yes": "是" # global (count: 1) (defined)
 admin.users:
 #  "Admin": "" # global (count: 2) (defined)
-  "Created at": "创造于" # global (count: 7) (undefined)
+  "Created at": "创造于" # global (count: 8) (undefined)
   "Delete user": "删除使用者"
   "New user": "新使用者"
   "Username": "使用者名称" # global (count: 10) (defined)
@@ -250,10 +250,10 @@ bot.conqueror:
 #  "Battleship": "" # global (count: 6) (defined)
 #  "Bomber": "" # global (count: 6) (defined)
 #  "Colony Ship": "" # global (count: 6) (defined)
-  "Coord": "" # global (count: 2) (undefined)
+  "Coord": "" # global (count: 3) (undefined)
 #  "Crawler": "" # global (count: 5) (defined)
 #  "Cruiser": "" # global (count: 6) (defined)
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
   "Date": ""
 #  "Deathstar": "" # global (count: 6) (defined)
   "Defenses": "" # global (count: 2) (undefined)
@@ -274,11 +274,11 @@ bot.conqueror:
 #  "Light Fighter": "" # global (count: 6) (defined)
 #  "Light Laser": "" # global (count: 4) (defined)
   "Loot": "" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
   "No espionage report to show": "无间谍报告可显示"
 #  "Pathfinder": "" # global (count: 6) (defined)
 #  "Plasma Turret": "" # global (count: 4) (defined)
-  "Player": "" # global (count: 3) (undefined)
+  "Player": "" # global (count: 4) (undefined)
   "Reaper": "" # global (count: 5) (undefined)
 #  "Recycler": "" # global (count: 6) (defined)
   "Resources": "" # global (count: 3) (undefined)
@@ -290,7 +290,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 6) (undefined)
 #  "Alliance Depot": "" # global (count: 2) (defined)
@@ -326,7 +326,7 @@ bot.empire:
   "Crawler setting": "履带车设定"
 #  "Cruiser": "" # global (count: 6) (defined)
   "Cruiser MkII": ""
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
   "Crystal Farm": ""
 #  "Crystal Mine": "" # global (count: 2) (defined)
   "Crystal Refinery": ""
@@ -347,7 +347,7 @@ bot.empire:
   "Disruption Chamber": ""
   "Efficiency Module": ""
   "Efficient Swarm Intelligence": ""
-  "Energy": "能源"
+  "Energy": "能源" # global (count: 2) (undefined)
 #  "Energy Technology": "" # global (count: 2) (defined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
@@ -423,7 +423,7 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
 #  "Metal Mine": "" # global (count: 2) (defined)
 #  "Metal Storage": "" # global (count: 2) (defined)
   "Metal setting": "金属矿设定"
@@ -510,7 +510,7 @@ bot.empire:
 #  "Weapons Technology": "" # global (count: 2) (defined)
 bot.flights:
   "ACS Attack": ""
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Activate all": "激活所有"
   "Active": "活动中" # global (count: 6) (undefined)
   "All": "全部" # global (count: 6) (undefined)
@@ -518,7 +518,7 @@ bot.flights:
   "Arrival": "抵达"
   "Arrive at": "抵达于"
   "Arrive in": "抵达于" # global (count: 2) (defined)
-#  "Attack": "" # global (count: 5) (defined)
+#  "Attack": "" # global (count: 6) (defined)
 #  "Battlecruiser": "" # global (count: 6) (defined)
 #  "Battleship": "" # global (count: 6) (defined)
 #  "Bomber": "" # global (count: 6) (defined)
@@ -531,7 +531,7 @@ bot.flights:
 #  "Crawler": "" # global (count: 5) (defined)
   "Cron jobs": "时间任务管理系统"
 #  "Cruiser": "" # global (count: 6) (defined)
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
   "Current fleets": "飞行中舰队" # global (count: 2) (undefined)
   "DS": ""
   "Deactivate all": "解除所有"
@@ -562,7 +562,7 @@ bot.flights:
   "LC": ""
 #  "Large Cargo": "" # global (count: 6) (defined)
 #  "Light Fighter": "" # global (count: 6) (defined)
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
   "Missile Attack": "导弹攻击弹" # global (count: 4) (defined)
 #  "Mission": "" # global (count: 5) (defined)
 #  "Moon": "" # global (count: 3) (defined)
@@ -578,8 +578,8 @@ bot.flights:
 #  "Park": "" # global (count: 4) (defined)
   "Park In That Ally": "派遣至友军" # global (count: 4) (undefined)
 #  "Pathfinder": "" # global (count: 6) (defined)
-  "Planet": "行星" # global (count: 7) (undefined)
-  "R": ""
+  "Planet": "行星" # global (count: 8) (undefined)
+  "R": "" # global (count: 2) (undefined)
   "Reaper": "恶魔飞船" # global (count: 5) (undefined)
 #  "Recycle debris field": "" # global (count: 1) (defined)
 #  "Recycler": "" # global (count: 6) (defined)
@@ -600,7 +600,7 @@ bot.flights:
   "Ships to": ""
 #  "Small Cargo": "" # global (count: 6) (defined)
   "Spec": ""
-#  "Spy": "" # global (count: 5) (defined)
+#  "Spy": "" # global (count: 6) (defined)
 #  "Transport": "" # global (count: 5) (defined)
   "from": "自"
   "keep": "保留"
@@ -619,24 +619,24 @@ bot.galaxy.index:
   "Table": "表"
 bot.galaxy.map:
   "Active": "活跃" # global (count: 6) (undefined)
-  "Coord": "座标" # global (count: 2) (undefined)
+  "Coord": "座标" # global (count: 3) (undefined)
   "Inactive": "不活跃" # global (count: 2) (undefined)
   "Vacation": "假期" # global (count: 3) (undefined)
 bot.galaxy.player:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Add to hunter list": "加入猎人列表"
   "All": "" # global (count: 6) (undefined)
   "Alliance": "联盟" # global (count: 5) (undefined)
   "Coords": "座标" # global (count: 2) (undefined)
   "Crawl systems": ""
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage": "" # global (count: 3) (undefined)
   "Espionage report": "间谍报告" # global (count: 4) (undefined)
 #  "Galaxy": "" # global (count: 4) (defined)
   "History": ""
   "Members": "成员" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
 #  "Moon": "" # global (count: 3) (defined)
   "Phalanx all coordinates": ""
   "Planet name": "行星名称" # global (count: 2) (undefined)
@@ -648,12 +648,12 @@ bot.galaxy.player:
   "Time": ""
   "Updated": "更新于" # global (count: 2) (undefined)
 bot.galaxy.table:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Add alliance to ignore list": "将联盟加入忽略名单"
   "Add player to ignore list": "将玩家加入忽略名单"
   "Alliance": "联盟" # global (count: 5) (undefined)
   "Coords": "座标" # global (count: 2) (undefined)
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
   "Debris top 100": "前100废墟量"
 #  "Deuterium": "" # global (count: 8) (defined)
   "Espionage": "间谍" # global (count: 3) (undefined)
@@ -661,7 +661,7 @@ bot.galaxy.table:
   "Get spy reports": "" # global (count: 2) (undefined)
   "Go": "前往"
   "Members": "成员" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
 #  "Moon": "" # global (count: 3) (defined)
   "Open in OGame browser": "于OGame浏览器打开"
   "Planet name": "行星名称" # global (count: 2) (undefined)
@@ -690,7 +690,7 @@ bot.index:
   "Sleeping": "" # global (count: 2) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
-#  "Attack": "" # global (count: 5) (defined)
+#  "Attack": "" # global (count: 6) (defined)
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
 #  "Destroy": "" # global (count: 4) (defined)
@@ -707,7 +707,7 @@ bot.phalanxPlayer:
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
   "Ships": "" # global (count: 5) (undefined)
-#  "Spy": "" # global (count: 5) (defined)
+#  "Spy": "" # global (count: 6) (defined)
 #  "Transport": "" # global (count: 5) (defined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
@@ -821,8 +821,8 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": "验证脚本"
 bot.settings.activities:
-#  "Attack": "" # global (count: 5) (defined)
-  "Created at": "创建于" # global (count: 7) (undefined)
+#  "Attack": "" # global (count: 6) (defined)
+  "Created at": "创建于" # global (count: 8) (undefined)
 #  "Destination": "" # global (count: 7) (defined)
 #  "Expedition": "" # global (count: 8) (defined)
   "Fleet log": "舰队纪录"
@@ -833,18 +833,18 @@ bot.settings.activities:
 #  "Origin": "" # global (count: 7) (defined)
 #  "Prev": "" # global (count: 9) (defined)
   "Sent fleets": ""
-#  "Spy": "" # global (count: 5) (defined)
+#  "Spy": "" # global (count: 6) (defined)
 #  "Transport": "" # global (count: 5) (defined)
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
   "Highest bid value": ""
   "Homeworld": "" # global (count: 5) (undefined)
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
   "Save": "" # global (count: 17) (undefined)
 bot.settings.brain:
   "AI": ""
@@ -866,7 +866,7 @@ bot.settings.brain:
   "Kaelesh": ""
   "Mechas": ""
   "None": "无" # global (count: 2) (undefined)
-  "Planet": "行星" # global (count: 7) (undefined)
+  "Planet": "行星" # global (count: 8) (undefined)
   "Prevent importing if come back during sleep time": "不要在睡觉时间接收资源"
   "Prioritize nanite factory": ""
   "Queue": "排程" # global (count: 2) (undefined)
@@ -910,7 +910,7 @@ bot.settings.defender:
   "Never": "常关"
   "No players whitelisted": "白名单内没有玩家"
   "Notify small fleet attacks (< 1/3 firepower)": "小规模攻击时通知我 (小于三分之一火力)"
-  "Planet": "行星" # global (count: 7) (undefined)
+  "Planet": "行星" # global (count: 8) (undefined)
   "Play sound when attacked": "受攻击时播放音效"
   "Player ID": "" # global (count: 3) (undefined)
   "Preferred destination": "喜好目的地"
@@ -939,7 +939,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "All": "" # global (count: 6) (undefined)
   "Category": "分类" # global (count: 2) (undefined)
   "Coordinate": "座标" # global (count: 2) (undefined)
@@ -966,11 +966,11 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Active": "启用" # global (count: 6) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Arrive in": "抵达于" # global (count: 2) (defined)
-#  "Attack": "" # global (count: 5) (defined)
+#  "Attack": "" # global (count: 6) (defined)
   "Automatic fleet": ""
 #  "Battlecruiser": "" # global (count: 6) (defined)
 #  "Battleship": "" # global (count: 6) (defined)
@@ -1031,7 +1031,7 @@ bot.settings.expeditions:
   "Slots allowed": "允许的指挥数"
 #  "Small Cargo": "" # global (count: 6) (defined)
   "Small Cargo to stay": "保留于星/月上的小运"
-#  "Spy": "" # global (count: 5) (defined)
+#  "Spy": "" # global (count: 6) (defined)
   "Statistics": "统计"
   "Strategy": "策略"
   "Systems range": "太阳系范围"
@@ -1045,37 +1045,37 @@ bot.settings.expeditions:
   "unlimited": "无限制" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": "放弃所有工作阶段"
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Active": "活跃中" # global (count: 6) (undefined)
   "Add target to ignore list if defenses above the setting": ""
   "Add target to ignore list if the minimum storage is not met": ""
-  "Additional cargo": "额外货舱容量"
+  "Additional cargo": "额外货舱容量" # global (count: 2) (undefined)
   "Additional cargo to send when attacking": ""
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": "由最近月球攻击"
-  "Attack from nearest planet": "由最近行星攻击"
+  "Attack from nearest planet": "由最近行星攻击" # global (count: 2) (undefined)
   "Attack from the closest moon to the target": ""
   "Attack from the closest moon/planet to the target": ""
-  "Attack speed": "攻击速度"
+  "Attack speed": "攻击速度" # global (count: 2) (undefined)
   "Attack targets with spy probes": ""
   "Celestial from where to spy & attack": ""
-  "Created at": "创建于" # global (count: 7) (undefined)
-#  "Crystal": "" # global (count: 8) (defined)
+  "Created at": "创建于" # global (count: 8) (undefined)
+#  "Crystal": "" # global (count: 9) (defined)
   "Delete combat reports": "删除战斗报告"
   "Delete combat reports once the farmer is done using it": ""
 #  "Deuterium": "" # global (count: 8) (defined)
-  "Espionage probe raids": "间谍卫星攻击"
+  "Espionage probe raids": "间谍卫星攻击" # global (count: 2) (undefined)
   "Farm sessions": "耕作(刮I)工作阶段"
   "Farmer active": "启用耕作者(刮I)"
-  "Fast attacking": "快速攻击"
+  "Fast attacking": "快速攻击" # global (count: 2) (undefined)
   "Ignore inactive players who have activity on their planet": ""
-  "Ignore targets with activity": "忽略目标活动"
+  "Ignore targets with activity": "忽略目标活动" # global (count: 2) (undefined)
   "Inactive": "不活跃" # global (count: 2) (undefined)
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
   "Min. defenses to ignore": "防御高于 则略过"
-  "Min. player rank": "排名高于 则略过"
-  "Min. resources to attack": "最少可掠夺资源"
+  "Min. player rank": "排名高于 则略过" # global (count: 2) (undefined)
+  "Min. resources to attack": "最少可掠夺资源" # global (count: 2) (undefined)
   "Minimum level of storage": "最低储存器等级"
   "Minimum possible loot to attack a target": ""
   "Nb probes": "间谍数量"
@@ -1083,17 +1083,17 @@ bot.settings.farmer:
   "No session": "无工作阶段"
   "Number of probes to send when spying": ""
 #  "Origin": "" # global (count: 7) (defined)
-  "Planet": "行星" # global (count: 7) (undefined)
+  "Planet": "行星" # global (count: 8) (undefined)
   "Priority calculation": "优先考量计算"
-  "Range": "范围"
+  "Range": "范围" # global (count: 2) (undefined)
   "Range to farm": ""
   "Redo": "重做" # global (count: 2) (undefined)
   "Save": "保存" # global (count: 17) (undefined)
   "Select origin": "选择出發地" # global (count: 4) (undefined)
   "Skip the target if player rank is over setting": ""
   "Start new session": "开始新工作阶段"
-  "State": "状态"
-  "Total loot": "总计掠夺"
+  "State": "状态" # global (count: 2) (undefined)
+  "Total loot": "总计掠夺" # global (count: 2) (undefined)
   "Use pathfinders": "使用探路者"
   "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
@@ -1105,21 +1105,75 @@ bot.settings.farmerIgnoredAlliances:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Alliance": "" # global (count: 5) (undefined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Ignored planets": ""
-  "Planet": "" # global (count: 7) (undefined)
-  "Player": "" # global (count: 3) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
+  "Player": "" # global (count: 4) (undefined)
   "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Remove all": "移除所有" # global (count: 3) (undefined)
 bot.settings.farmerSession:
+  "Abort session": ""
+#  "Actions": "" # global (count: 15) (defined)
+  "Additional cargo": "" # global (count: 2) (undefined)
+  "Att": ""
+#  "Attack": "" # global (count: 6) (defined)
+  "Attack from nearest planet": "" # global (count: 2) (undefined)
+  "Attack speed": "" # global (count: 2) (undefined)
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
+  "B": ""
+  "Buildings info": ""
+  "CE": ""
+  "Coord": "" # global (count: 3) (undefined)
+  "Counter espionage": ""
+  "Created at": "" # global (count: 8) (undefined)
+#  "Crystal": "" # global (count: 9) (defined)
+  "D": ""
+  "Defense pts": ""
+  "Defenses info": ""
+  "Deut": ""
+  "Energy": "" # global (count: 2) (undefined)
+  "Espionage probe raids": "" # global (count: 2) (undefined)
+  "F": ""
+  "Farm session": ""
+#  "Farmer": "" # global (count: 6) (defined)
+  "Fast attacking": "" # global (count: 2) (undefined)
+  "Fleet info": ""
+  "Fuel Consumption": ""
+  "Ignore alliance": ""
+  "Ignore planet": ""
+  "Ignore player": ""
+  "Ignore targets with activity": "" # global (count: 2) (undefined)
+#  "Metal": "" # global (count: 9) (defined)
+  "Min. player rank": "" # global (count: 2) (undefined)
+  "Min. resources to attack": "" # global (count: 2) (undefined)
+  "Nb Probes": ""
+  "Pause session": ""
+  "Phase": ""
+  "Planet": "" # global (count: 8) (undefined)
+  "Player": "" # global (count: 4) (undefined)
+  "Priority ratio": ""
+  "R": "" # global (count: 2) (undefined)
+  "Range": "" # global (count: 2) (undefined)
+  "Researches info": ""
+  "Resume session": ""
+  "Scan": ""
+#  "Spy": "" # global (count: 6) (defined)
+  "State": "" # global (count: 2) (undefined)
+  "Targets": ""
+  "Total loot": "" # global (count: 2) (undefined)
+  "alliance ignored": ""
+  "failed to ignore alliance": ""
+  "failed to ignore planet": ""
+  "failed to ignore player": ""
+  "planet ignored": ""
+  "player ignored": ""
 bot.settings.home:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Attack type": "攻击种类"
   "Attacker": "攻击者" # global (count: 2) (undefined)
@@ -1165,7 +1219,7 @@ bot.settings.hunter-target:
   "minutes": "分" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "--- 当前有活动的星/月 ---" # global (count: 2) (undefined)
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
 #  "Activities": "" # global (count: 3) (defined)
   "Activity": "活动" # global (count: 2) (undefined)
   "Alliance": "" # global (count: 5) (undefined)
@@ -1173,7 +1227,7 @@ bot.settings.hunter:
   "Hunter configs": "猎人设定"
   "No activity": "无活动" # global (count: 2) (undefined)
   "No targets": "无目标"
-  "Player": "玩家" # global (count: 3) (undefined)
+  "Player": "玩家" # global (count: 4) (undefined)
   "Player rank": "玩家排名"
   "Save": "保存" # global (count: 17) (undefined)
   "Scan frequency": "扫描频率" # global (count: 2) (undefined)
@@ -1190,7 +1244,7 @@ bot.settings.index:
 #  "Defender": "" # global (count: 7) (defined)
   "Discovery": ""
 #  "Expeditions": "" # global (count: 4) (defined)
-#  "Farmer": "" # global (count: 5) (defined)
+#  "Farmer": "" # global (count: 6) (defined)
 #  "Hunter": "" # global (count: 4) (defined)
 #  "Logs": "" # global (count: 1) (defined)
   "Messages": "讯息" # global (count: 3) (undefined)
@@ -1208,11 +1262,11 @@ bot.settings.logs:
   "Category": "分类" # global (count: 2) (undefined)
   "Colonizer": "" # global (count: 2) (undefined)
   "Crawler": "爬虫(抓取资料)" # global (count: 5) (defined)
-  "Created at": "创建于" # global (count: 7) (undefined)
+  "Created at": "创建于" # global (count: 8) (undefined)
 #  "Defender": "" # global (count: 7) (defined)
   "Download logs": "下载纪录"
 #  "Expeditions": "" # global (count: 4) (defined)
-#  "Farmer": "" # global (count: 5) (defined)
+#  "Farmer": "" # global (count: 6) (defined)
   "Fleet save": ""
   "General": "一般" # global (count: 5) (undefined)
 #  "Hunter": "" # global (count: 4) (defined)
@@ -1230,7 +1284,7 @@ bot.settings.messages:
   "Coordinate": "座标" # global (count: 2) (undefined)
   "Espionage report": "间谍报告" # global (count: 4) (undefined)
 #  "Expedition": "" # global (count: 8) (defined)
-#  "Farmer": "" # global (count: 5) (defined)
+#  "Farmer": "" # global (count: 6) (defined)
   "Importer": "接受位置"
   "InGame date": "游戏中日期" # global (count: 2) (undefined)
   "Loot": "掠夺资源" # global (count: 2) (undefined)
@@ -1254,7 +1308,7 @@ bot.settings.notifications:
   "Failed to fleet save": "无法FS(保护舰队)"
   "Farm session completed": "耕作(刮I)工作完成"
   "Farm session started": "耕作(刮I)工作开始"
-#  "Farmer": "" # global (count: 5) (defined)
+#  "Farmer": "" # global (count: 6) (defined)
   "Forward ingame chat from alliance": "转發游戏内联盟讯息"
   "Forward ingame chat from players": "转發游戏内玩家讯息"
   "General": "一般" # global (count: 5) (undefined)
@@ -1279,10 +1333,10 @@ bot.settings.notifications:
   "test slack": "测试Slack"
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
   "Check interval (seconds)": ""
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "ID": "" # global (count: 3) (undefined)
   "No session to display": ""
 #  "Origin": "" # global (count: 7) (defined)
@@ -1292,7 +1346,7 @@ bot.settings.phalanx:
   "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
-#  "Attack": "" # global (count: 5) (defined)
+#  "Attack": "" # global (count: 6) (defined)
   "Click on a fleet to get timing details": ""
 #  "Colonize": "" # global (count: 4) (defined)
 #  "Destination": "" # global (count: 7) (defined)
@@ -1317,7 +1371,7 @@ bot.settings.phalanxSession:
   "Session aborted": "已放弃工作阶段"
   "Ships": "" # global (count: 5) (undefined)
 #  "Speed": "" # global (count: 2) (defined)
-#  "Spy": "" # global (count: 5) (defined)
+#  "Spy": "" # global (count: 6) (defined)
   "Started at": ""
 #  "Stop": "" # global (count: 5) (defined)
   "Target information": ""
@@ -1458,7 +1512,7 @@ bot.settings.sleepMode:
   "Manual fleet save": "手动FS(保护舰队)"
   "Monday": "週一"
   "Own debris field": "自己的废墟"
-  "Planet": "行星" # global (count: 7) (undefined)
+  "Planet": "行星" # global (count: 8) (undefined)
   "Put bot to sleep now": "让机器人去睡觉"
   "Random colonize": ""
   "Random debris field": "随机废墟"
@@ -1497,7 +1551,7 @@ bot.simulator:
   "Coordinates": "座标" # global (count: 2) (undefined)
 #  "Crawler": "" # global (count: 5) (defined)
 #  "Cruiser": "" # global (count: 6) (defined)
-#  "Crystal": "" # global (count: 8) (defined)
+#  "Crystal": "" # global (count: 9) (defined)
 #  "Deathstar": "" # global (count: 6) (defined)
   "Debris": "废墟" # global (count: 2) (undefined)
   "Defence": "防御"
@@ -1527,12 +1581,12 @@ bot.simulator:
 #  "Light Fighter": "" # global (count: 6) (defined)
 #  "Light Laser": "" # global (count: 4) (defined)
   "Losses": "损失"
-#  "Metal": "" # global (count: 8) (defined)
+#  "Metal": "" # global (count: 9) (defined)
   "Moonchance": "造月机率"
   "Open in TrashSim": "于TrashSim中打开"
 #  "Pathfinder": "" # global (count: 6) (defined)
   "Pathfinders": "探路者" # global (count: 1) (defined)
-  "Planet": "行星" # global (count: 7) (undefined)
+  "Planet": "行星" # global (count: 8) (undefined)
   "Planet/Moon": "行星/月球"
 #  "Plasma Turret": "" # global (count: 4) (defined)
   "Plunder": "掠夺"
@@ -1589,7 +1643,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Delete all keys": ""
   "Key": ""
   "Key/value storage": "" # global (count: 2) (undefined)
@@ -1621,7 +1675,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "" # global (count: 13) (undefined)
 download-licenses:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
   "Active": "使用/活跃中" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
 #  "Download": "" # global (count: 12) (defined)
@@ -1661,7 +1715,7 @@ features:
   "Combat simulator": "战斗模碍器" # global (count: 2) (undefined)
 #  "Defender": "" # global (count: 7) (defined)
   "Empire view": "帝国总览" # global (count: 2) (undefined)
-#  "Farmer": "" # global (count: 5) (defined)
+#  "Farmer": "" # global (count: 6) (defined)
   "Universe map": "宇宙星图" # global (count: 2) (undefined)
   "activities-desc": ""
   "augments-desc": ""
@@ -1722,7 +1776,7 @@ home-slave:
 #  "Stop": "" # global (count: 5) (defined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-#  "Actions": "" # global (count: 14) (defined)
+#  "Actions": "" # global (count: 15) (defined)
 #  "Are you sure?": "" # global (count: 19) (defined)
 #  "Bots": "" # global (count: 5) (defined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -2009,7 +2063,7 @@ new-trial-license:
   "New trial license": "新凭证"
   "description1": "描述" # global (count: 2) (undefined)
 notifications:
-  "Created at": "创建于" # global (count: 7) (undefined)
+  "Created at": "创建于" # global (count: 8) (undefined)
   "Message": "讯息" # global (count: 3) (undefined)
   "No notifications": "没有通知"
   "Notifications": "通知" # global (count: 4) (undefined)

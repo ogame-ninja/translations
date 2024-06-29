@@ -23,7 +23,7 @@ admin.license:
   "Upload file": ""
   "unlimited": "" # global (count: 2) (undefined)
 admin.login-history:
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "Deleted at": ""
   "Expires at": "" # global (count: 2) (undefined)
   "IP": "" # global (count: 2) (undefined)
@@ -77,7 +77,7 @@ admin.user-edit:
   "Yes": ""
 admin.users:
   "Admin": "" # global (count: 2) (undefined)
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "Delete user": ""
   "New user": ""
   "Username": "" # global (count: 10) (undefined)
@@ -107,10 +107,10 @@ bot.conqueror:
   "Battleship": "" # global (count: 6) (undefined)
   "Bomber": "" # global (count: 6) (undefined)
   "Colony Ship": "" # global (count: 6) (undefined)
-  "Coord": "" # global (count: 2) (undefined)
+  "Coord": "" # global (count: 3) (undefined)
   "Crawler": "" # global (count: 5) (undefined)
   "Cruiser": "" # global (count: 6) (undefined)
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Date": ""
   "Deathstar": "" # global (count: 6) (undefined)
   "Defenses": "" # global (count: 2) (undefined)
@@ -131,11 +131,11 @@ bot.conqueror:
   "Light Fighter": "" # global (count: 6) (undefined)
   "Light Laser": "" # global (count: 4) (undefined)
   "Loot": "" # global (count: 2) (undefined)
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "No espionage report to show": ""
   "Pathfinder": "" # global (count: 6) (undefined)
   "Plasma Turret": "" # global (count: 4) (undefined)
-  "Player": "" # global (count: 3) (undefined)
+  "Player": "" # global (count: 4) (undefined)
   "Reaper": "" # global (count: 5) (undefined)
   "Recycler": "" # global (count: 6) (undefined)
   "Resources": "" # global (count: 3) (undefined)
@@ -147,7 +147,7 @@ bot.conqueror:
 bot.empire:
   "Academy Of Sciences": ""
   "Acoustic Scanning": ""
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Advanced Recycling Plant": ""
   "All": "" # global (count: 6) (undefined)
   "Alliance Depot": "" # global (count: 2) (undefined)
@@ -183,7 +183,7 @@ bot.empire:
   "Crawler setting": ""
   "Cruiser": "" # global (count: 6) (undefined)
   "Cruiser MkII": ""
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Crystal Farm": ""
   "Crystal Mine": "" # global (count: 2) (undefined)
   "Crystal Refinery": ""
@@ -204,7 +204,7 @@ bot.empire:
   "Disruption Chamber": ""
   "Efficiency Module": ""
   "Efficient Swarm Intelligence": ""
-  "Energy": ""
+  "Energy": "" # global (count: 2) (undefined)
   "Energy Technology": "" # global (count: 2) (undefined)
   "Enhanced Production Technologies": ""
   "Enhanced Sensor Technology": ""
@@ -280,7 +280,7 @@ bot.empire:
   "Mechas researches": ""
   "Meditation Enclave": ""
   "Megalith": ""
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Metal Mine": "" # global (count: 2) (undefined)
   "Metal Storage": "" # global (count: 2) (undefined)
   "Metal setting": ""
@@ -367,7 +367,7 @@ bot.empire:
   "Weapons Technology": "" # global (count: 2) (undefined)
 bot.flights:
   "ACS Attack": ""
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Activate all": ""
   "Active": "" # global (count: 6) (undefined)
   "All": "" # global (count: 6) (undefined)
@@ -375,7 +375,7 @@ bot.flights:
   "Arrival": ""
   "Arrive at": ""
   "Arrive in": "" # global (count: 2) (undefined)
-  "Attack": "" # global (count: 5) (undefined)
+  "Attack": "" # global (count: 6) (undefined)
   "Battlecruiser": "" # global (count: 6) (undefined)
   "Battleship": "" # global (count: 6) (undefined)
   "Bomber": "" # global (count: 6) (undefined)
@@ -388,7 +388,7 @@ bot.flights:
   "Crawler": "" # global (count: 5) (undefined)
   "Cron jobs": ""
   "Cruiser": "" # global (count: 6) (undefined)
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Current fleets": "" # global (count: 2) (undefined)
   "DS": ""
   "Deactivate all": ""
@@ -419,7 +419,7 @@ bot.flights:
   "LC": ""
   "Large Cargo": "" # global (count: 6) (undefined)
   "Light Fighter": "" # global (count: 6) (undefined)
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Missile Attack": "" # global (count: 4) (undefined)
   "Mission": "" # global (count: 5) (undefined)
   "Moon": "" # global (count: 3) (undefined)
@@ -435,8 +435,8 @@ bot.flights:
   "Park": "" # global (count: 4) (undefined)
   "Park In That Ally": "" # global (count: 4) (undefined)
   "Pathfinder": "" # global (count: 6) (undefined)
-  "Planet": "" # global (count: 7) (undefined)
-  "R": ""
+  "Planet": "" # global (count: 8) (undefined)
+  "R": "" # global (count: 2) (undefined)
   "Reaper": "" # global (count: 5) (undefined)
   "Recycle debris field": ""
   "Recycler": "" # global (count: 6) (undefined)
@@ -457,7 +457,7 @@ bot.flights:
   "Ships to": ""
   "Small Cargo": "" # global (count: 6) (undefined)
   "Spec": ""
-  "Spy": "" # global (count: 5) (undefined)
+  "Spy": "" # global (count: 6) (undefined)
   "Transport": "" # global (count: 5) (undefined)
   "from": ""
   "keep": ""
@@ -476,24 +476,24 @@ bot.galaxy.index:
   "Table": ""
 bot.galaxy.map:
   "Active": "" # global (count: 6) (undefined)
-  "Coord": "" # global (count: 2) (undefined)
+  "Coord": "" # global (count: 3) (undefined)
   "Inactive": "" # global (count: 2) (undefined)
   "Vacation": "" # global (count: 3) (undefined)
 bot.galaxy.player:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Add to hunter list": ""
   "All": "" # global (count: 6) (undefined)
   "Alliance": "" # global (count: 5) (undefined)
   "Coords": "" # global (count: 2) (undefined)
   "Crawl systems": ""
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Deuterium": "" # global (count: 8) (undefined)
   "Espionage": "" # global (count: 3) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
   "Galaxy": "" # global (count: 4) (undefined)
   "History": ""
   "Members": "" # global (count: 2) (undefined)
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Moon": "" # global (count: 3) (undefined)
   "Phalanx all coordinates": ""
   "Planet name": "" # global (count: 2) (undefined)
@@ -505,12 +505,12 @@ bot.galaxy.player:
   "Time": ""
   "Updated": "" # global (count: 2) (undefined)
 bot.galaxy.table:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Add alliance to ignore list": ""
   "Add player to ignore list": ""
   "Alliance": "" # global (count: 5) (undefined)
   "Coords": "" # global (count: 2) (undefined)
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Debris top 100": ""
   "Deuterium": "" # global (count: 8) (undefined)
   "Espionage": "" # global (count: 3) (undefined)
@@ -518,7 +518,7 @@ bot.galaxy.table:
   "Get spy reports": "" # global (count: 2) (undefined)
   "Go": ""
   "Members": "" # global (count: 2) (undefined)
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Moon": "" # global (count: 3) (undefined)
   "Open in OGame browser": ""
   "Planet name": "" # global (count: 2) (undefined)
@@ -547,7 +547,7 @@ bot.index:
   "Sleeping": "" # global (count: 2) (undefined)
 bot.phalanxPlayer:
   "Arrival time": "" # global (count: 2) (undefined)
-  "Attack": "" # global (count: 5) (undefined)
+  "Attack": "" # global (count: 6) (undefined)
   "Colonize": "" # global (count: 4) (undefined)
   "Destination": "" # global (count: 7) (undefined)
   "Destroy": "" # global (count: 4) (undefined)
@@ -564,7 +564,7 @@ bot.phalanxPlayer:
   "Phalanx all": ""
   "Player profile": "" # global (count: 2) (undefined)
   "Ships": "" # global (count: 5) (undefined)
-  "Spy": "" # global (count: 5) (undefined)
+  "Spy": "" # global (count: 6) (undefined)
   "Transport": "" # global (count: 5) (undefined)
   "Union ID": "" # global (count: 2) (undefined)
 bot.planet:
@@ -678,8 +678,8 @@ bot.scripts:
   "Upload scripts": ""
   "Validate Script": ""
 bot.settings.activities:
-  "Attack": "" # global (count: 5) (undefined)
-  "Created at": "" # global (count: 7) (undefined)
+  "Attack": "" # global (count: 6) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "Destination": "" # global (count: 7) (undefined)
   "Expedition": "" # global (count: 8) (undefined)
   "Fleet log": ""
@@ -690,18 +690,18 @@ bot.settings.activities:
   "Origin": "" # global (count: 7) (undefined)
   "Prev": "" # global (count: 9) (undefined)
   "Sent fleets": ""
-  "Spy": "" # global (count: 5) (undefined)
+  "Spy": "" # global (count: 6) (undefined)
   "Transport": "" # global (count: 5) (undefined)
 bot.settings.auctioneer:
   "--- Select a planet/moon ---": ""
   "Auctioneer active": ""
   "Auctioneer configs": ""
   "Bid from": ""
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Deuterium": "" # global (count: 8) (undefined)
   "Highest bid value": ""
   "Homeworld": "" # global (count: 5) (undefined)
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Save": "" # global (count: 17) (undefined)
 bot.settings.brain:
   "AI": ""
@@ -723,7 +723,7 @@ bot.settings.brain:
   "Kaelesh": ""
   "Mechas": ""
   "None": "" # global (count: 2) (undefined)
-  "Planet": "" # global (count: 7) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
   "Prevent importing if come back during sleep time": ""
   "Prioritize nanite factory": ""
   "Queue": "" # global (count: 2) (undefined)
@@ -767,7 +767,7 @@ bot.settings.defender:
   "Never": ""
   "No players whitelisted": ""
   "Notify small fleet attacks (< 1/3 firepower)": ""
-  "Planet": "" # global (count: 7) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
   "Play sound when attacked": ""
   "Player ID": "" # global (count: 3) (undefined)
   "Preferred destination": ""
@@ -796,7 +796,7 @@ bot.settings.discovery:
   "Save": "" # global (count: 17) (undefined)
   "discovery active": ""
 bot.settings.expeditionMessages:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "All": "" # global (count: 6) (undefined)
   "Category": "" # global (count: 2) (undefined)
   "Coordinate": "" # global (count: 2) (undefined)
@@ -823,11 +823,11 @@ bot.settings.expeditionMessages:
   "speedup": ""
   "unknown": ""
 bot.settings.expeditions:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Active": "" # global (count: 6) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Arrive in": "" # global (count: 2) (undefined)
-  "Attack": "" # global (count: 5) (undefined)
+  "Attack": "" # global (count: 6) (undefined)
   "Automatic fleet": ""
   "Battlecruiser": "" # global (count: 6) (undefined)
   "Battleship": "" # global (count: 6) (undefined)
@@ -888,7 +888,7 @@ bot.settings.expeditions:
   "Slots allowed": ""
   "Small Cargo": "" # global (count: 6) (undefined)
   "Small Cargo to stay": ""
-  "Spy": "" # global (count: 5) (undefined)
+  "Spy": "" # global (count: 6) (undefined)
   "Statistics": ""
   "Strategy": ""
   "Systems range": ""
@@ -902,37 +902,37 @@ bot.settings.expeditions:
   "unlimited": "" # global (count: 2) (undefined)
 bot.settings.farmer:
   "Abort all sessions": ""
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Active": "" # global (count: 6) (undefined)
   "Add target to ignore list if defenses above the setting": ""
   "Add target to ignore list if the minimum storage is not met": ""
-  "Additional cargo": ""
+  "Additional cargo": "" # global (count: 2) (undefined)
   "Additional cargo to send when attacking": ""
   "Are you sure?": "" # global (count: 19) (undefined)
   "Attack as soon as we find a suitable target": ""
   "Attack from nearest moon": ""
-  "Attack from nearest planet": ""
+  "Attack from nearest planet": "" # global (count: 2) (undefined)
   "Attack from the closest moon to the target": ""
   "Attack from the closest moon/planet to the target": ""
-  "Attack speed": ""
+  "Attack speed": "" # global (count: 2) (undefined)
   "Attack targets with spy probes": ""
   "Celestial from where to spy & attack": ""
-  "Created at": "" # global (count: 7) (undefined)
-  "Crystal": "" # global (count: 8) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Delete combat reports": ""
   "Delete combat reports once the farmer is done using it": ""
   "Deuterium": "" # global (count: 8) (undefined)
-  "Espionage probe raids": ""
+  "Espionage probe raids": "" # global (count: 2) (undefined)
   "Farm sessions": ""
   "Farmer active": ""
-  "Fast attacking": ""
+  "Fast attacking": "" # global (count: 2) (undefined)
   "Ignore inactive players who have activity on their planet": ""
-  "Ignore targets with activity": ""
+  "Ignore targets with activity": "" # global (count: 2) (undefined)
   "Inactive": "" # global (count: 2) (undefined)
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Min. defenses to ignore": ""
-  "Min. player rank": ""
-  "Min. resources to attack": ""
+  "Min. player rank": "" # global (count: 2) (undefined)
+  "Min. resources to attack": "" # global (count: 2) (undefined)
   "Minimum level of storage": ""
   "Minimum possible loot to attack a target": ""
   "Nb probes": ""
@@ -940,17 +940,17 @@ bot.settings.farmer:
   "No session": ""
   "Number of probes to send when spying": ""
   "Origin": "" # global (count: 7) (undefined)
-  "Planet": "" # global (count: 7) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
   "Priority calculation": ""
-  "Range": ""
+  "Range": "" # global (count: 2) (undefined)
   "Range to farm": ""
   "Redo": "" # global (count: 2) (undefined)
   "Save": "" # global (count: 17) (undefined)
   "Select origin": "" # global (count: 4) (undefined)
   "Skip the target if player rank is over setting": ""
   "Start new session": ""
-  "State": ""
-  "Total loot": ""
+  "State": "" # global (count: 2) (undefined)
+  "Total loot": "" # global (count: 2) (undefined)
   "Use pathfinders": ""
   "Use pathfinders to attack targets": ""
   "You need to deactivate \"Hide pictures in reports\" in ogame options for the farmer to work properly.": ""
@@ -962,21 +962,75 @@ bot.settings.farmerIgnoredAlliances:
   "Are you sure?": "" # global (count: 19) (undefined)
   "Remove all": "" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlanets:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Alliance": "" # global (count: 5) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Ignored planets": ""
-  "Planet": "" # global (count: 7) (undefined)
-  "Player": "" # global (count: 3) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
+  "Player": "" # global (count: 4) (undefined)
   "Remove all": "" # global (count: 3) (undefined)
 bot.settings.farmerIgnoredPlayers:
   "Are you sure?": "" # global (count: 19) (undefined)
   "Remove all": "" # global (count: 3) (undefined)
 bot.settings.farmerSession:
+  "Abort session": ""
+  "Actions": "" # global (count: 15) (undefined)
+  "Additional cargo": "" # global (count: 2) (undefined)
+  "Att": ""
+  "Attack": "" # global (count: 6) (undefined)
+  "Attack from nearest planet": "" # global (count: 2) (undefined)
+  "Attack speed": "" # global (count: 2) (undefined)
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
+  "B": ""
+  "Buildings info": ""
+  "CE": ""
+  "Coord": "" # global (count: 3) (undefined)
+  "Counter espionage": ""
+  "Created at": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
+  "D": ""
+  "Defense pts": ""
+  "Defenses info": ""
+  "Deut": ""
+  "Energy": "" # global (count: 2) (undefined)
+  "Espionage probe raids": "" # global (count: 2) (undefined)
+  "F": ""
+  "Farm session": ""
+  "Farmer": "" # global (count: 6) (undefined)
+  "Fast attacking": "" # global (count: 2) (undefined)
+  "Fleet info": ""
+  "Fuel Consumption": ""
+  "Ignore alliance": ""
+  "Ignore planet": ""
+  "Ignore player": ""
+  "Ignore targets with activity": "" # global (count: 2) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
+  "Min. player rank": "" # global (count: 2) (undefined)
+  "Min. resources to attack": "" # global (count: 2) (undefined)
+  "Nb Probes": ""
+  "Pause session": ""
+  "Phase": ""
+  "Planet": "" # global (count: 8) (undefined)
+  "Player": "" # global (count: 4) (undefined)
+  "Priority ratio": ""
+  "R": "" # global (count: 2) (undefined)
+  "Range": "" # global (count: 2) (undefined)
+  "Researches info": ""
+  "Resume session": ""
+  "Scan": ""
+  "Spy": "" # global (count: 6) (undefined)
+  "State": "" # global (count: 2) (undefined)
+  "Targets": ""
+  "Total loot": "" # global (count: 2) (undefined)
+  "alliance ignored": ""
+  "failed to ignore alliance": ""
+  "failed to ignore planet": ""
+  "failed to ignore player": ""
+  "planet ignored": ""
+  "player ignored": ""
 bot.settings.home:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Attack type": ""
   "Attacker": "" # global (count: 2) (undefined)
@@ -1022,7 +1076,7 @@ bot.settings.hunter-target:
   "minutes": "" # global (count: 3) (undefined)
 bot.settings.hunter:
   "--- Currently active planet/moon ---": "" # global (count: 2) (undefined)
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Activities": "" # global (count: 3) (undefined)
   "Activity": "" # global (count: 2) (undefined)
   "Alliance": "" # global (count: 5) (undefined)
@@ -1030,7 +1084,7 @@ bot.settings.hunter:
   "Hunter configs": ""
   "No activity": "" # global (count: 2) (undefined)
   "No targets": ""
-  "Player": "" # global (count: 3) (undefined)
+  "Player": "" # global (count: 4) (undefined)
   "Player rank": ""
   "Save": "" # global (count: 17) (undefined)
   "Scan frequency": "" # global (count: 2) (undefined)
@@ -1047,7 +1101,7 @@ bot.settings.index:
   "Defender": "" # global (count: 7) (undefined)
   "Discovery": ""
   "Expeditions": "" # global (count: 4) (undefined)
-  "Farmer": "" # global (count: 5) (undefined)
+  "Farmer": "" # global (count: 6) (undefined)
   "Hunter": "" # global (count: 4) (undefined)
   "Logs": ""
   "Messages": "" # global (count: 3) (undefined)
@@ -1065,11 +1119,11 @@ bot.settings.logs:
   "Category": "" # global (count: 2) (undefined)
   "Colonizer": "" # global (count: 2) (undefined)
   "Crawler": "" # global (count: 5) (undefined)
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "Defender": "" # global (count: 7) (undefined)
   "Download logs": ""
   "Expeditions": "" # global (count: 4) (undefined)
-  "Farmer": "" # global (count: 5) (undefined)
+  "Farmer": "" # global (count: 6) (undefined)
   "Fleet save": ""
   "General": "" # global (count: 5) (undefined)
   "Hunter": "" # global (count: 4) (undefined)
@@ -1087,7 +1141,7 @@ bot.settings.messages:
   "Coordinate": "" # global (count: 2) (undefined)
   "Espionage report": "" # global (count: 4) (undefined)
   "Expedition": "" # global (count: 8) (undefined)
-  "Farmer": "" # global (count: 5) (undefined)
+  "Farmer": "" # global (count: 6) (undefined)
   "Importer": ""
   "InGame date": "" # global (count: 2) (undefined)
   "Loot": "" # global (count: 2) (undefined)
@@ -1111,7 +1165,7 @@ bot.settings.notifications:
   "Failed to fleet save": ""
   "Farm session completed": ""
   "Farm session started": ""
-  "Farmer": "" # global (count: 5) (undefined)
+  "Farmer": "" # global (count: 6) (undefined)
   "Forward ingame chat from alliance": ""
   "Forward ingame chat from players": ""
   "General": "" # global (count: 5) (undefined)
@@ -1136,10 +1190,10 @@ bot.settings.notifications:
   "test slack": ""
 bot.settings.phalanx:
   "--- Select origin moon ---": ""
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Check interval (seconds)": ""
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "ID": "" # global (count: 3) (undefined)
   "No session to display": ""
   "Origin": "" # global (count: 7) (undefined)
@@ -1149,7 +1203,7 @@ bot.settings.phalanx:
   "Target": "" # global (count: 2) (undefined)
 bot.settings.phalanxSession:
   "Arrival time": "" # global (count: 2) (undefined)
-  "Attack": "" # global (count: 5) (undefined)
+  "Attack": "" # global (count: 6) (undefined)
   "Click on a fleet to get timing details": ""
   "Colonize": "" # global (count: 4) (undefined)
   "Destination": "" # global (count: 7) (undefined)
@@ -1174,7 +1228,7 @@ bot.settings.phalanxSession:
   "Session aborted": ""
   "Ships": "" # global (count: 5) (undefined)
   "Speed": "" # global (count: 2) (undefined)
-  "Spy": "" # global (count: 5) (undefined)
+  "Spy": "" # global (count: 6) (undefined)
   "Started at": ""
   "Stop": "" # global (count: 5) (undefined)
   "Target information": ""
@@ -1315,7 +1369,7 @@ bot.settings.sleepMode:
   "Manual fleet save": ""
   "Monday": ""
   "Own debris field": ""
-  "Planet": "" # global (count: 7) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
   "Put bot to sleep now": ""
   "Random colonize": ""
   "Random debris field": ""
@@ -1354,7 +1408,7 @@ bot.simulator:
   "Coordinates": "" # global (count: 2) (undefined)
   "Crawler": "" # global (count: 5) (undefined)
   "Cruiser": "" # global (count: 6) (undefined)
-  "Crystal": "" # global (count: 8) (undefined)
+  "Crystal": "" # global (count: 9) (undefined)
   "Deathstar": "" # global (count: 6) (undefined)
   "Debris": "" # global (count: 2) (undefined)
   "Defence": ""
@@ -1384,12 +1438,12 @@ bot.simulator:
   "Light Fighter": "" # global (count: 6) (undefined)
   "Light Laser": "" # global (count: 4) (undefined)
   "Losses": ""
-  "Metal": "" # global (count: 8) (undefined)
+  "Metal": "" # global (count: 9) (undefined)
   "Moonchance": ""
   "Open in TrashSim": ""
   "Pathfinder": "" # global (count: 6) (undefined)
   "Pathfinders": ""
-  "Planet": "" # global (count: 7) (undefined)
+  "Planet": "" # global (count: 8) (undefined)
   "Planet/Moon": ""
   "Plasma Turret": "" # global (count: 4) (undefined)
   "Plunder": ""
@@ -1446,7 +1500,7 @@ compiled-scripts:
   "Save": "" # global (count: 17) (undefined)
   "failed to save script": ""
 database:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Delete all keys": ""
   "Key": ""
   "Key/value storage": "" # global (count: 2) (undefined)
@@ -1478,7 +1532,7 @@ download-antigame:
   "ogame Ninja": "" # global (count: 3) (undefined)
   "title": "" # global (count: 13) (undefined)
 download-licenses:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Active": "" # global (count: 6) (undefined)
   "Antigame": "" # global (count: 3) (undefined)
   "Download": "" # global (count: 12) (undefined)
@@ -1518,7 +1572,7 @@ features:
   "Combat simulator": "" # global (count: 2) (undefined)
   "Defender": "" # global (count: 7) (undefined)
   "Empire view": "" # global (count: 2) (undefined)
-  "Farmer": "" # global (count: 5) (undefined)
+  "Farmer": "" # global (count: 6) (undefined)
   "Universe map": "" # global (count: 2) (undefined)
   "activities-desc": ""
   "augments-desc": ""
@@ -1579,7 +1633,7 @@ home-slave:
   "Stop": "" # global (count: 5) (undefined)
   "Universe": "" # global (count: 4) (undefined)
 home:
-  "Actions": "" # global (count: 14) (undefined)
+  "Actions": "" # global (count: 15) (undefined)
   "Are you sure?": "" # global (count: 19) (undefined)
   "Bots": "" # global (count: 5) (undefined)
   "Compiled scripts": "" # global (count: 2) (undefined)
@@ -1866,7 +1920,7 @@ new-trial-license:
   "New trial license": ""
   "description1": "" # global (count: 2) (undefined)
 notifications:
-  "Created at": "" # global (count: 7) (undefined)
+  "Created at": "" # global (count: 8) (undefined)
   "Message": "" # global (count: 3) (undefined)
   "No notifications": ""
   "Notifications": "" # global (count: 4) (undefined)
