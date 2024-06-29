@@ -726,6 +726,7 @@ bot.galaxy.player:
   "Espionage": "Espionage" # global (count: 3) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
+  "History": "Historique"
   "Members": "Membres" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
   "Moon": "Lune" # global (count: 3) (undefined)
@@ -736,6 +737,7 @@ bot.galaxy.player:
   "RN": "RN" # global (count: 2) (undefined)
   "Rank": "Rang" # global (count: 6) (defined)
   "Spy all coordinates": "Espionner toutes les coordonnées"
+  "Time": "Temps"
   "Updated": "Mis à jour" # global (count: 2) (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (count: 13) (defined)

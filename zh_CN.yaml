@@ -634,6 +634,7 @@ bot.galaxy.player:
   "Espionage": "" # global (count: 3) (undefined)
   "Espionage report": "间谍报告" # global (count: 4) (undefined)
 #  "Galaxy": "" # global (count: 4) (defined)
+  "History": ""
   "Members": "成员" # global (count: 2) (undefined)
 #  "Metal": "" # global (count: 8) (defined)
 #  "Moon": "" # global (count: 3) (defined)
@@ -644,6 +645,7 @@ bot.galaxy.player:
   "RN": "所需回收船" # global (count: 2) (undefined)
 #  "Rank": "" # global (count: 6) (defined)
   "Spy all coordinates": ""
+  "Time": ""
   "Updated": "更新于" # global (count: 2) (undefined)
 bot.galaxy.table:
 #  "Actions": "" # global (count: 13) (defined)

@@ -673,6 +673,7 @@ bot.galaxy.player:
   "Espionage": "" # global (count: 3) (undefined)
 #  "Espionage report": "" # global (count: 4) (defined)
 #  "Galaxy": "" # global (count: 4) (defined)
+  "History": ""
 #  "Members": "" # global (count: 2) (defined)
 #  "Metal": "" # global (count: 8) (defined)
 #  "Moon": "" # global (count: 3) (defined)
@@ -683,6 +684,7 @@ bot.galaxy.player:
   "RN": "Anzahl Recycler" # global (count: 2) (undefined)
   "Rank": "Rang" # global (count: 6) (defined)
   "Spy all coordinates": ""
+  "Time": ""
 #  "Updated": "" # global (count: 2) (defined)
 bot.galaxy.table:
 #  "Actions": "" # global (count: 13) (defined)
