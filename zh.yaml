@@ -705,7 +705,7 @@ global:
   "Old password": "舊密碼"
   "Open .ogame folder": "打開 .ogame 資料夾"
   "Open in OGame browser": "於OGame瀏覽器打開"
-  "Open in TrashSim": "於TrashSim中打開"
+  "Open in BattleSim": "於BattleSim中打開"
   "Open locals folder": ""
   "Optimised Silo Construction Method": ""
   "Orbital Den": ""
@@ -2700,7 +2700,7 @@ bot.simulator:
 #  "Losses": "" # global (count: 1) (defined)
 #  "Metal": "" # global (count: 9) (defined)
 #  "Moonchance": "" # global (count: 1) (defined)
-#  "Open in TrashSim": "" # global (count: 1) (defined)
+#  "Open in BattleSim": "" # global (count: 1) (defined)
 #  "Pathfinder": "" # global (count: 6) (defined)
 #  "Pathfinders": "" # global (count: 1) (defined)
 #  "Planet": "" # global (count: 8) (defined)

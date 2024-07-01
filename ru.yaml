@@ -705,7 +705,7 @@ global:
   "Old password": "старый пароль"
   "Open .ogame folder": "Открыть Ogame папку"
   "Open in OGame browser": "Открыть Ogame в Браузере"
-  "Open in TrashSim": "Открыть в  TrashSim"
+  "Open in BattleSim": "Открыть в  BattleSim"
   "Open locals folder": ""
   "Optimised Silo Construction Method": ""
   "Orbital Den": ""
@@ -2700,7 +2700,7 @@ bot.settings.settings:
 #  "Losses": "" # global (count: 1) (defined)
 #  "Metal": "" # global (count: 9) (defined)
 #  "Moonchance": "" # global (count: 1) (defined)
-#  "Open in TrashSim": "" # global (count: 1) (defined)
+#  "Open in BattleSim": "" # global (count: 1) (defined)
 #  "Pathfinder": "" # global (count: 6) (defined)
 #  "Pathfinders": "" # global (count: 1) (defined)
 #  "Planet": "" # global (count: 8) (defined)
