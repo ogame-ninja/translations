@@ -254,6 +254,7 @@ global:
   "Defender configs": "Defender configs"
   "Defender will ignore attacks from players in this list": ""
   "Defender win": "Defender win"
+  "Defense points": ""
   "Defense pts": ""
   "Defenses": ""
   "Defenses info": ""
@@ -710,6 +711,7 @@ global:
   "Open .ogame folder": ""
   "Open in BattleSim": ""
   "Open in OGame browser": "Open in OGame browser"
+  "Open in battlesim": ""
   "Open locals folder": ""
   "Optimised Silo Construction Method": "Optimised Silo Construction Method"
   "Orbital Den": "Orbital Den"
@@ -943,6 +945,7 @@ global:
   "Shield power": "Shield power"
   "Shielding Technology": "Shielding Technology"
   "Ship Manufacturing Hall": "Ship Manufacturing Hall"
+  "Ship points": ""
   "Ships": ""
   "Ships per expedition": ""
   "Ships to": ""
@@ -990,6 +993,7 @@ global:
   "Spy": "Spy"
   "Spy all coordinates": ""
   "Spy deep space (position 16)": ""
+  "Spy report": ""
   "Start": "Start"
   "Start both http / https web servers": ""
   "Start http web server only": ""
@@ -1378,6 +1382,7 @@ antigame:
 #  "Crystal": "" # global (count: 9) (defined)
 #  "Date": "" # global (count: 1) (defined)
 #  "Deathstar": "" # global (count: 6) (defined)
+#  "Defense points": "" # global (count: 1) (defined)
 #  "Defenses": "" # global (count: 2) (defined)
 #  "Destroyer": "" # global (count: 6) (defined)
 #  "Deuterium": "" # global (count: 8) (defined)
@@ -1398,6 +1403,7 @@ antigame:
 #  "Loot": "" # global (count: 2) (defined)
 #  "Metal": "" # global (count: 9) (defined)
 #  "No espionage report to show": "" # global (count: 1) (defined)
+#  "Open in battlesim": "" # global (count: 1) (defined)
 #  "Pathfinder": "" # global (count: 6) (defined)
 #  "Plasma Turret": "" # global (count: 4) (defined)
 #  "Player": "" # global (count: 4) (defined)
@@ -1405,10 +1411,13 @@ antigame:
 #  "Recycler": "" # global (count: 6) (defined)
 #  "Resources": "" # global (count: 3) (defined)
 #  "Rocket Launcher": "" # global (count: 4) (defined)
+#  "Ship points": "" # global (count: 1) (defined)
 #  "Ships": "" # global (count: 5) (defined)
 #  "Small Cargo": "" # global (count: 6) (defined)
 #  "Small Shield Dome": "" # global (count: 4) (defined)
 #  "Solar Satellite": "" # global (count: 4) (defined)
+#  "Spy": "" # global (count: 7) (defined)
+#  "Spy report": "" # global (count: 1) (defined)
 #bot.empire:
 #  "Academy Of Sciences": "" # global (count: 1) (defined)
 #  "Acoustic Scanning": "" # global (count: 1) (defined)
@@ -1722,7 +1731,7 @@ antigame:
 #  "Ships to": "" # global (count: 1) (defined)
 #  "Small Cargo": "" # global (count: 6) (defined)
 #  "Spec": "" # global (count: 1) (defined)
-#  "Spy": "" # global (count: 6) (defined)
+#  "Spy": "" # global (count: 7) (defined)
 #  "Transport": "" # global (count: 5) (defined)
 #  "from": "" # global (count: 1) (defined)
 #  "keep": "" # global (count: 1) (defined)
@@ -1829,7 +1838,7 @@ antigame:
 #  "Phalanx all": "" # global (count: 1) (defined)
 #  "Player profile": "" # global (count: 2) (defined)
 #  "Ships": "" # global (count: 5) (defined)
-#  "Spy": "" # global (count: 6) (defined)
+#  "Spy": "" # global (count: 7) (defined)
 #  "Transport": "" # global (count: 5) (defined)
 #  "Union ID": "" # global (count: 2) (defined)
 #bot.planet:
@@ -1955,7 +1964,7 @@ antigame:
 #  "Origin": "" # global (count: 7) (defined)
 #  "Prev": "" # global (count: 9) (defined)
 #  "Sent fleets": "" # global (count: 1) (defined)
-#  "Spy": "" # global (count: 6) (defined)
+#  "Spy": "" # global (count: 7) (defined)
 #  "Transport": "" # global (count: 5) (defined)
 #bot.settings.auctioneer:
 #  "--- Select a planet/moon ---": "" # global (count: 1) (defined)
@@ -2153,7 +2162,7 @@ antigame:
 #  "Slots allowed": "" # global (count: 1) (defined)
 #  "Small Cargo": "" # global (count: 6) (defined)
 #  "Small Cargo to stay": "" # global (count: 1) (defined)
-#  "Spy": "" # global (count: 6) (defined)
+#  "Spy": "" # global (count: 7) (defined)
 #  "Statistics": "" # global (count: 1) (defined)
 #  "Strategy": "" # global (count: 1) (defined)
 #  "Systems range": "" # global (count: 1) (defined)
@@ -2284,7 +2293,7 @@ antigame:
 #  "Researches info": "" # global (count: 1) (defined)
 #  "Resume session": "" # global (count: 1) (defined)
 #  "Scan": "" # global (count: 1) (defined)
-#  "Spy": "" # global (count: 6) (defined)
+#  "Spy": "" # global (count: 7) (defined)
 #  "State": "" # global (count: 2) (defined)
 #  "Targets": "" # global (count: 1) (defined)
 #  "Total loot": "" # global (count: 2) (defined)
@@ -2493,7 +2502,7 @@ antigame:
 #  "Session aborted": "" # global (count: 1) (defined)
 #  "Ships": "" # global (count: 5) (defined)
 #  "Speed": "" # global (count: 2) (defined)
-#  "Spy": "" # global (count: 6) (defined)
+#  "Spy": "" # global (count: 7) (defined)
 #  "Started at": "" # global (count: 1) (defined)
 #  "Stop": "" # global (count: 5) (defined)
 #  "Target information": "" # global (count: 1) (defined)
