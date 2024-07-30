@@ -34,6 +34,7 @@ global:
   "Actions": "Actions"
   "Activate all": ""
   "Active": "Active"
+  "Active players": ""
   "Activities": "Activities"
   "Activity": ""
   "Add account to lobby ?": ""
@@ -84,6 +85,8 @@ global:
   "Attack from nearest planet": "Attack from nearest planet"
   "Attack from the closest moon to the target": ""
   "Attack from the closest moon/planet to the target": ""
+  "Attack players even if they have ships/defenses": ""
+  "Attack players with defenses": ""
   "Attack speed": "Attack speed"
   "Attack target with preferred cargo ships": ""
   "Attack target with spy probes": ""
@@ -147,6 +150,7 @@ global:
   "Buy now": "Buy now"
   "CE": ""
   "CalcDeltaMs": ""
+  "Calls to simulator will be proxied to the remote simulator server": ""
   "Cancel": ""
   "Cancel Fleet": "Cancel Fleet"
   "Cancel evacuation": "Cancel evacuation"
@@ -514,6 +518,7 @@ global:
   "In use": ""
   "InGame date": ""
   "Inactive": "Inactive"
+  "Inactive players": ""
   "Individual": ""
   "Instructions how to install and run": "Instructions how to install and run"
   "Intergalactic Envoys": "Intergalactic Envoys"
@@ -587,6 +592,7 @@ global:
   "Max farmer slots": ""
   "Max repatriate slots": ""
   "Max script slots": ""
+  "Max spyer slots": ""
   "Mechan General Enhancement": "Mechan General Enhancement" # (unused)
   "MechanGeneral Enhancement": ""
   "Mechas": ""
@@ -626,6 +632,7 @@ global:
   "Moon Destruction": ""
   "Moonchance": "Moonchance"
   "Moons": ""
+  "Moons only": ""
   "My bots": ""
   "My licenses": ""
   "My proxies": ""
@@ -697,6 +704,7 @@ global:
   "Number to send": ""
   "OGT (OGame Timezone)": ""
   "OGame Ninja": "OGame Ninja"
+  "OGame preferences": ""
   "OGame proxy": ""
   "OS": "OS"
   "OTP secret": ""
@@ -752,6 +760,8 @@ global:
   "Planet/Moon": "Planet/Moon"
   "Planetary Shield": "Planetary Shield"
   "Planets": ""
+  "Planets and moons": ""
+  "Planets only": ""
   "Plasma Drive": "Plasma Drive"
   "Plasma Technology": "Plasma Technology"
   "Plasma Terraformer": "Plasma Terraformer"
@@ -766,6 +776,7 @@ global:
   "Please contact admins": "Please contact admins"
   "Please contact ogame.ninja admins": "Please contact ogame.ninja admins"
   "Please update": "Please update"
+  "Plnaets/moons with activity only": ""
   "PluginsHash": ""
   "Plunder": "Plunder"
   "Points": "Points"
@@ -812,6 +823,7 @@ global:
   "Range": "Range"
   "Range to farm": ""
   "Rank": "Rank"
+  "Rank range": ""
   "Rapidfire against": "Rapidfire against"
   "Rapidfire from": "Rapidfire from"
   "Re-process existing messages": ""
@@ -832,6 +844,7 @@ global:
   "Region": "Region"
   "Register": "Register"
   "Reload locals": ""
+  "Remote simulator": ""
   "Remove ads": ""
   "Remove all": ""
   "Remove banner": ""
@@ -949,6 +962,7 @@ global:
   "Ships": ""
   "Ships per expedition": ""
   "Ships to": ""
+  "Ships/Defenses": ""
   "Shipyard": "Shipyard"
   "Show credentials": ""
   "Sign in": "Sign in"
@@ -994,6 +1008,8 @@ global:
   "Spy all coordinates": ""
   "Spy deep space (position 16)": ""
   "Spy report": ""
+  "Spyer": ""
+  "Spyer configs": ""
   "Start": "Start"
   "Start both http / https web servers": ""
   "Start http web server only": ""
@@ -1006,9 +1022,11 @@ global:
   "Stealth Field Generator": "Stealth Field Generator"
   "Stop": "Stop"
   "Stop all bots": ""
+  "Stop discovery when artefacts limit is reached": ""
   "Stop scan universe": "Stop scan universe"
   "Strategy": ""
   "Stripe subscriptions can be cancelled at any time in your account": ""
+  "Stronger players": ""
   "Structural integrity": "Structural integrity"
   "Subdomain": "Subdomain"
   "Submit": ""
@@ -1020,6 +1038,7 @@ global:
   "Subscribe": ""
   "Subscription": ""
   "Subscriptions": ""
+  "Suggest fleet": ""
   "Sulphide Process": "Sulphide Process"
   "Sum": "Sum"
   "Sunday": ""
@@ -1214,6 +1233,7 @@ global:
   "from": "from"
   "hours": "hours"
   "http/socks5 proxy (leave empty if you do not know what this is)": ""
+  "https://simulator.com": ""
   "i18n": ""
   "ignored alliances": "ignored alliances"
   "ignored planets": "ignored planets"
@@ -1221,6 +1241,7 @@ global:
   "instead.": ""
   "item": ""
   "keep": ""
+  "leave open": ""
   "manual trigger fleet save": ""
   "map-desc": "Overview of the whole universe. Find the planets of any player or alliance quickly."
   "max": "max"
@@ -1274,6 +1295,7 @@ global:
 #  "Bots": "" # (count: 5) (defined)
 #  "License": "" # (count: 3) (defined)
 #  "Login history": "" # (count: 1) (defined)
+#  "Remote simulator": "" # (count: 2) (defined)
 #  "Settings": "" # (count: 7) (defined)
 #  "Themes": "" # (count: 2) (defined)
 #  "Update": "" # (count: 3) (defined)
@@ -1300,6 +1322,13 @@ global:
 #  "Prev": "" # (count: 9) (defined)
 #  "User": "" # (count: 1) (defined)
 #  "User-agent": "" # (count: 2) (defined)
+#admin.remote-simulator:
+#  "Calls to simulator will be proxied to the remote simulator server": "" # (count: 1) (defined)
+#  "Password": "" # (count: 9) (defined)
+#  "Remote simulator": "" # (count: 2) (defined)
+#  "Save": "" # (count: 18) (defined)
+#  "Username": "" # (count: 11) (defined)
+#  "https://simulator.com": "" # (count: 1) (defined)
 #admin.settings:
 #  "General": "" # (count: 5) (defined)
 #  "Gives you access to your self-host server through": "" # (count: 1) (defined)
@@ -1308,17 +1337,17 @@ global:
 #  "Logs retention (days)": "" # (count: 1) (defined)
 #  "Need application restart": "" # (count: 1) (defined)
 #  "Open .ogame folder": "" # (count: 1) (defined)
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Port eg: 587": "" # (count: 1) (defined)
 #  "Reverse tunnel": "" # (count: 1) (defined)
 #  "SMTP settings (email)": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Settings": "" # (count: 7) (defined)
 #  "Start both http / https web servers": "" # (count: 1) (defined)
 #  "Start http web server only": "" # (count: 1) (defined)
 #  "Start https web server only": "" # (count: 1) (defined)
 #  "Telegram bot api token": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #admin.theme-new:
 #  "Create theme": "" # (count: 1) (defined)
 #  "Name": "" # (count: 3) (defined)
@@ -1339,17 +1368,17 @@ global:
 #  "Email": "" # (count: 11) (defined)
 #  "Is admin": "" # (count: 1) (defined)
 #  "No": "" # (count: 1) (defined)
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Retype password": "" # (count: 3) (defined)
 #  "Update user": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #  "Yes": "" # (count: 1) (defined)
 #admin.users:
 #  "Admin": "" # (count: 2) (defined)
 #  "Created at": "" # (count: 8) (defined)
 #  "Delete user": "" # (count: 1) (defined)
 #  "New user": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #  "Users": "" # (count: 2) (defined)
 #  "Verified": "" # (count: 1) (defined)
 antigame:
@@ -1416,7 +1445,7 @@ antigame:
 #  "Small Cargo": "" # (count: 6) (defined)
 #  "Small Shield Dome": "" # (count: 4) (defined)
 #  "Solar Satellite": "" # (count: 4) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "Spy report": "" # (count: 1) (defined)
 #bot.empire:
 #  "Academy Of Sciences": "" # (count: 1) (defined)
@@ -1731,7 +1760,7 @@ antigame:
 #  "Ships to": "" # (count: 1) (defined)
 #  "Small Cargo": "" # (count: 6) (defined)
 #  "Spec": "" # (count: 1) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "Transport": "" # (count: 5) (defined)
 #  "from": "" # (count: 1) (defined)
 #  "keep": "" # (count: 1) (defined)
@@ -1764,7 +1793,7 @@ antigame:
 #  "Deuterium": "" # (count: 8) (defined)
 #  "Espionage": "" # (count: 3) (defined)
 #  "Espionage report": "" # (count: 4) (defined)
-#  "Galaxy": "" # (count: 4) (defined)
+#  "Galaxy": "" # (count: 5) (defined)
 #  "History": "" # (count: 1) (defined)
 #  "Members": "" # (count: 2) (defined)
 #  "Metal": "" # (count: 9) (defined)
@@ -1813,7 +1842,7 @@ antigame:
 #  "Conqueror": "" # (count: 1) (defined)
 #  "Empire": "" # (count: 2) (defined)
 #  "Flights": "" # (count: 1) (defined)
-#  "Galaxy": "" # (count: 4) (defined)
+#  "Galaxy": "" # (count: 5) (defined)
 #  "Home": "" # (count: 8) (defined)
 #  "In use": "" # (count: 1) (defined)
 #  "Scripts": "" # (count: 1) (defined)
@@ -1826,7 +1855,7 @@ antigame:
 #  "Destination": "" # (count: 7) (defined)
 #  "Destroy": "" # (count: 4) (defined)
 #  "Expedition": "" # (count: 8) (defined)
-#  "Galaxy": "" # (count: 4) (defined)
+#  "Galaxy": "" # (count: 5) (defined)
 #  "Grouped Attack": "" # (count: 4) (defined)
 #  "Harvest": "" # (count: 4) (defined)
 #  "Missile Attack": "" # (count: 4) (defined)
@@ -1838,7 +1867,7 @@ antigame:
 #  "Phalanx all": "" # (count: 1) (defined)
 #  "Player profile": "" # (count: 2) (defined)
 #  "Ships": "" # (count: 5) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "Transport": "" # (count: 5) (defined)
 #  "Union ID": "" # (count: 2) (defined)
 #bot.planet:
@@ -1948,7 +1977,7 @@ antigame:
 #  "Run at start": "" # (count: 2) (defined)
 #  "Save script": "" # (count: 1) (defined)
 #  "Scripts examples": "" # (count: 1) (defined)
-#  "Stop": "" # (count: 5) (defined)
+#  "Stop": "" # (count: 6) (defined)
 #  "Upload scripts": "" # (count: 1) (defined)
 #  "Validate Script": "" # (count: 1) (defined)
 #bot.settings.activities:
@@ -1964,7 +1993,7 @@ antigame:
 #  "Origin": "" # (count: 7) (defined)
 #  "Prev": "" # (count: 9) (defined)
 #  "Sent fleets": "" # (count: 1) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "Transport": "" # (count: 5) (defined)
 #bot.settings.auctioneer:
 #  "--- Select a planet/moon ---": "" # (count: 1) (defined)
@@ -1976,7 +2005,7 @@ antigame:
 #  "Highest bid value": "" # (count: 1) (defined)
 #  "Homeworld": "" # (count: 5) (defined)
 #  "Metal": "" # (count: 9) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #bot.settings.brain:
 #  "AI": "" # (count: 1) (defined)
 #  "Batch update": "" # (count: 1) (defined)
@@ -2002,7 +2031,7 @@ antigame:
 #  "Prioritize nanite factory": "" # (count: 1) (defined)
 #  "Queue": "" # (count: 2) (defined)
 #  "Rocktal": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Set all moons": "" # (count: 1) (defined)
 #  "Set all planets": "" # (count: 1) (defined)
 #  "Try to buy 'offer of the day' every 4h": "" # (count: 1) (defined)
@@ -2011,17 +2040,17 @@ antigame:
 #bot.settings.colonizer:
 #  "Colonize using": "" # (count: 1) (defined)
 #  "Colonizer configs": "" # (count: 1) (defined)
-#  "Galaxy": "" # (count: 4) (defined)
+#  "Galaxy": "" # (count: 5) (defined)
 #  "Max colonizer slots": "" # (count: 2) (defined)
 #  "Minimum fields": "" # (count: 1) (defined)
 #  "Minimum temperature": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Systems": "" # (count: 1) (defined)
 #  "Unlimited": "" # (count: 1) (defined)
 #  "colonizer active": "" # (count: 1) (defined)
 #bot.settings.debug:
 #  "HTTP client timeout": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #bot.settings.defender:
 #  "--- Bot decision ---": "" # (count: 1) (defined)
 #  "2-steps (planets then moons)": "" # (count: 1) (defined)
@@ -2054,7 +2083,7 @@ antigame:
 #  "Repatriate interval": "" # (count: 1) (defined)
 #  "Repatriate random order": "" # (count: 1) (defined)
 #  "Repatriate resources": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Send message to attackers": "" # (count: 1) (defined)
 #  "Whitelist": "" # (count: 1) (defined)
 #  "activate for moon ?": "" # (count: 1) (defined)
@@ -2067,8 +2096,10 @@ antigame:
 #  "Discovery configs": "" # (count: 1) (defined)
 #  "Discovery using": "" # (count: 1) (defined)
 #  "Max discovery slots": "" # (count: 2) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
+#  "Stop discovery when artefacts limit is reached": "" # (count: 1) (defined)
 #  "discovery active": "" # (count: 1) (defined)
+#  "leave open": "" # (count: 2) (defined)
 #bot.settings.expeditionMessages:
 #  "Actions": "" # (count: 15) (defined)
 #  "All": "" # (count: 6) (defined)
@@ -2162,10 +2193,10 @@ antigame:
 #  "Slots allowed": "" # (count: 1) (defined)
 #  "Small Cargo": "" # (count: 6) (defined)
 #  "Small Cargo to stay": "" # (count: 1) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "Statistics": "" # (count: 1) (defined)
 #  "Strategy": "" # (count: 1) (defined)
-#  "Systems range": "" # (count: 1) (defined)
+#  "Systems range": "" # (count: 2) (defined)
 #  "Tick the checkbox to auto split the available ships OR enter a number to send a specific amount of ships": "" # (count: 1) (defined)
 #  "Time in seconds that early PF will arrive after the expedition": "" # (count: 1) (defined)
 #  "Transport": "" # (count: 5) (defined)
@@ -2188,6 +2219,8 @@ antigame:
 #  "Attack from nearest planet": "" # (count: 2) (defined)
 #  "Attack from the closest moon to the target": "" # (count: 1) (defined)
 #  "Attack from the closest moon/planet to the target": "" # (count: 1) (defined)
+#  "Attack players even if they have ships/defenses": "" # (count: 1) (defined)
+#  "Attack players with defenses": "" # (count: 2) (defined)
 #  "Attack speed": "" # (count: 2) (defined)
 #  "Attack targets with spy probes": "" # (count: 1) (defined)
 #  "Celestial from where to spy & attack": "" # (count: 1) (defined)
@@ -2209,7 +2242,7 @@ antigame:
 #  "Min. resources to attack": "" # (count: 2) (defined)
 #  "Minimum level of storage": "" # (count: 1) (defined)
 #  "Minimum possible loot to attack a target": "" # (count: 1) (defined)
-#  "Nb probes": "" # (count: 1) (defined)
+#  "Nb probes": "" # (count: 2) (defined)
 #  "New session": "" # (count: 1) (defined)
 #  "No session": "" # (count: 1) (defined)
 #  "Number of probes to send when spying": "" # (count: 1) (defined)
@@ -2219,7 +2252,7 @@ antigame:
 #  "Range": "" # (count: 2) (defined)
 #  "Range to farm": "" # (count: 1) (defined)
 #  "Redo": "" # (count: 2) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Select origin": "" # (count: 4) (defined)
 #  "Skip the target if player rank is over setting": "" # (count: 1) (defined)
 #  "Start new session": "" # (count: 1) (defined)
@@ -2253,6 +2286,7 @@ antigame:
 #  "Att": "" # (count: 1) (defined)
 #  "Attack": "" # (count: 6) (defined)
 #  "Attack from nearest planet": "" # (count: 2) (defined)
+#  "Attack players with defenses": "" # (count: 2) (defined)
 #  "Attack speed": "" # (count: 2) (defined)
 #  "Attack target with preferred cargo ships": "" # (count: 1) (defined)
 #  "Attack target with spy probes": "" # (count: 1) (defined)
@@ -2293,7 +2327,7 @@ antigame:
 #  "Researches info": "" # (count: 1) (defined)
 #  "Resume session": "" # (count: 1) (defined)
 #  "Scan": "" # (count: 1) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "State": "" # (count: 2) (defined)
 #  "Targets": "" # (count: 1) (defined)
 #  "Total loot": "" # (count: 2) (defined)
@@ -2345,7 +2379,7 @@ antigame:
 #  "Alliance": "" # (count: 5) (defined)
 #  "Color legend": "" # (count: 1) (defined)
 #  "Notify when inactive for": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Target": "" # (count: 2) (defined)
 #  "minutes": "" # (count: 3) (defined)
 #bot.settings.hunter:
@@ -2360,7 +2394,7 @@ antigame:
 #  "No targets": "" # (count: 1) (defined)
 #  "Player": "" # (count: 4) (defined)
 #  "Player rank": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Scan frequency": "" # (count: 2) (defined)
 #  "Scan using": "" # (count: 2) (defined)
 #  "Vacation": "" # (count: 3) (defined)
@@ -2384,8 +2418,9 @@ antigame:
 #  "Scanner": "" # (count: 1) (defined)
 #  "Settings": "" # (count: 7) (defined)
 #  "Sleep mode": "" # (count: 1) (defined)
+#  "Spyer": "" # (count: 1) (defined)
 #  "Start": "" # (count: 4) (defined)
-#  "Stop": "" # (count: 5) (defined)
+#  "Stop": "" # (count: 6) (defined)
 #bot.settings.logs:
 #  "All": "" # (count: 6) (defined)
 #  "Audit": "" # (count: 1) (defined)
@@ -2425,6 +2460,7 @@ antigame:
 #  "No messages to show": "" # (count: 2) (defined)
 #  "Prev": "" # (count: 9) (defined)
 #  "Resources": "" # (count: 3) (defined)
+#  "Ships/Defenses": "" # (count: 1) (defined)
 #bot.settings.notifications:
 #  "Bot exit sleep mode": "" # (count: 1) (defined)
 #  "Bot goes to sleep mode": "" # (count: 1) (defined)
@@ -2451,7 +2487,7 @@ antigame:
 #  "New missiles attack detected": "" # (count: 1) (defined)
 #  "Notifications": "" # (count: 4) (defined)
 #  "Recall of fleets": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Slack": "" # (count: 1) (defined)
 #  "Slack username for notifications": "" # (count: 1) (defined)
 #  "Sleep Mode": "" # (count: 2) (defined)
@@ -2502,16 +2538,16 @@ antigame:
 #  "Session aborted": "" # (count: 1) (defined)
 #  "Ships": "" # (count: 5) (defined)
 #  "Speed": "" # (count: 2) (defined)
-#  "Spy": "" # (count: 7) (defined)
+#  "Spy": "" # (count: 8) (defined)
 #  "Started at": "" # (count: 1) (defined)
-#  "Stop": "" # (count: 5) (defined)
+#  "Stop": "" # (count: 6) (defined)
 #  "Target information": "" # (count: 1) (defined)
 #  "Transport": "" # (count: 5) (defined)
 #  "Union ID": "" # (count: 2) (defined)
 #bot.settings.scanner:
 #  "--- Currently active planet/moon ---": "" # (count: 2) (defined)
 #  "Interval between system scan": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Scan frequency": "" # (count: 2) (defined)
 #  "Scan using": "" # (count: 2) (defined)
 #  "Scans the whole universe every set amount of hours.": "" # (count: 1) (defined)
@@ -2563,9 +2599,12 @@ antigame:
 #  "Max farmer slots": "" # (count: 1) (defined)
 #  "Max repatriate slots": "" # (count: 1) (defined)
 #  "Max script slots": "" # (count: 1) (defined)
+#  "Max spyer slots": "" # (count: 1) (defined)
 #  "Name": "" # (count: 3) (defined)
+#  "Nb probes": "" # (count: 2) (defined)
 #  "Notifications": "" # (count: 4) (defined)
 #  "OGT (OGame Timezone)": "" # (count: 1) (defined)
+#  "OGame preferences": "" # (count: 1) (defined)
 #  "OTP secret": "" # (count: 3) (defined)
 #  "Ogame password": "" # (count: 1) (defined)
 #  "Ogame universe": "" # (count: 1) (defined)
@@ -2579,7 +2618,7 @@ antigame:
 #  "Remove banner": "" # (count: 1) (defined)
 #  "Round up resources": "" # (count: 1) (defined)
 #  "Round up ships": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Save proxy": "" # (count: 1) (defined)
 #  "Share account": "" # (count: 1) (defined)
 #  "Share with": "" # (count: 1) (defined)
@@ -2627,9 +2666,10 @@ antigame:
 #  "UTC-11:00": "" # (count: 1) (defined)
 #  "UTC-12:00": "" # (count: 1) (defined)
 #  "User-Agent": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #  "Validate": "" # (count: 1) (defined)
 #  "Validate account": "" # (count: 1) (defined)
+#  "leave open": "" # (count: 2) (defined)
 #  "proxy login requests only": "" # (count: 2) (defined)
 #bot.settings.sleepMode:
 #  "--- Select a destination ---": "" # (count: 1) (defined)
@@ -2651,7 +2691,7 @@ antigame:
 #  "Random delay before waking up (minutes)": "" # (count: 1) (defined)
 #  "Recall saved fleet half way through the night": "" # (count: 1) (defined)
 #  "Saturday": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Sleep Mode": "" # (count: 2) (defined)
 #  "Spy deep space (position 16)": "" # (count: 1) (defined)
 #  "Sunday": "" # (count: 1) (defined)
@@ -2663,6 +2703,20 @@ antigame:
 #  "automatic fleet save (experimental)": "" # (count: 1) (defined)
 #  "manual trigger fleet save": "" # (count: 1) (defined)
 #  "must save changes first": "" # (count: 1) (defined)
+#bot.settings.spyer:
+#  "Active players": "" # (count: 1) (defined)
+#  "Galaxy": "" # (count: 5) (defined)
+#  "Inactive players": "" # (count: 1) (defined)
+#  "Moons only": "" # (count: 1) (defined)
+#  "Planets and moons": "" # (count: 1) (defined)
+#  "Planets only": "" # (count: 1) (defined)
+#  "Plnaets/moons with activity only": "" # (count: 1) (defined)
+#  "Rank range": "" # (count: 1) (defined)
+#  "Spy": "" # (count: 8) (defined)
+#  "Spyer configs": "" # (count: 1) (defined)
+#  "Stop": "" # (count: 6) (defined)
+#  "Stronger players": "" # (count: 1) (defined)
+#  "Systems range": "" # (count: 2) (defined)
 #bot.simulator:
 #  "ACS planner": "" # (count: 1) (defined)
 #  "API": "" # (count: 3) (defined)
@@ -2737,6 +2791,7 @@ antigame:
 #  "Small Cargo": "" # (count: 6) (defined)
 #  "Small Shield Dome": "" # (count: 4) (defined)
 #  "Solar Satellite": "" # (count: 4) (defined)
+#  "Suggest fleet": "" # (count: 1) (defined)
 #  "Tactical retreat": "" # (count: 1) (defined)
 #  "Weapon": "" # (count: 1) (defined)
 #bot-card:
@@ -2746,12 +2801,12 @@ antigame:
 #  "Proxy": "" # (count: 3) (defined)
 #  "Rank": "" # (count: 6) (defined)
 #  "Start": "" # (count: 4) (defined)
-#  "Stop": "" # (count: 5) (defined)
+#  "Stop": "" # (count: 6) (defined)
 #  "Universe": "" # (count: 4) (defined)
 #captchas-icon:
 #  "Captchas": "" # (count: 2) (defined)
 #  "Discover": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #captchas-icons:
 #  "Icons": "" # (count: 1) (defined)
 #  "Next": "" # (count: 9) (defined)
@@ -2771,7 +2826,7 @@ changelog:
 #  "Files saved": "" # (count: 1) (defined)
 #  "New project": "" # (count: 1) (defined)
 #  "Project name": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "failed to save script": "" # (count: 1) (defined)
 #database:
 #  "Actions": "" # (count: 15) (defined)
@@ -2866,15 +2921,15 @@ features:
 #  "Confirm password": "" # (count: 1) (defined)
 #  "Create admin account": "" # (count: 1) (defined)
 #  "Email": "" # (count: 11) (defined)
-#  "Password": "" # (count: 8) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Password": "" # (count: 9) (defined)
+#  "Username": "" # (count: 11) (defined)
 #flash:
 #  "I don't want to wait": "" # (count: 1) (defined)
 #forgot-password-reset:
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Reset password": "" # (count: 1) (defined)
 #  "Retype password": "" # (count: 3) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 forgot-password:
 #  "Email Address": "" # (count: 1) (defined)
 #  "Enter your email address to retrieve your password": "" # (count: 1) (defined)
@@ -2904,7 +2959,7 @@ forgot-password:
 #  "Rank": "" # (count: 6) (defined)
 #  "Reorder bots": "" # (count: 3) (defined)
 #  "Start": "" # (count: 4) (defined)
-#  "Stop": "" # (count: 5) (defined)
+#  "Stop": "" # (count: 6) (defined)
 #  "Universe": "" # (count: 4) (defined)
 #home:
 #  "Actions": "" # (count: 15) (defined)
@@ -2932,7 +2987,7 @@ forgot-password:
 #  "No proxy to display": "" # (count: 1) (defined)
 #  "No servers to display": "" # (count: 1) (defined)
 #  "Other actions": "" # (count: 2) (defined)
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Player name": "" # (count: 4) (defined)
 #  "Points": "" # (count: 4) (defined)
 #  "Rank": "" # (count: 6) (defined)
@@ -2943,7 +2998,7 @@ forgot-password:
 #  "Restart app": "" # (count: 1) (defined)
 #  "Universe": "" # (count: 4) (defined)
 #  "Upgrade & restart app": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #  "Version": "" # (count: 2) (defined)
 #  "You're invited to join our Slack server": "" # (count: 2) (defined)
 #import:
@@ -3032,17 +3087,17 @@ forgot-password:
 #  "Upload license file": "" # (count: 1) (defined)
 login:
 #  "I forgot my password": "" # (count: 2) (defined)
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Sign in": "" # (count: 2) (defined)
 #  "Sign in to continue": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
   "meta-description": "Login to your account." # (count: 13) (defined)
   "title": "Login Ninja" # (count: 13) (defined)
 #login2:
 #  "I forgot my password": "" # (count: 2) (defined)
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Sign in": "" # (count: 2) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #must-contact:
 #  "Please contact admins": "" # (count: 1) (defined)
 #  "Please contact ogame.ninja admins": "" # (count: 1) (defined)
@@ -3309,7 +3364,7 @@ renew-license:
 #  "No activity": "" # (count: 2) (defined)
 #  "Old password": "" # (count: 1) (defined)
 #  "Root admin cannot delete his account": "" # (count: 1) (defined)
-#  "Save": "" # (count: 17) (defined)
+#  "Save": "" # (count: 18) (defined)
 #  "Settings": "" # (count: 7) (defined)
 #  "Slack account": "" # (count: 1) (defined)
 #  "Theme": "" # (count: 2) (defined)
@@ -3351,10 +3406,10 @@ renew-license:
 signup:
 #  "Email": "" # (count: 11) (defined)
 #  "Note": "" # (count: 3) (defined)
-#  "Password": "" # (count: 8) (defined)
+#  "Password": "" # (count: 9) (defined)
 #  "Retype password": "" # (count: 3) (defined)
 #  "Sign up": "" # (count: 1) (defined)
-#  "Username": "" # (count: 10) (defined)
+#  "Username": "" # (count: 11) (defined)
 #  "You will receive an email to validate your account": "" # (count: 1) (defined)
   "meta-description": "Create your account for free." # (count: 13) (defined)
   "title": "Create your account" # (count: 13) (defined)
