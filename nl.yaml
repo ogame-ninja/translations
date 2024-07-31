@@ -759,6 +759,7 @@ global:
   "Planets": ""
   "Planets and moons": ""
   "Planets only": ""
+  "Planets/moons with activity only": ""
   "Plasma Drive": ""
   "Plasma Technology": "Plasmatechniek"
   "Plasma Terraformer": ""
@@ -773,7 +774,7 @@ global:
   "Please contact admins": "Neem contact op met beheerders"
   "Please contact ogame.ninja admins": "Neem contact op met ogame.ninja-beheerders"
   "Please update": "Update alstublieft"
-  "Plnaets/moons with activity only": ""
+  "Plnaets/moons with activity only": "" # (unused)
   "PluginsHash": ""
   "Plunder": "Plunder"
   "Points": "Punten"
@@ -2707,7 +2708,7 @@ bot.settings.scanner:
 #  "Moons only": "" # (count: 1) (defined)
 #  "Planets and moons": "" # (count: 1) (defined)
 #  "Planets only": "" # (count: 1) (defined)
-#  "Plnaets/moons with activity only": "" # (count: 1) (defined)
+#  "Planets/moons with activity only": "" # (count: 1) (defined)
 #  "Rank range": "" # (count: 1) (defined)
 #  "Spy": "" # (count: 8) (defined)
 #  "Spyer configs": "" # (count: 1) (defined)

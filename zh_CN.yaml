@@ -758,6 +758,7 @@ global:
   "Planets": ""
   "Planets and moons": ""
   "Planets only": ""
+  "Planets/moons with activity only": ""
   "Plasma Drive": ""
   "Plasma Technology": "电浆技术"
   "Plasma Terraformer": ""
@@ -772,7 +773,7 @@ global:
   "Please contact admins": "请联击管理员"
   "Please contact ogame.ninja admins": "请联击ogame.ninja忍者的管理员"
   "Please update": "请更新"
-  "Plnaets/moons with activity only": ""
+  "Plnaets/moons with activity only": "" # (unused)
   "PluginsHash": ""
   "Plunder": "掠夺"
   "Points": "分数"
@@ -2705,7 +2706,7 @@ bot.settings.sleepMode:
 #  "Moons only": "" # (count: 1) (defined)
 #  "Planets and moons": "" # (count: 1) (defined)
 #  "Planets only": "" # (count: 1) (defined)
-#  "Plnaets/moons with activity only": "" # (count: 1) (defined)
+#  "Planets/moons with activity only": "" # (count: 1) (defined)
 #  "Rank range": "" # (count: 1) (defined)
 #  "Spy": "" # (count: 8) (defined)
 #  "Spyer configs": "" # (count: 1) (defined)
